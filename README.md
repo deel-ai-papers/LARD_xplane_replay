@@ -101,7 +101,7 @@ Minimal structure:
 image:
   width: 1024
   height: 1024
-  fov_x: 60.0
+  fov_x: 60.0       # LARD V2 uses a fov of 60 with 1024x1024 images. LARD V1 used a fov of 30 with 2448x2048 images.
   fov_y: 60.0
 
 poses:
