@@ -1,0 +1,1078 @@
+airports_runways:
+  UUDD:
+  - 14R
+  - 32L
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: c34d67a3-2384-4a96-9ba0-239446761e8e
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.95643035573189
+  - 55.351917199846774
+  - 392.2914682136437
+  - -35.601262456415284
+  - 83.34136047619575
+  - -2.837833313427614
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: cbdac551-8dc1-4bc0-8dad-c1e9e0714690
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.95153384732144
+  - 55.351223380176606
+  - 452.82092144030725
+  - -34.67046209331764
+  - 85.57342582060788
+  - -4.471534512676197
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 68a5e991-c691-460e-b980-23a5022f9de4
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.95841672600972
+  - 55.35491542359785
+  - 447.0322121932249
+  - -31.709267980352024
+  - 85.57348260757198
+  - 7.374803013398713
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 8d3a24c7-3771-488b-a9b1-cbb18746514f
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.95364174170113
+  - 55.353256525527044
+  - 410.85179726341323
+  - -35.33817745543184
+  - 84.55131812584585
+  - 9.77819760168792
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ed2ffefd-a5fe-452a-94c1-fe89a703a637
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.95332183844645
+  - 55.359180499777494
+  - 415.5122517701286
+  - -25.518719848126207
+  - 84.0003201132467
+  - -4.035539067371982
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c86aebbe-1d6c-4ed1-ac5b-8a1304c100aa
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.95061701121114
+  - 55.35801502688611
+  - 453.93041819118963
+  - -31.101217301075884
+  - 87.59436410394348
+  - 0.7492827099022971
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 33e1cb42-bfec-41d5-971b-fccf906d22ba
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.947208266504745
+  - 55.3607226882137
+  - 372.80734687026626
+  - -27.7922957844493
+  - 89.01440092310824
+  - 3.853488693148229
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 5049ec90-c6eb-4e95-b267-fe9521e0c8e1
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.94188823910292
+  - 55.359727570485894
+  - 410.13642022590955
+  - -33.49119746837101
+  - 84.72569668119803
+  - -1.2281151815765559
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 98add5ea-6872-4ac7-b368-ddeed9c78a9a
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.94677539296801
+  - 55.362244808753
+  - 401.12341169447905
+  - -35.100099444391844
+  - 89.70265792949897
+  - -4.361194724135741
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 55d0e30b-6fcb-4164-9298-6de52f023d24
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.938427530617204
+  - 55.359920118278986
+  - 392.9655404230315
+  - -34.505802337288394
+  - 84.03523539078428
+  - 2.250848253848795
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: bf87f19c-9d7c-49be-afaf-4b2e6b44a7c8
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.940296406399945
+  - 55.36367287593348
+  - 408.3721292170843
+  - -32.31417969258027
+  - 86.76554826415132
+  - 2.827005778199597
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 39056626-2011-44bb-8102-a5403e40091f
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.940786874679425
+  - 55.36413223783921
+  - 379.5981330320425
+  - -30.05966298729252
+  - 87.02152489820352
+  - 3.8517461035528773
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 9d8d67c8-5ad1-4303-9279-cd54d3eacc85
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.940504609029134
+  - 55.36720871350077
+  - 388.41009624425806
+  - -46.34862130091794
+  - 85.5081294879315
+  - -5.179491106296169
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b9b214f7-cf4a-4e21-bd2b-b0906d9c4665
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.93341241161502
+  - 55.367393088760686
+  - 407.9633533945946
+  - -39.72169922433553
+  - 84.06651429206828
+  - -8.273621167076499
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6bab40b5-fa7c-48cf-b1dd-a341833baacb
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.93228833960432
+  - 55.3721009268899
+  - 358.2808872215222
+  - -32.83035322452135
+  - 85.82079803797177
+  - -4.833120295566811
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 5e28e509-1ed5-469e-9c1b-12bd70ddda51
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.93011608660666
+  - 55.37188614147574
+  - 329.54718098400883
+  - -33.07003037052032
+  - 85.90054342108097
+  - 14.589132416612474
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5b542f6d-65ac-4273-a824-76ca3ee838c5
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.92657975063243
+  - 55.375247578375614
+  - 328.4767403800713
+  - -34.334823245475945
+  - 84.3082664129469
+  - 1.1681849335441403
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 21a6a541-da4a-4a96-98b2-b30a22751e18
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.92725369051538
+  - 55.37582444369187
+  - 332.95480266723916
+  - -37.394583156231604
+  - 86.64558017932069
+  - -15.350206701481797
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5e26e247-7ff7-455b-9b23-a42ad89c1cc5
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.92601108848094
+  - 55.37635245334284
+  - 310.4647583641133
+  - -36.4295591024265
+  - 84.83315511782584
+  - 0.6120114653977424
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f0d67988-dc56-453e-83e1-d70b7684c1c7
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.924512552787434
+  - 55.376041605318115
+  - 319.45884398891866
+  - -39.068474650080795
+  - 84.03298434906263
+  - -0.717191034106698
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 7c737de6-85e1-453e-bb28-3ed91aa5570f
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.92286645265955
+  - 55.37855024800937
+  - 316.64061342138825
+  - -34.856555208901696
+  - 85.90114404223593
+  - 1.5286266886092659
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 137a57b7-5372-4fb1-a8c4-271f06e65db5
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.918614579899824
+  - 55.382343532226095
+  - 290.9468841102216
+  - -38.234310600589296
+  - 87.17663600009827
+  - -7.279466498062356
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: f52f97c9-c10a-49bb-90c1-50264c627522
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.91866948066722
+  - 55.38394839745331
+  - 274.06275110958694
+  - -34.139394798353244
+  - 85.28675005335525
+  - -0.2555819300360879
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 9da61fc8-9faf-436b-8226-30915cf3507d
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.91557643192968
+  - 55.38541067951315
+  - 250.80643807772375
+  - -35.056771994204574
+  - 90.43701401123856
+  - 2.545774838129268
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: c04c5162-c759-4ee9-a43e-58b36f17abe6
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.91401807868477
+  - 55.38664553030045
+  - 230.76097796816532
+  - -35.97784862832537
+  - 82.61753237058977
+  - -2.342276109293428
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ff8ad691-b829-4797-8f17-f1a4427989ab
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.90913034362716
+  - 55.39050992362117
+  - 218.72973363180094
+  - -37.95473634004587
+  - 83.18545956798528
+  - -1.2346801346990537
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c81b2143-ae07-4b9c-b43c-71fef440d0b3
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.90862071300225
+  - 55.3905184194395
+  - 208.62590089796154
+  - -38.718819379169645
+  - 86.35156641107469
+  - -2.2699673072188413
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 9c906915-e874-41ab-acdf-b98e03ba6e31
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.90810535463454
+  - 55.39111980838599
+  - 200.93670549337844
+  - -31.520579249157354
+  - 83.04022962898776
+  - -5.9878712758341015
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 0645ca7d-ae5d-44eb-9bb8-b7981f58dabd
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.907733382073786
+  - 55.39143628578107
+  - 206.89484292014623
+  - -35.670692051741476
+  - 86.36244137076358
+  - 3.9174068718684225
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 8a0bb163-34e8-4fcf-89a3-6f63e59bc515
+  airport: UUDD
+  runway: 14R
+  pose:
+  - 37.90723827314686
+  - 55.39210135774124
+  - 198.01975489423816
+  - -32.201815578475845
+  - 87.74171640495331
+  - 6.180258774550371
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 834cf41c-7457-4720-a5de-73a61405d4b4
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.81881570701734
+  - 55.465529531960854
+  - 491.6965518911293
+  - 148.4500243653795
+  - 88.21314986344099
+  - 5.6074003971657485
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 115864d3-8e65-4a09-bec5-4a9aede2fc2c
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.82172340805868
+  - 55.46594819949634
+  - 497.29941860961264
+  - 142.93108425205185
+  - 83.00459115430127
+  - 3.026897953802499
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: af6f3513-1831-4242-ba86-af53f2b5ad47
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.81838951717499
+  - 55.464347894891475
+  - 511.21007461087186
+  - 145.55994394832874
+  - 87.00236445711855
+  - -5.517592228642428
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a783f309-e159-42bf-9739-436fbc07dc75
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.82250091556407
+  - 55.463859197597934
+  - 496.2600130010329
+  - 140.71992042686682
+  - 88.60216078795811
+  - -5.729873115609669
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 74e0aaa3-5c92-416e-929e-e9c62c212eb3
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.821422259511266
+  - 55.46313776004898
+  - 600.4532818262392
+  - 149.01123393343184
+  - 86.6230627439876
+  - 7.505804573270457
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 9e92bef2-e42d-420b-97c0-e9e3deff6c91
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.823413985331776
+  - 55.461444930412895
+  - 469.4153828393895
+  - 146.59540083826488
+  - 86.20736640529887
+  - 5.392437705364939
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5fbbf045-0cc1-49d7-b518-9d76b1d50654
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.82469320180499
+  - 55.46149124429268
+  - 486.84690321546816
+  - 145.14913654437078
+  - 83.95551428129254
+  - -1.9895644406940178
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 7e55f68d-a89d-4cbf-b9be-ca883ee22631
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.827076447274685
+  - 55.4555658624393
+  - 450.27381460346834
+  - 154.07871698827572
+  - 85.31221571425836
+  - -5.634479205495316
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a1ca162a-974b-44c4-9da7-9c825a26b594
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.82920950342952
+  - 55.455889112232825
+  - 389.12685273546174
+  - 145.14145577592325
+  - 83.27656882034725
+  - -2.0045585499552816
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a9e9ab19-66c4-4a61-9d35-bf4ad0eed58b
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.834081580076266
+  - 55.45564694818748
+  - 448.21556123574044
+  - 143.82838569910703
+  - 84.0046524917699
+  - -11.164930851612775
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 1be9f6b4-4bcb-4783-99b1-a3024ed99791
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.83577883864298
+  - 55.452661366413395
+  - 423.53440488218075
+  - 144.28667844911692
+  - 89.27944097740391
+  - 1.7958850336329553
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: d6919a58-7aa6-46b3-88a3-0cccc02ea739
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.837272951138246
+  - 55.449173308685666
+  - 422.7169248096445
+  - 144.98304589594434
+  - 85.62722954648818
+  - 4.070980166623814
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 50ce2e17-a8f9-4d43-878f-f9521aaf5694
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.838707595929066
+  - 55.44942923537694
+  - 384.4909058008087
+  - 146.53151036792346
+  - 86.54680792267081
+  - 6.786073590710289
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 0e07123c-b747-471b-9efd-3abbc64eba8f
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.83957214756066
+  - 55.448659067609746
+  - 381.2966411739178
+  - 148.20206562271366
+  - 85.39185083562663
+  - -0.9819346454116863
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: fdc07fde-23e0-4af9-80e7-cb0390e40892
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.84214013917979
+  - 55.446364351724625
+  - 336.8994410377676
+  - 148.45985841767524
+  - 86.07610232950553
+  - -3.5252258508584005
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 971f12b3-6353-4508-add2-74035c9189f2
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.84598822068412
+  - 55.44289013198874
+  - 374.4844171640943
+  - 145.58974619173512
+  - 84.21477285000833
+  - 2.8556756963811276
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 262fba17-261d-43e8-b3b9-11086513d774
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.84708456093586
+  - 55.44319841934191
+  - 329.5527577491084
+  - 145.4944938909954
+  - 86.53884748989758
+  - 3.5367791198143204
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 35c11991-3616-48df-a2f4-87f41c470803
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.84553170739471
+  - 55.44176495568695
+  - 323.1626179822287
+  - 149.74562453887944
+  - 85.80893340812979
+  - 0.42053190690655445
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a578724a-3720-42bb-99c7-700ab88b9fc4
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.846753670537126
+  - 55.44201229417979
+  - 356.4694142175409
+  - 141.4563465925263
+  - 87.27423242802244
+  - 3.796486928075012
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6309d4f3-b92c-47fe-8151-1634c41e169c
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.84955468191153
+  - 55.43974746408581
+  - 322.2241178408268
+  - 141.80919001670964
+  - 86.35525770519729
+  - 1.8648266334157628
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 75ef2e12-aff9-476d-b42d-30a1118384ee
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.85108422364911
+  - 55.436769873311604
+  - 282.0469634040828
+  - 144.35386464357416
+  - 85.11068967947422
+  - 2.966543012006037
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 67565c68-d098-4634-91c8-908c98b02a52
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.8533107394632
+  - 55.437398433863656
+  - 305.5716721503931
+  - 153.4212756879157
+  - 86.87964654357366
+  - 0.6372503183286962
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 58fdadb4-5cb8-42e0-b706-ae8fd6b5cb8c
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.854743499724215
+  - 55.435650174394794
+  - 294.4910582729648
+  - 151.18488569200068
+  - 85.81840636766565
+  - -1.3107312679084184
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4d94203a-b478-465e-87ad-83900929be4e
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.85559697603646
+  - 55.434458329286116
+  - 291.16166330927075
+  - 141.89050410124509
+  - 87.70609297329702
+  - 4.838590501785386
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 99a3c776-ae61-4add-9dce-326d3a996cee
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.858662480388844
+  - 55.43204195807464
+  - 291.1284087968339
+  - 145.655510987748
+  - 81.82588566538462
+  - 10.69633320500941
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 2cd73137-b91e-4401-b295-884a9aa161cb
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.86250569482545
+  - 55.42982044127124
+  - 251.8795926876358
+  - 145.23015679831423
+  - 83.93215508127109
+  - 8.22060576375734
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 3aa8914a-85de-4e59-85a5-df0e0c741db3
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.86407145158846
+  - 55.428261446435165
+  - 253.7748154282309
+  - 150.87381319233745
+  - 83.2585444195652
+  - -4.352251382910269
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 3ab381f4-76a7-4804-b86f-831334db567b
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.865733426424455
+  - 55.42626544729558
+  - 216.07527715149382
+  - 148.4892850093329
+  - 80.17534839863808
+  - -6.202227091586197
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ff634ffc-409c-4dcb-a256-00ceedcf840d
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.867587027773766
+  - 55.42508629482332
+  - 224.42756812400688
+  - 151.34273764572745
+  - 87.02428856713921
+  - 3.8813636788481123
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c155822a-c121-4ddf-b42b-53fd8e2e05b7
+  airport: UUDD
+  runway: 32L
+  pose:
+  - 37.86945104958449
+  - 55.42324899074173
+  - 213.00193264041474
+  - 145.86241780529176
+  - 85.79844517239522
+  - -0.29314836212375867
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

@@ -1,0 +1,1078 @@
+airports_runways:
+  LFMN:
+  - 4R
+  - 22L
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 76fe362b-7405-4c1f-9098-b95c1ae823ee
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.279129015396761
+  - 43.70274646360423
+  - 298.9178484757195
+  - -128.1702903982133
+  - 87.03237310558215
+  - -6.384953576307311
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b33a8134-2440-4b5a-8a93-12414ce5fd67
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.277850710878739
+  - 43.700003201244975
+  - 237.40784308331214
+  - -135.99295708567243
+  - 84.01196786263769
+  - 4.8155034440934195
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9aa1f18b-374c-46c2-b86b-5fd092155c1c
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.273663730895102
+  - 43.69824027957024
+  - 319.75183019738995
+  - -134.21463022609566
+  - 90.17341954976828
+  - -6.167702155756137
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 180897fd-b271-4033-902f-5f0f52b62bf4
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.271054162854016
+  - 43.69957036462908
+  - 253.21649414109132
+  - -131.86729743129695
+  - 88.06174308188336
+  - 0.3021244708018108
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 3833240a-7c59-4b48-a57e-8dc55d7f77a2
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.274239764858365
+  - 43.6961791674242
+  - 281.1962296385347
+  - -141.553969545181
+  - 87.8109410639858
+  - 4.258647991748447
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6a7ecec6-0ae1-424c-a603-506ece608b57
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.2717542283937595
+  - 43.69579174433738
+  - 344.3152701004085
+  - -139.50914928888878
+  - 85.55711503411875
+  - -1.172813387205199
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: f4a72368-dbbe-4661-bb78-ec2402aa2ed1
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.27008894622394
+  - 43.6954932249873
+  - 202.1013278394575
+  - -134.63072773406304
+  - 86.42668827393246
+  - 2.6910816716024257
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 319de863-22cb-4f65-b237-f3c8015360b0
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.268519745782997
+  - 43.69626178875344
+  - 278.247033288864
+  - -134.71564280614422
+  - 87.98001326719499
+  - 2.4711655098701026
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ac7a3c0e-58dd-4186-aac0-588c4a37cce5
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.270585844839651
+  - 43.69434613035145
+  - 180.52117922594132
+  - -138.43725286220615
+  - 87.05009366729655
+  - 5.539921022498571
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 02c3aa23-30c1-4214-9309-f9598e18d1ff
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.267372017205163
+  - 43.69559670250979
+  - 261.56600149495114
+  - -132.91125814994163
+  - 83.05640055518947
+  - 3.7857109289823967
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: f11dab49-b9c0-4e1a-9dc4-537a7cc9bf5e
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.267078721519262
+  - 43.69259911751306
+  - 292.9078047134676
+  - -138.07419434995307
+  - 87.64165638325919
+  - 3.738199450699755
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c95cdee0-9132-438c-a3ce-b19c0aaa889e
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.2658239838667305
+  - 43.69348011221317
+  - 216.2934797254359
+  - -135.33511572137618
+  - 85.29207914856188
+  - -8.345081934421104
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 3c88c8db-e067-4de8-8199-af0a4392869b
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.263000761914002
+  - 43.692708347741565
+  - 189.680282949625
+  - -143.42074739257913
+  - 87.26465126051357
+  - 5.77445782683887
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: cc15db57-c705-431b-a904-026e0d2081d8
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.263060905914638
+  - 43.69047717289146
+  - 254.92831362576544
+  - -133.20557370995198
+  - 88.46540722784849
+  - -6.290607837678523
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e8b04246-aa41-49d3-ba86-6d2571cdc580
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.260778578014237
+  - 43.68636458911227
+  - 198.37315051928758
+  - -132.3574244805325
+  - 87.42287294110565
+  - -9.953773180005776
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b04905cf-9760-4b42-b48e-01ca85f68f15
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.253523039129709
+  - 43.68574829952093
+  - 166.51380164982106
+  - -134.85607923055662
+  - 83.7343019297326
+  - -3.0504858661416865
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 8819b7f6-29d7-45aa-842a-7e073c7c3cdc
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.253565970069575
+  - 43.68285242924048
+  - 157.65093960654812
+  - -136.34475819640724
+  - 85.39352989927923
+  - -2.2020461170559513
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 88c4b22d-319a-496a-a5f5-58ba4e1fa812
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.252036493688316
+  - 43.68282944984627
+  - 149.22671907283453
+  - -130.7467298702658
+  - 85.783086454615
+  - -3.961276656165802
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 0ca136c4-fd6f-41fe-b5ad-8e6ec7e2e8ca
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.2509265054618
+  - 43.6833830303506
+  - 170.73969595396383
+  - -135.4051132788098
+  - 85.4371997807579
+  - 4.730727320940593
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: abc06c69-74e4-429c-9f3e-c35d49df5b9c
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.2527378915589145
+  - 43.68161763072922
+  - 149.526158343517
+  - -128.4364168955256
+  - 87.80963326714726
+  - 0.6575936508333513
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b58e008b-548f-484e-95f6-d5edb2bccc97
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.249929515292408
+  - 43.68115015671319
+  - 138.17481883028574
+  - -141.26315191177946
+  - 86.02189327791518
+  - 0.8425141990276592
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 2f9f38a6-7944-494d-b8d7-a83bc1256ee4
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.249558278297532
+  - 43.67976396333519
+  - 153.3302324698542
+  - -126.42818546052462
+  - 85.37539131870803
+  - -3.376561946078888
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 4ac0e608-53ce-4a3a-8074-dbb8a0bb23e6
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.248602115084006
+  - 43.68005865293176
+  - 114.37777588995846
+  - -135.07037792786036
+  - 86.78798827823273
+  - -2.6597977954143284
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 46d34788-6030-4e5e-a688-432b4f69bb8c
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.242639143170863
+  - 43.67582209499226
+  - 116.81008657709565
+  - -132.91256864255868
+  - 91.35434435138619
+  - -4.032008519306466
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 5c58f5f4-fe92-48f2-b8ec-58861537d803
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.234924364666927
+  - 43.67008340083593
+  - 56.99019486544526
+  - -132.55305969167415
+  - 85.41374591546473
+  - 6.796719264315666
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 2ccaa1e2-c870-4d39-9e86-2e7d3ff65610
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.234316162080877
+  - 43.6697101001555
+  - 55.30890638081421
+  - -133.79059517844618
+  - 89.43623056310669
+  - -2.9964000583047534
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 43163c6f-0d3e-45e4-aca5-cdf179074707
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.234278604808428
+  - 43.66955765603182
+  - 39.844875634672995
+  - -136.74500293945093
+  - 84.54891701870052
+  - 2.238829513419242
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a91919e3-62c0-4492-be4a-9d21d17f1eff
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.232930039929851
+  - 43.66876936481139
+  - 49.240927655011525
+  - -130.36345950632415
+  - 88.09888624845811
+  - -8.070403965789945
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a70352e9-35f2-49e0-8ec3-da08c2a68431
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.232453456959419
+  - 43.66841938425828
+  - 52.32486500866105
+  - -135.46819660010624
+  - 89.80118642808982
+  - -0.1916024302955557
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 68ec88a2-ef61-4056-a574-0ffed5a82fa2
+  airport: LFMN
+  runway: 4R
+  pose:
+  - 7.232214518781323
+  - 43.66840094541792
+  - 38.75646921031777
+  - -127.0559252116919
+  - 84.9823949686789
+  - -4.820875169855611
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 8f5004c1-cf29-43d1-bee6-482b72d20fce
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.1529643588740095
+  - 43.6072672256902
+  - 332.0482590041777
+  - 44.372378184815595
+  - 84.95981724077588
+  - -1.0789143151670837
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 1c2488bc-18a6-4986-abd9-e10dc3d6db56
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.156553600945747
+  - 43.60964927660723
+  - 294.539570387346
+  - 38.68556609617565
+  - 85.02502419181977
+  - 4.54271685910799
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 11198e3a-d0c1-4838-bd06-c9207ef52cad
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.15506418606952
+  - 43.611416895452216
+  - 352.4924604427442
+  - 52.11397044257562
+  - 86.09970640843314
+  - 2.578021598133156
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 8b27448d-207b-42fc-911f-5494f63750dc
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.1567864265999805
+  - 43.61416176181586
+  - 250.45773211238654
+  - 55.67836467639307
+  - 86.92248875814877
+  - 6.262001985499827
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 95cc7885-e104-4aae-8373-d2bc866b27ab
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.159529026017127
+  - 43.612468472074866
+  - 309.99706270437855
+  - 38.948461549249025
+  - 87.23234753223083
+  - 8.564971016443202
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 1d965718-134f-41c4-8b7a-74ebce1621ff
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.1599344970672485
+  - 43.61414263792983
+  - 210.0556028252792
+  - 47.02785327135022
+  - 85.42729455420977
+  - -1.4771078532665392
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 1d71601a-6c57-4bdc-8282-03b23667dd8d
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.161588432553642
+  - 43.6145447114309
+  - 237.26283501421509
+  - 42.09475395534505
+  - 86.0724920233305
+  - 1.414766554939556
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 5dfc2509-40f5-4ed2-8fa2-54597e620d7e
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.162221408227018
+  - 43.61569092756961
+  - 241.6145952180303
+  - 46.730009712496326
+  - 87.85292257103245
+  - -3.8641100340330805
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 66908424-13e7-43bc-b4d9-7ea125017524
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.161054670005375
+  - 43.61660496522151
+  - 223.51804413770014
+  - 42.30140790025795
+  - 85.88615281065826
+  - 12.112881635142694
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2ca85b7a-2504-4aef-a100-d8dadf226482
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.161464773224048
+  - 43.619296842373295
+  - 257.85858312812593
+  - 40.57725606656935
+  - 86.70505493287163
+  - 3.3022985861259393
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 5992a036-cbbf-4014-8c1d-3f247d048981
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.163290966298534
+  - 43.62126229039304
+  - 201.64117241738023
+  - 39.082717774085474
+  - 87.12850194266615
+  - -2.1777572761407233
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 1c548ef0-3791-4a89-a843-371e217e9581
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.170465812283492
+  - 43.62382942423829
+  - 179.9130100200161
+  - 47.82125731962322
+  - 84.69404163722142
+  - 0.5128583074546759
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 29a3d72f-f6ed-43dd-a085-4dca70d18dd7
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.171082536047138
+  - 43.62475875289261
+  - 222.8627617415931
+  - 52.41069337789771
+  - 87.94120149787305
+  - -3.5053103205342593
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 4afbf6b6-76cb-452e-939b-8452c85964e9
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.173046285516826
+  - 43.62382316945795
+  - 216.96284877605063
+  - 58.27538319041416
+  - 85.87039256512962
+  - 2.398298630980118
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4983883f-f3ab-44a7-b280-71c38a35254b
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.1745333096381625
+  - 43.62587768520102
+  - 164.78559125975534
+  - 52.74568300912952
+  - 86.92079718107932
+  - 1.2455767501579615
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 2a48b2b5-252f-474e-92aa-6986fa679247
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.176137620196632
+  - 43.62855846916556
+  - 164.89088771630423
+  - 40.67548792680108
+  - 86.4531928726441
+  - 8.141149658017797
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: cde580ff-e5fd-449a-8d59-e4eedd1ac7c0
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.177598606571794
+  - 43.62868682805677
+  - 154.2589378290519
+  - 41.17399204086944
+  - 85.74812310939426
+  - 4.555020575947154
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: bed5ecb9-6de2-44f7-a619-20c1cc20c831
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.181641593504987
+  - 43.62806509343332
+  - 141.6275323764813
+  - 37.743710190225485
+  - 89.98074872446509
+  - 2.9288935756108225
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: cb86a02c-c3a8-47a7-b631-7793cdd2bd13
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.178986486274862
+  - 43.63095626089337
+  - 192.27391608906888
+  - 45.59112188377548
+  - 86.51679261920603
+  - -2.6825466786406875
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: d1d88147-93f5-4570-858a-f9b655b6a522
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.180074824182729
+  - 43.630730806594364
+  - 147.12413369671867
+  - 43.762558926575686
+  - 84.206716632418
+  - 0.6166770169178637
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6e53ccf6-5bcd-4306-a8fb-61a01d0c9725
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.180621797727556
+  - 43.63087406479279
+  - 146.40648115420493
+  - 42.19397162800689
+  - 81.5349015916376
+  - -0.6316113748435523
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 4464971e-63a5-4fec-9b57-76fb88835798
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.183239274505112
+  - 43.631713887898826
+  - 111.38558604063384
+  - 42.6916716568832
+  - 85.36009415815974
+  - 4.4541956996379355
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3664859a-4dce-4add-988c-f56fa8538a85
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.185544845598859
+  - 43.63369452865275
+  - 118.01559224910223
+  - 48.49494527051722
+  - 85.439475955638
+  - 5.236981815038605
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ab0c1bae-5452-4894-b34d-e0a3d7fc8cb5
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.186078943980886
+  - 43.63404620103208
+  - 137.12759162055434
+  - 36.332080367931184
+  - 85.90349166884536
+  - 7.484684331461914
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5e407f22-ef94-40c6-b0d9-e804312bb840
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.185561477782753
+  - 43.634430088169395
+  - 131.36368355475022
+  - 41.43854104169162
+  - 86.89368687048629
+  - 7.245893211489967
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e7b9bef0-617c-4e4f-bdd8-3cd88f06bb68
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.194095718205758
+  - 43.640207200095155
+  - 67.2259231710834
+  - 49.574485552076176
+  - 83.64990387086091
+  - -1.4300276128456033
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 39d0d60c-89e0-40ae-ab6d-79954ecc1e48
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.197159151827803
+  - 43.64285337523529
+  - 51.28958574801842
+  - 48.3935590336662
+  - 86.00367260517156
+  - 3.947935569895724
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5a4224af-1e53-4dcb-bb92-71adc0f4f657
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.197780654741733
+  - 43.64301799494541
+  - 44.186615252944826
+  - 45.39563771954052
+  - 85.9882364619053
+  - 2.3955106807582167
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 7dd90f71-d08f-4da7-b31c-f05748b09c49
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.198916859336691
+  - 43.64437691242344
+  - 41.14120460866028
+  - 40.24397933723352
+  - 82.55318505874999
+  - -3.7471240160829455
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 644e9f55-0c44-46c1-b689-e71cc60c6b44
+  airport: LFMN
+  runway: 22L
+  pose:
+  - 7.200070393620837
+  - 43.64494135849936
+  - 40.30386474429107
+  - 46.26160534058076
+  - 85.99682416326587
+  - 7.258136867994782
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

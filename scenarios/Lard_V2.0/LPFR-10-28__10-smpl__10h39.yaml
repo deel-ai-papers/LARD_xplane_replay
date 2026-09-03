@@ -1,0 +1,1078 @@
+airports_runways:
+  LPFR:
+  - '10'
+  - '28'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 687dacc4-d312-4bf1-b2e2-643b2871316f
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.893758099461262
+  - 37.00370981472713
+  - 326.0840173403964
+  - -74.95066019120598
+  - 82.25819148031684
+  - 1.0845446266795824
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: d3b688ab-6c1b-47ba-85a1-a03087bf6c44
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.896545371864125
+  - 37.007442393250976
+  - 303.9201717788359
+  - -81.74821674994074
+  - 84.35579191787208
+  - 4.121228494227352
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e1fd56c8-9657-411b-80e6-a99cd2b6beb6
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.89715461670946
+  - 37.005853919476365
+  - 371.60489894865736
+  - -75.29515863915664
+  - 84.81771748753147
+  - 5.952200783989209
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: eeed8389-0d4c-4137-9538-e89880daa524
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.898652862799485
+  - 37.00499484481209
+  - 352.2538908251562
+  - -75.92313868167814
+  - 82.99156631517249
+  - -7.283194431580329
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 32f2c6de-ada3-48fc-86fa-585bc57b7fdb
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.9002288371517455
+  - 37.00515806583866
+  - 252.22968151321078
+  - -70.9960822305795
+  - 86.54101858866942
+  - 2.336695818744939
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c2afae79-9709-4683-83dd-b27905a086b7
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.90196666585517
+  - 37.00527990850269
+  - 256.4442954715293
+  - -84.69291237225038
+  - 87.52736632952922
+  - 0.47908415846202396
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e4f97030-10a1-4f47-a8d6-30385ab9f30b
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.903646709149811
+  - 37.00642530017703
+  - 277.47382632262133
+  - -86.25142466241441
+  - 85.73357198965252
+  - -1.345644251745717
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 681fd6e6-79ec-423f-b514-12e0a3ca6123
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.906183282260588
+  - 37.008384226688314
+  - 249.80255000486352
+  - -81.08099837589647
+  - 80.62495717001252
+  - 4.825121472332148
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: e283db16-75ed-410b-a37f-780d70c988f9
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.9064297655245195
+  - 37.007679629522315
+  - 292.5652052061617
+  - -78.70161650652
+  - 85.88635078706204
+  - -5.448798843747722
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b69707ab-e729-4ada-ac40-995d2578bb48
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.908381677826851
+  - 37.00633286713139
+  - 287.72691261250634
+  - -80.7452735779496
+  - 88.62825302523949
+  - 2.404543896834507
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 5c983aed-d6bd-42e4-9a03-3c4fa55bd2f4
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.914208244734587
+  - 37.003259672089385
+  - 262.3796366322671
+  - -66.36729086683043
+  - 86.60791062215574
+  - 3.3052858539929386
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b3fd2039-4d49-466e-bd21-fd55b6efb3dd
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.914257213711192
+  - 37.00798937981372
+  - 267.235323409792
+  - -84.1692589472492
+  - 82.22833252675623
+  - 0.9056948457543392
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: bd66352d-f032-4c9c-9811-05f2011e2ab4
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.917279464577124
+  - 37.00901410329025
+  - 188.93872570068433
+  - -79.09712860791626
+  - 87.20834534128147
+  - 4.463158183875852
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: fc4934af-bfcf-4cea-bf92-00a1d4a3409c
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.918389889715115
+  - 37.008498943243744
+  - 262.63647639804555
+  - -74.00679180007623
+  - 87.32746890876695
+  - 2.9117707547598846
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 59c5adcb-4f5f-4300-b4ea-7922e9703c1f
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.920063546687993
+  - 37.007772699564526
+  - 239.10811365899198
+  - -82.16143421359327
+  - 88.53217285150522
+  - -0.7626085220725921
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: be5bfe8a-99f8-4221-a82a-4f6c88b05c89
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.920549026338113
+  - 37.00897066866893
+  - 151.7546448657761
+  - -77.81588328753013
+  - 86.86352888387144
+  - -5.803307777993387
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 8a3a44d7-6896-474d-afab-970d9f604e6d
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.923517584039466
+  - 37.01007754860653
+  - 173.14586786324745
+  - -78.58917061660777
+  - 85.87759372069505
+  - -7.327820617465338
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 5e602522-d6ae-4ddd-ba64-73ce957b0052
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.926248819991667
+  - 37.00906588135728
+  - 162.68794631237552
+  - -67.292442654017
+  - 86.57824787957816
+  - -2.5115896487587017
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 0a1c0cef-3a57-46b2-9b01-6b134e8d5f2c
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.930170059529424
+  - 37.0097859614612
+  - 137.84187902189748
+  - -73.48110562270467
+  - 89.81321143315138
+  - 1.0213414769082128
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e04741cd-2a23-4e88-9712-956728f4fdf4
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.93122379996107
+  - 37.00928253539317
+  - 151.59680906205233
+  - -83.496534211646
+  - 85.67820090828103
+  - 5.197151820876293
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 2d3ce267-5583-4cc0-a38a-0ac46ccfdfde
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.9333191639555345
+  - 37.01073733239199
+  - 127.06314737908703
+  - -77.28245806714784
+  - 87.577957232502
+  - -1.7657369639838447
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 850788fd-8649-47df-8b65-c36e867a5ec9
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.93707309919131
+  - 37.00953403796102
+  - 114.5289994895953
+  - -82.93639085658302
+  - 87.78750126140268
+  - -1.8141091160142888
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b596cafa-ae2f-4633-ad3b-78141165ede3
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.9390347030036565
+  - 37.010480792406206
+  - 116.45262597111376
+  - -83.80344019102806
+  - 84.35082996310807
+  - 8.852188505958997
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c86f555f-27d2-4df0-82e4-ddf839df2d6e
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.942408804417541
+  - 37.01139645501859
+  - 99.53940415278099
+  - -80.74373105077119
+  - 86.98911036033647
+  - 2.8296931993983194
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 7cba9469-fab7-45de-9e56-b56ea5a5459b
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.944682822596074
+  - 37.0110917517387
+  - 111.65755613041269
+  - -88.95398015057235
+  - 86.01839462680634
+  - -4.153391389640762
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 73dae16e-5775-409d-9a4f-1709b6ec47f6
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.945088651581038
+  - 37.011721030261114
+  - 74.44234322635081
+  - -78.23409716383954
+  - 86.5282827769671
+  - 4.783639647439498
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 56f688a1-ce85-446a-b4dd-2c3348a740b9
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.946616074894331
+  - 37.01090552277807
+  - 77.86856832923583
+  - -75.403438114967
+  - 87.41738152640185
+  - 4.9412421336348595
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6da30128-6514-4029-8978-7664979a7db2
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.946424078828837
+  - 37.01173863061661
+  - 82.57586096001523
+  - -73.40673145956826
+  - 83.11428415737774
+  - 2.098445721812211
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: faaa901f-36b2-49dc-b6f1-5347e7a64555
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.947640546059564
+  - 37.01186926589796
+  - 72.28058022232983
+  - -82.06238664561147
+  - 89.18711680922408
+  - 2.6892320421772373
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 4f5fa7c5-07b1-4eb8-b76f-63fc512d4e1b
+  airport: LPFR
+  runway: '10'
+  pose:
+  - -7.954494630091569
+  - 37.012852069854254
+  - 33.35037540089252
+  - -76.7342667196888
+  - 85.92397153301638
+  - -2.0140849023158442
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: d4a6a1e0-4197-4512-90cf-1bbb5c1665e3
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.051066919413143
+  - 37.02681018651269
+  - 343.8513167058851
+  - 93.08790358629496
+  - 87.2854354528106
+  - -12.65282333796165
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ce639679-6a4e-4526-a549-0e21c3f3d9c3
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.050542623370692
+  - 37.02680579071879
+  - 310.65899773121015
+  - 102.76517183815494
+  - 88.29260138379927
+  - -2.1800860002756335
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: b160d97c-cf5a-432b-91a2-96f3270d6917
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.049350989790472
+  - 37.024873503508026
+  - 398.3818958472989
+  - 102.28998310554016
+  - 88.58702128112066
+  - 0.33380669433591226
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 840ad74a-1211-48b1-8ecf-23baa19cf994
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.04693306640374
+  - 37.02752774154307
+  - 339.27820911307475
+  - 102.93437269670535
+  - 84.82314769702316
+  - -0.513334768959003
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 0aa43d70-de13-4ba9-9e44-6441d49ab459
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.042408577620492
+  - 37.02852360898612
+  - 328.8593470232968
+  - 109.73617450042684
+  - 85.90854283780625
+  - -7.671737444367538
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 123ce8e4-d6f4-4672-b560-95a3dfcecd2f
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.039034070105135
+  - 37.02788089438371
+  - 276.0134591164801
+  - 91.93784141556475
+  - 83.31824989316529
+  - -4.950719224949279
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 229d3deb-1508-48cb-9d54-7d496aefb5ee
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.036600516768768
+  - 37.02810423047119
+  - 261.8511723346977
+  - 95.31737733753025
+  - 83.78827138338319
+  - -0.691464639909873
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 97019eeb-ffc4-42ac-b43b-1f05dab08ba3
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.035789180637835
+  - 37.02536907690927
+  - 247.33954509573087
+  - 99.11969964362106
+  - 85.17464522259637
+  - -0.536459056029074
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 4b85947c-d825-470c-a3e9-b4de8e299844
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.035986598672721
+  - 37.02381057699795
+  - 272.9059765708096
+  - 90.67688574378096
+  - 84.5688073078613
+  - 10.67491607871153
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 32f17120-ac17-486f-89dd-d3e2af057231
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.035935735921669
+  - 37.02255334823175
+  - 247.9791984022943
+  - 102.16421074672773
+  - 86.32377318095739
+  - -6.3886028377628135
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c7f780e6-4b45-4591-a1aa-5f4c3da45193
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.03453095466931
+  - 37.02411087256865
+  - 239.25646065295845
+  - 96.9834773373416
+  - 86.70974266988574
+  - 1.0263880643676513
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5e1be6ec-b3ef-41d4-a4fd-b6d41906f21f
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.031916713747849
+  - 37.023410131570714
+  - 293.7273749780249
+  - 104.78374249041997
+  - 83.13792439378463
+  - -0.29401312975047567
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c97c1689-4eec-47c0-9ae6-1ecd47a83b61
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.027570072474898
+  - 37.024255088898876
+  - 276.19796895486763
+  - 101.63563418522898
+  - 85.14616114363034
+  - 0.5254873107857696
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b5c5ad7f-31a8-4ac8-83b1-2944d0dc11ec
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.026952773854843
+  - 37.02462406967323
+  - 198.85946565843176
+  - 102.39536329452923
+  - 86.23417774259012
+  - -4.926775574606819
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2f09d41c-d45a-4615-8a7d-11b4da6507f0
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.024039345068415
+  - 37.022500105151245
+  - 236.11434738069153
+  - 99.31576587517503
+  - 88.24435583139889
+  - -0.7651017258779469
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 9ca68507-c766-4d77-86ef-adecfe3cf4a9
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.019261493674758
+  - 37.02237262793931
+  - 195.95857889252062
+  - 95.18392975161905
+  - 87.16494517514725
+  - 8.20228509784352
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 6f68addb-770b-4995-990d-0fde303cf40a
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.017265439814528
+  - 37.021862572724515
+  - 166.20289476908428
+  - 95.63734218755587
+  - 85.325266596957
+  - -0.1561326385152772
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a936086c-c7d1-4f62-a3db-ae05ff9cf68d
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.01400601903058
+  - 37.02317606105152
+  - 154.68856467495965
+  - 109.48815408018758
+  - 87.07938438426983
+  - -9.136559692111923
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 9b82661d-5106-43d2-86aa-a2704116b18e
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.01381857953784
+  - 37.0205612018905
+  - 179.9376238443774
+  - 94.3068253850508
+  - 87.43317869831279
+  - -8.226383783649357
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 1924fedc-4b42-49ad-9f8a-88d8aa7e1ca3
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.013368729187258
+  - 37.021031160109246
+  - 182.65736747071765
+  - 97.25633121556207
+  - 86.21696421362141
+  - 4.848419464952064
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 349244b5-4b1b-4acf-9211-a4ebb40c1c93
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.009180916148898
+  - 37.02046451614994
+  - 151.70270769511933
+  - 101.61551081384707
+  - 85.67819641549382
+  - 1.0476274671795296
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: c56f4164-cc54-4e7a-8fd0-c5caebb356b7
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -8.005879595177824
+  - 37.02006644058528
+  - 101.60502512962749
+  - 86.99209221084473
+  - 80.77415654122323
+  - -0.33973799717649994
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: d505d496-0b4a-432b-8ee3-4e9dce01194e
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -7.997023322217037
+  - 37.01909708585979
+  - 56.474784770144076
+  - 99.76090795970008
+  - 85.66499387224592
+  - -2.0450273980131137
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 210dbdee-ac9b-4f51-89b4-b33bc0f4b5c9
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -7.994274904373816
+  - 37.0185928519371
+  - 64.9864479591553
+  - 98.60847124595655
+  - 83.55323980087735
+  - 0.3327048973829066
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a5a09d46-462e-4ccc-a367-eb75cfaee4cf
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -7.993408181716444
+  - 37.018152854617846
+  - 52.51680195950823
+  - 109.91869073318014
+  - 86.23885461536584
+  - -1.6043661857435618
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 73a11d4a-9ec4-4bd4-b353-730385ae27c8
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -7.993188439769715
+  - 37.01861391198822
+  - 64.28653562763205
+  - 101.84745319156939
+  - 87.63974605357271
+  - -5.7014913341533315
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f75ac987-d2b5-4d91-90e0-1d0a519fbbc8
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -7.993135510840522
+  - 37.0181594015439
+  - 66.72048565070867
+  - 98.27442182657552
+  - 84.57313005755216
+  - 1.3803547391376285
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a8ae9413-3c7c-4d47-ac21-b4338d86d787
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -7.99189158038866
+  - 37.01792062627541
+  - 52.70164327682248
+  - 110.7598863137254
+  - 88.59769969314969
+  - -9.060889606376776
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a2e69a69-a8da-4f8a-98d0-eaf4904923b0
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -7.9900561267937755
+  - 37.01784279772125
+  - 36.86627538078717
+  - 101.10931985284881
+  - 88.82803040402621
+  - 5.464586835071151
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: b532170c-b9f8-42ba-9c60-93e333892c90
+  airport: LPFR
+  runway: '28'
+  pose:
+  - -7.989402014624834
+  - 37.01777271259755
+  - 43.9055378986971
+  - 103.63471973757142
+  - 84.56065296369049
+  - 0.5503051466561113
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

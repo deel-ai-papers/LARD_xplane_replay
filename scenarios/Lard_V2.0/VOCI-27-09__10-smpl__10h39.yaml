@@ -1,0 +1,1078 @@
+airports_runways:
+  VOCI:
+  - '27'
+  - 09
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 529bd9f3-e0d4-4a11-98d2-f3f0eaa1a7c2
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.33048261899499
+  - 10.150403863512336
+  - 389.0627156352492
+  - 89.02179166427439
+  - 81.9546335742896
+  - 8.36541411262102
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ca47a718-4365-4f79-80bc-7f2f2d56cd72
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.3310235819945
+  - 10.147210825840677
+  - 377.08679849874466
+  - 78.91358410883343
+  - 86.52848717213989
+  - 0.5925437336763768
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: d436a9c0-51e7-4285-803a-15fead2bcb49
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.33525850771939
+  - 10.150246204386042
+  - 287.08394786053884
+  - 78.23810457392806
+  - 85.29544598374923
+  - -2.2087028865435467
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f242bac6-da79-46bb-97c0-7e7b29c03f0a
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.33626320570961
+  - 10.146414366213843
+  - 292.4600901357385
+  - 82.50162143465067
+  - 81.93490388979632
+  - 3.390450329611604
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 800bec3b-fb3c-4260-aea7-bbb879681c89
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.33664684811883
+  - 10.149506088792759
+  - 364.6444387550038
+  - 97.98305285559931
+  - 87.42315923288145
+  - 0.8661266361863564
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 7b6732da-d4d1-4e02-bc10-bd3860d0d70f
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.33707645989149
+  - 10.150287869827121
+  - 328.0866189949563
+  - 89.64533724234579
+  - 84.48913471475244
+  - -0.8551233779615859
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2e135c67-b2a6-45eb-afb7-dcedd95612f7
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.33831668250232
+  - 10.147855872879685
+  - 386.5355174222798
+  - 91.58168719467308
+  - 85.46829984103769
+  - -7.592306852029878
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c89c9cfe-ef1e-4641-a7ac-78d952536066
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.33858317389972
+  - 10.149763114277649
+  - 329.0659030777374
+  - 90.50178139408558
+  - 85.47463119695317
+  - -2.0529563821440173
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 78dc79d2-2998-4a7f-9e07-a0d046997e54
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.34216093201152
+  - 10.15165040918245
+  - 235.8854532289621
+  - 83.39252351770564
+  - 89.06727888594214
+  - -1.5451023929751435
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: da94efbc-a6f4-4c3d-9db7-84b84c74c70a
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.34354889258324
+  - 10.147085507531502
+  - 268.0906385189321
+  - 87.88943640493324
+  - 82.08208331882264
+  - -0.17513650042767182
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c0e8b7de-0a62-481f-94e0-0eb89d6baddd
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.34573247616663
+  - 10.147507394741135
+  - 293.23530879266855
+  - 87.74999902787545
+  - 87.11492285112142
+  - 4.101760659452164
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 0b01d58a-6f00-4834-9c94-fc5f7ad4b568
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.34703537921793
+  - 10.150534285881397
+  - 240.53281795925156
+  - 94.63531382791838
+  - 83.5829453463109
+  - -7.909767880715264
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 80972995-954f-4e33-adb7-23fef7a8cd1b
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.34843800009988
+  - 10.148126266626786
+  - 295.1208088725469
+  - 96.43931550742477
+  - 83.62314830245522
+  - -10.35318243582511
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 271be9c6-559b-4306-b098-d593bed3897a
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.35034731462673
+  - 10.148933184451192
+  - 226.79566847459427
+  - 100.2835018227867
+  - 84.25903443159139
+  - -3.7610326939582004
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 01d29720-9222-4ece-ab41-d4945f2a2c7a
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.35108018988902
+  - 10.147539831436225
+  - 243.60313822103154
+  - 81.54513762243397
+  - 84.54068918698906
+  - 5.946594723623312
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: bd895e75-e07e-42ed-aabc-8ab64f52480f
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.35699328376816
+  - 10.148788813243465
+  - 181.7990104849811
+  - 80.86425770962795
+  - 83.51950552413788
+  - 2.2628682066797565
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 51576c51-d0c6-4ace-83ac-8ac25b21ee88
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.35873705888052
+  - 10.147657351366906
+  - 191.9812270210448
+  - 81.06650828242088
+  - 83.45641112998037
+  - 5.618922389143483
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 2dbef46f-62c3-473c-8957-e8adfcbd2e76
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.36008423973925
+  - 10.150494296965537
+  - 178.69346903337444
+  - 87.0785021994046
+  - 86.8193157381466
+  - -6.296346230218866
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 5190a484-3a78-4a02-a27f-9c2287404ae0
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.36085309568617
+  - 10.149550759857572
+  - 189.47364026581573
+  - 89.4990927962146
+  - 87.00354226063932
+  - -3.792339954724021
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 024be699-c66a-4534-8a7c-6c6faf9b01a2
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.36198532409969
+  - 10.149981869953033
+  - 160.22476418893706
+  - 85.67018639209476
+  - 83.85013835087804
+  - -5.312753043586129
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: dd09c4f5-e534-4ebc-b663-8c30fef2e52a
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.36453345095798
+  - 10.150520756259159
+  - 134.69771354984306
+  - 94.76647310457057
+  - 87.47242446369617
+  - -1.3835683715009974
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 2bcc36d8-a603-4a1b-b220-db1de610ebbd
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.36552912396895
+  - 10.150558075523158
+  - 168.32610183532765
+  - 98.15132063198813
+  - 84.32174248756382
+  - 3.95844385994762
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 52437527-84c3-4764-9591-4a6ce6bff339
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.36963723420611
+  - 10.14918539018893
+  - 125.6090161422288
+  - 92.1221486511269
+  - 83.38156535351825
+  - 2.412753501252596
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7b35b196-2c96-4c38-b10b-98f095c01331
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.37125339507621
+  - 10.149514925373474
+  - 122.43044689074779
+  - 86.41879069683128
+  - 86.17745726345473
+  - 4.650527537583564
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 8ddeb027-c8f1-4ef1-bcbb-c88d225e0a42
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.3736221887214
+  - 10.15040332603152
+  - 132.05437147876034
+  - 85.11200561766586
+  - 87.50191232875315
+  - -1.3082962456499125
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ceb98c63-7463-4d7b-9703-808b86fcd7c3
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.37883544575554
+  - 10.150205086932601
+  - 88.43770793553158
+  - 83.69664208017686
+  - 85.86453052616807
+  - -2.5969356726845065
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 0ad89c6c-89a9-4df2-a8d7-34a6b7f8b7a2
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.37898406380916
+  - 10.150456252772205
+  - 75.81550527348644
+  - 90.6665190851051
+  - 85.46090608735395
+  - 11.056946408169422
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: f0291cfa-554e-4d57-9d9b-69358ee9c99a
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.37903879626172
+  - 10.150148682090444
+  - 85.10341706991224
+  - 79.98447206839347
+  - 85.88938261730941
+  - 1.1552425467224372
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 08687a2f-42fe-4bf1-af02-143a6e9c16c9
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.38196564281812
+  - 10.15029630020587
+  - 63.37755461304015
+  - 84.45303820666699
+  - 89.14593190594451
+  - -1.7043817526132505
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a7184f01-3c18-439c-bc56-ba81492f8939
+  airport: VOCI
+  runway: '27'
+  pose:
+  - 76.38243325446983
+  - 10.150504101151773
+  - 61.01525180761516
+  - 89.22915700976327
+  - 88.17926187925586
+  - 3.8235100599424863
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e2391d42-3909-438b-8f98-35c0cbbd734b
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.4694461990138
+  - 10.154758110386664
+  - 333.2071813232276
+  - -97.23202109997224
+  - 87.30283692331544
+  - 3.970283156666325
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 38bc52a5-7683-4b61-a53d-e24da2ab2af8
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.46919722460042
+  - 10.154685711717827
+  - 331.41595063699816
+  - -88.30980802517985
+  - 86.90066771474443
+  - 1.7193555422978992
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: f6ab324c-43a9-4df3-8049-f96e39622ffc
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.46850058462047
+  - 10.155166998090966
+  - 320.61381003820384
+  - -97.58077605743952
+  - 88.10820816541572
+  - 4.586911064272676
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c30a93ba-fa47-49bb-92e9-2e3b12bf45e2
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.46691818088676
+  - 10.154761207787933
+  - 364.17143798435205
+  - -85.09415045727032
+  - 84.38156443371017
+  - 10.750792331051693
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a4fe1656-b530-401d-896d-c74d2e28c779
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.46225917192254
+  - 10.154326075751612
+  - 273.28237096013015
+  - -89.24338305125282
+  - 85.99169879157633
+  - -7.683449666893754
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c67b60b0-65e0-4d7f-921d-421b12bf6713
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.45915537491811
+  - 10.15284978420916
+  - 289.899684630657
+  - -91.34398578201808
+  - 89.61409540388101
+  - 0.13233142932299918
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 06510a13-845e-4a08-b3fe-857212110ffd
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.45888009427414
+  - 10.153140211082192
+  - 307.03563440766516
+  - -90.83032176486772
+  - 85.94555607737712
+  - -6.701974691063968
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: bb076c99-b409-4951-9542-aeb9a6b445e4
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.45736042548577
+  - 10.154911742201302
+  - 337.4693965675145
+  - -96.3039209213707
+  - 84.020695257665
+  - 10.839916227821751
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a539cd80-7c44-45db-8fe6-8f1d88c0f838
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.45693197512178
+  - 10.156211030128013
+  - 255.1479148493592
+  - -88.87897995677551
+  - 84.98407072969346
+  - 3.9165456223414012
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: bacafec8-2db2-4b89-a548-df674dc449c8
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.45695022090776
+  - 10.154801703034815
+  - 339.7339672222024
+  - -99.07569160509755
+  - 85.58990525132299
+  - -4.307828141590678
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 8aa890ad-ffbe-4118-bb60-53331593b83b
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.45518449153867
+  - 10.151689997108498
+  - 212.764792710327
+  - -90.94093615979016
+  - 87.21071290166816
+  - 9.677926885678948
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: e007ff1b-f07f-4772-88d2-278a97c01ecc
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.45375825850368
+  - 10.150011373515916
+  - 238.26075096556144
+  - -99.70923974989967
+  - 87.04167969600975
+  - -0.2175209522519619
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 134b8a6d-a04f-4510-8137-4ab2ffbd4952
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.45201730036179
+  - 10.151895187172546
+  - 269.98451474455277
+  - -89.58532763915306
+  - 87.52391615543085
+  - 3.745819519378747
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 50ac05de-8a3b-4588-9258-349f0f1f10ec
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.45005184396177
+  - 10.15269263417509
+  - 239.38960625489403
+  - -94.558598625697
+  - 86.8499150689252
+  - -2.504968697281349
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 050a49af-d228-40eb-8eb3-5da3e872e327
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.4485568759531
+  - 10.153220542448384
+  - 228.10220676796268
+  - -89.98246697099736
+  - 90.3212974392644
+  - -4.166184813808792
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 17a7d868-1f71-4e88-84e6-e6bec3eaf529
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.44769353121127
+  - 10.15401946195406
+  - 228.71252876153446
+  - -97.90879535809658
+  - 87.93916165981375
+  - 2.7066067602510557
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: beff4729-fa1a-4fb3-a4b8-333b4e346c57
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.44768742905396
+  - 10.151689365056942
+  - 235.0946086783938
+  - -102.50708765320992
+  - 83.29986776603964
+  - -3.3832050018966293
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ec0277dd-4b1d-4828-8a65-fa5cea0ad925
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.44733156533245
+  - 10.1523858529571
+  - 273.0175631769042
+  - -96.84051788446708
+  - 83.2415908556265
+  - 0.9748891600561989
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7e9c4937-5b18-4a05-8b7b-d53301e6348f
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.44660544059437
+  - 10.153124248849878
+  - 195.32804773267864
+  - -97.07350365903369
+  - 85.0483664985263
+  - 2.6160061605694485
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 8652edf9-3bff-439a-88ef-17e7f8ecaacf
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.43917596649962
+  - 10.15188478833528
+  - 159.66828056879797
+  - -94.90268475412378
+  - 84.36239167277895
+  - -0.4171016313802357
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: d02d3939-44c1-4c3e-bb06-d7955c063f3d
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.43363952571727
+  - 10.1520639201358
+  - 144.47268305428952
+  - -90.32614467589174
+  - 87.42236491523553
+  - 3.2274121122801036
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 62faf8c1-d4d1-4532-b297-52f511f1c2d1
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.43157287061041
+  - 10.152287029275909
+  - 126.37861558364821
+  - -97.31960561085106
+  - 84.57150167187116
+  - -6.900258253105691
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3bc2efb9-b520-4343-b5ef-7437dd4c6213
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.43081000085806
+  - 10.15153895473573
+  - 128.10801838662616
+  - -93.48436258124426
+  - 83.75240921463953
+  - 6.284956807322621
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 7122ce7a-deed-43cb-ab81-e9c06c9d6e9c
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.43026252652763
+  - 10.151515479421604
+  - 129.36148477891834
+  - -95.34045954149981
+  - 84.85185970786853
+  - 5.807894364193112
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 9d51ce47-1747-42ef-993f-4d6a8731ceda
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.42746278830225
+  - 10.152121290248262
+  - 128.71084448198613
+  - -95.93773362407032
+  - 85.85164584313387
+  - 1.7916473217867206
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 4982a3a5-8308-469f-82f1-446a7bf634bb
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.42187655584114
+  - 10.151576461816436
+  - 72.10543787850023
+  - -96.53141098678822
+  - 89.74967246894556
+  - -0.6241169279090726
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d0a9e051-840b-4db0-9bd6-259526cb17ed
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.41965747448603
+  - 10.151665562738064
+  - 61.723509458637615
+  - -92.70880171844374
+  - 88.06948606993774
+  - 13.032695046189618
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: da68680f-4b48-4a2c-9ec0-b16ffb3d42dc
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.41944786566827
+  - 10.15173749146057
+  - 66.85631147826157
+  - -92.58290168754726
+  - 82.269175258028
+  - 6.065450876154944
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4f87fbdc-c44e-40b3-bf80-4d71715e9da4
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.41878604762368
+  - 10.151632561112413
+  - 61.27882837846359
+  - -93.85324809273865
+  - 86.61330188954099
+  - 10.587173349371914
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 56384f40-ba70-4f45-8f6b-495385f1a2f1
+  airport: VOCI
+  runway: 09
+  pose:
+  - 76.41858149355484
+  - 10.151778704554985
+  - 66.32678531906492
+  - -80.32314580272937
+  - 87.67678802004059
+  - 7.345965586414531
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

@@ -1,0 +1,1078 @@
+airports_runways:
+  VIDP:
+  - '9'
+  - '27'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 824079dc-68e6-4aeb-8682-ae2f61d2d525
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.17470600886928
+  - 28.572211232401536
+  - 506.0811211100208
+  - -88.98681011045295
+  - 86.61650114381436
+  - -6.281102186673299
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 4797e969-0d5a-4c5f-80b5-93564d612aec
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.17087146136902
+  - 28.56823056825397
+  - 519.0516732321537
+  - -91.72580411389731
+  - 84.08483281500858
+  - 4.332387815147702
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e7bf3670-a13c-404d-b6b0-e28a0c8dcefa
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.17073998081756
+  - 28.569776594497974
+  - 504.6939200580816
+  - -96.57041420642327
+  - 85.1483723212552
+  - 8.595382560593661
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ecb2e86a-b098-42dc-9c47-1a7b3de22042
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.16602851170661
+  - 28.570388885154337
+  - 506.5405486377683
+  - -89.70085795867489
+  - 86.79428839280202
+  - 4.313359336751041
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: f9ca0007-e139-4728-94e6-d6c2f8f20c6d
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.16503634194736
+  - 28.56754071548133
+  - 580.0072907807737
+  - -93.19871630240685
+  - 85.58806944434976
+  - -2.6814780430739327
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 88e1fc1c-f94b-4174-9e2d-11cb0f4adf9a
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.1639333277504
+  - 28.57053071090618
+  - 512.0331160196813
+  - -88.117638126918
+  - 86.92416176840702
+  - 1.5018825606357518
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a924df63-bc56-4dc6-a19c-a04e115545d6
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.16312885799546
+  - 28.566903292990176
+  - 503.0691990860556
+  - -90.56215215276102
+  - 85.5260416600949
+  - 5.343298238573714
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 024385a4-c53f-4854-aa01-3c3cadc3369f
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.16257975265529
+  - 28.56974000475683
+  - 518.3619955418117
+  - -83.04118371643186
+  - 88.59265801592211
+  - -4.971275102147999
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e59c131e-8784-4e81-a969-b4472808e999
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.16183965634359
+  - 28.56735426493394
+  - 481.4333537850215
+  - -94.60271389050557
+  - 83.45012634855073
+  - 0.8206095903050037
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3ba4eb78-91a7-420c-a2aa-00b78f8aa1a0
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.16141948435309
+  - 28.569172157621747
+  - 520.9381701906177
+  - -89.87588703079753
+  - 84.85950125668462
+  - -2.865899547469432
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 1bc0a356-9d26-46a4-bc01-175a2f667af7
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.15320456615719
+  - 28.57007993661185
+  - 439.9735255020987
+  - -82.04482674685771
+  - 86.78661365484493
+  - -2.820968093690157
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 0b8d4ad9-c2a3-48ed-8b4c-838f42a45237
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.15069657540037
+  - 28.571105683728778
+  - 458.02410171541646
+  - -92.37104784889118
+  - 86.79676215273957
+  - 4.240754108912737
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: b8209d74-e0ec-4c87-8b1f-565bcfc6c55c
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.1488604408833
+  - 28.56881954727318
+  - 428.91029295296664
+  - -94.78416751760041
+  - 84.8489303585872
+  - -5.167616883919603
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c9305598-b1aa-4884-9ccc-9819ca1b5fb6
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.14615448545176
+  - 28.56926675315087
+  - 464.6876779787553
+  - -92.29701843099484
+  - 87.66940577311043
+  - 0.6574559111235057
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: fd2aabe8-2149-44f7-a39e-6fa25e40fb97
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.14598594728463
+  - 28.569702309311985
+  - 439.0287496278634
+  - -90.44483955734478
+  - 84.6858247532574
+  - -3.2635856097187563
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 87325eaf-2ccd-4a6f-ba68-463f9fecb0fb
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.1449092443034
+  - 28.568995789184157
+  - 427.33836765266864
+  - -85.76347687920345
+  - 87.66711781896527
+  - -6.10861909244984
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 1e9df1cf-4f89-4146-ae55-8c6e58ce8f89
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.14457036506843
+  - 28.569139450812592
+  - 440.5775346078866
+  - -88.7593260140458
+  - 86.48248256563005
+  - -6.295258116848331
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 72739637-1535-4bec-bf75-df23adecf4a6
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.14315053870898
+  - 28.569026007907766
+  - 425.8703828029028
+  - -88.73940944504332
+  - 85.68157618024391
+  - -1.4475122742591864
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 633242a2-29a9-4b5e-810e-57b2ab98bdd1
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.14278799686905
+  - 28.56941663841509
+  - 383.68601904112563
+  - -86.05986106992664
+  - 89.54541169509862
+  - 2.2193957152902684
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 70d6d103-34c3-425c-ad10-393e3f10940b
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.14099419880024
+  - 28.569468112165065
+  - 392.22080008097873
+  - -93.71355198588283
+  - 82.54390005107221
+  - 1.765758588353488
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 5e8a5a4f-8d27-42b5-a30c-4de2414640fe
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.1399884752722
+  - 28.569080191056752
+  - 362.56942653034855
+  - -81.79695286248685
+  - 87.5182405200491
+  - 2.568857851960773
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 3fb597f4-7e92-4565-961b-3aeca2f452ab
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.13785367599402
+  - 28.56896728669828
+  - 413.6221953199462
+  - -82.49351418353625
+  - 84.1835559616097
+  - -5.590199242057378
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 4124a6b0-8042-42ce-b49c-112516b23b80
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.13526522689381
+  - 28.569501970023502
+  - 348.9306677188291
+  - -89.20683564762919
+  - 84.16113837303178
+  - 3.037621853671062
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 99e5c092-2b9c-44ab-bed3-9ca6f5165301
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.13479890268005
+  - 28.569139714738743
+  - 364.8682190714134
+  - -90.72269036420772
+  - 84.5428052974193
+  - -0.3138708654253936
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 51175158-17e7-4d2e-9c90-5458a0669001
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.13336136338256
+  - 28.569005889666105
+  - 345.19187204344473
+  - -87.61186958833166
+  - 85.24596082829287
+  - -2.1277421057282417
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: c230c4ed-322d-4932-8250-bb815adf0a19
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.1310668927112
+  - 28.569867370923262
+  - 353.09157695654477
+  - -85.42012412085833
+  - 86.38623258605406
+  - -3.199661453228426
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 67372f87-4d25-4c19-93b4-20fbf28b538a
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.12701682132027
+  - 28.570039722906184
+  - 320.31111889534304
+  - -91.6977831504214
+  - 89.41122944608175
+  - -2.43178237721375
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 93c9361e-015d-4601-8584-21c6f3ef4d26
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.12509446861782
+  - 28.569738604778202
+  - 311.26490398676674
+  - -86.17759484256696
+  - 84.80302725530956
+  - 4.963007994128749
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e379cdf8-c6e8-482f-8d52-d1d6b8144427
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.12094574643966
+  - 28.56970343892792
+  - 288.9089566029952
+  - -89.40250470384319
+  - 86.25364672190358
+  - -3.467270777219932
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 8314e66c-5642-4fdb-b999-5230df6dd856
+  airport: VIDP
+  runway: '9'
+  pose:
+  - 77.12089838909826
+  - 28.569687075193055
+  - 294.7723958861842
+  - -92.45643591317717
+  - 93.01638567845431
+  - 2.8182067143491976
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2d82a2b0-46b9-43c7-9c5f-b7e924db0105
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.02719961925561
+  - 28.57110812022032
+  - 605.1363339510531
+  - 97.87322366814135
+  - 89.32474928603385
+  - 9.57652816655443
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 7ba3c162-f195-4bab-a1de-cad7754ec684
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.02807102230308
+  - 28.574128388804894
+  - 511.47804823308013
+  - 88.50021394178626
+  - 85.3484347379684
+  - 3.414654932513352
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f9163575-f6d4-4f23-a7fb-15e8bc631db5
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.0285269520171
+  - 28.571292782806232
+  - 540.3287889517625
+  - 94.27186176603934
+  - 86.51132769117973
+  - -1.436978901536521
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a3993e9c-7093-44ac-bc1c-01fad59ff493
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.03291567765945
+  - 28.571232164167338
+  - 528.2395473634332
+  - 94.0656819228957
+  - 86.457350464556
+  - 8.257499698073614
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: b6d84da2-ddca-443f-9213-c011c6eeffc1
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.03541939103245
+  - 28.571413110780956
+  - 530.7105624880587
+  - 97.48476269985603
+  - 85.89204758381135
+  - -8.651513174027937
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e4f3ae22-cd2f-4e85-a8b6-001cf6f2b74d
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.03757609682542
+  - 28.570666694233225
+  - 490.0575528408976
+  - 95.06581278861545
+  - 85.47676727298635
+  - 10.37457887652533
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6cff1857-07cb-44ba-98c5-877973fa9f7a
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.04001508245263
+  - 28.573156577571748
+  - 475.5894565341607
+  - 79.48948799944661
+  - 87.18037646076645
+  - 4.216452980972941
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 665b820c-d4f5-4cab-9337-1c47b547afb3
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.04001103235031
+  - 28.571324093780635
+  - 464.74664748283396
+  - 89.98124435600826
+  - 88.6838441065028
+  - -1.434996305986621
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5b877706-82b5-4c46-a09a-661ff0d938a0
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.04051139341226
+  - 28.570280707737478
+  - 493.72520983587447
+  - 93.41912129963463
+  - 88.54564408452401
+  - -4.12978087267218
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: c4cd9503-d5e5-456f-b32f-eb7a405d2cd7
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.0413044398496
+  - 28.57364988857982
+  - 534.2157399508253
+  - 92.2424649743814
+  - 88.7919663554195
+  - 3.2100072893251608
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 237b1606-3bad-4f2e-af95-e230c08afa64
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.04449845721462
+  - 28.569773651854916
+  - 453.4334850657042
+  - 91.00690888359247
+  - 85.0765226242691
+  - -4.360008612274622
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 87b84255-af4b-487f-8291-4a11dc58598d
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.04801575644234
+  - 28.572266215871693
+  - 484.36353525936744
+  - 95.07315579190079
+  - 86.91990583143979
+  - -1.5785957294619666
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: debd7548-af3a-4667-8892-ed5391f4bd37
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.05108712767438
+  - 28.571992679686108
+  - 418.6469168038797
+  - 97.56882626111252
+  - 86.04632389011036
+  - 1.0184233014819946
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 18a399e7-5aa1-4194-ab83-2952e44aaec6
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.0521215526869
+  - 28.572848260039198
+  - 418.73577858422505
+  - 97.49128265821521
+  - 85.51856083841928
+  - -3.9920519211926795
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9cf91748-0271-48d3-b4d3-e4d02efced39
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.05311514890384
+  - 28.572833741583775
+  - 446.6502512466723
+  - 98.22740782582633
+  - 87.890102182624
+  - -6.2898003647847975
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: effce065-4fb0-466b-990d-7e00924b332c
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.05714320295586
+  - 28.5718366190724
+  - 460.0670956705735
+  - 81.26249230584078
+  - 83.74256406303655
+  - 4.653534561022824
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 989041ed-fe82-4923-947e-9dc3bc189214
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.05738802628989
+  - 28.570518034054505
+  - 414.49179817528443
+  - 98.67824178711496
+  - 87.21037928075597
+  - 5.60041006228916
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 420f529a-0a49-44b6-bbef-e1f69eb25179
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.05879104892843
+  - 28.56950951683986
+  - 366.97776191337925
+  - 94.96697858583694
+  - 84.89909052894487
+  - -9.956721024114039
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 7d89fa7d-962e-408f-883a-fa28571e4450
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.06163371183457
+  - 28.570310072174735
+  - 412.48181035544235
+  - 98.01190409628909
+  - 90.62169559977048
+  - -7.321001247630974
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 764d628a-c544-4c04-ac5d-ad600479447e
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.0623910863107
+  - 28.571813211056167
+  - 387.4563325309201
+  - 89.5253047478817
+  - 87.14877466539045
+  - 1.0265577680958282
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 7a826bc3-081b-490c-ad24-35c468a7d808
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.06333217359668
+  - 28.57142685384887
+  - 405.22478918818456
+  - 87.47510420336647
+  - 86.58374899322664
+  - -8.651070966524813
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 66588f78-ded7-4a48-9fa5-9f8f4692e661
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.06484981268758
+  - 28.57145669021723
+  - 378.3846541709295
+  - 91.65385514479837
+  - 86.42389568049593
+  - 6.334702774095687
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 5ad89da3-9ffe-4202-90a3-238e7631e61d
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.07270688125192
+  - 28.570506746285623
+  - 353.871045730519
+  - 87.99286096760201
+  - 87.03289733587577
+  - 5.067307285882487
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 9b5f9604-b3c9-4ef0-b561-a800931f68ab
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.07574680994809
+  - 28.571405921265537
+  - 332.25962899104627
+  - 92.12707729035
+  - 86.39700463668682
+  - 2.5613723090415896
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4c05fa0c-7c3b-4a08-a2d3-fcae3098c171
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.08039916428103
+  - 28.57076411782054
+  - 300.02253790872976
+  - 83.89910314509189
+  - 85.62528997139505
+  - -2.2005193334693645
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b7fd23fb-bad8-4f72-9cab-ad5177db77ca
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.0835891514954
+  - 28.570683209667113
+  - 269.926976199442
+  - 90.98170440638738
+  - 85.07313601324088
+  - 7.412529903633347
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 08c2a690-b223-49f8-9779-6398d3eba9c5
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.08406341209607
+  - 28.570468002382157
+  - 279.2552358403588
+  - 98.8258171628331
+  - 87.73270065941361
+  - -0.07051035920028674
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4560247a-e233-4ef5-a119-8ed9caf721eb
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.08467744050748
+  - 28.570644964261174
+  - 264.0236098301423
+  - 96.65896212834724
+  - 87.60155608638439
+  - -3.000820685851676
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: aa1f51ae-ad6e-4ce7-a013-fcadf0108c82
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.0848968208747
+  - 28.57063676523776
+  - 273.5014088328579
+  - 98.66868339002399
+  - 83.38726224103476
+  - -0.7166663545790612
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 152785c0-a8d1-4a3e-84b3-b27e285fa6e7
+  airport: VIDP
+  runway: '27'
+  pose:
+  - 77.08496978764846
+  - 28.57058368462577
+  - 271.29641341850044
+  - 94.24948551052104
+  - 84.14487143498222
+  - -0.6682915281135715
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

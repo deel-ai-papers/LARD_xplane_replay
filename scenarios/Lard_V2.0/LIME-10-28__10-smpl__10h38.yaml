@@ -1,0 +1,1078 @@
+airports_runways:
+  LIME:
+  - '10'
+  - '28'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: d9da27fb-94b4-4484-9bf6-d937130c4ad4
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.796562166596255
+  - 45.65150354909233
+  - 525.2281179276138
+  - -63.12103723612657
+  - 85.23062156006655
+  - 5.852543379838999
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c1eccfdd-6c9b-4b78-a4eb-95fdc5826d1c
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.794010069325545
+  - 45.64813326475587
+  - 514.6630321390314
+  - -73.54040970334803
+  - 88.87838270993903
+  - -0.13146426545841888
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2690896f-6914-4a42-8aae-52137235239f
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.794068901739204
+  - 45.651104039828795
+  - 600.5944802197957
+  - -64.81572817608142
+  - 83.97451213969997
+  - -2.5044369950250167
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 80a5e5dd-e10e-4e85-8fba-d5e2d105e3e1
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.78327718491507
+  - 45.65136082320284
+  - 512.3433873316754
+  - -71.7274855095609
+  - 83.65273343215374
+  - -11.217949933475758
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 3bbfb366-5fee-450e-9e94-2397169fee70
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.782722776320615
+  - 45.65390598313358
+  - 444.56042814982993
+  - -81.27625362168193
+  - 84.25842394074127
+  - 8.570556840622254
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c870db62-e818-44e8-a12c-e2cce8cce37e
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.78192949703155
+  - 45.652229527499486
+  - 428.8657095661948
+  - -67.42323748387804
+  - 85.66744416934968
+  - -8.967056772828101
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: ebc11dfe-2e95-4f29-bec4-fde4c66a6c01
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.782136252414048
+  - 45.65426323626501
+  - 450.9119262299396
+  - -89.10548785938502
+  - 85.85359523537517
+  - -2.6905088887898843
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: aa6e0ab0-ed97-46fb-86c9-8812d9cbc149
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.781218612127182
+  - 45.655069997778675
+  - 518.3823300324274
+  - -78.73293740986614
+  - 86.48513146888054
+  - -4.146160351343882
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 96f897f1-ee5c-4368-a00f-4cafc34e7de5
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.779614286798639
+  - 45.65158198556059
+  - 426.3966561273181
+  - -78.311395382356
+  - 83.68544105973513
+  - 1.4377707057837321
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: bd6694b0-8385-4441-91cb-76e4dbdd7a66
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.78027380698166
+  - 45.65539563498087
+  - 487.66120254334254
+  - -72.57062638888212
+  - 84.76588495368419
+  - 2.0266443549040862
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 77e318ba-2196-47d5-a077-64e608de1152
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.778493666078663
+  - 45.654594244864604
+  - 454.8539944571214
+  - -82.5972854495806
+  - 85.42046154760989
+  - -2.5895680553515685
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 460a6d04-470d-4575-af93-772a1827e210
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.776613225736956
+  - 45.65648292167847
+  - 408.8422597166542
+  - -69.76190843431166
+  - 88.9143862299118
+  - 3.086863740988931
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: fd90cd3a-7b86-481e-b76d-b056b3ae6b73
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.772888723177868
+  - 45.65596138528898
+  - 459.409486424944
+  - -88.13493933627579
+  - 81.6253322830971
+  - 5.632898247690235
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: bfda25eb-d44f-47eb-b48d-a072949b2792
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.76754555526058
+  - 45.65511752226355
+  - 449.1238312164957
+  - -70.96079193904241
+  - 85.77425094315805
+  - -7.542602963201962
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 48f2a108-71de-4d04-8979-e2385dba0b1b
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.766199000643711
+  - 45.65612311240647
+  - 448.7788580193747
+  - -79.49402631307963
+  - 83.20041105473285
+  - -1.8520922563123512
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 5f92faf5-ad2d-402c-a518-cf06ff0221d8
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.760348740858095
+  - 45.657544753619874
+  - 405.00336180260285
+  - -74.85812924297987
+  - 85.23284332148788
+  - 1.614291467962963
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e4ed29ca-5b8b-4946-b93b-6ea21b1b734d
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.759449420588746
+  - 45.65899301385361
+  - 392.5214815871756
+  - -74.3318671204284
+  - 88.10250239965627
+  - -1.1382615616269591
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 9b70a3cf-2008-4df5-8d7a-f0f630897f7a
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.757969970827574
+  - 45.657257218613154
+  - 378.0882085378023
+  - -78.19519292764575
+  - 85.20800185839713
+  - 5.641525007302693
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: c04993f5-1e73-43b6-a090-f214bff7dcc7
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.757790950413533
+  - 45.65836772934451
+  - 402.72156161259
+  - -71.36640998951532
+  - 90.81773007773333
+  - -0.0066036106760730675
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2413fd80-a66c-4f33-9863-2e4ab351cde8
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.755161163874758
+  - 45.65813236162781
+  - 407.44241395007543
+  - -73.83566867796767
+  - 83.1752982458979
+  - 0.8829745086834394
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e7bf9118-07c0-4b18-a41c-49af48b3e923
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.752745077306857
+  - 45.65948157657862
+  - 340.87874336231664
+  - -74.27917470909122
+  - 85.04057743482471
+  - -0.663540554441806
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 4e0b4a16-54b5-4bed-820f-24d79e553074
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.745510068339284
+  - 45.66038132296096
+  - 342.93175609967193
+  - -74.85681378462614
+  - 87.84153641047536
+  - -3.7357311057929614
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 772cd5cb-6881-4442-b6d9-37f0f4b7868e
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.745061336030998
+  - 45.6601228778107
+  - 324.50852070319985
+  - -68.46881043099266
+  - 84.64443968403562
+  - -1.453758234694571
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 16b32f58-4382-4dfd-acce-3e1f17834905
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.740903511882697
+  - 45.66113798439208
+  - 299.51744070711936
+  - -82.37315327876102
+  - 88.54201014642187
+  - 5.829986151148666
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 1489d2d3-8eb7-448d-ba92-1974061cfe60
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.738421833507331
+  - 45.66167011330643
+  - 299.77660594338704
+  - -71.49831532864944
+  - 85.13124170887816
+  - -0.8327737183458592
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ea35c03b-ceba-4c02-a58f-402408986db4
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.735692699372493
+  - 45.66204374159545
+  - 294.89394400462925
+  - -89.02179784766496
+  - 86.82514267985073
+  - 3.0513405998146172
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 46fa5eed-c916-4f75-93a3-b06bf5627926
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.732814330519622
+  - 45.66276051811602
+  - 279.15483326908384
+  - -70.47422051363915
+  - 82.86346757809832
+  - 3.270114714168067
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: fbd32198-389f-4a90-8ae5-8224ed78ce16
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.732812923507847
+  - 45.66324268317441
+  - 291.5671703665362
+  - -71.83171575479889
+  - 84.8457949080796
+  - -7.018987072127695
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e0610006-bb56-4285-b7d6-a2ba115fca5a
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.728788285646903
+  - 45.66401885760514
+  - 261.59892973325503
+  - -83.31607512563751
+  - 84.9477807326019
+  - -5.492820612256182
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 6c4623db-e763-4b81-a9c9-d50d75bb8388
+  airport: LIME
+  runway: '10'
+  pose:
+  - 9.728155889369472
+  - 45.66402468252459
+  - 265.83771607202556
+  - -74.61353074068042
+  - 83.87581094339771
+  - -1.6199619756678605
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 185e8266-b8bf-4367-b808-f7d4ac14d009
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.621119654832615
+  - 45.68361020931636
+  - 494.8323256797555
+  - 94.98448393103112
+  - 86.31262893945505
+  - -3.092631696262078
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 637c01ee-9778-4ef8-a434-5240119187f5
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.622932197399411
+  - 45.68529586930284
+  - 558.604452044792
+  - 109.10034829320706
+  - 83.65741658414646
+  - -0.8695071401039394
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 96efb982-c3ba-4050-b09b-ddc10d71b95d
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.623591109230913
+  - 45.684084085401835
+  - 586.4204349404433
+  - 100.45870061748194
+  - 83.37940789713967
+  - -1.2059820442875284
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 69c6ef7f-2b3e-4f31-8f5b-fa46a8fb47bd
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.625259679178775
+  - 45.68522804486903
+  - 544.0997372860008
+  - 104.35498557691183
+  - 84.26423002296991
+  - 1.4307052255882091
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 07b5a421-8551-4e31-91a2-daa6be64f75f
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.624233656285003
+  - 45.68097906433389
+  - 515.7022266428825
+  - 97.98936012533873
+  - 90.30764555029998
+  - 3.2051371008224656
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 399b9b85-d387-44db-93eb-cbb143f28337
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.63048091585582
+  - 45.67957420262846
+  - 586.8001271266606
+  - 110.23275930811185
+  - 83.2914238231661
+  - -2.1747314928258117
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 3c93ff59-2a0a-40b2-9419-4e561479c8a2
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.632910946177518
+  - 45.68337466869172
+  - 476.8910528636569
+  - 111.23110218279938
+  - 90.7080766868656
+  - 1.5836393638346546
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c1e4f214-e20d-474d-8dd4-4e3f2b451332
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.63455585171875
+  - 45.681896786836894
+  - 496.47835957226073
+  - 112.78069076917687
+  - 88.33056719220937
+  - -0.27493597202277187
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 440583f1-a7b0-46d3-a589-d8fce46c9501
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.63536887340316
+  - 45.68372113311864
+  - 557.9630242088092
+  - 104.58869984533887
+  - 85.21745575876183
+  - -6.570128953982962
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: f5aa8e65-13e4-490b-a9f8-41bfb92ae3f6
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.63554969800293
+  - 45.68128527953778
+  - 460.6877989098506
+  - 99.96274000360731
+  - 85.94675879673137
+  - -4.049868434921857
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7a42c977-e0be-4a84-83fb-9f5d7ba95883
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.6409458148726
+  - 45.68119143718024
+  - 442.6847231509352
+  - 107.671067169901
+  - 90.19231268308293
+  - -5.872927488545204
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e77bd2c0-2dbe-4845-aeb4-f046ee97408a
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.641737938853518
+  - 45.68084276533961
+  - 451.2702949853974
+  - 111.0244735865062
+  - 83.46009699067959
+  - -3.996247734502969
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 8e73d2f0-a721-482c-ac5c-729cbadb651d
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.645068718541852
+  - 45.677680498001585
+  - 410.4145414020678
+  - 110.16346270278132
+  - 88.25420208843639
+  - 0.2596787044328464
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 402b25f6-f60b-4297-8021-53e617112e35
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.648981436371384
+  - 45.67775012512293
+  - 442.43164868307315
+  - 107.36313011650357
+  - 83.22421328373544
+  - -0.9062179988245128
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 9a3ba595-4831-4519-9314-cb379595eee2
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.65345472862213
+  - 45.67794695598005
+  - 407.9585615824508
+  - 102.37002344290238
+  - 85.66242851673589
+  - 6.1490019545670185
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 92df3d39-bf48-450a-978d-ce54bdfad218
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.65388055173911
+  - 45.6778979339843
+  - 377.0035664043959
+  - 114.56460017537098
+  - 86.02870368586312
+  - 8.002823715363434
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c29d008d-707d-4ec7-8693-9e6d834747d2
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.65543540639818
+  - 45.67654796853423
+  - 398.9137413589881
+  - 96.64677681561732
+  - 82.20095278397268
+  - -4.7370100645035516
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e3b344f3-1726-48d4-a2d4-b6afb6e22e94
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.656380543455859
+  - 45.6765562121856
+  - 422.16722176630253
+  - 99.46279744946446
+  - 85.05384109051307
+  - -1.5340615403661682
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b167283a-5eda-4fcc-939b-7fe20682df80
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.659089929181206
+  - 45.67608381440104
+  - 356.64264306169963
+  - 114.06150489310598
+  - 83.54298318442328
+  - 2.4461734067843137
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 687f2b82-bcea-4dcf-a326-0d9517e9cd4a
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.661226894142608
+  - 45.676295791108586
+  - 391.59977735491896
+  - 95.85607101956575
+  - 82.3756145661961
+  - -11.091671033885536
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 355d5e4b-43c8-48c7-96be-b68a6febdf1b
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.662275387287783
+  - 45.675445300578595
+  - 382.3709436916008
+  - 99.3328304249795
+  - 86.38200253507902
+  - -1.021344036164852
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 05755d8a-0726-4699-9a36-09b165377ada
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.66849181340254
+  - 45.674639595415925
+  - 357.911595134747
+  - 108.94979672848932
+  - 89.98297979944148
+  - 1.84864836217383
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: bcf0e8e0-e0db-4e8c-b033-716dabd02118
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.669558200671375
+  - 45.674176312232845
+  - 361.78585592342955
+  - 102.3210088666741
+  - 84.71128312841793
+  - -0.5744688078677711
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b50f0b32-ec24-464d-a521-fd9b13871a93
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.674175783454789
+  - 45.67413143170261
+  - 324.13144534128367
+  - 111.45380670847352
+  - 85.10333478604791
+  - 3.4705434397773494
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 5bbad874-f471-4200-91d3-beb4164527a2
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.68330151718644
+  - 45.67205575648412
+  - 294.9053672372406
+  - 110.40913057851367
+  - 86.69455821476838
+  - 4.224827110302536
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: f2cef3f8-1022-4a7a-a56f-ed19462fa919
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.68398542516796
+  - 45.67207916227024
+  - 286.1050698535289
+  - 99.6613500139959
+  - 89.61210544555509
+  - -0.6920962031028464
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: ac25f848-3bba-415e-b727-e2d1ce010a39
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.684172187432903
+  - 45.67208282764997
+  - 287.7343467809267
+  - 96.42367603234266
+  - 86.74870650516392
+  - -0.4421560228111523
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c2b4c4e8-a342-49ed-abb0-33bb68f236fc
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.686400235127515
+  - 45.67162298149577
+  - 278.2325743832471
+  - 97.4317956058058
+  - 87.23194483733779
+  - 3.263710267575429
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 1ad10a2b-204f-490b-8e40-e0b4e03b51ec
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.686730910341945
+  - 45.67159967951435
+  - 277.10145271182535
+  - 97.02832404853261
+  - 86.50102953035895
+  - 5.407833288317869
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 50df966b-8ad2-4060-af31-621a31bed24f
+  airport: LIME
+  runway: '28'
+  pose:
+  - 9.686956621114245
+  - 45.67163838302357
+  - 280.1989608753537
+  - 103.15195622058778
+  - 86.77470919744803
+  - -0.7978846297067534
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

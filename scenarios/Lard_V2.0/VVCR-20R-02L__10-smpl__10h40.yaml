@@ -1,0 +1,1078 @@
+airports_runways:
+  VVCR:
+  - 20R
+  - 02L
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: cbf3ad7d-8294-47a6-8a22-e85df26aaca7
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.19804874238046
+  - 11.933528803924291
+  - 311.1709831499061
+  - 21.573454850894898
+  - 85.3193069463027
+  - -2.3612512683932474
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 8cad256f-406f-43cc-843a-4e6109a4d760
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.19717448397851
+  - 11.938032076067394
+  - 246.94482220638025
+  - 26.574540764185457
+  - 83.20423078018521
+  - -1.2924199230938185
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: f7422ca6-2f21-487b-b28a-09caa9973e9f
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.19851125044428
+  - 11.941027258628232
+  - 305.07840995973646
+  - 14.757257099245026
+  - 86.87908572816687
+  - 0.3250421169761796
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: f87dc926-6966-482d-9022-03637056f2c3
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.2013041234854
+  - 11.94034937543438
+  - 234.6057519795962
+  - 10.121352912221761
+  - 86.19683313996843
+  - -4.153027583131044
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: f14a7fb5-715c-468c-a18d-220f88afd88a
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.19861780243802
+  - 11.942425576698655
+  - 274.65328842710034
+  - 12.266083671528705
+  - 88.11952922835214
+  - -2.3590545514219845
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 01f1e453-73a1-415e-8ea6-f172102b2648
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.19932948068988
+  - 11.942900864823631
+  - 260.29858444980835
+  - 8.774934240154131
+  - 85.73893093418403
+  - -1.595963398433142
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e3426709-054e-4cef-9149-42ff6093413d
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.19852690648575
+  - 11.943568973552152
+  - 282.2625802217265
+  - 18.337709090203486
+  - 89.51576849283319
+  - -0.2668221554107435
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3fa1451a-aa6f-4089-9623-693b42e18d93
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.20199591185649
+  - 11.94311331210379
+  - 218.73885946470403
+  - 10.886048668562868
+  - 85.6855455543323
+  - 5.990838306649095
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 1e1e9a48-b382-4b70-abad-7fd418bd2265
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.20228397103371
+  - 11.944926099035749
+  - 253.683288623143
+  - 16.098197658052527
+  - 85.43474970932826
+  - -0.278701780510932
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b97f3199-948c-4235-9e74-b3c82b2983ec
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.2016651264654
+  - 11.945858598448101
+  - 225.10066667714577
+  - 18.5768991195549
+  - 80.67034920945048
+  - -0.11094598418248863
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 1083194f-0e99-4435-9707-2f425f287ccb
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.20085276258217
+  - 11.948914997634141
+  - 248.62307541795093
+  - 20.588515205184653
+  - 84.86020855245066
+  - 0.5598496770161551
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: cfc270ab-c3f0-4fb5-97e4-b0afd15cc9d1
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.2031951507404
+  - 11.94832884224536
+  - 279.06572075632414
+  - 15.5157372577637
+  - 86.34203387061358
+  - 8.882386608458468
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 8e6a0e4b-fc2d-496b-9b82-bccca12051ad
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.20254570828689
+  - 11.9490235845642
+  - 237.6069421948176
+  - 30.157564268264583
+  - 87.32228234193782
+  - -3.4494733715633474
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 49b176c4-9d96-4c68-ab68-5fd22feaa6c5
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.20251638074258
+  - 11.94920169133367
+  - 254.0328589280518
+  - 23.71523743989063
+  - 84.88613372683106
+  - 1.839616514089911
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 828c5a2e-3de0-46f0-bf04-3fdfb89e0feb
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.20122765145092
+  - 11.951014371085726
+  - 272.9564347340691
+  - 14.219591979165395
+  - 83.08118164411782
+  - -4.212529321737693
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 917bd19c-a107-4e0e-8059-f8450f9accf4
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.20263603920883
+  - 11.95138867909992
+  - 210.91523244512658
+  - 14.49154578305976
+  - 84.82616975747015
+  - 2.9518310608874443
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3209e7a1-5bf7-45aa-ae8a-b4228105de63
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.20176546602606
+  - 11.955770736402375
+  - 205.25578393950565
+  - 20.04406853435847
+  - 85.15666829384428
+  - 4.23618058757961
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 507fea18-580f-451a-86b2-fd342772ec4d
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.20415529432081
+  - 11.958858381321036
+  - 205.5749896465507
+  - 12.008831293959414
+  - 86.4201107415254
+  - 3.0413613672355373
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e9fd4553-9416-49c6-8001-d93f2c7d354f
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.20673038129262
+  - 11.960833857216139
+  - 195.37274931821514
+  - 25.819404755085266
+  - 88.56258392597807
+  - 3.139641380235332
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 3e816f74-fcd9-45b8-8ed4-a3898c81abcf
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.20667739919047
+  - 11.962496125283135
+  - 181.6855629646272
+  - 19.483656461935173
+  - 85.767384091589
+  - -0.15285427733053203
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f8b02b55-1b6c-49ba-b4a7-29012e7b36ca
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.20762605016411
+  - 11.963796428793703
+  - 173.83055495319152
+  - 21.029058970458774
+  - 90.27578523202843
+  - -7.168300142217023
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e3c15b2d-72d2-4e1c-8937-74417efa1cfa
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.20716373597807
+  - 11.965651559070055
+  - 116.95657706279758
+  - 22.032481077879467
+  - 83.47183657811476
+  - -7.919687527432755
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 970077e9-1045-4ac8-b871-ea4253681fd1
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.20927161999371
+  - 11.96566010217901
+  - 133.24955085696052
+  - 13.58514410166433
+  - 88.67474800731978
+  - -2.354918128861442
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ba63106d-f0da-4830-9dcb-8bd598b9a923
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.20832146539688
+  - 11.967219885575687
+  - 131.39271934683867
+  - 21.451750247758213
+  - 84.1542038052716
+  - -13.119823229979797
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 1769ccae-4534-405d-91d4-70482085faac
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.20860349887302
+  - 11.967923923793487
+  - 162.81491239585648
+  - 23.63676622102206
+  - 89.22879708313496
+  - 1.077200582377923
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 0412eedf-227f-498d-99b2-e53de5ac1022
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.21005581282714
+  - 11.969229047150296
+  - 110.10854474910678
+  - 16.524117698577474
+  - 87.34983851948272
+  - -0.9514225204078839
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e040e0df-30c0-4052-83a5-103e20327110
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.2101087142024
+  - 11.970180466139967
+  - 107.99058910456976
+  - 11.623655808458228
+  - 88.10719883791803
+  - 3.9071969879049067
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a87bbecf-159e-436a-8b1a-9221882a5fe1
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.21086948996097
+  - 11.974668195238193
+  - 80.53772877334268
+  - 12.2831375653067
+  - 82.61442968306947
+  - -8.566181297247228
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 2ffadb6a-b012-465b-89c7-55d1161fa4db
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.21241652261484
+  - 11.977877230329808
+  - 69.6557187035286
+  - 18.721982893325077
+  - 88.17602488206093
+  - 4.339898848203
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 3d20cfda-4cda-413f-88ca-93ec886bf7f2
+  airport: VVCR
+  runway: 20R
+  pose:
+  - 109.21350052300382
+  - 11.981017244965246
+  - 39.60417010671799
+  - 21.72572093006072
+  - 83.68135571041982
+  - -1.622826622344071
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3927f8b2-04c7-4d8c-be3f-1c412ae58f1d
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.24212128713509
+  - 12.061999397483737
+  - 300.1263812415881
+  - -166.98293920126568
+  - 84.0444302790876
+  - 6.976031612433423
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: d30d7089-0c86-431c-bd6c-0406c14c979b
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.2382401681773
+  - 12.063184129045965
+  - 310.9337031740665
+  - -163.95838442845644
+  - 83.9563702248317
+  - 4.203290422483603
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ad658963-85f0-419e-95dc-560602b5765d
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.2406320617239
+  - 12.062364173960946
+  - 333.7269181899722
+  - -161.2242065231839
+  - 86.07823844315271
+  - -6.574670017762849
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 67938987-9594-44cb-bcf0-25df066e0242
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.2405592501617
+  - 12.061831481657203
+  - 332.8636661396198
+  - -154.00987752940844
+  - 87.13710975490733
+  - -3.8395424677668073
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e2a1ee30-a15e-4851-8e2b-6a2aee7692b7
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.24143510992369
+  - 12.056943406482995
+  - 304.86926390985417
+  - -164.12351860827283
+  - 85.06522546478664
+  - 9.616110086647346
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 5ddebd17-7513-4ade-9c80-fc1c3ecede38
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.238208891561
+  - 12.055158098651047
+  - 273.36281916620067
+  - -161.23050358984833
+  - 87.53556558827792
+  - -2.364551574356507
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 63aa92ca-0dd4-4b28-987b-7515e8285044
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.23875768727336
+  - 12.054920425092144
+  - 293.9780008158101
+  - -161.16739531868225
+  - 86.1587324486093
+  - -3.875402877898064
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 35405cc3-c84c-4cb7-a747-caaf75847871
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.23911641997205
+  - 12.054169986035017
+  - 317.4783063559777
+  - -160.46503467736193
+  - 82.05446094591157
+  - -2.059271288048238
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 599f222d-227e-464a-8061-132959077ce4
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.23581001412101
+  - 12.052518879425044
+  - 296.3760670355302
+  - -156.7380088799141
+  - 87.30954472196842
+  - 5.551587846781889
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 8a9b74dd-eca9-4526-b9c2-480557500ec8
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.23829113185093
+  - 12.051382350208145
+  - 233.17121185855913
+  - -162.8166048123807
+  - 85.90240278438844
+  - -1.9436182340746506
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 7cc3c2aa-00f8-4774-aed3-13a8ff789964
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.2360381066397
+  - 12.049478593366006
+  - 278.9025069931161
+  - -158.10620290230946
+  - 86.85950463216955
+  - 3.1658420618066048
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 6b474a82-b51a-423b-ad85-1cd0dd65179b
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.23496730420142
+  - 12.047017804716726
+  - 295.70502949345513
+  - -171.84739779484875
+  - 86.69666505028887
+  - -5.513206086950429
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2479a56c-e316-4729-933c-ada0a82b1578
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.23635714833506
+  - 12.045312428858143
+  - 241.87175055323723
+  - -156.51677658329515
+  - 82.4153710237494
+  - -6.849234416263358
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 46060f12-2d48-443e-8835-2090148a0d69
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.23501552495424
+  - 12.04547581167199
+  - 235.54297449235958
+  - -163.2487137871597
+  - 88.1975672771823
+  - -1.0302529598885408
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: bb5f763c-56c4-4d67-a5c6-574b06007726
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.2333086819241
+  - 12.038335246398134
+  - 206.6268741132537
+  - -163.60780206700426
+  - 84.66884473083938
+  - -1.7896391647359917
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: ff22ab5f-b012-42a2-b9bd-5a451e410c4a
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.23275093352646
+  - 12.037720653757642
+  - 203.97990755204168
+  - -163.4818069022941
+  - 86.22109136986467
+  - -3.45039743857221
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: fc91309d-3675-4a3d-bb54-53d240c0fafb
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.23281353191982
+  - 12.037362835135472
+  - 208.00143307387236
+  - -159.60509623917585
+  - 87.57982129481124
+  - -1.5873477551233075
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 76b7a72c-8c99-445b-ba80-c6a2a9b267ae
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.2314905860265
+  - 12.03497385040865
+  - 185.6597489509249
+  - -171.76848011556436
+  - 84.67907449096322
+  - 4.015642564548871
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3311ceec-fa50-4512-aec1-18b2c2d19cf5
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.23223339904004
+  - 12.033505079056175
+  - 169.8188368583205
+  - -166.4600450326082
+  - 85.32182935635089
+  - -2.729318795055601
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 5500d881-31eb-426e-871e-0cbb13cd2f6a
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.2317177842784
+  - 12.033039898382736
+  - 171.31998475369272
+  - -154.26621949140932
+  - 86.19637591940301
+  - 6.843995302422807
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2d9e7063-afcf-438c-be56-d7be3c60afe3
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.23072444183619
+  - 12.029496136221896
+  - 152.60021624927163
+  - -166.48957716691697
+  - 87.27798122311798
+  - -3.5407516817162836
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 55127693-262c-4c40-88f1-0cdb848458a4
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.22858526300556
+  - 12.025248515609958
+  - 108.93247244002825
+  - -161.64511800859538
+  - 87.95360218519718
+  - -0.3953895525689418
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f0dfe831-88a1-4060-a01c-55479c4553b4
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.2289981228616
+  - 12.024736254966715
+  - 128.552998086782
+  - -154.06495286605275
+  - 83.54009146711863
+  - 11.162176621052598
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ffe237ed-2a24-40af-8881-313009f9802f
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.22924821346916
+  - 12.024280638535663
+  - 120.61068338964843
+  - -159.48918643621965
+  - 84.47603379311123
+  - 8.627639637890988
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 1fdff12f-7d60-4715-8a90-d1c4b054a682
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.22809294612388
+  - 12.022503085853861
+  - 101.7075858445418
+  - -161.33646277838926
+  - 84.39835623387562
+  - -1.9428853976216078
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ed67f208-def8-4c73-8f07-55d18ee95890
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.2272684061764
+  - 12.021603007985105
+  - 118.60032800793155
+  - -161.37141800133023
+  - 87.29995973186817
+  - -7.257611469912137
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a05fdbf8-fc55-4b3a-90d1-bdd260aeae63
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.22698493155525
+  - 12.019910904649842
+  - 106.17348286100075
+  - -166.31787236872367
+  - 83.48358447974172
+  - -1.692643500493398
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 7048447a-298c-492f-8533-5d55e581365b
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.22597368211527
+  - 12.01871934852489
+  - 80.14370684930245
+  - -161.17618587540403
+  - 89.910729267744
+  - 4.540293043498703
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c360c0e2-32d3-4ca1-b5f6-fdff44801538
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.22602437267926
+  - 12.01808647383495
+  - 71.27372874674298
+  - -155.79907176030113
+  - 85.64187242325906
+  - -2.784004904417357
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 7ed97f0b-3a59-4285-ad77-7f04c2d3f949
+  airport: VVCR
+  runway: 02L
+  pose:
+  - 109.22590861709376
+  - 12.016834974070841
+  - 74.83077290753423
+  - -155.04518343557834
+  - 85.46509533148345
+  - 8.706512891464541
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

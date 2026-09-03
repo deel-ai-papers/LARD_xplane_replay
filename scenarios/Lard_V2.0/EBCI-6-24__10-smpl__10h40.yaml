@@ -1,0 +1,1078 @@
+airports_runways:
+  EBCI:
+  - '6'
+  - '24'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: b1de47c5-fc94-4951-b078-f8e98aca75b4
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.542461153029658
+  - 50.487098402154466
+  - 490.14848822115266
+  - -119.52681594356724
+  - 83.87998949473877
+  - 1.1002736443424173
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d372ed42-aa36-47c6-a8fc-661717ba7889
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.542786383141903
+  - 50.48612692186919
+  - 501.4665820614712
+  - -108.17832510604467
+  - 87.47684163748733
+  - 2.7463351411577492
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ba60c4a8-55e1-4b9d-8c61-d7644b4ed218
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.5456256693741555
+  - 50.481550492944855
+  - 450.70169215307885
+  - -115.74788730828955
+  - 87.24413056315356
+  - 1.6235204591078207
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9dfadeab-3308-462f-8081-f076fd8e3b90
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.542591506101892
+  - 50.48590769685003
+  - 483.22180564937685
+  - -114.12034157411479
+  - 85.44376781856096
+  - 2.0766377768778765
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: fab0fbf2-88dd-4399-97ee-6df4f8b29ffe
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.5363128876467425
+  - 50.48665598509159
+  - 503.4216886168413
+  - -127.57169719252579
+  - 82.03835571624208
+  - -1.4833785148526641
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 5a19c471-42e9-4198-89eb-749a6529a672
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.538167703569056
+  - 50.4824814344858
+  - 497.11016113945925
+  - -114.61068345909482
+  - 83.59298269964876
+  - 0.08245063494331545
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: dece5fd6-f002-4966-b3d0-3ab591a94ca6
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.535013629948275
+  - 50.486108414321656
+  - 415.1719291213274
+  - -115.36936555733969
+  - 86.31848759079352
+  - -0.133895661680553
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 527dbaac-4377-450f-9191-1e47bafeb746
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.529984683997192
+  - 50.482988388122095
+  - 402.43200000643014
+  - -114.54922182363154
+  - 87.65082608497127
+  - -4.732591327053186
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e5403ed0-6fba-477d-80e4-3afc6af6a892
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.528400649593976
+  - 50.48143387688492
+  - 433.23560159690805
+  - -113.72597988634455
+  - 85.67790681913628
+  - 1.099240420792487
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: fda27be8-9e77-4624-8ce6-e7e4fb09ce93
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.527432385271238
+  - 50.48168761471484
+  - 378.31233216277894
+  - -111.78702306590505
+  - 85.76840818021411
+  - -9.326318161124528
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 8c46b28d-ef5a-408c-8daf-8b36bf2c9ee5
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.5248053359813225
+  - 50.481416273199166
+  - 439.95929159614724
+  - -117.65162718125468
+  - 83.3945785489974
+  - -0.21466192913081816
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f89bc8e7-28a1-40ad-9a82-91240981aeba
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.52487779026185
+  - 50.47980305524053
+  - 467.6138846394323
+  - -108.24734675826659
+  - 87.2096373128232
+  - 4.345994939665633
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2aa4fe8f-8d6d-4d6c-b43d-e48380648e45
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.523685542024272
+  - 50.47805393048289
+  - 386.5626900347176
+  - -107.64880292471494
+  - 87.99194251204173
+  - 1.0399373843636515
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 9e4d3fd0-e793-4656-a057-9393e582e24a
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.517454245893708
+  - 50.48038381373217
+  - 384.74709967903846
+  - -122.49068235342769
+  - 90.07546113163822
+  - -6.9461035468985655
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 6317364e-01ec-4f4a-9bdc-5ad0418ebeab
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.516505767307531
+  - 50.47864823066964
+  - 366.81734409031833
+  - -121.16208631352775
+  - 85.85150634233003
+  - 6.188302705975587
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: e29ed86c-bc21-4a2f-8ee4-06ef107689e7
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.514539641199418
+  - 50.47866020282825
+  - 338.94043273007605
+  - -118.43192069403021
+  - 83.90672674972166
+  - -1.8187226465601556
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5aec5ab5-6365-44cd-92c9-f3846826ee6b
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.5126303561407095
+  - 50.47925789895169
+  - 380.2639929581255
+  - -110.8326041371468
+  - 87.37711572041437
+  - -3.986244303712185
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 71abe20e-6896-4b5d-b750-89fbdd7444c6
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.51211561215094
+  - 50.478258264435325
+  - 369.39545003702455
+  - -117.74190535041659
+  - 84.42728526405628
+  - -7.24492071250947
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 1d3bdfec-b818-4a68-8345-032b99f2c7a1
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.512299301222404
+  - 50.47716794463551
+  - 383.1835048672914
+  - -123.12895739734849
+  - 84.68336365031027
+  - 6.5048576837172565
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7955e1da-23c3-4c32-9eab-120aeece6b6e
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.511973728263451
+  - 50.47746542930634
+  - 374.3880358909148
+  - -116.4508759567379
+  - 84.28166636813853
+  - -3.32862481061428
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 992e19f2-fcd6-4fda-9d40-99c2c9b6de89
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.501064345564097
+  - 50.474163750141365
+  - 331.44355802116013
+  - -112.45136441028882
+  - 87.65940408200875
+  - -1.683850023670844
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 2f2bcebd-2a2a-4392-8149-d80ba96cd5da
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.494423395749873
+  - 50.47234019625646
+  - 306.03822297877855
+  - -101.71870741977911
+  - 81.5601507317319
+  - 6.980071120740856
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: fdce99d9-f758-4a99-aa8f-8f92cd87f06e
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.491641854637606
+  - 50.471685650299676
+  - 269.02556596913803
+  - -109.48321121429257
+  - 86.6172967674704
+  - -6.163972927219317
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 34569692-a19d-499d-ab13-a735a3b94be5
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.4911601687492375
+  - 50.47088974784993
+  - 269.45763353403123
+  - -117.8254602322494
+  - 88.71775789662469
+  - -6.3693549277709804
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: f3abdb7e-4eb4-403c-a441-34e946bf38d0
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.4869114776022885
+  - 50.47021382868038
+  - 265.64106732037027
+  - -116.21220650273253
+  - 84.16995788841461
+  - 3.042124140347171
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: dcce1611-7711-49db-9d67-62042256f519
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.479889567740093
+  - 50.46777478452498
+  - 238.3671431370242
+  - -116.80676578308183
+  - 84.28810672012494
+  - -1.5376191645681034
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: fac7900c-392f-4372-b391-916a7765e460
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.479151704379321
+  - 50.46778901786702
+  - 231.63228450269452
+  - -120.332252640293
+  - 86.30828775491482
+  - 0.708562327478268
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 3ad029f0-6cb9-43e3-bc64-6a305df487a4
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.477934590145269
+  - 50.46765372781735
+  - 211.45846638836235
+  - -110.71528881339593
+  - 87.75259426584097
+  - -6.089970145594881
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 671f8bb0-371e-4d56-bc02-48fe19d52282
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.477074412852932
+  - 50.46697871600308
+  - 226.1475803644656
+  - -111.9840852828013
+  - 83.93865744841128
+  - 2.5358521376844294
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 0e28c178-a170-47f3-bfdf-efd41a484313
+  airport: EBCI
+  runway: '6'
+  pose:
+  - 4.475948567509682
+  - 50.466337119745646
+  - 210.21063833628992
+  - -126.25966694290479
+  - 86.01416823808061
+  - 0.8406601524926702
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 25bfd626-32e5-4fdc-9782-5aa05319e1f3
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.366571333452339
+  - 50.43518239300697
+  - 605.280986045587
+  - 62.91782017671524
+  - 86.36127726998002
+  - 7.279103380262077
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 007ddf56-2c31-43b4-ae46-ec89509c5c3e
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.366503895494857
+  - 50.43558046336214
+  - 484.173225140692
+  - 62.98762875941902
+  - 86.7280291838736
+  - -0.2979481898359251
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 188c4105-eef3-4116-9e7d-86748f16ac25
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.371696077397515
+  - 50.43819060181924
+  - 467.604901565324
+  - 67.04686605061659
+  - 87.38390438223902
+  - -8.453344363824888
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 3d19c419-e449-4cc3-93ef-85f180fdfde8
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.371090757504956
+  - 50.43974999645686
+  - 438.43475589460934
+  - 67.25836473314548
+  - 82.51347525703376
+  - 0.9747944636552677
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 0c5e616f-318b-4450-9b9a-294fe0a512ea
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.373261710475511
+  - 50.43783129529338
+  - 436.3227907212238
+  - 68.71209554765879
+  - 81.73484276437114
+  - 5.8366749224335726
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5cbab32e-4dda-4ed0-8c4c-604f6704c986
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.376702839386822
+  - 50.43823218731333
+  - 458.01135217549273
+  - 59.93760009038332
+  - 84.66538244861397
+  - -6.29303043260964
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c5d1c5ff-286d-46ad-82b6-20c61603d49b
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.377912830753143
+  - 50.43940213300306
+  - 397.8008204369317
+  - 69.34115489723723
+  - 86.8319507281665
+  - -2.5173176329026297
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 29fa5fae-d018-41ea-af32-fa26ea1df496
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.382214480813688
+  - 50.43617333731958
+  - 430.4225293948004
+  - 73.45073026877469
+  - 86.53948124795951
+  - 10.666789535098948
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 07664b69-a9c7-472e-9801-82da94f074fa
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.3820542821971635
+  - 50.44037548151738
+  - 494.2130726255063
+  - 71.57362523003125
+  - 86.28700399395191
+  - 8.17946534360517
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c0666c41-5a9c-4733-8f06-41991a8e1e02
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.382846205203295
+  - 50.44205912989903
+  - 453.6580519382886
+  - 66.39936171978974
+  - 88.03435906621128
+  - 2.4781324821027724
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 6d52fc3c-66ae-4d43-a405-a9105df99f11
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.384604010220144
+  - 50.44112061321308
+  - 423.7603685409731
+  - 68.45351370638559
+  - 85.37316878578609
+  - 5.755411461710081
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 44524bad-d223-4d67-be11-bdcfb01d82a6
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.396191225909795
+  - 50.44295473165281
+  - 442.43080754021014
+  - 67.93132889507288
+  - 89.36500915193412
+  - 4.628022984292922
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: eafc178b-aef1-4c2b-985a-1d1fb9496fd1
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.398558417964982
+  - 50.44471904244894
+  - 417.60767882626953
+  - 69.71637451506787
+  - 86.5849613988272
+  - 1.3739089387283518
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b6477361-4522-4756-b205-253724e823e4
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.400624615293888
+  - 50.44244240417192
+  - 342.4990567413837
+  - 65.26007168868034
+  - 83.38836550831108
+  - -6.322335027954854
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 17b931d6-b272-4e9b-ba96-1008c5093f71
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.402352986523534
+  - 50.44592816333968
+  - 394.7084256203184
+  - 60.01056908961808
+  - 88.55807160335223
+  - -6.6039984290232345
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 69ba30c3-2ae8-4fdd-b10f-471656d3eabf
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.405501500446875
+  - 50.44703668078377
+  - 370.12528592512325
+  - 62.97510545576295
+  - 83.72643537847354
+  - 1.1868303062639132
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: f3038988-a1c5-4d0b-a60e-7124e62e12d3
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.406927400078082
+  - 50.4463379078699
+  - 321.9659632646559
+  - 63.80976737424874
+  - 84.5138801462412
+  - -5.529714610159267
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 48072109-6ab3-4bb9-b4dd-da1a7300bc02
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.409899106841432
+  - 50.44664251634207
+  - 319.5427041363997
+  - 62.92011344357689
+  - 85.30189387855785
+  - 6.565699629935844
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 49563cc9-16c1-4ccf-9408-612eed036c81
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.4104888050985105
+  - 50.44682017104541
+  - 329.1965781270188
+  - 67.85340231120112
+  - 86.99597584315887
+  - 2.564503609244701
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 5a693f8f-1c3d-4e7c-9885-a0aa3a8dfd0c
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.411137478857094
+  - 50.44644665381557
+  - 306.0202093068628
+  - 62.3032755842696
+  - 83.66218512106609
+  - 9.070350295542976
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 8c6ffb93-f9b9-4dae-8df4-c7b524bb9eb5
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.411154437918112
+  - 50.44834474380894
+  - 333.7499148051111
+  - 74.86127219754168
+  - 84.58220638968422
+  - -9.705905033153337
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 137cc552-4d00-4396-b603-97f43c5db815
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.421867424253298
+  - 50.45130363608717
+  - 295.4632235397777
+  - 66.30231761800107
+  - 86.9897683899822
+  - 0.16862311857390783
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ef226aff-e109-4f06-a142-c7a1c1e4d2f0
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.427254455048908
+  - 50.45239127984492
+  - 271.0279982320434
+  - 77.70620422298367
+  - 86.08157889962585
+  - -3.162809801293032
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 56fcebc5-f523-409b-aba6-f33116f3c891
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.427912519947618
+  - 50.45255521194859
+  - 265.3535550781268
+  - 64.30636711524606
+  - 85.21600657141242
+  - 11.175896164072057
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9cd96784-0b1e-463f-ba89-6bbead853e4b
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.428549895976125
+  - 50.45257301781273
+  - 255.8863150518353
+  - 59.03001608309147
+  - 84.66115824217762
+  - -9.380991599830452
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: cea6077c-503d-4951-84e4-6dc3d157d4d2
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.430157725035055
+  - 50.453033302977964
+  - 244.30701876360732
+  - 60.19320624832348
+  - 84.8486280464373
+  - -0.7200780468420145
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ae003b8a-16f8-42b0-8679-263072ce7d48
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.432274946835317
+  - 50.454485217503404
+  - 239.5713466020801
+  - 63.968669975693565
+  - 87.63637020839764
+  - -2.264487239997905
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 14871f95-054e-4983-9236-8a31297642b2
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.433857221000775
+  - 50.45455415649738
+  - 250.37695316737333
+  - 65.60260449028057
+  - 86.49195732900884
+  - -3.670481938177042
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e5399128-eb6f-4181-a467-09d625451078
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.434730754517489
+  - 50.454459708867766
+  - 219.58513398798223
+  - 64.22036502004889
+  - 86.85965052279364
+  - -3.656392448148849
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 8d244127-dc07-4ddc-a914-afffef937cc6
+  airport: EBCI
+  runway: '24'
+  pose:
+  - 4.43874310990721
+  - 50.45583606125673
+  - 214.42694540352548
+  - 69.59711925090141
+  - 87.53471884476154
+  - -11.642925590299637
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

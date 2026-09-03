@@ -1,0 +1,1078 @@
+airports_runways:
+  VABB:
+  - '32'
+  - '14'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 0cf8df4d-f4c5-4f81-96e2-68a968f45da8
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.81934729913367
+  - 19.133472254166154
+  - 252.44791141093918
+  - 133.6670226346887
+  - 82.11980392854562
+  - -5.2425273143781395
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 8dba7a4a-bc53-4392-af26-474511084d88
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.82121644021937
+  - 19.133567110709176
+  - 396.7200807276417
+  - 141.45135651434944
+  - 89.29750156411335
+  - 0.2404969396595037
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: b217d4df-800e-4ceb-885b-e66ecfd3f3ca
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.81924586303747
+  - 19.130037895101346
+  - 377.3107113564525
+  - 136.45775222730754
+  - 82.52635418684272
+  - 0.5251841810149196
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: aa059373-2b8e-4290-9a2a-f8d5f22d19a9
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.82174006231907
+  - 19.132093751420268
+  - 408.00909475909225
+  - 140.73159258158464
+  - 82.35054653591813
+  - 10.270422581529496
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d0ebeabd-f0d3-41b6-a5ae-180591eb2eb8
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.8241520045055
+  - 19.1292328131976
+  - 306.75978905248064
+  - 130.93372770810157
+  - 86.0324192464328
+  - -4.666049711334809
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ea6ea768-cfd0-4c10-90f2-9efb1f8ed4ca
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.82529794222825
+  - 19.127264688445837
+  - 304.2004132116749
+  - 137.68503915476518
+  - 86.26628356513413
+  - -12.043021115233064
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5a8cfbe1-8776-4c12-a4ba-d687b2823186
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.82510587326088
+  - 19.12543619031207
+  - 274.28433191475006
+  - 133.4030375011045
+  - 83.89004012670351
+  - 0.9615596898564649
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: cedb86b8-8e4e-4b90-901f-a63bad2b3640
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.82777406986024
+  - 19.126391161203973
+  - 287.39268454380937
+  - 137.6597195558736
+  - 84.33474606490331
+  - 5.324940983815734
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: c2cfb0e8-8122-407f-9185-9482132b8fa1
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.82737912134185
+  - 19.12545898051719
+  - 280.97264066572933
+  - 140.38186224680766
+  - 83.76942295849173
+  - -6.57436615289118
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 988274d1-0a3e-43fb-8b2a-354541853b62
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.83039087011258
+  - 19.125507934798524
+  - 359.65201951706894
+  - 130.9052102719866
+  - 86.363588559983
+  - 2.658043408068855
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: d3983f83-da5e-443c-8bdf-9fe881e1f2d8
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.83025510910039
+  - 19.120475909532825
+  - 289.90073338068566
+  - 129.99176776334232
+  - 88.96512721976787
+  - 0.21402159818661826
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e7b2b5e6-a30c-43d8-99ec-85a759e4321a
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.83161472915059
+  - 19.11945367004219
+  - 253.10499861880993
+  - 137.52975140189955
+  - 89.12908549036877
+  - 7.82352174115214
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3451c62f-5ab5-429b-8468-fb7bcc219044
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.8334590519197
+  - 19.12015578652273
+  - 268.84800132674513
+  - 133.01192574362457
+  - 84.85821145935574
+  - 4.264480740782069
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 1af08bb7-02e7-4c7b-8a50-e9f090f93f9b
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.83663326992315
+  - 19.117710536413863
+  - 220.24736099965443
+  - 134.30138942964436
+  - 85.17115579990745
+  - -1.2907701921595995
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e9737682-f694-4a5f-b992-7e7cb83b6a6d
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.83934977613846
+  - 19.118017784989668
+  - 224.41968952683186
+  - 137.13996730698943
+  - 89.00930318531249
+  - 9.903213928029649
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e9468167-1def-4bb9-bb15-c2e251813fb6
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.84062493992711
+  - 19.115427250432656
+  - 207.8101348055794
+  - 130.39340896916042
+  - 85.76485598935774
+  - 2.1420979191102276
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c28bb1a1-8ac1-4664-9ab2-5bf74e7033ff
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.84202240738058
+  - 19.11282481665759
+  - 188.2675510146164
+  - 134.85989065417832
+  - 83.65505434239032
+  - 1.839805064635195
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 5853c132-c968-4a89-868f-3dd3bd197cbb
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.84341669355493
+  - 19.112993549396105
+  - 222.2475011971139
+  - 136.59684573853852
+  - 86.41243575037912
+  - -4.389100630978364
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: f03e6866-65f6-454d-9fe3-31c7b5cdddf7
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.8433347658946
+  - 19.112501488904687
+  - 157.41097450821363
+  - 132.05231675261268
+  - 85.40148249847937
+  - -1.3045069920026433
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a04705e0-0543-4f1e-be4a-d19f84d27c04
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.84250080243207
+  - 19.11142753998195
+  - 144.68585275890132
+  - 133.99908731815054
+  - 83.11119503258072
+  - -3.9117996467817613
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 9a748c50-0c7a-4227-be61-a67341eb2b97
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.84408609113686
+  - 19.111115415268177
+  - 204.69641324045375
+  - 139.56977058417937
+  - 86.87404818343802
+  - -2.18278731037369
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 273236c4-2646-4580-a300-2ebf28f37fc8
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.84328081940419
+  - 19.109626408475823
+  - 176.05344311344348
+  - 141.0352184292864
+  - 86.71063809588037
+  - -0.3205873857710172
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a7e3d9e3-33fa-4ce9-ba79-c7b0b5c33a71
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.84832647349154
+  - 19.108030749901523
+  - 141.60699918371108
+  - 137.40985976358618
+  - 88.06184464093235
+  - 3.55958795414407
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 0f72243b-d8f6-40d5-9e22-763e2522bc21
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.85160960118125
+  - 19.103423563595374
+  - 89.21965504823213
+  - 137.93992276204713
+  - 83.77736577103796
+  - -3.3994731351142846
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 6fe2953c-4a73-4438-a8cb-8dd0ab15d886
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.85208946002926
+  - 19.102565465485725
+  - 106.3468769647296
+  - 134.2066215201238
+  - 84.09864160623376
+  - 3.2901574205703583
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 6cffb1ba-37c9-47d7-8648-eee330ec932d
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.8530237423431
+  - 19.10238483928077
+  - 88.40405863148534
+  - 122.24360489403712
+  - 88.26385128947739
+  - -1.7495473450815928
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c06e0cee-cd03-4719-a7d4-cbd968e949b9
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.85522924315184
+  - 19.100208738045513
+  - 67.53822599459443
+  - 130.65700960405323
+  - 88.01850790807097
+  - 7.546406241553507
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: da3e9eb6-753e-495c-9775-8fb7714bc10a
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.85593176881257
+  - 19.09980595063491
+  - 68.857776603741
+  - 135.78536652401806
+  - 85.73573794014537
+  - 1.9636322507372084
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 58042ef4-f435-43ba-a7ad-637fef239fd9
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.8572071254762
+  - 19.09885826118411
+  - 68.18851690186347
+  - 133.5257889276678
+  - 89.78189905180622
+  - 3.788234761563454
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 3b26cde5-aff4-46c8-b465-c7bf2beca8ef
+  airport: VABB
+  runway: '32'
+  pose:
+  - 72.85802163704419
+  - 19.09774736395589
+  - 53.92333186450371
+  - 130.70533440276884
+  - 86.84398741695286
+  - -4.260485210867454
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b0487348-864e-4e1b-ad17-c782feee4acd
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.91555845079652
+  - 19.044201456096438
+  - 273.29304347902223
+  - -36.93788298193125
+  - 83.49106336687532
+  - 1.1336284277938211
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 07f9cee7-05d8-41b0-ab37-c4bf7cb501af
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.91603852090924
+  - 19.04590991450372
+  - 405.9240869927991
+  - -55.01896081700836
+  - 83.17371862042565
+  - 3.4762788097402946
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 60069580-3aea-43e1-8517-cc10bb248b9e
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.91368184124967
+  - 19.046728632061022
+  - 320.9637449737139
+  - -43.023793024446114
+  - 85.87963216240108
+  - 8.866512271485135
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 679cfb0f-4c45-4ead-8287-98f13f3a3b6d
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.9124713943029
+  - 19.045663127779996
+  - 350.06726869957697
+  - -51.192611510330835
+  - 84.74777821467717
+  - 2.9769097292874362
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f08aec17-d9f6-4f34-91e6-8709ba5270a5
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.91435465479444
+  - 19.049213847220656
+  - 360.89344588676914
+  - -50.56374714214008
+  - 86.39890427611935
+  - 8.343337605626218
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: b3ca4f16-2d2f-4560-9b93-f18f47c6f8d1
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.91172703375003
+  - 19.04758114545623
+  - 300.966806088886
+  - -37.88514366130412
+  - 83.46301098396223
+  - 1.1204181453345952
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: bff51b10-5fcb-4c3b-a87d-81a0ba201380
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.91180794051598
+  - 19.048383905893623
+  - 290.879951870398
+  - -50.27326650022321
+  - 83.25082006329737
+  - -5.0916940500512995
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 91b95889-56ba-4f0c-a6d2-1c769718bce2
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.91145345776133
+  - 19.05199027043244
+  - 342.60141834253443
+  - -46.17235376760781
+  - 87.38511395228589
+  - -4.5849478346844466
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: afb12fd9-7806-4a27-974f-3f8f33e7229b
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.9087351604277
+  - 19.04969552938185
+  - 310.08178860224706
+  - -56.78820100432913
+  - 85.46638648344867
+  - 7.628354280006141
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 1652cf90-ca44-4943-8a37-dfd163bc08c8
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.90773667873218
+  - 19.049499502061984
+  - 251.85568039734378
+  - -35.05496859833411
+  - 79.88200373138275
+  - -1.7737848680025121
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 4a1ef55b-4873-4acb-9ad1-1f669be28f54
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.90403369797231
+  - 19.053121482116023
+  - 265.59808233852164
+  - -45.948526974254484
+  - 83.87430612458456
+  - 4.58793292626165
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 790b5f63-5ab3-488c-bcf0-93eb39e5af9e
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.90606250403242
+  - 19.05720706269639
+  - 256.59579800060965
+  - -45.88553941835698
+  - 82.19450025379238
+  - -0.45224549947848075
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ee2e7233-7a88-4037-ba9e-ca234235437d
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.90129483436932
+  - 19.056738157074165
+  - 236.50776215955932
+  - -35.157944230100206
+  - 84.96708092796715
+  - -1.789443687072837
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 5e706c35-c839-42f7-be66-e59603d6825e
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.90222968158434
+  - 19.05835971492546
+  - 223.80466714553603
+  - -36.87040559705862
+  - 84.47528067395338
+  - -4.941995405350627
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 51a30da1-d21c-4536-976c-958c39e3345c
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.89989316684445
+  - 19.058498719362984
+  - 233.52133709017127
+  - -53.094511929569045
+  - 85.49287685788778
+  - -2.7434277165541374
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 142745ff-4b25-4bb6-addb-03da35976d7f
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.8997616105586
+  - 19.058655997249026
+  - 236.00931104538404
+  - -46.41761949565731
+  - 89.7823955787662
+  - -1.4642266419198036
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: aac741cd-1d68-451c-99a7-5283cabef428
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.89898605576656
+  - 19.061228445482577
+  - 199.34745765347142
+  - -37.518101167535384
+  - 86.02348176230299
+  - -8.68865161104163
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 75073f5d-b625-4156-b703-2585c2929e31
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.89687554219788
+  - 19.06001409512681
+  - 203.69272211488973
+  - -43.04500538652749
+  - 85.07935970334168
+  - -0.3495187965963571
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 239def20-41d2-4780-be3c-f24c3d99b464
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.89827920278734
+  - 19.062601800551434
+  - 201.75032628176479
+  - -51.1133496540225
+  - 86.96280520980858
+  - 7.783093416942225
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ce4838c5-7417-43f8-97a9-53a881a99ba1
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.89688952609337
+  - 19.063510866770347
+  - 216.8397625826793
+  - -48.432600489593774
+  - 82.94615346028199
+  - -3.93548712137497
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b925abea-846b-42be-9c3c-1ef41f58ec50
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.8893134601899
+  - 19.068234426854684
+  - 123.44291354510086
+  - -37.6439809864728
+  - 86.19560688458573
+  - 0.4858171244257079
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5efee1f9-41a5-492b-bf57-45f0983c3105
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.88930995416132
+  - 19.069862046807494
+  - 145.67716014783852
+  - -42.784155847886765
+  - 87.45777002437055
+  - -3.9677177443977225
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: aa55bb5d-b656-46f5-b443-b444ca1be03f
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.88690497893877
+  - 19.06904236801477
+  - 127.18185814593993
+  - -38.1885642907629
+  - 85.16557492448213
+  - 3.0990737990469013
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 05ce015a-87ac-4bb7-8d12-a900f943f706
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.88638080363805
+  - 19.070212888062056
+  - 154.917729622392
+  - -55.28086378797354
+  - 86.28959844681576
+  - 3.0302825459313265
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 51706fd6-71dc-4769-96aa-52838f767942
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.88335342636
+  - 19.074704474169017
+  - 90.3540457930106
+  - -40.43873099860575
+  - 85.7077995216636
+  - -2.571233420905825
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3d20dc31-aa75-44f7-b84e-9576d3fb1dd7
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.88214821532883
+  - 19.07569412456838
+  - 96.11204959401216
+  - -59.642241611777294
+  - 81.40988324201403
+  - -10.80190948268015
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 6347f61e-73d4-4691-806b-fb9f758afd08
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.8797921215685
+  - 19.07782488833233
+  - 73.05003032645442
+  - -46.40458581829423
+  - 84.57753845215292
+  - -3.9338729490866315
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e4cf1409-6eca-48f1-ad6a-8fa249de3990
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.87854881821981
+  - 19.078968168076972
+  - 62.78130322148953
+  - -46.512679207590736
+  - 86.85472432311664
+  - 3.3500151843268178
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: bd2b513b-dd07-4767-be99-8fe3b259d16c
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.87832401692845
+  - 19.07887405324026
+  - 60.03230668775102
+  - -41.28608562341925
+  - 87.34025086241049
+  - 2.639400577292164
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 910f0ffa-ca68-4244-be46-36a390bc5247
+  airport: VABB
+  runway: '14'
+  pose:
+  - 72.87735439063138
+  - 19.079950676202216
+  - 52.60262349562517
+  - -46.67769963535467
+  - 85.48892128468904
+  - -0.37433116716195364
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

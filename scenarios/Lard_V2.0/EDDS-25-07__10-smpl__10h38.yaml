@@ -1,0 +1,1078 @@
+airports_runways:
+  EDDS:
+  - '25'
+  - '07'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 4856155f-0c72-4074-a712-85e89936f2b4
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.129902044613958
+  - 48.673042049366565
+  - 721.0739375519586
+  - 80.09373052918906
+  - 85.30174821595546
+  - 9.536059320358198
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 913c0ac6-1a1d-4b8a-a8fd-e49c559da463
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.133471467897152
+  - 48.67068220293367
+  - 730.3709811127136
+  - 66.53175707020777
+  - 80.86484499743389
+  - 0.38880535341780953
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 9509f2da-cf51-45c4-bbfc-96723f877149
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.13256758137436
+  - 48.67324975547731
+  - 685.5175694577174
+  - 72.98882182998013
+  - 85.34634525829503
+  - 2.9619856656215484
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 3fd03be6-9551-4a41-beb5-6f602dbd1f7b
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.13475390103144
+  - 48.67380247764624
+  - 704.0752755958508
+  - 68.339551411114
+  - 84.17148626839557
+  - 6.734116056471208
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 11e6f3b5-f4f6-409b-a7c4-714b280b9a91
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.1383309453408
+  - 48.67230593520883
+  - 688.6255069109478
+  - 76.28834472308031
+  - 88.53738100999377
+  - -1.3401924904666809
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: dfba28e9-6f47-4308-a80e-33c4b47e2d23
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.137693688668389
+  - 48.67480300045351
+  - 689.9047399788149
+  - 75.81852912686591
+  - 80.92340936596167
+  - -4.112513382758117
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 9ba6c355-a6b0-48ba-b706-d67162a4524e
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.139756596087587
+  - 48.672958636298844
+  - 647.1848167086644
+  - 78.07636281415868
+  - 84.7247873953946
+  - -0.9724811056922013
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 13c32bf9-ac68-4405-9f73-a4a29811b50b
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.14023144168423
+  - 48.677685284143216
+  - 682.5077697070335
+  - 80.71625565009504
+  - 85.26472531053417
+  - -4.905479922478864
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 9636cf86-dcf4-46e8-a965-b0c2e88ee6a9
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.14336007076401
+  - 48.673928621574674
+  - 660.6774989552047
+  - 78.98243877281809
+  - 85.32356916806847
+  - 1.7080923286237848
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: d20f29a3-1524-41ca-97f4-4d5b37cad1e4
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.145138324005456
+  - 48.67387408051307
+  - 596.3944311897379
+  - 76.81065353221518
+  - 87.44372410410158
+  - 1.1470414991828912
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c255cdb1-b147-477b-9aa1-b52a3bee5e32
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.156077199048335
+  - 48.678033497147815
+  - 584.649043578585
+  - 69.44580137092584
+  - 86.91497668019059
+  - -7.728058515928296
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: d74183d8-023c-47cf-9a58-0390c8220d2a
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.15682014156285
+  - 48.677114019973075
+  - 608.7968291880087
+  - 82.69771326594963
+  - 84.8664630904118
+  - -0.6704548670066719
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: b9c4c187-1fa5-4101-873e-4396f9f2525a
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.157762675469
+  - 48.67659628808993
+  - 528.1649892545381
+  - 71.45532989663991
+  - 86.06351999566449
+  - 10.859687261390468
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 23dc73d4-a1d0-42f2-b30d-3fb055036463
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.158187290349815
+  - 48.6786525191869
+  - 544.0794681576024
+  - 81.20316631402243
+  - 89.01843738097142
+  - -2.0450239296876607
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f1c46056-075d-4de4-96c2-674b917d029c
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.162453251609303
+  - 48.67851898124549
+  - 568.8346567982503
+  - 77.76650263953393
+  - 84.74005912140301
+  - -7.588177410854637
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 02fb95eb-049a-4569-9164-bbb5bf2adf9a
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.165581022312201
+  - 48.67787502247884
+  - 556.6442285832225
+  - 69.00727827369482
+  - 84.19866098588766
+  - -0.2379361742298517
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f6d369af-268b-404e-85fd-d655d156fc30
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.165258384582883
+  - 48.678715187865315
+  - 590.8546070521683
+  - 79.02615759627632
+  - 86.02412959567215
+  - -0.3175704873898184
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 6c696dc2-7a41-49fa-9d77-92c5459aea06
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.16623365996133
+  - 48.67968883702253
+  - 519.3432822410621
+  - 73.79707618756667
+  - 86.09554629915858
+  - -5.697188149680179
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ef0bde1f-59b9-4bc0-9bfb-8f94c1074c64
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.167703440954051
+  - 48.67942784364365
+  - 539.5617289016325
+  - 68.28143921302089
+  - 81.10970988386237
+  - -3.303192666516833
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c69e877f-5a28-4abb-a6df-9ce065dd699f
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.170878017142172
+  - 48.68108781361069
+  - 496.37278754287695
+  - 80.16195149133448
+  - 86.05887743194594
+  - 18.077082173118768
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a6408f41-97c0-4c5d-bf18-05ff769a4f1e
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.180811548605648
+  - 48.6822198292764
+  - 507.6717877726712
+  - 74.94302057553065
+  - 83.83219092006975
+  - 1.1248499190283512
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 336435e0-c822-426b-8d1f-69908f6b1eff
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.181169079970552
+  - 48.68188171615663
+  - 481.2078732660284
+  - 76.81576654830826
+  - 83.37150489583327
+  - -0.33423118047189193
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ed1404c7-a7b6-461e-a48b-4cda6bcd0d32
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.183273177739295
+  - 48.682459056795
+  - 500.0922355050354
+  - 77.63181835614675
+  - 84.84046654487538
+  - 0.9800694885536233
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 04ff59cb-4458-4e13-beac-008d1b18d423
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.18462490253604
+  - 48.68389945334377
+  - 480.72920483918125
+  - 75.41306345888636
+  - 83.70193438375931
+  - -5.387930737285096
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 090f1928-5463-4847-8e1a-97798af9ede7
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.192222164499817
+  - 48.684241148936444
+  - 451.50642085184666
+  - 77.22343108651216
+  - 85.67921365145367
+  - -0.077470655602441
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 7a3fe827-366f-4eae-b00b-278925b84213
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.19226673285419
+  - 48.684210603457366
+  - 445.47541615543497
+  - 73.69218491929101
+  - 84.57363335900348
+  - 3.2672666933754173
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: f81fe97d-5660-4898-8b88-77b997c06f9f
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.194841780722813
+  - 48.68502983748053
+  - 437.1773169998328
+  - 78.49619149823027
+  - 86.97385672448534
+  - -11.263238431796909
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 454078bc-066d-414b-9c75-955e57018a86
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.19709214167446
+  - 48.68551346445265
+  - 435.19763921553715
+  - 75.85255127754793
+  - 88.89434234725195
+  - -2.939729348502054
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ccf4617e-81a2-414e-b9d3-c6563ae3b89f
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.198126868102085
+  - 48.68528448473029
+  - 422.61753262416727
+  - 73.06998650549784
+  - 85.6874426908276
+  - -6.480753570143117
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 650ccb96-6929-4c2b-81b4-6bba50486ccd
+  airport: EDDS
+  runway: '25'
+  pose:
+  - 9.199968979339138
+  - 48.68572987193185
+  - 414.21100418426045
+  - 78.79171634083916
+  - 84.6995030137145
+  - 0.016238901610075143
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 5d810f09-a331-481b-af96-c9ff48c73953
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.322231368652412
+  - 48.70779179153823
+  - 716.8345102761109
+  - -103.26323483241305
+  - 88.73429181221968
+  - 0.311056999829702
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 195355f0-33e5-4e7f-a89b-e18a235e1752
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.321237849185813
+  - 48.70910392544203
+  - 626.5440238833999
+  - -103.63621733033342
+  - 85.48606702600802
+  - 3.2913702545990957
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 71710176-ee2c-4f92-a912-d09411cda4cb
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.318953825763817
+  - 48.707049817237625
+  - 656.186057448957
+  - -100.63859356847814
+  - 84.15557817044866
+  - -1.4296599672413177
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9a556e42-6063-4338-bf45-10228f63ffe8
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.315926866946452
+  - 48.70806456973087
+  - 707.0039575909265
+  - -119.59241600264602
+  - 86.85202706284873
+  - -5.526325629216179
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 9b548a84-389d-4b98-91db-69c4bc2fdebc
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.309770972136757
+  - 48.71121607408336
+  - 686.030882088738
+  - -104.81214315054189
+  - 82.8967553358164
+  - 4.549899620430992
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 7e0a8332-6822-4887-8226-896f72ff1cd8
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.311438957821487
+  - 48.70716610440558
+  - 624.9352601334306
+  - -110.58716434010354
+  - 84.30388424323846
+  - 2.5449398071575766
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 9d13d7dd-0889-4d33-8f85-2708e5c59af5
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.306462643538556
+  - 48.70552826260517
+  - 634.7350155631857
+  - -111.97076658245456
+  - 88.86330467868731
+  - 3.6964651877678394
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: afc3d56e-b3cf-40bd-abdf-87a4dad26d8e
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.306460131597195
+  - 48.70467274129623
+  - 649.3038080951093
+  - -102.31600101697317
+  - 85.21133242526456
+  - -11.478224005091928
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 449f75bb-5918-4e7c-be73-1558defcab1d
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.30463683016997
+  - 48.704238795051666
+  - 647.6673368815865
+  - -112.84819726756707
+  - 86.29606945169144
+  - 3.284702411532021
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ad472d4c-9ed7-47b8-958f-779bead812b4
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.303634622367566
+  - 48.70604053988493
+  - 661.9070737146897
+  - -117.8276416421829
+  - 88.28092514764373
+  - 0.7728856641326632
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a4a769f6-efe3-4adb-b97d-99a048d9c9d3
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.296301639965636
+  - 48.70362347920516
+  - 608.6736342528997
+  - -112.8489968372061
+  - 87.83620177252286
+  - -4.910777846802712
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 5b7e8fa5-4a7c-4210-a7cb-b7c7ec564a62
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.292266367787326
+  - 48.704538742737
+  - 568.8988771779315
+  - -121.2135299678456
+  - 88.03785452996465
+  - -3.0346634890526696
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 9299c402-385b-4d66-89c3-57353d8193b7
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.29194980727925
+  - 48.702132004921474
+  - 531.4628910307284
+  - -103.089150754937
+  - 84.69037436432126
+  - 7.794404029208744
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2aceeb18-c3af-4564-ba1e-9009d00f58bb
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.28490532219192
+  - 48.70142790616357
+  - 521.0623893912183
+  - -104.84146190158097
+  - 86.01644580647545
+  - 10.36824755520653
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3e3c27fd-f72c-46fd-beee-172c4fa41c34
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.282820723388042
+  - 48.70141963604454
+  - 492.7865635654606
+  - -101.97996833908691
+  - 85.91070923713887
+  - 2.7535943098160205
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 800c1726-1d39-4eb5-bb47-f73fde3adde3
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.280227826131396
+  - 48.69945707886677
+  - 472.6860674965398
+  - -100.83413839547283
+  - 86.8223686846735
+  - -5.621436716616456
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4afd7366-d1f4-403f-a515-9846a57294a9
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.279893257588645
+  - 48.698806075379565
+  - 535.25215250002
+  - -108.64591101125478
+  - 83.64377092979502
+  - 2.6253466481507903
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 9de0b2f0-e6a0-4f1d-bb3e-4bb51b4f31c3
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.278664313635288
+  - 48.70033082932093
+  - 526.2206677957738
+  - -113.47729800026967
+  - 86.3396309496386
+  - -4.424444876595658
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 8ed48dc8-66a6-4b9b-ad45-fe6b8759fcb8
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.27599568428293
+  - 48.70172818446721
+  - 523.6988099320364
+  - -106.10372091253093
+  - 90.2201486384515
+  - 0.07060800611665434
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 618b7847-97c7-4955-838c-4684a774ebc2
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.277034553232859
+  - 48.69939368479563
+  - 538.5596221390508
+  - -108.10492309020022
+  - 85.81191845543178
+  - 1.9271942822316919
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6d0b29ff-05af-4f91-85d4-94deccad5fc2
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.275613652152135
+  - 48.699700460662
+  - 473.54650882249615
+  - -100.25094711358894
+  - 83.7002019504969
+  - 2.292644769778516
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 22c0a43b-982d-4c2e-86e5-97b47b34418a
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.272787395715484
+  - 48.69942105438581
+  - 489.75063107492207
+  - -103.65937731582703
+  - 87.72133702932169
+  - 2.4141624632540464
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 6ce41b63-e9ec-4f31-8bbd-f5c4318f925c
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.266732035392668
+  - 48.69883028302529
+  - 455.21578780567245
+  - -112.77403885275527
+  - 86.84018426180654
+  - -4.457629674474701
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 8df3bea8-eb7f-4546-8655-338439f3aa9d
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.26409972167019
+  - 48.69836724720787
+  - 480.2665879565572
+  - -97.10922410900054
+  - 87.37061007156339
+  - -0.5230894542733957
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: efcd9425-ae49-496d-915d-ceb1c6b6fd03
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.257372012751343
+  - 48.69727599413463
+  - 435.0180440439229
+  - -102.32220851930444
+  - 85.3188274221792
+  - 6.5722374570241415
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 982d3d27-5968-4732-857c-f7622ecd1c31
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.255943913184865
+  - 48.69662458509361
+  - 412.35835421565037
+  - -113.97932490992378
+  - 84.16978762169506
+  - -2.8455915709717523
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 66474a15-eeff-41f0-b63b-f62444522c41
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.253783734597413
+  - 48.696197893993876
+  - 414.05394455628885
+  - -98.01804540644578
+  - 87.61105537889472
+  - 2.069318692774757
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 0f3d3849-fc05-4520-b86b-78b1e7905785
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.25234611606752
+  - 48.69537211466965
+  - 405.05583246159074
+  - -103.49773915440292
+  - 84.80602357350578
+  - -0.6035621482607967
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 22abd905-f4c6-4160-89d0-c0d633271bda
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.249534958654385
+  - 48.695237596320204
+  - 394.1901856202629
+  - -110.35648322205068
+  - 84.45100481677574
+  - -0.28113636868921843
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ad390c59-194a-4202-bfea-2e869aa13bbc
+  airport: EDDS
+  runway: '07'
+  pose:
+  - 9.249090279562802
+  - 48.69507107564923
+  - 402.13445500238583
+  - -99.11452905305177
+  - 84.15836589301975
+  - 4.636310675707563
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

@@ -1,0 +1,1078 @@
+airports_runways:
+  ZYTX:
+  - '6'
+  - '24'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 769ddf7e-5964-46a6-a6ca-9309b768309a
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.55296952077622
+  - 41.68232360301267
+  - 330.32645204181637
+  - -128.39280890787586
+  - 85.99007881698235
+  - 0.3588998837614913
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 86f78cf8-567e-4969-9c75-d1b55f71ac55
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.55101723560895
+  - 41.68253333361884
+  - 336.7079215340463
+  - -131.9129905652744
+  - 87.62556415188908
+  - -0.6370007143467804
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 433f4d24-b066-4b12-a895-d087b8fc68e3
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.54337560473913
+  - 41.68541235209614
+  - 342.1279394643057
+  - -127.61824160169742
+  - 86.06216244255154
+  - -4.85057749231308
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ca671e16-384c-4ece-b52e-e07892ab9b30
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.54820037327296
+  - 41.681300407011854
+  - 360.259806495218
+  - -127.4584641254924
+  - 85.74445053588163
+  - -8.534010468101515
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 2cd7bf5f-1ac6-4be1-953c-65b4caf4d5a1
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.5463785525645
+  - 41.6825967502179
+  - 317.17586731982743
+  - -125.78655471932414
+  - 87.81904140030373
+  - -0.9432722959058331
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 06d0e7da-5498-4a3a-8c49-25dc5f5a7e63
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.54723362693655
+  - 41.68106172325999
+  - 346.0974358687209
+  - -132.8197112588119
+  - 85.54034566226639
+  - -5.23134783380265
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c157154d-dc1c-4f88-82fc-060f7c6756fa
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.54326759920775
+  - 41.679401408720054
+  - 369.0677565868425
+  - -133.80877403560055
+  - 86.32349834001911
+  - 4.132363248239215
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 920d92ef-5a5a-4be1-84cc-f2843936f181
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.54413439608783
+  - 41.67663317096765
+  - 367.198673494352
+  - -127.5558823240067
+  - 86.13723517038495
+  - -6.05024234763751
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e6908094-34c4-4235-9c47-38c30912ecf2
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.53942670314694
+  - 41.679256079252035
+  - 338.56886316727804
+  - -127.86190706858639
+  - 83.45111337533265
+  - -0.4551796005896258
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: cffae2cf-4bcd-4a3e-a77b-4066554b2683
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.54083889167586
+  - 41.675080198044306
+  - 381.9419469685623
+  - -121.31189738937027
+  - 82.93903690239905
+  - 3.5305638972937703
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 1f780c1b-7eff-4212-a4db-f3966d078c43
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.53903869143205
+  - 41.675523943144206
+  - 332.5936492427188
+  - -132.59382990828198
+  - 87.51143471416293
+  - -5.598114536432281
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 8585f856-0b21-48bb-bc78-d4a41a57cc39
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.53386174933343
+  - 41.675051589784246
+  - 265.9648824547894
+  - -132.79739601489158
+  - 85.15129429973972
+  - -1.5435891890997167
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 4de6e2fa-b094-45db-81e0-2450d56078aa
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.52620768553918
+  - 41.66765995386156
+  - 232.58042751573961
+  - -130.98709564546863
+  - 82.84730942160895
+  - -5.238096183311821
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ee4265b3-fb43-4754-8074-6ca9d9c9d17c
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.52482387509569
+  - 41.66756294708617
+  - 237.91692688959748
+  - -131.48115767743838
+  - 84.04146038042781
+  - -7.678249818056706
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 5345a67d-1fdc-45bd-909d-5e6b118e1d9f
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.52468929248766
+  - 41.665364859016364
+  - 206.96943860290196
+  - -130.08551680660975
+  - 85.25995919571379
+  - -6.037082218226649
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c53b2913-6aca-4aed-95f1-d526ea7dba1b
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.52136093981858
+  - 41.666741228673054
+  - 229.42219798805763
+  - -130.05810548691773
+  - 84.64200097838655
+  - 5.885786275570419
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a466622a-9fc8-4efe-a3f5-17b0caae66a7
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.52054798094824
+  - 41.66502666020141
+  - 228.04312781396686
+  - -136.04948966272048
+  - 83.2559683969709
+  - 9.57586920326561
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: bb362e0b-ff19-4658-bf0a-1ddcbbb605d0
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.52138831276605
+  - 41.66410242680194
+  - 240.70559524887676
+  - -132.78005529112218
+  - 85.92803711158838
+  - -1.3267093872804603
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 33459fb9-fbff-4795-b073-5b8391df5ee7
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.5204948313531
+  - 41.66449171543235
+  - 206.15015384838745
+  - -123.25170093533437
+  - 87.7309504062574
+  - -0.36763764264092885
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 07069566-380c-4ad3-a878-6dc990e746ab
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.5206544639435
+  - 41.66425979439167
+  - 198.53948340554192
+  - -130.26528827820476
+  - 86.30599384256597
+  - -5.827348341707404
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 32c4ce5e-6bdd-428d-b37d-20585ff0ae34
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.51423008774185
+  - 41.65901681736051
+  - 186.25697789603592
+  - -137.0927088132903
+  - 87.62915189631913
+  - -11.922730251407716
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: de477597-3fbb-4bb2-b4f2-c95353a4fcd2
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.51207191084838
+  - 41.65983789725653
+  - 155.42000442549812
+  - -135.4270290524334
+  - 84.03358168201522
+  - -0.22599004801935854
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: d25dbdc8-f3ff-4ce9-999d-02cc60ad75b9
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.51244476049574
+  - 41.65900865746477
+  - 171.48468597432998
+  - -133.9350951960196
+  - 84.8031679388505
+  - 9.473845555663058
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 8670b39c-7382-4d12-84b7-2ff1400a2a8b
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.51107315400213
+  - 41.65877824340616
+  - 139.38437061949142
+  - -128.5759223606155
+  - 87.0636741184997
+  - 2.6273421723642216
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a5c57edf-eed5-4124-b4f5-392d13db57ab
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.51125534807576
+  - 41.65745598223464
+  - 177.72011530165094
+  - -135.94316198609454
+  - 86.85606493442094
+  - -5.739615686709458
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: cfb5be9f-a903-4932-8266-804b5e346590
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.50946042211515
+  - 41.65809141954438
+  - 138.1712175728934
+  - -125.70919054430755
+  - 84.41881483800822
+  - 3.66186807151651
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 84113c52-4637-469d-bc5f-b1404dd3a6e8
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.50894704133647
+  - 41.656999158911724
+  - 141.58134663839814
+  - -133.10857773475993
+  - 82.1947128339952
+  - 4.599588492629499
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 2315772d-f4b5-49db-83ee-711694766253
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.5090020172388
+  - 41.656692198426256
+  - 154.75918555635843
+  - -133.6648519776891
+  - 81.0380865484271
+  - -0.4659411050205011
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d1dd4adc-f835-40ed-9db9-60f086b58ada
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.50814438610254
+  - 41.65625476507754
+  - 142.66029298580776
+  - -132.89250311948928
+  - 85.84893762917875
+  - 5.177468991084933
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b05730d0-e2e9-4be1-8a0d-d40930849abf
+  airport: ZYTX
+  runway: '6'
+  pose:
+  - 123.50057809316509
+  - 41.65121899932817
+  - 92.29439724862755
+  - -128.1841102616652
+  - 89.66446950189413
+  - -13.523843419279366
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c7348094-b82a-4b5a-bd61-b6d45b795ec2
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.4156457924589
+  - 41.59655672248523
+  - 338.6167490649039
+  - 50.754266341292826
+  - 84.80789598174957
+  - 8.714113132625496
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 2cb1914f-582d-427d-a71b-2acb04ac329d
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.41978549102231
+  - 41.594149513853374
+  - 370.86083019709554
+  - 41.65629925358402
+  - 86.40929413462375
+  - -3.2795466890258655
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 023322cb-41e1-4372-a2a2-a461b90a288f
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.41805950734567
+  - 41.597335192037555
+  - 317.70082127519873
+  - 49.68232189014337
+  - 86.11831805113044
+  - -1.0620593308699917
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 64be3d57-b2f6-4aba-9827-754d321676dd
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.4201485278098
+  - 41.59631562604257
+  - 406.86937566896864
+  - 59.9387788573588
+  - 83.48217013994586
+  - 2.7412879036501865
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: f8335655-cb29-4513-9c66-9afe05f2eb4d
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.41886949090927
+  - 41.59827960844574
+  - 369.2485305045121
+  - 44.348081886444646
+  - 87.21956002475929
+  - -9.893119620192593
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b57aaab0-2229-4c1d-8fcf-91253c431ca1
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.42496016273466
+  - 41.59611463445333
+  - 238.31275970751474
+  - 47.0513598504906
+  - 86.78218572212899
+  - -1.4412212217860645
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 3972e1d3-3c89-491d-9d8b-8beffcbbda36
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.42306864626863
+  - 41.599592114372776
+  - 353.06258991788417
+  - 45.08939499930146
+  - 84.21941487525325
+  - -4.037349702060466
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 8eea4636-f816-459d-935c-dddfb290e165
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.42553966882433
+  - 41.59823190466934
+  - 382.76473073208024
+  - 47.2820300721913
+  - 84.90848736162438
+  - -0.9366697499926115
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: d141062a-03e2-4d0e-80a2-8cea634e94f9
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.42187081755698
+  - 41.60158946826006
+  - 353.8531832088345
+  - 44.97549169537039
+  - 88.01518316473069
+  - -3.935561882151117
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: edd1d615-116b-4681-9732-8856f1f6f42d
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.43006052412447
+  - 41.60087560199476
+  - 276.68534476336754
+  - 54.95505901851814
+  - 89.66877505706445
+  - -0.09527073690800675
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e00cc15e-c6fa-4b7b-a678-51f591d2b5f4
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.43014921166262
+  - 41.60544259999554
+  - 287.8390221481844
+  - 53.23924734806223
+  - 86.39607947322486
+  - -2.178756315814787
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b5a4d4e9-36c2-4e63-a1a1-bc89ae23f9a4
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.43606789242855
+  - 41.60871857123426
+  - 261.43668364441106
+  - 44.2453012939027
+  - 86.0013279778346
+  - 0.5640618730518466
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: d2bbaa8b-ab83-4c13-94f2-db01e83ba2ab
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.43694299824662
+  - 41.609747130709316
+  - 237.83917982281645
+  - 57.167749625387856
+  - 90.99521024456469
+  - 1.088539062811134
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 1a728eaa-98b6-49b9-841b-a9f66d20f05b
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.43896880663408
+  - 41.61009902378548
+  - 249.4797153739738
+  - 42.73685618093585
+  - 87.39183666377926
+  - -1.2079374409404617
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 9a1bfe65-93a1-47ac-b348-dc2ddec0bdc4
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.43949167078216
+  - 41.60968811760902
+  - 218.01497106390923
+  - 50.981460471067834
+  - 88.45865935426954
+  - -5.5092683842367265
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 8991ceb4-4a51-4c28-a83b-419ef38a53d3
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.44326041978225
+  - 41.61321780860287
+  - 194.02197138432183
+  - 49.54371571633221
+  - 85.50402571612716
+  - 7.738810357689314
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6fa72e93-41b5-4986-a9c0-b13cd67042f8
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.44617682249726
+  - 41.6144197790967
+  - 206.11713564316236
+  - 56.77704225496582
+  - 84.91688324476642
+  - 3.6877176068638704
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a1db70ac-97ad-472e-923b-b14d4299bdd7
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.44467256188051
+  - 41.616282635584874
+  - 208.44881789018646
+  - 44.90379889329641
+  - 86.46237723249907
+  - -3.3989254639365463
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: dcd60bee-edae-4c47-8b7a-0b6ab3c4bd69
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.44740682103168
+  - 41.61439353587432
+  - 200.3053387822066
+  - 51.84607529075492
+  - 85.2993059487682
+  - 1.9935807725859935
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 7b24684b-91ca-4f28-85eb-ce701adb83c8
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.44648153650762
+  - 41.61532937600383
+  - 175.28769761215847
+  - 47.471267995316694
+  - 87.97808438197572
+  - -0.7296181145713834
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b268d411-5465-4cdb-8483-f4a26fa57996
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.4478434004279
+  - 41.61620804031285
+  - 181.81786865789462
+  - 53.2690450130847
+  - 86.22407080749902
+  - -6.346782369096476
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 4b5904e6-7f3d-4ee5-bb1f-5bc0f8c9a6a5
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.44855087793772
+  - 41.61675347747851
+  - 205.5110200755171
+  - 53.433388807812435
+  - 84.73517856482752
+  - 5.7598394846927246
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 8dcc53aa-86d3-4c43-8688-4c55038eba7f
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.44972346073521
+  - 41.61683389631175
+  - 164.31029990611302
+  - 51.94928631569797
+  - 85.602974021359
+  - -3.1040736696748428
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3ad8a4a5-27a4-4b49-972d-e29a214ff7be
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.45044120598989
+  - 41.61685094440363
+  - 174.14446085009007
+  - 52.3324755870172
+  - 83.66026392120824
+  - 2.4854493304780516
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 13fa6015-4a42-404f-b796-c50eb500a27a
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.45908676286938
+  - 41.623576860181686
+  - 113.92240404040936
+  - 50.7743199742468
+  - 87.58762814502263
+  - -1.5137957908740067
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: df828102-3fe7-451d-b2f1-7c8b8a509162
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.4604857819392
+  - 41.625261101447606
+  - 113.8015964305959
+  - 42.799889547841765
+  - 90.44833135352206
+  - 1.0330548834397726
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ea0bc0d0-71c6-43cf-b5de-e6c41c1e7514
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.46190008444016
+  - 41.62653487177722
+  - 112.17300652088832
+  - 45.14359816305156
+  - 84.00115607431583
+  - -0.3391002395270118
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: da355cdf-7e25-405b-b136-629e28405651
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.46441171133755
+  - 41.62768971934035
+  - 90.88427236799639
+  - 57.27211774345294
+  - 86.21431419360833
+  - -6.240072291326531
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 74dfc2f9-5bf4-4557-ab60-d08592fbbec1
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.4655734143467
+  - 41.62781084194847
+  - 88.21366425855575
+  - 49.514194074497816
+  - 83.91734163839476
+  - -1.1421587686533892
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: fb9495b9-a69d-410d-8554-035f21fc05d9
+  airport: ZYTX
+  runway: '24'
+  pose:
+  - 123.46616706142478
+  - 41.62845578884964
+  - 84.56754553197665
+  - 47.333339000088095
+  - 85.40292625062901
+  - -6.974349505524307
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

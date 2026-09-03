@@ -1,0 +1,1078 @@
+airports_runways:
+  EIDW:
+  - 10R
+  - 28L
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: d3edac86-42a5-4c54-abd1-7ccfc74155d0
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.163010920852295
+  - 53.41383141936655
+  - 379.68986926275403
+  - -85.90055941768546
+  - 85.40541032253115
+  - -1.8474527654610065
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7b721420-45ef-49c4-9265-8e4125225f43
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.165345223984053
+  - 53.415152431243136
+  - 323.249087319891
+  - -86.14846147201207
+  - 86.05805576213152
+  - -8.528119486566823
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 1db09282-7251-4794-bfa1-47beedbaf47d
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.16882545103208
+  - 53.41505676058766
+  - 408.9416325488214
+  - -81.42094667602099
+  - 86.64492934452547
+  - 3.74031647384553
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 541a3ce6-53a0-45b6-bbb6-7bff21969a3f
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.171639507441815
+  - 53.41696915848149
+  - 421.0380541278355
+  - -83.39779010128986
+  - 86.07262313911049
+  - 8.552922427300146
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e5e1dd1e-4fd6-4481-9c65-40c0629be217
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.1723781478259605
+  - 53.42003804364194
+  - 330.2367656963726
+  - -88.57688180538554
+  - 86.27525463765672
+  - 6.723752948076063
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e66bee84-b2f1-4dc9-8a15-6610082750d9
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.1758003974901685
+  - 53.42094676828551
+  - 304.6502383669727
+  - -85.4158628265586
+  - 88.48486330663425
+  - 2.7177682256529767
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5067150d-6efe-408b-a4b6-e718b864c101
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.178761821407242
+  - 53.41783752646937
+  - 279.8580644737495
+  - -84.6879313279591
+  - 88.94690271948751
+  - -9.845370345066094
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 882f6bfe-f91f-4b64-8abf-f893822809f9
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.179325800837833
+  - 53.41943152006078
+  - 288.1380445297134
+  - -75.00771270220008
+  - 84.14600321338267
+  - -4.27363106625921
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: aa6eb5e5-4846-445f-867b-a980b25737f3
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.180148580340954
+  - 53.41872412220466
+  - 343.7505988698519
+  - -76.3469393577781
+  - 86.91017578338294
+  - 1.5452593035376838
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 784e142e-47ba-4bd3-b536-6ff86b1c1616
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.181230727387641
+  - 53.41799096946436
+  - 338.52366078556395
+  - -78.3678215282324
+  - 82.95393022066176
+  - -5.349433989782344
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: fa7bd311-f70d-49fd-8785-3e6933447301
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.185275342308775
+  - 53.41648267407538
+  - 283.00355640021826
+  - -70.71531388717794
+  - 84.80897550039718
+  - 5.017631784051839
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ea0a7bc9-140b-4fec-bba1-e8fb348b34fe
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.186714861016817
+  - 53.41763081219329
+  - 311.381031548186
+  - -81.6382948895398
+  - 82.90829153255783
+  - -5.509973550652241
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: d3675aa5-bf43-4f67-bab3-fb1d71e65fd8
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.187453152398193
+  - 53.41543931896235
+  - 273.41154385193374
+  - -92.24737339808135
+  - 82.64124240886356
+  - -0.9180943807962596
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b0e8daa4-07f5-4484-b7d9-195bb10feff8
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.189188854748927
+  - 53.41561903079234
+  - 334.8271538116749
+  - -86.43097643665776
+  - 84.95355224405705
+  - 0.04434055036482116
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 76562758-f999-407a-bc83-4d00bbaf6efd
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.18964246410236
+  - 53.415729862172896
+  - 311.4175088844433
+  - -83.54683392230878
+  - 84.72317484864784
+  - -1.710215598584259
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: fc2a7820-78a8-4a45-8412-35ffbe7a81a3
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.190098919410346
+  - 53.4162026605376
+  - 283.1337110211497
+  - -88.19687180446105
+  - 81.18090728397254
+  - 4.607421500437469
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3b487943-4e43-4242-a99a-65a606f67201
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.192357461116447
+  - 53.416832989191086
+  - 278.79995304323324
+  - -81.2521831568114
+  - 85.32215252892622
+  - -3.2642658404027496
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 1e6bb191-fa85-4638-8d99-dace09c46519
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.202832984577764
+  - 53.41731464187415
+  - 278.8012874044246
+  - -84.60328416781607
+  - 87.75191536729594
+  - 1.0167770654623611
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e921c073-26f4-4ec5-a924-7411199bb71b
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.205766782041128
+  - 53.418578866468195
+  - 211.90222470866908
+  - -97.39133698663245
+  - 87.58758311154132
+  - 3.6439956151580954
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 2a7ff6ba-0b35-488c-8c14-eee5e9c3aa6c
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.211461531872133
+  - 53.41691056393618
+  - 214.17797075894896
+  - -91.23714922931146
+  - 85.64964600752546
+  - 0.44771175593320933
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 2fc8f79b-fcf3-4c24-beab-8ffcfe32b7d1
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.214877922895233
+  - 53.41778338553415
+  - 193.54721819443856
+  - -84.29641826771835
+  - 87.38178412176586
+  - -6.037146739918869
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 8dfedaf9-01a9-4e87-90fc-d697cd45e29a
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.223925350444443
+  - 53.41829071540878
+  - 184.53833218969717
+  - -86.1185427471926
+  - 85.6464660384014
+  - 4.503423402472361
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c6b4dc4b-61a5-4665-a3fd-70d52b222d99
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.230239420589504
+  - 53.418749267932625
+  - 144.29466423924708
+  - -85.84374497569809
+  - 85.22091215618073
+  - -5.582432987028048
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 195902a5-9be4-4cc5-b9d6-5e66e7cc2a04
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.234907159362624
+  - 53.4188042594874
+  - 139.6560936049529
+  - -81.01168348851637
+  - 85.07090971467572
+  - 0.5057988387909185
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: b3d7a979-167a-4f04-a113-748e3fe10787
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.238621601214759
+  - 53.419429977240874
+  - 107.69692689910586
+  - -78.43673631848985
+  - 86.88552494364917
+  - -0.3284069644006787
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 14ea474a-75dd-46c4-88fc-df324eddcb94
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.242246924316219
+  - 53.41970872365229
+  - 102.97049425995425
+  - -79.71245283187585
+  - 84.72798790813286
+  - 2.4789792612562445
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: d4007604-7d87-4452-a190-4716364f0f21
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.242776149549539
+  - 53.41990184299069
+  - 102.37291417171238
+  - -83.13668554936062
+  - 86.51757779416683
+  - -0.6873108404257691
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 273e2ce8-0607-4845-9d95-a93b8e083c5b
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.245322740800896
+  - 53.42007642625316
+  - 98.8714490651275
+  - -83.4893511397145
+  - 90.00497329067747
+  - -3.4149263297575243
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 844bb263-4784-4e06-b806-035d59827592
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.245461328934043
+  - 53.42007679192349
+  - 92.42372909705986
+  - -82.97108333732109
+  - 87.43118416500573
+  - 5.164748172024164
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: bed3bb26-e62d-44a8-b989-c0ce64eae98d
+  airport: EIDW
+  runway: 10R
+  pose:
+  - -6.245679696535459
+  - 53.42003917255455
+  - 96.0899518383026
+  - -85.83537188248536
+  - 88.01123659576517
+  - 0.13300739930786137
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 9df2e981-59a1-469a-8077-d5477375cadf
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.373867878142881
+  - 53.429626544078964
+  - 322.0921635603945
+  - 92.98026428826276
+  - 84.84228742497137
+  - 2.2986321904640703
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 07ecc6be-97a5-41f9-acbd-a6a6687af462
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.373297467181325
+  - 53.429875109509325
+  - 439.3125963101167
+  - 95.61347710407512
+  - 88.78802781182364
+  - -0.06799098627807834
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 7ba89b8c-70cb-4714-91c8-d71367e726ef
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.373041392950425
+  - 53.426620006188884
+  - 342.98974170472025
+  - 104.63863046508555
+  - 85.17234132934246
+  - 0.2576587636945444
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 956ce6fd-5a58-49b2-aa51-b40b779baa6c
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.373165139322635
+  - 53.424843772334214
+  - 342.30222941080086
+  - 103.42634478444988
+  - 88.47941109818095
+  - -7.1534783354627764
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 13c5ab47-6c5b-4ac1-b311-58c18848fe1e
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.371692462145638
+  - 53.42753315096952
+  - 379.63611007849175
+  - 98.59277415162633
+  - 84.54071110627245
+  - 0.16765324367841186
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 78ea4acc-e037-4d72-824f-c26fb41942cf
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.371381405536052
+  - 53.4261199690471
+  - 365.2793662233314
+  - 93.50490849299027
+  - 84.41165428618255
+  - -3.1268852800742564
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 3b29c8a4-dbb8-40e4-8cbf-f8e2e900b609
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.365764943383216
+  - 53.42546193197433
+  - 356.8919255523643
+  - 98.46669974307136
+  - 86.73306010303378
+  - -6.415650783950147
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: bfdfaeda-9ed6-44cc-be14-af9db035ae19
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.362864263235791
+  - 53.42700949463784
+  - 405.505146657655
+  - 102.75747698494494
+  - 82.17543446589697
+  - 3.5699539216038625
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: edcd57f4-960b-4838-8c78-39e38e483fde
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.360510355307315
+  - 53.42670584579431
+  - 379.88356818508464
+  - 93.851142171319
+  - 88.09737952053601
+  - 12.075732919712458
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 9936147c-155e-46fa-8153-fef8e2dd95b5
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.358762836411715
+  - 53.423832772287305
+  - 301.01145010025573
+  - 97.79219687510437
+  - 85.24825713604527
+  - 3.7417300645076863
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9dc3911f-14f0-48f6-b6b6-ecae6805b064
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.354097619912276
+  - 53.42477579523966
+  - 311.62137793661316
+  - 92.43252673199011
+  - 86.88646421262207
+  - 9.536076059985275
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c888d70a-7e78-49c2-bfe5-8107073eec29
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.3539453436805395
+  - 53.425205665061995
+  - 373.93487531542496
+  - 103.33292877732079
+  - 87.4427526616576
+  - 2.949977753841896
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c3fe3a6d-7580-4a57-aea6-ea580fd57ebb
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.347934885720657
+  - 53.42544388300624
+  - 255.8490262462771
+  - 96.49880779003439
+  - 86.85663730691908
+  - 7.608048312005139
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 7826910f-c5bc-41db-ae9a-638fb5917bd9
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.346374858871776
+  - 53.42683166609484
+  - 335.32230365862677
+  - 100.18916564463363
+  - 87.71643221603757
+  - -3.390768692937475
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 423915ed-192c-4870-9abb-c15642c7d3dc
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.344577236046237
+  - 53.425508696606634
+  - 333.70577461003626
+  - 100.8136853017472
+  - 86.90947499028266
+  - 0.2910000238902224
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: f71f47de-045d-4ba3-acdb-9e30afc7ae45
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.339972936181289
+  - 53.426087063871734
+  - 298.353832273177
+  - 100.52389187444973
+  - 88.3633662310265
+  - -1.4422350623910407
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 906ad70b-ee18-400c-8d55-53bdf1b832bd
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.339517587632876
+  - 53.4243664539618
+  - 240.28003128966517
+  - 104.32741985948294
+  - 86.5801743611476
+  - -3.034958617303623
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: be8cd0e1-7069-4640-963d-40a29ea7e611
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.332269762807517
+  - 53.42319924873971
+  - 262.8316392771857
+  - 100.63797578613799
+  - 86.04390095655422
+  - 3.2454849872519547
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 72ce7be6-d369-4dae-8d3b-820a8ff0a06c
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.328858880533533
+  - 53.4234890608262
+  - 166.49439771728538
+  - 95.21567425514148
+  - 88.5940016852295
+  - 0.009929567193908211
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e2ad4916-b962-451c-8d4c-409161c1ad0e
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.3286053625233185
+  - 53.42338561746248
+  - 207.94797401453096
+  - 102.48416721029086
+  - 87.49690621861032
+  - -2.487717702029921
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 2f513638-9dc2-4948-a4ec-88bf77fe1ce7
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.3251229229161305
+  - 53.42586895580321
+  - 235.97123193270963
+  - 90.72104226978378
+  - 88.28618628553485
+  - 4.404752208008817
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: abbf69b6-9d18-4955-988e-66128dcaf88b
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.318927136800577
+  - 53.42438766294762
+  - 176.4415883319636
+  - 99.90209580396169
+  - 91.97895186456786
+  - -9.213803293063286
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3bb7740a-59c5-4483-bced-4ff7c46ad7e1
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.318156275176318
+  - 53.42450441812356
+  - 214.26255695433022
+  - 98.5975577868818
+  - 89.45413114871556
+  - -6.040893109397608
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 40f0b880-b6fc-413c-9c48-23a385601b54
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.315761004423355
+  - 53.42395130921763
+  - 214.6796706592637
+  - 88.11410308103157
+  - 87.31989895244476
+  - 2.627965219448657
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 65aef2d4-d462-4f68-b0f2-ba87a5c680c0
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.308066131509066
+  - 53.42382205000654
+  - 154.17698543807458
+  - 97.83006213975283
+  - 83.28651144856397
+  - 3.834474319159899
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 6206498f-e482-4214-83bc-76511bb9c21d
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.307972015304452
+  - 53.4232154118691
+  - 146.06039420361301
+  - 99.31366293936274
+  - 86.93048892553888
+  - -1.1478701617740923
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6093ae84-73a2-4b28-851f-1fc1d9b7c69f
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.301502941619203
+  - 53.42302304156535
+  - 130.7125635673495
+  - 90.00235461392465
+  - 86.06653484093545
+  - -2.725053126680652
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: aaa85770-412b-4409-8b39-3f77d63c4a75
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.301299497110691
+  - 53.42296122799789
+  - 144.34780585527858
+  - 94.5649362908192
+  - 88.17739667489812
+  - 0.9964871240186215
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 1f861be8-eaa3-42e6-935c-92d5b6d31eb5
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.299141362161759
+  - 53.42297397145551
+  - 120.5286737010197
+  - 85.95466820386044
+  - 84.65166702655667
+  - -4.417431788869206
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 256cf42a-cba9-4ae1-9efc-33ab81a8e280
+  airport: EIDW
+  runway: 28L
+  pose:
+  - -6.294790683413014
+  - 53.42282706543766
+  - 101.03435969809054
+  - 103.4962144036723
+  - 83.94710353691002
+  - -7.2324776263743695
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

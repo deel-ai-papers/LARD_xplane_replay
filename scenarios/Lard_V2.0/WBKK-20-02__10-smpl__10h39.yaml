@@ -1,0 +1,1078 @@
+airports_runways:
+  WBKK:
+  - '20'
+  - '02'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 38a1eb05-719b-46f2-88a4-dc80a95436a8
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.02275396420087
+  - 5.870014859959784
+  - 314.8351206288219
+  - 24.00921892994744
+  - 83.57698009149273
+  - 5.05282966083324
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c37f4d61-38a0-4364-8471-ddac4f087799
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.02450505309321
+  - 5.875189817127157
+  - 319.994014815108
+  - 26.01716847237104
+  - 85.69635708414953
+  - -7.043768220418611
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: af09125a-a9d1-4e7b-826c-f7fd8e1d2ae6
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.02733229238476
+  - 5.877540095571941
+  - 292.8983113407989
+  - 23.403364705362232
+  - 85.71947763327418
+  - 0.9517183792019259
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: eb200947-96d6-4563-9047-4d6ee25e2598
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.02238552422797
+  - 5.880037201707707
+  - 311.820054539017
+  - 28.499831894069537
+  - 84.28976096951502
+  - -0.8795212554393297
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: d4527f89-ad02-4bc5-b247-0d786a7f9e19
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.02798964971525
+  - 5.877855718027985
+  - 202.51793996306395
+  - 31.96182660022459
+  - 86.37441891306294
+  - 5.044709787677329
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 61f494ee-b1ac-4782-9e37-7398edf57290
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.02580436182993
+  - 5.879196850486218
+  - 307.1521000456984
+  - 19.982755735771615
+  - 86.60615226568844
+  - 5.324265431065665
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 1d99457f-f0c0-40aa-9992-fe10ae94a6c6
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.02724248350043
+  - 5.878586098837916
+  - 243.1181252802647
+  - 20.51018593073708
+  - 86.55892792578652
+  - -0.7054105419013526
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b672060a-8f1a-4656-956d-66acff907bf9
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.02624254119706
+  - 5.879246458245307
+  - 254.62002452272515
+  - 20.26281718651061
+  - 87.54293220715425
+  - -2.390071801012153
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 5e6b0532-1e72-4caf-98e4-ee38e95eee6d
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.02563505676804
+  - 5.879775970953892
+  - 242.28458521608636
+  - 17.66979350581099
+  - 84.58496024330199
+  - -2.4360660733357693
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 32addcfe-8f40-498b-9a1b-6978b004653f
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.02502606643243
+  - 5.881496723134783
+  - 240.1147578732479
+  - 20.99068900716296
+  - 87.71464839605682
+  - 0.5983454146588411
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 974e66bf-37f7-4ebf-991b-68e8cd9c8a3b
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.02959566405518
+  - 5.889317850799027
+  - 209.29699474048257
+  - 18.663094390196378
+  - 83.93787001930768
+  - -0.4153404739784727
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 3c72b8ca-dbc5-4434-af87-e97355e98104
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.03243343923309
+  - 5.8903244768577885
+  - 158.58667537033887
+  - 20.465652984126976
+  - 87.10896412120493
+  - 2.17228393252127
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: fde43028-ae10-4d28-bcce-5c98f295fc80
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.03027834315574
+  - 5.892400457608926
+  - 190.07772606970713
+  - 14.272993631487315
+  - 84.86912820378919
+  - -6.358015317009248
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 4df4fb99-24ef-4d80-bb5e-f588e75be8d2
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.03166747055332
+  - 5.891956978605382
+  - 174.5263060419686
+  - 21.8756708371846
+  - 86.53619819270646
+  - 6.429943306171691
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 108b606a-4b11-4560-9542-2c772eb11e1d
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.03186216170228
+  - 5.893802065696765
+  - 189.4582041848927
+  - 23.858121737065805
+  - 86.341825038294
+  - -2.4170311896941215
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 134da753-f89f-4862-b4cf-8b687caa91a1
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.03231704350821
+  - 5.894302424120805
+  - 198.7166252776585
+  - 17.9690966600433
+  - 83.8799281206501
+  - 2.369470545241262
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 08975f7d-541f-4772-89b3-418924478be8
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.03324578288272
+  - 5.89515654189526
+  - 167.4346772882668
+  - 30.11781083149087
+  - 88.49844165613169
+  - 0.2377677376734701
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: b4da9cfe-7f91-44d2-bbcb-fbbdaaa7e9fa
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.0324005601637
+  - 5.895581198150681
+  - 174.96452573653974
+  - 16.90690373010383
+  - 87.05235815330722
+  - 0.11522411703931897
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e4f7aab1-c3ed-42cb-9da0-eba2196f4fe3
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.03250852665988
+  - 5.8956661112227735
+  - 150.12459757501946
+  - 31.63467245469982
+  - 88.17724410435238
+  - 1.612039713559329
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: dec5e5c9-0147-42f8-8ce9-ec30d36e8f4d
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.03354304714286
+  - 5.897001182257366
+  - 148.21977717300138
+  - 28.911840935611803
+  - 86.21304658571457
+  - -2.44889332434683
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 932413f8-b632-48f9-adda-dbe75b50d99d
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.03444949290979
+  - 5.89842973602817
+  - 118.71135601957423
+  - 23.12974062605485
+  - 81.5953730041749
+  - 5.894040009238905
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 948af844-18f5-45e1-82af-a7d4fe10fd30
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.03589055611693
+  - 5.898082797241597
+  - 141.9058446833657
+  - 24.05578662393794
+  - 87.12379798744001
+  - -7.173795918643461
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 8083d14f-da61-422c-bb65-dd37eb9b1137
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.03624039295714
+  - 5.902908762631444
+  - 113.02697842078922
+  - 22.657290737496716
+  - 90.03671182197488
+  - -5.4634175826794005
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 1f70ec59-9d70-498e-90d0-c06545d62df1
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.03834174135963
+  - 5.907162211735505
+  - 100.7305389681128
+  - 24.364972621081552
+  - 85.15331532472547
+  - 5.802667833780681
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: fcc7035c-eef5-4e51-ae70-8d952af70bb1
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.03831921429213
+  - 5.907458513533601
+  - 79.70637278857542
+  - 24.345572267506228
+  - 85.13962428424865
+  - 2.0016746757074237
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 7d3caf91-f200-4af9-9c62-d17c4a85846a
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.04100067239824
+  - 5.912208648711151
+  - 65.12664906597661
+  - 23.148180003606587
+  - 84.27158816039305
+  - 3.1063221290583836
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 2c8a5d03-98ab-4625-80b7-43727c6a95b2
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.0415626630995
+  - 5.913962336349434
+  - 39.06184638578543
+  - 22.49253433422131
+  - 84.00454625104388
+  - -4.866020975840336
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 91eb183e-5e59-4662-a095-30e0822bd358
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.04159330801191
+  - 5.91484147816392
+  - 37.10842527861368
+  - 28.249765612218035
+  - 86.66183055447985
+  - 8.038254768539995
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 97d641e2-bef3-4cc1-8617-5c6bb943b3c0
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.04177094692957
+  - 5.9152109193587386
+  - 40.29483336759518
+  - 21.72470296088879
+  - 86.29691816184247
+  - 8.805940165608655
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 4bb6b5b0-25b3-4cb2-bdbd-1ed69a810bd3
+  airport: WBKK
+  runway: '20'
+  pose:
+  - 116.0421445554406
+  - 5.915406338677422
+  - 35.714965364597504
+  - 20.375556305339185
+  - 87.7481194003902
+  - -1.5954955241757427
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ae630bc0-a5ad-4b3d-8923-a8ed8a0c9ac8
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.07631729867303
+  - 5.996509032624153
+  - 334.4807015835873
+  - -155.35643020494527
+  - 84.46941266851556
+  - 2.050534387330239
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2a2bbdd9-0797-4196-861c-794bad026748
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.07518191992665
+  - 5.994098103826881
+  - 385.8641489997955
+  - -160.74277395619666
+  - 89.85405067534413
+  - -10.235641421378547
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 74aa796c-a620-4ca5-b9f0-688b56ea4963
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.0775470784299
+  - 5.991471658389097
+  - 268.132907765233
+  - -156.25157830423586
+  - 84.93759020162403
+  - -8.933887902022228
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 3c860415-057b-4113-a74f-c66740c951ca
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.07511519238362
+  - 5.989107819860425
+  - 290.4428370678404
+  - -155.29509569020223
+  - 84.89811422658956
+  - 0.3496400353440141
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 351e5f01-0165-4663-8282-63d0d73b226f
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.07582653089038
+  - 5.988736440350338
+  - 256.4915103151783
+  - -160.07294133643583
+  - 86.86536349262687
+  - -0.29077181268345276
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4f09dcb3-573c-4ed0-bbe9-60e7524787f7
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.07283944647635
+  - 5.989093416427822
+  - 315.70324097670573
+  - -161.53810164342264
+  - 88.87052951052287
+  - 4.543088337539216
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 000b639b-fa5e-47aa-b605-0e9e5e332588
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.0687511881271
+  - 5.987414062867508
+  - 264.1355004864088
+  - -158.02726136679007
+  - 86.06264139736575
+  - 9.704964471209045
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: bfe6b129-a625-4276-bcc1-0ae4c7732ea0
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.07275634444838
+  - 5.9847721068212705
+  - 268.46776203741285
+  - -155.63683655356053
+  - 85.38549157676886
+  - 9.771224787088341
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 04783d62-676d-4808-ac41-aa2596b4d2be
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.06766338789109
+  - 5.9865920948518685
+  - 244.14209776055617
+  - -163.6133407222237
+  - 87.39814452211353
+  - 8.183715927545212
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 12915063-77cd-4f62-be0d-c28e7e6f1b64
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.07123260266432
+  - 5.985137901364459
+  - 213.0413999529806
+  - -161.69008157283213
+  - 89.98862777915163
+  - 4.283794769242967
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3404fa7c-d416-48c3-ba5a-f959cff1e145
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.07337933054873
+  - 5.983654193802401
+  - 251.66435451344833
+  - -150.0289249529235
+  - 85.73286697392696
+  - 3.5630034373597086
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 7a9fd75a-5800-4d44-a3c4-eaf4fff1c381
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.07043991580078
+  - 5.984062081278852
+  - 274.9251173021278
+  - -152.56635393634195
+  - 82.90667090589359
+  - 0.5409149989764416
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 8ae1ab51-c821-41f4-ba53-d17673969e99
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.06945267087693
+  - 5.983113610232811
+  - 224.92980748712247
+  - -160.97031742274137
+  - 82.6918098834588
+  - 0.8137709517205965
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 4efcf917-068a-42fd-b982-eaefef3239ee
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.06951993359935
+  - 5.981624663573319
+  - 273.9154811874366
+  - -151.57129943341684
+  - 85.47560509888221
+  - -3.3493821075007557
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ff2123e6-2652-44bc-b285-49ddc0a144e7
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.06773841390768
+  - 5.981280737050548
+  - 247.02261554651298
+  - -151.97590364585415
+  - 87.51947157036675
+  - -3.9004442501284697
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 83e6f1bb-153c-485f-b74f-423e1eb94f04
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.07109786084114
+  - 5.978698740862652
+  - 235.59421400218295
+  - -163.292829336763
+  - 86.25827344188815
+  - 10.87704838266475
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: b133d9e1-8be5-45fd-82fe-1b4bfe65dfd5
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.06871304501009
+  - 5.97964621840727
+  - 220.53364344180403
+  - -158.8032255454414
+  - 84.45797785413082
+  - 0.5630091867226579
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5f2aed3d-ebfa-4d51-a6f0-10f4074ae1b0
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.06729855233175
+  - 5.9725257148048225
+  - 190.53746289002547
+  - -151.9915535270945
+  - 83.79876716239885
+  - 4.382907268881994
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 3f188253-1f38-49ee-811c-3e4ba10a4290
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.06653642638652
+  - 5.969998894852972
+  - 149.17602072048635
+  - -162.62472290569107
+  - 86.50442060986289
+  - -1.1637677123668364
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a1ab30cb-c34e-4a03-99de-51291dbe9a4f
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.06556434887928
+  - 5.969439157399301
+  - 182.51597243196542
+  - -158.14428820541067
+  - 83.08207887857833
+  - -4.4972715650993065
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 7a7f4200-ad84-4de4-bff2-9b3c5df5fc7e
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.06316996027996
+  - 5.966039098088049
+  - 127.07318812204606
+  - -159.42290421501085
+  - 86.68626765780397
+  - 0.23532051943642499
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: d367e916-f6ee-4294-b4da-ce796281e52d
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.06318738943858
+  - 5.962705913027463
+  - 109.56402373287472
+  - -157.85360683357834
+  - 83.8831101234511
+  - -1.2842944293988188
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 9c4542cf-bb67-48cc-ac1c-07c89b6a6650
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.0616415181259
+  - 5.960926358887207
+  - 104.7237427712638
+  - -158.5333504637963
+  - 88.9538253111643
+  - 1.9916259775309266
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 48ce0243-9e3a-4dbd-a51e-5f5907e05ecb
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.06083387083875
+  - 5.960102206310959
+  - 90.92679791771049
+  - -152.29374492371176
+  - 83.51385733518212
+  - -3.2713062581788273
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f6c9c87e-42f2-4804-9129-aaecef655bce
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.05985811382136
+  - 5.9598551611771695
+  - 100.78416501079029
+  - -160.18819946266427
+  - 86.21272157449812
+  - 5.6713071505376265
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c6d056e3-4c9d-4778-a422-3a0a5f524053
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.06020744827406
+  - 5.959572467211807
+  - 83.15365280323118
+  - -153.3559501089262
+  - 85.97727342976397
+  - 2.6633987699230186
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 469281ea-c150-4b33-9f3c-5db6224f93d1
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.05932105477292
+  - 5.957642485788751
+  - 74.3754956676143
+  - -157.8184276292951
+  - 85.88746188728473
+  - 1.9820111142010712
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: dfce8445-0a01-4e0d-8e08-3a59c278ed6c
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.05869493728845
+  - 5.955486311732889
+  - 85.3955277346128
+  - -149.35797929445448
+  - 86.82918846054304
+  - 0.5576759335924065
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: bfca5131-65b4-430d-a6dd-62e29684b2d1
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.0586771760532
+  - 5.954766060556118
+  - 55.35562270895196
+  - -152.00589942033108
+  - 88.98230797821266
+  - 12.075863679153798
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b2a23ae7-0a90-4435-90d6-18cea4c98692
+  airport: WBKK
+  runway: '02'
+  pose:
+  - 116.05657609142942
+  - 5.95006882002029
+  - 40.491351069945985
+  - -153.81524224407391
+  - 82.52456727475722
+  - -1.5472334217894745
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

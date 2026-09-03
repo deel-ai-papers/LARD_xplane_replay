@@ -1,0 +1,1078 @@
+airports_runways:
+  VOBL:
+  - 9L
+  - 27R
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 26170a2c-ee5c-41ed-b434-359bbe7a42f3
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.77798054577795
+  - 13.20751811508317
+  - 1240.909689003287
+  - -92.06602473204843
+  - 84.7609135263748
+  - 1.8830087598381486
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c851164d-0e4b-49ca-80ed-7358494ecacd
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.7771389570872
+  - 13.206188726331224
+  - 1267.0498481025425
+  - -92.77397380886771
+  - 86.84696872884771
+  - -1.754224007999092
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 475d660f-a186-41c9-a888-c471f2684809
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.7765692669678
+  - 13.2058715340636
+  - 1239.5143953693064
+  - -77.35309980008633
+  - 81.80401672780451
+  - -6.616775325548286
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 0188f00c-7272-46a9-a3bc-dbfc546b6911
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.77571157195838
+  - 13.20446911411555
+  - 1218.6239289139414
+  - -81.19509394367202
+  - 86.14999331344832
+  - -1.4252592102318171
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: dad9ed03-3458-46cc-8feb-a2cf5cb78d19
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.7731383699334
+  - 13.20672788929262
+  - 1280.932553090327
+  - -90.94362536545
+  - 87.44639031819496
+  - -9.507586586615835
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b76a2dbd-bebb-496b-8aa8-db722207ca45
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.77242699111929
+  - 13.208690471103615
+  - 1198.8863614518318
+  - -79.8050318340876
+  - 84.15067560292756
+  - 6.946980452090518
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e2f730ae-d1de-48c1-910d-b37c65839bd0
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.77113834975702
+  - 13.204905120608833
+  - 1199.9610816607124
+  - -83.95999519070888
+  - 83.43039028805997
+  - -2.327276081079707
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d87b71c6-a873-46be-a357-5ea095549f50
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.7693059309031
+  - 13.207640702382893
+  - 1164.5925214660597
+  - -90.37326082111275
+  - 87.19488908882228
+  - -4.250184772295523
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 75080902-b97a-4965-bd17-3dc4b8b1de16
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.76916892301017
+  - 13.204191520236112
+  - 1190.0405109996875
+  - -86.01125048675084
+  - 87.97127692989902
+  - -8.127621040037159
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 9cc14c1d-f38c-4efd-9715-1df6c74897ec
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.76607611501292
+  - 13.208452181622523
+  - 1153.8386208393601
+  - -81.42637847544204
+  - 85.17375372734132
+  - 4.386698283494152
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: bb2311c8-11a6-4ac2-8535-5508af1f8436
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.75996969043464
+  - 13.20369773926442
+  - 1136.9471488934628
+  - -85.59042638810516
+  - 86.42701523086114
+  - -6.413066140350992
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 97577c99-4a14-4b61-b282-1239f01aefde
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.7584368363803
+  - 13.206651295222063
+  - 1122.102522343691
+  - -96.47453055344968
+  - 87.04884818949242
+  - 3.9917695102653195
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: d4e1384a-d0d2-4ad8-a38e-2200be66a9e4
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.75703859230299
+  - 13.206498015559871
+  - 1153.727467349284
+  - -94.34009991776078
+  - 86.61501289609826
+  - 6.5168796565934075
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 70cf8be6-76d4-48fa-b87b-8bfd3ada257e
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.75591646065307
+  - 13.207452284286042
+  - 1126.7602452591855
+  - -84.81532394689303
+  - 85.97306135177837
+  - -3.4043035743676686
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a5b7b109-47f0-4635-a620-9bcc3288ff13
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.75420884458003
+  - 13.20724561130643
+  - 1091.4130604262289
+  - -88.66490618121414
+  - 87.30490736250579
+  - 0.9896627489927821
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 8e596e73-5ac9-4826-a01c-da75003bb007
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.7535226161822
+  - 13.207490536370962
+  - 1134.1782846786477
+  - -86.95241812698136
+  - 90.43773614297425
+  - 5.741348415063634
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 6ceb32a3-c3a7-4de8-b4fb-36acf4844393
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.75252998314022
+  - 13.207730695619857
+  - 1095.017485104388
+  - -86.35542329258973
+  - 87.1509881755629
+  - 0.5767934349263591
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: c9aeb64f-927b-4e10-bfc1-6829dc614cb8
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.74924398082175
+  - 13.207211302588423
+  - 1092.6628275154792
+  - -90.52112234359511
+  - 85.98590182399208
+  - 1.0495081688362287
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 2b67fab5-2d58-4797-b85b-e59814ae4607
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.74847680208953
+  - 13.205768565228242
+  - 1066.7818304711066
+  - -86.88730004548046
+  - 85.92988800657756
+  - 1.416421970369769
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: cdc701f0-c9ec-49f1-9f8b-43ba521b4b58
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.74649273661305
+  - 13.20663934347666
+  - 1046.5009544405527
+  - -87.7506122776214
+  - 84.8052104442856
+  - 11.241052090147132
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5213ee8d-b06e-4e35-9b83-0a7fdcb4b7fa
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.7416238981946
+  - 13.206507235123052
+  - 1016.6689395886335
+  - -91.17954713987513
+  - 88.60413847382956
+  - -0.5413471943170364
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 73ad13fe-f26c-4158-9259-fb25540ca006
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.74096395748182
+  - 13.20734679586652
+  - 1073.2998205334131
+  - -85.33350101462857
+  - 86.7840793676334
+  - -2.635938447686078
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: fea94a5a-d57e-4bb9-bd44-4e0f742da52d
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.74096559111156
+  - 13.207138013156348
+  - 1053.8884936689374
+  - -91.75429937944928
+  - 88.66114755993593
+  - -0.9465589562170001
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3aef6b56-eda9-4810-8371-a1e5062cce0e
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.73724656450277
+  - 13.206850700549944
+  - 1042.5596469178026
+  - -83.02586193549119
+  - 85.60092594013935
+  - -5.88112618014134
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: cf78af6e-470a-425a-a35a-ba80632c915b
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.73595999793454
+  - 13.207670929960978
+  - 1011.338740544515
+  - -93.08253494447797
+  - 84.71523539459555
+  - -4.384209456142086
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: adb916a8-8afd-4a16-bb4c-e93f28b4cdc1
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.73408744770802
+  - 13.207750411765508
+  - 992.9691735897298
+  - -89.16848649255232
+  - 84.88571211920541
+  - 1.5594141902656218
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f20433b2-aecb-421a-8d09-db2685ca98c6
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.73148956736088
+  - 13.206646120782475
+  - 978.0370319743811
+  - -85.61891933443876
+  - 86.01805519725607
+  - -1.3128710041006821
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f1b833fe-048d-4088-a14d-feb5708b2dc9
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.73025366135914
+  - 13.206648507643816
+  - 982.7861746717057
+  - -77.79153293624536
+  - 87.39222370117854
+  - 8.611851634500184
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 6b48ba3e-5aa4-4ff9-b236-fbc645bcb6a2
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.72768899665508
+  - 13.206829816845493
+  - 959.4607409816276
+  - -91.87248695005212
+  - 87.52837127524552
+  - -3.3795158696261267
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5c67d764-76e6-466b-97b9-d5940423d4df
+  airport: VOBL
+  runway: 9L
+  pose:
+  - 77.72682455369275
+  - 13.206982218472051
+  - 948.7748076487347
+  - -90.12056102766152
+  - 84.83391530456396
+  - 5.719318617336347
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: d9f98d63-4d11-4a3d-9a81-4985b8f92256
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.63184474383364
+  - 13.209558433060081
+  - 1325.9976221571765
+  - 84.58990133274145
+  - 86.57674910321246
+  - -8.088365130073447
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 7f69ca1a-710a-4ea8-8a9d-0df50494fcb1
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.63575202104025
+  - 13.208291829859135
+  - 1197.5555001210878
+  - 85.65577123496364
+  - 83.10426423960168
+  - -1.1369854516829505
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: af1c7f6b-09b4-4a9a-a612-0dd8ab7c70f1
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.63750267595121
+  - 13.20773761365341
+  - 1205.4406745144806
+  - 89.64989221713772
+  - 87.32344542375886
+  - 0.8484793325279232
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 41db8b9a-f35d-451f-a723-4bf0fc15ce5c
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.63798789350159
+  - 13.205974674300446
+  - 1253.1253239249713
+  - 93.9313259465835
+  - 88.73654964689233
+  - -9.039340115001579
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 67fe276b-5077-47bb-89b5-49beb0b19bb2
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.63961606730302
+  - 13.209563563337309
+  - 1188.636138552791
+  - 97.219583106769
+  - 85.32686913809849
+  - -6.7576901602164
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 573e7253-751d-4811-93b3-a28eb9cbe928
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.64071991331942
+  - 13.203493100010421
+  - 1221.239729119267
+  - 87.71119218580503
+  - 90.17822601580009
+  - -0.6563871769402928
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 2c4bd1a5-b8bf-4525-b052-6bc1b87a8f1e
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.64180601017304
+  - 13.209034609005863
+  - 1226.9901219963226
+  - 87.46991106015126
+  - 89.7950221120055
+  - 0.8069618831635001
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 5a06d98c-f2c9-42ee-8040-a37d2e9dea3e
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.64180450986002
+  - 13.206815416220403
+  - 1168.3401938332613
+  - 88.76776063194549
+  - 84.30926903891587
+  - 6.449827796253782
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 38c55b73-4e51-4219-9064-02a657ee6b2e
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.6421870875445
+  - 13.210982052349339
+  - 1195.1979732151417
+  - 95.61615263939305
+  - 86.32992796604994
+  - 2.6070212580504974
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 9d5a6f09-217a-4f58-92c4-c2f9437934b9
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.64323088578858
+  - 13.207927409050058
+  - 1234.6661361970878
+  - 96.99136791171442
+  - 88.00266492726504
+  - 1.9779736802738017
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 70067d36-19fb-44f8-bb8d-f655763c5bad
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.64622982862963
+  - 13.204709779067727
+  - 1181.9089199018845
+  - 89.65552179605498
+  - 83.18726369599938
+  - -7.735292376635768
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 290cf99a-5721-4242-8917-2bfe40693e79
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.6471379785097
+  - 13.20785136433474
+  - 1158.5560550874554
+  - 94.56376453229205
+  - 85.79966086546456
+  - -4.920606095878401
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2b54ef53-a8f6-412d-a0b4-52655a0f0179
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.64734506329793
+  - 13.20887948938331
+  - 1221.0030569991789
+  - 82.38965487298191
+  - 88.25432413536863
+  - 8.694800212347488
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 23df6e4f-9a7c-41b2-914a-1134efdb6fac
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.65096692491726
+  - 13.205321976559066
+  - 1169.4950897165363
+  - 93.72661632369424
+  - 89.73741739270858
+  - 12.164656682390033
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 37f6442a-6337-43c0-8628-1eca464373fb
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.65165854693166
+  - 13.20777527981872
+  - 1149.9848227453344
+  - 90.2785278780259
+  - 82.70124288686452
+  - 0.3117889203008772
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: d1dea8b7-4a3e-4229-9267-620f5b875f58
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.65410109045281
+  - 13.20774813935739
+  - 1134.951370026706
+  - 89.50643038250355
+  - 84.83494398100319
+  - 3.647114019438104
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c34e0aaa-eddf-4fa2-a603-c4c511ada7b4
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.65838909751162
+  - 13.207931417089515
+  - 1097.6702673051545
+  - 82.13629916939237
+  - 88.47123813322877
+  - -0.6325900145184669
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 94356739-d51d-4fe2-b100-fb16dd5b8218
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.65926309790063
+  - 13.207024360305532
+  - 1141.372090772995
+  - 93.11087703789572
+  - 87.38687727001086
+  - 1.6054596141829778
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 3167cec6-d99a-42d8-a09b-cba71d328eff
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.66032245908512
+  - 13.207724661484326
+  - 1132.4976851642064
+  - 82.80087849896033
+  - 85.95424384782997
+  - -1.5179021389286604
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 594ab8e8-2edb-48e5-9280-baed2816f4c5
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.66108065945797
+  - 13.207558227660762
+  - 1107.4738040860975
+  - 86.1697140594206
+  - 86.48441485908613
+  - 0.795843234177281
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a29d013f-65ce-40dd-a390-7ed6e62bebd5
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.66314690606454
+  - 13.208463305948879
+  - 1090.4499360024886
+  - 83.14405403392468
+  - 83.97374503019958
+  - -6.605639221482468
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 698b48f2-4c1e-4db1-aecc-3497615532be
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.67545927177493
+  - 13.207216550400236
+  - 1024.931785542103
+  - 91.3726864405625
+  - 86.83118964277725
+  - -2.7662718644607107
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e32db897-8af6-41ea-95ff-d7e038d3fa77
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.67553457048099
+  - 13.207687936277457
+  - 1009.9834340089852
+  - 97.30377766168239
+  - 92.13263695399733
+  - 3.8864561751980773
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 42374700-2385-44a1-b4d9-0179f359bc1f
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.67786995035516
+  - 13.207101965807759
+  - 1018.1021160408892
+  - 86.03727263305103
+  - 84.24992227881778
+  - -1.1366226598949911
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f205e8e0-566a-42ea-8256-99add25a3d97
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.67989216931889
+  - 13.207200846687947
+  - 982.3353402945792
+  - 91.6339951906873
+  - 86.85190169749984
+  - -2.4182220471069646
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 1c45fb43-021a-4c08-b17b-7df798d15354
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.67997208388411
+  - 13.207114566868889
+  - 988.5443658844526
+  - 84.56942006487242
+  - 88.84572468931144
+  - -3.643275077147787
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 237303ab-b075-4012-a9ad-c496ed415e1a
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.68044163272158
+  - 13.207129829466348
+  - 1000.0691665185284
+  - 85.0677337705645
+  - 83.12463661662728
+  - 3.4018835528806286
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3e306791-e878-44e5-86b4-20d0f25fa7f0
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.6827159097463
+  - 13.207187006104098
+  - 978.8964974106684
+  - 91.3321991953274
+  - 86.94216432467346
+  - -3.0873585199455293
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: ed286769-0ad4-4c14-839c-424da8735737
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.68311713441875
+  - 13.207270540667015
+  - 974.6421113552199
+  - 89.400003073646
+  - 85.44238669345405
+  - -4.574090822025389
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 7d0700ae-0802-4213-85c2-50d0db6bad9e
+  airport: VOBL
+  runway: 27R
+  pose:
+  - 77.68341644362677
+  - 13.207153604193918
+  - 979.4274604817074
+  - 87.46535701876384
+  - 89.3038103966517
+  - 4.295388472420026
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

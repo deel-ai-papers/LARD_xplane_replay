@@ -1,0 +1,1078 @@
+airports_runways:
+  NZAA:
+  - 5R
+  - 23L
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: e1019a38-8fd6-40d7-97f8-837c41d6c5bb
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.86714414185118
+  - -36.990185494464406
+  - 307.38660859223717
+  - -106.73450410980023
+  - 87.01089001521538
+  - 3.8787559246368177
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 4f117e32-f70d-4c53-87a1-4c2613a6ee0d
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.8657828071591
+  - -36.99079231358945
+  - 337.06149299823164
+  - -109.08183026864359
+  - 83.56392075500194
+  - -1.9644049662383645
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 1de468fe-6386-45da-bb52-c1a5d68b92a1
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.86397586830606
+  - -36.991660780792856
+  - 285.78426133351695
+  - -110.52183081459452
+  - 83.81886703918424
+  - -2.7830027616339192
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 92bc9993-1674-47e9-9633-37de93956708
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.8607293098292
+  - -36.98981861105827
+  - 329.3322758430681
+  - -118.18513533249649
+  - 83.60248479165985
+  - -0.14088091420141444
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 2a706fbd-4b84-4ee2-ad11-3fc3d7ee4c26
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.86041343722027
+  - -36.99188288152171
+  - 342.1209944768095
+  - -103.98862645319605
+  - 84.70571833650357
+  - -1.881989433971746
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 3de92aaa-6678-4c74-8494-49b26c910a31
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.8604921948731
+  - -36.99235176181293
+  - 292.11050866070957
+  - -109.81376995737989
+  - 80.91809955474572
+  - 6.536953066164166
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 04974bc5-6577-4801-a52f-29f0a691ac06
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.85801602454436
+  - -36.99341689920502
+  - 292.63452743365536
+  - -114.92549786482235
+  - 85.33080537318656
+  - -0.2541772956476889
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e4ee953b-5a22-4aec-8bf7-92572bb3b840
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.8562368050568
+  - -36.993328423668466
+  - 316.36983111723396
+  - -104.730355007468
+  - 84.0273818481804
+  - 2.575115786227575
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e1bd2031-63cd-43e9-8ecb-8586bc0cacec
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.8559807021396
+  - -36.997260429588636
+  - 295.73394798150844
+  - -102.67840990863934
+  - 84.6577154711744
+  - -5.802519115547769
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 1ea4ca1c-7310-4541-b196-a3554369a33a
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.8537932985508
+  - -36.99302054895775
+  - 274.23174807639856
+  - -108.06564229241346
+  - 86.08268273882608
+  - -11.744679268435599
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 2733fe1c-9b27-4691-8485-ad6fe26985f6
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.85236413268487
+  - -36.99566301906936
+  - 251.82414898891855
+  - -119.70490082475357
+  - 86.96694882784219
+  - 9.525715404415461
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3210e98c-e25a-4abd-8deb-5350460b28bd
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.84908493682147
+  - -36.99602315781986
+  - 277.6782241285013
+  - -109.39394085542976
+  - 84.46294007668834
+  - 4.156939710133616
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3dcde3b5-debb-4bf1-88c5-a7994dac3f9e
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.8465606532241
+  - -36.99441710372281
+  - 231.20716068871073
+  - -109.53889035412016
+  - 85.61241195542632
+  - 6.208682243039732
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: bfd4f1d3-3002-4d47-987a-ff561c285bd7
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.84520233549003
+  - -36.99541500960828
+  - 241.8633572415944
+  - -97.21815268562858
+  - 85.57150648894682
+  - 0.20151073892908028
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 4bd0383c-63ac-42f9-9199-0a40ace1d28e
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.84254858612502
+  - -36.99764522096102
+  - 231.9708603375978
+  - -110.16922322260099
+  - 85.86396870447997
+  - -1.0820932698454935
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 7ffd38cb-1a9e-4ab1-b37a-a4a27bdc257c
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.83936060483146
+  - -36.99641836795632
+  - 181.50383376945632
+  - -107.00647891886925
+  - 83.97436423897321
+  - -2.0937354578354395
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: bfb1a9d7-53d6-436d-b9ed-5810db157c6e
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.83757906731984
+  - -36.99789384257038
+  - 187.32032661029288
+  - -114.40136752168905
+  - 85.41094084220694
+  - -5.323876814311075
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: bf2821ef-de2d-439a-8665-b875f537f678
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.8348746309688
+  - -36.99718280199448
+  - 162.17835092841892
+  - -113.44742726817314
+  - 83.8908201790232
+  - -6.07987645438408
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 301ebba2-329a-40df-b13a-4d7e1c573f54
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.83439291057547
+  - -36.99674451361219
+  - 161.58985456673577
+  - -103.97616236904757
+  - 84.03818177762673
+  - -5.306408417461332
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c75eed2d-8610-4739-9ef8-6e77ccca26b4
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.83414663718642
+  - -36.99909283857455
+  - 149.01074785592093
+  - -112.40333611358217
+  - 87.76875109855709
+  - 11.476311122696831
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 3d1e74b5-d3c4-44bc-a5c6-90445b344aef
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.83020152913684
+  - -37.00044180662983
+  - 113.41975875142482
+  - -106.04831051381368
+  - 84.4403898039424
+  - 6.54608358254638
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 98d49208-3f85-42e2-b55d-68fbfd16316d
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.82735254693105
+  - -37.0002497939569
+  - 101.22173283258154
+  - -110.23466434273614
+  - 83.82620865306126
+  - -6.442274479038003
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7f4d04e4-070c-4146-8cd2-f46e488a9e09
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.82438821048882
+  - -37.001178362383456
+  - 113.55242222980758
+  - -112.04439198613535
+  - 86.68806943758725
+  - -4.593571324792348
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: c35c02e3-81e6-4c80-8601-30679d0deb7d
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.82429665372203
+  - -37.00138191147668
+  - 116.80298478106958
+  - -114.33613108396752
+  - 89.00663481446193
+  - -3.177712587878625
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: da579178-0656-4356-a4fa-5d60c3640c05
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.82124404346786
+  - -37.002849003875575
+  - 105.69285756989737
+  - -104.07112977373046
+  - 88.43317839052752
+  - -5.993829567727169
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 1648e17a-eb4f-4ae8-9b39-14134417373f
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.8207879472962
+  - -37.002197168181304
+  - 92.17528856745422
+  - -106.0873142104657
+  - 86.45023727706078
+  - 5.399388544715191
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 007a0579-0bc6-4985-8f2c-dc4baa6da4cb
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.82018548384005
+  - -37.001799872217454
+  - 86.05669055966425
+  - -106.2005333067213
+  - 83.76448854358487
+  - -4.501346716449685
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 60f06978-2040-4c1c-806b-1288ac36d08e
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.81314076922777
+  - -37.00474137489017
+  - 48.621107476833025
+  - -113.20504314330105
+  - 81.47557173990354
+  - 2.3913662289387303
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ff1bdfb9-8a5e-41e9-8753-f4483b9a63c1
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.8096360353033
+  - -37.00549143733966
+  - 31.025870138977155
+  - -107.47681557436147
+  - 83.3241166980467
+  - 1.7286494706386186
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 51483c71-79fb-4915-8f47-2a35c33be367
+  airport: NZAA
+  runway: 5R
+  pose:
+  - 174.8093146651774
+  - -37.005581494714136
+  - 30.178270881261053
+  - -113.78086911632934
+  - 85.40584168292287
+  - 3.4171406378628424
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5e835255-5da8-4d35-a7c2-ea95f900d553
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.70873167699588
+  - -37.032541490011674
+  - 373.03469176148053
+  - 68.37805864053338
+  - 83.97340643260137
+  - -1.4534801704686242
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 52f9b8e2-c519-4eb6-b807-3308d6402b2a
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.71228357358208
+  - -37.03358120758208
+  - 376.96746385119246
+  - 77.80457822633987
+  - 83.58389424927825
+  - 7.855503828516769
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 801c463e-d4d2-43ac-b36a-0b746113ca7e
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.7173521089806
+  - -37.032766087154585
+  - 298.09470352868226
+  - 68.76366511854931
+  - 88.85542932650065
+  - 2.9644735302507064
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: bcf884a0-cc41-4827-9821-d48c61c4ebdb
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.71855041860425
+  - -37.032713971114866
+  - 311.8642644120689
+  - 75.16282191787307
+  - 87.04845413635483
+  - -2.795030651742551
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 95a2ef40-0037-4fee-a53e-bb33843b5507
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.71840391864004
+  - -37.03015250901146
+  - 297.8359401699862
+  - 66.33191983534783
+  - 86.38175682409413
+  - 2.372996483741971
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 60aa9ffb-b5d1-4f0f-aef5-2d6125464295
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.7193804976823
+  - -37.03045999123031
+  - 218.87466508446943
+  - 81.9428946378934
+  - 86.63087475300092
+  - -1.2551842550003403
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d6420fb1-84e8-48ae-addc-7dd490b79ba6
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.72176070089526
+  - -37.03092739128628
+  - 279.6125308347985
+  - 72.40395569126413
+  - 86.7346915055834
+  - 3.460650945789407
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: aec73ad7-7003-4f19-b567-b9996abcbfe5
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.72193609521665
+  - -37.028662337943025
+  - 329.70756256267646
+  - 74.09256493035258
+  - 86.97711322729862
+  - 4.298873384115219
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: edb7b005-5a31-4595-9b02-76523d317f67
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.72243294029695
+  - -37.0294195888027
+  - 247.8751314564914
+  - 66.03213571389958
+  - 85.63448794246324
+  - -4.0472607549061
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 752c944b-03c3-4394-8d5d-0ad0fdbc628a
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.7226607047644
+  - -37.02902126753486
+  - 226.0606251764889
+  - 62.58336105238979
+  - 84.13243906005981
+  - -2.5790845741071
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9149bbd7-ee0c-493c-9fd1-788a4cfd72a5
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.72415303320116
+  - -37.02930271202521
+  - 231.82659276908225
+  - 79.32202511538372
+  - 89.12459144633108
+  - 5.440380117052469
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 08b28a12-dcc9-458a-90d5-761a533a1ad8
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.7250588398067
+  - -37.02770247949077
+  - 254.95323134845032
+  - 67.86482767851315
+  - 84.63451024001765
+  - -5.017870868444839
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 01776aba-bd5d-4de3-9c1c-77f2f2fbbc18
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.73003761403587
+  - -37.02787899316324
+  - 196.7680385869883
+  - 72.74368810484027
+  - 87.24470205859416
+  - -1.2025756811819481
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 7a8fdd81-ac1a-4552-967c-e891d28104d9
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.7344456617127
+  - -37.02547608740246
+  - 196.58049521005142
+  - 66.87817986449127
+  - 86.94449596306642
+  - 0.6386541806292443
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 851ba597-123d-4940-a679-26fbfbf138a2
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.7366021948498
+  - -37.026203364605216
+  - 204.2975611196102
+  - 73.54227445631447
+  - 87.68219031379324
+  - -3.0305415225881065
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: eb3bae0b-ee6b-419c-ae0d-a7439c0e2f7a
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.7358340151201
+  - -37.0241527063373
+  - 167.58630682984483
+  - 64.1249727902243
+  - 83.05728223651627
+  - -0.11275004290753189
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e91c8a8c-bac9-4392-a285-e69dcb2e4a97
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.73667214693603
+  - -37.025305695207486
+  - 198.7835613850748
+  - 65.90933190335045
+  - 87.12732025888961
+  - -4.263839654944669
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 645a5980-8c41-45f7-8c1d-bea83844786c
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.73813187037769
+  - -37.02561573310367
+  - 196.6794149082567
+  - 73.29213184146437
+  - 85.83802213259511
+  - 3.552376217283364
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c12ab793-b9f8-44b6-abbd-de5d1a65199b
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.73869442960012
+  - -37.024683996107186
+  - 232.37144852826654
+  - 73.90090825203768
+  - 81.98140867080022
+  - 1.0903038854508877
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 736e85e7-d39f-40ef-8b80-10bb3b007f31
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.7435650793998
+  - -37.024037463724525
+  - 163.60444555182877
+  - 73.62385536045436
+  - 84.12431642369194
+  - 1.6736015339035613
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: bb826cf0-1cd1-4777-828c-8024e7ed37b1
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.7474575356127
+  - -37.024184711292136
+  - 138.34133272923867
+  - 75.79975044679512
+  - 86.35008590436725
+  - -3.5126780341640274
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ac75bb72-ae3c-4454-b735-94521059aa59
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.74982591713993
+  - -37.0217772419216
+  - 141.2108130269941
+  - 67.66140556643093
+  - 88.43262788341508
+  - 1.1947033604986705
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a7060ed0-1cd4-4a1f-a099-bae4bb1d982c
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.752718247624
+  - -37.02078040375793
+  - 107.82491876539007
+  - 73.08262817226604
+  - 85.35024705587334
+  - 6.981150523134703
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f4672000-85fc-46b0-ae37-334e6f8599d2
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.75313366592064
+  - -37.02122176503789
+  - 97.57011811459839
+  - 73.23909096549113
+  - 84.49942392205953
+  - -3.0891187407393645
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ab06518e-0b66-46d1-9b99-4a38cd131c1a
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.75640680162374
+  - -37.0198461591735
+  - 98.46919885557058
+  - 68.10508062831065
+  - 86.60489881270345
+  - 1.0833498428395774
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: dcf910bf-c098-4794-8809-7225162aa4ab
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.76169294044345
+  - -37.019576392356754
+  - 58.4110777979906
+  - 65.2985950339851
+  - 86.46519386809285
+  - -9.014947490024095
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 0d3f8280-09c4-49bc-8a1d-709313708dfd
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.76199161393214
+  - -37.01885073237341
+  - 66.7165900480631
+  - 73.88016177806156
+  - 81.48059128329925
+  - -10.324084380492666
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 78c797ee-7e8b-426b-9f3a-79e8c9e02404
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.76272998291878
+  - -37.01853325064967
+  - 60.05509030463078
+  - 74.77789003921261
+  - 84.51205188820617
+  - 0.781412376134475
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 1da3e78c-33b4-4cb7-9cd6-5da51fff014e
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.764458672299
+  - -37.01780243624864
+  - 46.784335057094616
+  - 61.3834693984294
+  - 84.67814728958268
+  - 1.0824515066601688
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 157b5caf-a106-4cd2-b416-922f2b203898
+  airport: NZAA
+  runway: 23L
+  pose:
+  - 174.765408249106
+  - -37.01782625649328
+  - 54.32485826653674
+  - 62.228152519818494
+  - 85.34578936793292
+  - -3.4744485143231856
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

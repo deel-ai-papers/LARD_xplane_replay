@@ -1,0 +1,1078 @@
+airports_runways:
+  KSNA:
+  - 2L
+  - 20R
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 31cc2f41-5aef-42b6-a4e7-6b7da756c1d0
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.83186725421567
+  - 33.72612674337235
+  - 358.8816942742503
+  - -156.4095580612021
+  - 87.54139542674083
+  - 1.2730592988611509
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: cd7dafb7-9353-4574-9f17-04067c239b02
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.83734151207653
+  - 33.726991442180996
+  - 354.17126966662636
+  - -144.7210670067038
+  - 83.5329027041333
+  - -3.020507725025516
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: addabd3a-d0cc-4bef-9e6d-5165bc06bcb1
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.83482485009128
+  - 33.72505025911941
+  - 319.0252884911346
+  - -155.58261372148453
+  - 87.67477091025594
+  - 6.529519933658392
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ca88263c-937e-424c-ae3e-f16a9035f170
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.83566657364169
+  - 33.72385234548946
+  - 397.9754048389656
+  - -149.59911369451567
+  - 88.4056860852983
+  - 13.919437553840508
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7c9216db-df88-4bab-b954-ae3e4d0353d1
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.83566154511857
+  - 33.723364991443404
+  - 364.7016359783702
+  - -146.37126415326918
+  - 82.63744811968604
+  - -4.17478283163339
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: fe583da7-3a02-4ef5-a2c2-fdd9600331b1
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.83823698656498
+  - 33.72378734117212
+  - 376.47528092510294
+  - -160.69368195368466
+  - 87.54884332025472
+  - -2.0679500118799408
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 9524bc5b-0f49-443e-bcd2-8157a5752051
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.83832184855522
+  - 33.72321641685178
+  - 293.56267984445253
+  - -152.52814863827118
+  - 84.92720069181556
+  - 2.3040705002751487
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 664c686a-e3d1-4112-918d-8caea489367b
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.84002426300847
+  - 33.72376573221266
+  - 288.7762552334217
+  - -150.2698912713652
+  - 86.07611910252427
+  - 5.586283084977173
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 795fa01d-f3a1-46f0-9754-11c4bf3b85bb
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.83679807329003
+  - 33.72135536674179
+  - 257.78093278807216
+  - -154.1354284932425
+  - 86.72743610966064
+  - -1.0107886214449882
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 99f49e8f-a7f4-422d-8de6-f221d11bf716
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.83839907030199
+  - 33.720712667585005
+  - 277.2984600879622
+  - -149.58918556651705
+  - 84.75503964188007
+  - 0.2697167431732625
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 1e0140b8-ecf3-4de9-9662-9f32e7afb53e
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.84076545437898
+  - 33.7162373793266
+  - 204.39511754393908
+  - -149.22681157609054
+  - 83.73716689916337
+  - 1.237604992990188
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 3e6e6f7c-7b7e-43c9-aab4-f7d039fad4ae
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.84226417323832
+  - 33.71648257584399
+  - 214.03017783283445
+  - -151.5821623151574
+  - 85.82562724423401
+  - 1.9375658214445939
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6e07a549-5d15-4f22-a482-9d5941446d28
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.8467273040431
+  - 33.7174407475291
+  - 238.82291962524414
+  - -155.9229002499626
+  - 89.82856153353686
+  - 14.327852548094507
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: bc295f9f-8609-4f99-b130-be9453555c0d
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.84685412215684
+  - 33.7117837760759
+  - 136.55470468924136
+  - -148.67297259942742
+  - 85.27216721658321
+  - -8.90558148004396
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 2c5a5c93-c278-4013-aff5-6c52c21969ba
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.84323335522689
+  - 33.70883077366282
+  - 251.80965781822582
+  - -157.06054161135026
+  - 88.1500548923043
+  - 0.34345902876843165
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 04bddb10-f105-4678-a98e-0f29caf1a3c1
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.84773235967995
+  - 33.7102301863165
+  - 187.60295364655457
+  - -153.1587577394902
+  - 87.72420484089864
+  - 0.3146995105248045
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: b0d1968d-3a10-42c8-bd0a-919b6a2921ae
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.84952911046652
+  - 33.7056845211306
+  - 220.08158367946578
+  - -150.0461442723051
+  - 88.35935022621459
+  - 6.333004674938765
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 33eb9290-50dc-4e33-bf72-1eb8229c7679
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.84969364773566
+  - 33.70397278375186
+  - 203.04956977691032
+  - -152.91629514361142
+  - 84.13987916431674
+  - 9.098136023992593
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 88408203-2dd5-4b94-8197-5b222c064fb6
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.85063112108638
+  - 33.703208751521345
+  - 180.11450506033094
+  - -149.15076792684906
+  - 86.45855606638692
+  - 9.666343212408632
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3e6dd5d6-99b3-4d14-8dd5-9d5f8bc5a72a
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.85378901182115
+  - 33.70229353208042
+  - 154.93035670144968
+  - -146.86616933082877
+  - 87.73184914120235
+  - -0.22043373275331454
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: f96f44c5-d8d0-4a5d-9a1c-471549eb621b
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.85599540585069
+  - 33.69613631256386
+  - 132.20992868920155
+  - -159.48034524626087
+  - 86.50334314588933
+  - 5.482388488552959
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 8103d946-f7fc-490f-afc1-02ac6f520c27
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.85515985175948
+  - 33.69523482901947
+  - 113.75685774308864
+  - -150.66775472433648
+  - 87.08223689750463
+  - 7.312523402070747
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9d78bd3c-0e68-48a0-855c-6e0cfa3bda01
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.85680202585023
+  - 33.695455655732715
+  - 127.92372122449974
+  - -159.3355907709064
+  - 86.95282445962133
+  - -5.68804886752357
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 335da2ed-11c3-4244-8dfd-36575d94dadb
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.85676102508675
+  - 33.694191642588954
+  - 105.88241826314174
+  - -153.12041002247264
+  - 88.19944965867101
+  - -2.3418801918245764
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 063b2716-b57b-4ca4-83f4-25263c03fa67
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.8587996934332
+  - 33.691554337901955
+  - 88.70212994217044
+  - -155.79693225817266
+  - 86.75326695393169
+  - 3.928212502985894
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 93e3c046-b763-434d-a31e-39751f5f5f7a
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.85870873489074
+  - 33.6914240003502
+  - 71.30394321859487
+  - -148.7416755336105
+  - 88.06241275244471
+  - -6.059626155031092
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 5772e0d4-1b4e-47ca-96bc-3bf3038cb6fc
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.85965135206801
+  - 33.689937116507515
+  - 101.10635393315413
+  - -157.66638482507167
+  - 88.0570200651879
+  - -1.0082464377816878
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 88763140-8f3a-45a2-b450-3cebf37ec57e
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.85992994676262
+  - 33.68864834603786
+  - 70.28852728539718
+  - -162.30293396145444
+  - 84.16237204825953
+  - -8.373470179459199
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 9021c5d4-dadf-497a-abf3-8f6d3b26ca97
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.86253923305698
+  - 33.68594450996613
+  - 43.9456848883597
+  - -155.3886134689493
+  - 88.2409791712291
+  - -4.955020953864302
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: d973168d-fcaf-4cb3-993a-e937aa72b17e
+  airport: KSNA
+  runway: 2L
+  pose:
+  - -117.86356471155882
+  - 33.68412525594081
+  - 40.05798796930864
+  - -146.48407239686097
+  - 87.81155847214094
+  - 2.0275228675342976
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 9e865fc6-4663-4db4-ac43-e1a2111b69da
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.89868209409698
+  - 33.621370523274095
+  - 296.43504817283394
+  - 21.30294638209645
+  - 88.5856174401031
+  - 8.771521566413673
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 195c190d-e521-4e5c-a20c-8b1609fb7e87
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.90202764003412
+  - 33.62425922815834
+  - 343.31886239330066
+  - 34.304420843075135
+  - 87.1619341325459
+  - 0.5094293340912136
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 04bb724b-99d4-44df-8ed9-e2ce4df390b8
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.90168811636472
+  - 33.62456812808077
+  - 322.2521157312953
+  - 21.1147628074355
+  - 86.89085006266637
+  - 9.719639644666714
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 13b0a370-3e20-4b42-8bb9-3d5fd68b26c6
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.90346767577421
+  - 33.62690861852583
+  - 324.2846014693962
+  - 28.078093992020957
+  - 84.21429036518876
+  - -7.346954784202837
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b99138b8-c287-4e2c-9adf-482c713d4354
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.90047591579432
+  - 33.62551355804155
+  - 261.37573095612106
+  - 30.410411871192217
+  - 85.02901398753872
+  - -7.111181184881975
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ae5fc53e-9c63-49ce-8cde-243cc905c90f
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.90041846451267
+  - 33.62702084280053
+  - 321.0103693987403
+  - 22.76929952703869
+  - 85.47086268342004
+  - -6.497710983231446
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: acddc776-eb98-4563-b94b-9a67d84999db
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.89900424996715
+  - 33.62715003820212
+  - 323.3163022745888
+  - 32.042292758317934
+  - 86.82888175571522
+  - 6.269877824706274
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: c8deef24-6a40-441a-abe2-a1f7c81a894d
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.89909225840167
+  - 33.62732473947155
+  - 288.0741705086755
+  - 29.342358226270626
+  - 85.48227937651659
+  - 5.723763466764863
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: fa088273-3407-49d3-8096-7b8f52b3cc1c
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.8954262690838
+  - 33.62856720449486
+  - 321.3678663296264
+  - 18.00519545629214
+  - 84.28524146642437
+  - 1.0412773029358389
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 03b9366d-88fb-4bbd-8dc2-cc9e851ff6ba
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.89678805707923
+  - 33.63100618709942
+  - 267.89822648125136
+  - 27.72634481116821
+  - 87.05504193082419
+  - -14.409655662593783
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 56527b4d-17d7-4a1c-913a-a1f952986df5
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.8959263752509
+  - 33.631771428162324
+  - 305.7747087450992
+  - 33.07785265617532
+  - 83.26717139716968
+  - -4.03139090966623
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 95532d88-b52e-4a17-a36f-318b4322dbfd
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.8959756612438
+  - 33.63454789527346
+  - 232.17706350534297
+  - 34.2884193928027
+  - 85.81554585284935
+  - 1.9654061628800434
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 1481943c-f60c-4d0b-a5a0-af737ec48912
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.8943069942013
+  - 33.63519482989022
+  - 311.20609222367284
+  - 25.29389639826985
+  - 86.81836652200397
+  - 2.8676805901579376
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 0d9a0f71-2551-469f-9924-626ca8b2e82a
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.89436153753888
+  - 33.63550052356136
+  - 299.2518128481285
+  - 24.965390658671456
+  - 87.5939271969388
+  - -7.677162803437518
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5c49a9e4-d9d0-4114-a41a-cfd632fdd589
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.88811192710025
+  - 33.64180921610778
+  - 232.38333569959903
+  - 24.617445660213928
+  - 83.31511180267486
+  - -5.477945446196086
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 1487b459-228d-4a97-ba32-585fd69f8e8c
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.88805979646146
+  - 33.645144434699944
+  - 166.38573159806688
+  - 35.391055830984094
+  - 85.41474902657879
+  - -8.725337946490123
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b93a91de-8e9c-42de-aee5-f1b21a81e702
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.88775956674624
+  - 33.647534737158644
+  - 172.31359550653013
+  - 32.20143185915973
+  - 83.32440119496546
+  - 6.196966256835647
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: cac48aff-a51f-4076-b7fd-43a7092ccc5a
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.88596037389179
+  - 33.64721933495843
+  - 168.60247596640545
+  - 26.253452146759358
+  - 84.65411583036418
+  - 1.681852213587115
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f91d358f-c99f-4f94-b251-a3241df1fa48
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.8851733189464
+  - 33.647022530260045
+  - 187.0115293582042
+  - 27.393949986922507
+  - 84.87587533068225
+  - 1.1261727235568464
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 93f515af-4335-4701-aace-060af2c3dc7c
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.88624289948831
+  - 33.647735434214596
+  - 174.41727981206492
+  - 29.37571482840168
+  - 87.99827256984678
+  - -9.213451596951305
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e50f62e3-3e49-4d3f-a8be-f6730a098512
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.88467071797264
+  - 33.64912096539527
+  - 180.92250599650373
+  - 23.092911433000793
+  - 88.60627321668754
+  - 1.095565687383674
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 8bd1b800-e7ab-4220-98f5-5165a6b897ab
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.8844724362348
+  - 33.65014115268476
+  - 133.82140887771573
+  - 23.26712659500059
+  - 84.51579894701499
+  - -1.7162307450144954
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3f9a22f5-730a-433d-9cd9-77ff49fabe05
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.88310629909081
+  - 33.65256004166778
+  - 132.28351256291518
+  - 29.01566738295602
+  - 85.23144970516942
+  - 2.7656045501643955
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: dac729bc-2e6a-4a72-a45f-157c3e5c2e0d
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.88269733707942
+  - 33.6549051172304
+  - 128.466987532499
+  - 25.82088268837935
+  - 88.25682743279107
+  - 8.44604121939785
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: fd6591b9-d07a-4d34-ae7f-11f73dfa0050
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.88132172886229
+  - 33.655245112518735
+  - 148.6973210348234
+  - 35.31726172438122
+  - 85.15505495643308
+  - -3.92043188133092
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: c2ac69de-39fb-4196-8bf9-e12d13d96657
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.87963831071572
+  - 33.657975514525084
+  - 111.21935601742562
+  - 21.565683439064117
+  - 88.52405838093556
+  - 0.9646461388347132
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: ced59015-d734-4a35-9042-50d9865f39c6
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.87965826040455
+  - 33.65884914131231
+  - 95.16227138551781
+  - 24.88113877270807
+  - 88.63134245463786
+  - -3.602402024245683
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: cc06fc3c-6bfb-4b8b-94cb-54fd8eb6e0ef
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.87838476134075
+  - 33.66076400315285
+  - 85.53541001340318
+  - 32.328773715394405
+  - 85.30972810228592
+  - 9.613677154659321
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c7f4a89c-aee9-433b-bc7b-9c2ae4960f60
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.87533680737425
+  - 33.665445951494576
+  - 47.48956116250018
+  - 20.29955732883733
+  - 85.53623473580141
+  - 3.870676933757133
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 7f7af0ec-0c7f-4335-8548-f6a9a552c0e7
+  airport: KSNA
+  runway: 20R
+  pose:
+  - -117.87519070522633
+  - 33.66554915697308
+  - 39.25325276409929
+  - 26.326717208444546
+  - 87.73358442843677
+  - -3.8269403675277642
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

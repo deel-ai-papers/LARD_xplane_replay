@@ -1,0 +1,1078 @@
+airports_runways:
+  OBBI:
+  - 30R
+  - 12L
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: c2c6533d-ea1e-49a4-b423-92fbb98a5786
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.57402101581317
+  - 26.305501247832183
+  - 299.8990907520779
+  - 126.00309290976581
+  - 85.84254038940458
+  - -8.40872054698804
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a941480b-b59d-4546-a6ed-274b163d6284
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.57552922428117
+  - 26.30499714175057
+  - 334.0261276222657
+  - 115.53991012048505
+  - 84.71121170116268
+  - -0.4526883727478709
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: e4e66b70-ce0d-436c-a130-1701211310c5
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.574216093482214
+  - 26.302308491642673
+  - 364.30189675269395
+  - 120.86633055317742
+  - 85.6488131409527
+  - 1.4282490279701716
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: f6b99ccb-66a8-444c-86c9-1dd7d376c5e1
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.57508820028614
+  - 26.303381993438638
+  - 283.04248086534034
+  - 124.53099923599636
+  - 85.33935499448151
+  - 6.85897869598541
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 361cd656-4751-44a3-8bb5-b4541fb29495
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.574588456880065
+  - 26.302168415880267
+  - 317.2837082430806
+  - 124.23307884260007
+  - 88.51778046719798
+  - -1.375390154082576
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3912b69c-4bc0-45a5-ab4c-c6af87dabc6e
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.57789792614351
+  - 26.30638591136059
+  - 207.16280469786514
+  - 127.50273269194108
+  - 86.90671832377893
+  - 2.4570410018446998
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: f20aae43-f98e-4b4f-9e05-43e940ae431e
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.57539158551615
+  - 26.30176870334421
+  - 283.03333413847304
+  - 119.78441272373718
+  - 84.7095344392582
+  - -9.45276322279263
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ea2a35d7-84ed-46ce-ad72-d26765c796cb
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.57912946142916
+  - 26.30304733205829
+  - 260.98012259967135
+  - 120.52692739938689
+  - 82.99122964253009
+  - -6.900997549483446
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 2fd77219-85e1-4566-89f8-85878912de24
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.58075051014265
+  - 26.300713284735505
+  - 245.41892696420666
+  - 122.94759416719215
+  - 83.4907424860129
+  - -7.633380991387221
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: d5463dbd-e395-46ba-b18d-a39dc5472f93
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.58128919640109
+  - 26.30057721399027
+  - 217.07346579243196
+  - 128.28049704001506
+  - 85.70451709155392
+  - -8.145529889777217
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 2ab0f9d6-59d1-40d4-8842-fbff3ab0425e
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.5878465294038
+  - 26.29814485091863
+  - 212.60506563159868
+  - 115.80558148764203
+  - 89.55525704385249
+  - -3.7980851213508053
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: bfa3a188-8742-4ac9-b281-eb3b4f28d97f
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.58931134394403
+  - 26.297766903916276
+  - 246.09259736813107
+  - 122.42835550936125
+  - 86.13482722104705
+  - -2.371685328536916
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 93ba6f6b-510c-4fe9-bee4-103c74a0ead8
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.589438844795446
+  - 26.295439113367404
+  - 170.67336784253644
+  - 129.73268114385056
+  - 86.78429039997653
+  - -2.239272252612083
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b6946553-2b33-443a-a26a-de078655c790
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.59149727910795
+  - 26.29427504920658
+  - 176.8942082852797
+  - 115.21591828905893
+  - 81.86623725915686
+  - -5.529211827960394
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: b1331676-6497-4838-ac2d-9c0fc22a4bab
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.59210013065946
+  - 26.293444778848617
+  - 180.75677874114558
+  - 118.70741443256176
+  - 85.17832785159897
+  - -3.783366745188066
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 9fc23f8b-974c-4fbb-b769-43c8927b391a
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.592639212563746
+  - 26.293042059902774
+  - 203.21353031549202
+  - 123.3224108996537
+  - 83.40968153356579
+  - 4.791163025123291
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 40ff1de6-19fc-4e25-b443-6cf94849e659
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.593330704601186
+  - 26.292250736668187
+  - 212.51110819034304
+  - 127.44411604424279
+  - 89.47304427569678
+  - -1.0291176138149665
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 05960c3c-9f81-4647-9d2f-d796d7352e8b
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.595864802269254
+  - 26.29318077497973
+  - 199.50402445063347
+  - 119.15133756510508
+  - 84.92300000967013
+  - -2.416802017581719
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 9b45b3f8-3551-43c7-b956-14276e39b6cd
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.59688272767821
+  - 26.29200514268441
+  - 143.7199732689595
+  - 117.6044486549707
+  - 85.40410696265488
+  - -0.3743872998677178
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: de45df4f-c3d6-4c78-aa7a-ee65ccd7c5d1
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.59760828317131
+  - 26.289902020232066
+  - 143.43476559908837
+  - 123.47381187041684
+  - 88.24030160823195
+  - 4.895404845512889
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 4baee933-a395-4d08-9c9c-ef285572cae3
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.60062041733759
+  - 26.28944861948341
+  - 117.5573425172079
+  - 128.4274807405026
+  - 88.87183253465264
+  - -5.626074949299358
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 0f3d0b6d-097a-41b4-9518-efe35e06de87
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.60463033418182
+  - 26.28737446157086
+  - 104.30097198406534
+  - 127.04811235192392
+  - 90.52393887576741
+  - -8.227997590527588
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 1d1107f2-eea4-4c1c-8a4c-c80725c170ef
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.60549176060703
+  - 26.2870500421943
+  - 116.27825161691852
+  - 120.86341885970518
+  - 87.86914170582358
+  - -7.822373883994133
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5019a8e2-aaa2-4e0f-ac85-7f3d1bf60ff7
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.60528548361733
+  - 26.28666559518929
+  - 110.9374543091773
+  - 116.58752800006782
+  - 83.39990475082881
+  - -5.213222990858709
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 9536bd31-40b5-4b9a-9bec-5d69e8af4b03
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.611510784206274
+  - 26.283475329829436
+  - 64.71181514243753
+  - 120.09784703172066
+  - 86.5124405380225
+  - -1.4412325799328078
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a6d8ae9c-8781-4f5c-ac97-b6254d19714d
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.612477054793644
+  - 26.283350593211253
+  - 57.03917636946639
+  - 124.16140527655097
+  - 86.25326533644775
+  - -0.2579710884172446
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6abceb15-5f32-491f-977d-9ecdc531d496
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.614587719313846
+  - 26.282202834428066
+  - 40.2881194956347
+  - 122.19611095923814
+  - 85.38438545299827
+  - -3.2300843085265973
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: f112adbb-d0be-4b35-8b62-9027b87b7338
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.61563778785865
+  - 26.281181700031528
+  - 37.6098636169771
+  - 125.28395994601425
+  - 84.46832352737322
+  - -2.2105074636361293
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7236aa97-a1e3-40a8-8eec-7acc9a089f4e
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.6158653257006
+  - 26.2813282905378
+  - 40.11723055433113
+  - 122.98803150913761
+  - 85.64495153734545
+  - -10.74830335597886
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 6b7e640a-22b0-4309-aeba-1734901cae19
+  airport: OBBI
+  runway: 30R
+  pose:
+  - 50.6169296442626
+  - 26.28049920347342
+  - 31.4773904459317
+  - 124.03443298488698
+  - 89.56797287956537
+  - -1.7907997094002277
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 96327d57-f7e5-40ef-ad6e-10bc5ad6a32f
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.698408567374685
+  - 26.23546354264564
+  - 266.26450552240425
+  - -62.510632157686295
+  - 86.45467887415747
+  - 1.0563192054179618
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 92fd3fa1-9882-499b-a0c1-950ca9aeecae
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.697319999251086
+  - 26.23713968700435
+  - 217.17092892375496
+  - -65.61928902896409
+  - 88.89405973173785
+  - -2.5560995507163775
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2ab673df-7bee-4f1f-9468-9089759ea008
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.69709701069093
+  - 26.23879794164972
+  - 316.1261410081967
+  - -55.697852752217
+  - 87.02085780078635
+  - 0.9440097556315606
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: bc90a5a1-3b0a-489e-ba54-a722bef50de3
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.6940388270822
+  - 26.234564800095153
+  - 267.0284020728338
+  - -56.942161996520994
+  - 85.27901938214485
+  - -8.092557268321764
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 865e51e6-17e7-43a8-b65a-ebe2e0d6e6d2
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.69316161488239
+  - 26.234801570577318
+  - 230.59900867528685
+  - -49.02914423127372
+  - 85.40482056903089
+  - -1.0086122898096894
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e903745e-4d5c-45cc-bcde-b31cfeb0ffcd
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.69401600128271
+  - 26.236501277637053
+  - 349.57186061611424
+  - -59.87630188895302
+  - 83.66538198384033
+  - 10.970154709292947
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: d7907af1-063e-4dd9-983e-96e14e8c063c
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.69232513256833
+  - 26.236050258369037
+  - 284.10072563345807
+  - -47.631706132295704
+  - 87.62999778128062
+  - -0.48653943340248335
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e0dae23a-446b-497a-a45a-d4d2e7f5fe6c
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.691140360769474
+  - 26.24077478733296
+  - 260.46955781433763
+  - -57.11010839875092
+  - 86.7627799568817
+  - -1.217021072837493
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d51c7393-fcb8-4f0b-81d1-af1a4ad1dd1c
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.69020375670807
+  - 26.2404020426988
+  - 277.67246056460084
+  - -58.74759231322427
+  - 85.85447608779499
+  - -10.088863619326423
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 474d5d07-bf33-45a0-acf9-4170a4832825
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.68556006327763
+  - 26.238743990168835
+  - 321.61504826612617
+  - -64.7587893594845
+  - 84.6976920736355
+  - -0.9272227278205438
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 3c3eeab6-b2b2-4d62-9ff3-66d067a7d8df
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.683895632736316
+  - 26.24151016961964
+  - 204.59003883584697
+  - -55.99496910042781
+  - 85.32130693618015
+  - -4.829266919340697
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 99bbd081-d4ce-4b9a-9a93-ee80720f783d
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.679314149152894
+  - 26.242054345065906
+  - 205.7202195610024
+  - -65.76771980759735
+  - 86.41137910316247
+  - -9.69498746699945
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b1d04d08-e153-49bc-b0e5-ef2ff4a5768d
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.68003279712288
+  - 26.245333913719183
+  - 230.43795963044738
+  - -55.48731230316805
+  - 89.04548635197096
+  - -3.791819854359615
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 53423c5f-6bd1-4dec-96cb-563007670bf9
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.679123724334026
+  - 26.244714066290534
+  - 224.21278710283056
+  - -60.41375354991637
+  - 86.21488477975619
+  - 8.248608583961941
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a8db9d49-9bbc-441e-a7db-8853820400a9
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.67597102444528
+  - 26.24644767544039
+  - 198.39070190560662
+  - -58.89703406064451
+  - 89.01395287166231
+  - -12.709009457253353
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b6d896a4-5fd1-4542-bd57-05a5582fc7c8
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.676065900410556
+  - 26.2467576693328
+  - 218.81849584930447
+  - -51.843532910288275
+  - 83.95736628347385
+  - 2.099159984096774
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: ca1e1b38-db6b-4f60-9613-22697884057b
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.67372867193564
+  - 26.24895281318711
+  - 182.11304867154382
+  - -57.577378156115316
+  - 86.45097094760128
+  - 9.740966153054265
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 681feefe-1789-45e7-b5ad-2371256ad6ce
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.67284742854944
+  - 26.250716863350462
+  - 142.87394284117389
+  - -56.92029336581828
+  - 88.72624178401274
+  - 2.4168981757982646
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: d1cc8b42-c1b6-47e5-8d8e-27d6d7fd2b9a
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.66851413828347
+  - 26.249720130103423
+  - 156.12803985128213
+  - -56.50120461669808
+  - 83.9706827177742
+  - -7.46522588246717
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 395045be-1313-4401-871c-4b05a291cf1b
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.668996298140456
+  - 26.250633085990483
+  - 157.41338842562863
+  - -56.38467664316392
+  - 85.50589693724532
+  - -6.562148756274758
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 7f6e7bb2-3361-46fa-b669-6742e85f71ee
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.66609087241045
+  - 26.251802195199726
+  - 141.1987244886725
+  - -57.64569752090625
+  - 89.40766397458363
+  - 2.743872306516391
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e9eca1f8-941a-4235-8d4e-70b7299eb6af
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.662295811276095
+  - 26.253958953035916
+  - 106.07369596210698
+  - -54.949866827374706
+  - 89.27840511478868
+  - -5.728311680175828
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 846e09f8-8304-4916-a3ce-4dba6527e930
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.660585574925264
+  - 26.255462291529035
+  - 101.1258473513278
+  - -59.55793120543462
+  - 88.72531254550776
+  - -0.9381915880204008
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 92a458f4-03db-4692-ba8e-4ec747754e3d
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.65493647660301
+  - 26.258427633999595
+  - 62.62509033753752
+  - -65.31650233325712
+  - 87.5356916836292
+  - 3.6938176863325376
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 797d8bdd-e13a-4971-8b4c-150fd7924b54
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.65433832510987
+  - 26.258912615024382
+  - 54.11611683039065
+  - -53.62247832645692
+  - 88.37435090467321
+  - -0.02729916469625679
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6c735547-9388-43bc-a9ab-5b428663f1c9
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.65356174665512
+  - 26.259170815469915
+  - 46.399220884179044
+  - -54.87497231142697
+  - 86.36306569921948
+  - 13.244588592480032
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 41069426-0429-45d9-8a2b-e7eeeeafa22b
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.6533743247344
+  - 26.259440909515053
+  - 56.70511744318312
+  - -57.85927587376767
+  - 85.26711234548328
+  - 4.07596698774171
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: db8346c3-9a81-4a09-b995-221ea4e9e151
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.65211016586842
+  - 26.26017375689492
+  - 42.555405013228395
+  - -54.89970556848952
+  - 89.52539013317698
+  - 2.236552224999275
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 8d6e9614-a874-4831-8c65-efbceb7dc19c
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.65188468281288
+  - 26.259993945653317
+  - 33.07004684254031
+  - -55.073899730478544
+  - 82.70878492533106
+  - -2.5989536729187748
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a202ee16-f173-4369-99ed-455030145868
+  airport: OBBI
+  runway: 12L
+  pose:
+  - 50.65011263517263
+  - 26.261267577843512
+  - 29.75960280294743
+  - -55.57118189302476
+  - 87.44715532462803
+  - -1.23902670483252
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

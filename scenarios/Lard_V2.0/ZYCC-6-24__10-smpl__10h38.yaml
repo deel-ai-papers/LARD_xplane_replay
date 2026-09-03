@@ -1,0 +1,1078 @@
+airports_runways:
+  ZYCC:
+  - '6'
+  - '24'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 2fd226cc-f941-4a25-9d86-97a6c8236729
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.75367396377412
+  - 44.0420674696757
+  - 506.74058120127137
+  - -126.80796611811756
+  - 88.65277896570346
+  - 7.174730688834623
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 80b757bf-a0ce-4e4b-9b27-4c590f1c2b6c
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.75390748024081
+  - 44.036764319500556
+  - 474.9150908597514
+  - -129.5115081622614
+  - 87.16197956154218
+  - -3.939672144230708
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9a7df1f9-6e9d-4b09-b426-dac32ee2ec40
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.75420976452699
+  - 44.03584235962552
+  - 463.5766527724335
+  - -131.80945929837912
+  - 82.71689330571189
+  - 3.4041864366155385
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 84d578c1-facf-405f-8bcf-68abde25feca
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.75128391031981
+  - 44.03810462374513
+  - 394.548749854361
+  - -130.5858773451361
+  - 83.55893820038037
+  - -5.972997858758912
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 027febe6-794b-4141-9b8c-7c7061bbe709
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.74943465650378
+  - 44.03785342620099
+  - 526.6016708939942
+  - -132.90928920042924
+  - 90.27747243614856
+  - 4.5867629373630745
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: cdeb4d74-0bb0-479b-b95c-f9767a4b44ab
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.7514375373121
+  - 44.035730186165424
+  - 486.62666416903
+  - -134.206912450254
+  - 86.28244592537679
+  - -5.340296190638419
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 10435cf1-81fd-4457-86e7-94b909d8bb29
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.7458556597664
+  - 44.03917726847603
+  - 464.4084731415297
+  - -130.8278961229474
+  - 85.33049951726845
+  - 13.012801046116474
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 92859de9-a74e-44cd-8f31-28555b9a51d6
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.74733081556202
+  - 44.03496226672704
+  - 462.14425918105064
+  - -134.83595264130122
+  - 87.06060205505514
+  - -6.7683950504762125
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: dcae0e5b-976e-490d-aea3-d39254feea49
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.74318468782064
+  - 44.0326513968177
+  - 458.1805908254456
+  - -131.94695860950492
+  - 87.10727461622112
+  - -0.10555784120194803
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 80cea220-2f43-482a-b020-8e2342b74173
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.74085455068423
+  - 44.033903054865874
+  - 393.70692205241363
+  - -133.0283567020901
+  - 87.06481397002193
+  - 8.39548738427813
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 76f0162e-98f3-4f25-a769-b144d7f553a8
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.74189538786236
+  - 44.03286190222285
+  - 439.759580121515
+  - -129.30083789119905
+  - 82.14346640901779
+  - -7.526922690690005
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 57a63a41-21a6-472f-b93c-5db2312e9fb7
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.74250941360025
+  - 44.0316453761352
+  - 420.6056419497396
+  - -125.93588706006551
+  - 87.8473438372549
+  - -0.3277879832545341
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 2419bdd2-ca09-4298-b3cd-eea7afd4da9a
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.73824850944487
+  - 44.030169476842815
+  - 398.3737841106799
+  - -131.73644211277517
+  - 86.73788054776101
+  - 4.81050938284495
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 53ef1dbc-36d7-49c3-94fd-3dc623011018
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.73634436505994
+  - 44.02888310261234
+  - 379.7635577220892
+  - -137.33375835986075
+  - 87.83597907773508
+  - -0.5464067331649523
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 1bfe5beb-b9a1-4421-ba13-92b8bf3d3aeb
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.73452478217988
+  - 44.026616703072015
+  - 412.9572973540375
+  - -128.44667661100837
+  - 86.42672227550511
+  - -0.9686825657643596
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5cbfd1af-c42b-4855-9fa7-9dd2b52ddc62
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.73273563211274
+  - 44.02334697936426
+  - 399.44054559592894
+  - -141.17127850711242
+  - 84.46778068502311
+  - 12.83158201104425
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 12b3ac05-6fd0-4439-b9e4-0c6a8c87c2c0
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.72727756082449
+  - 44.02290166025217
+  - 377.53984553711894
+  - -130.47869804286748
+  - 87.65500542679982
+  - -8.8693561277516
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d3c3bff8-8f00-4ca6-9451-c008513e6388
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.72601384375652
+  - 44.02160325150741
+  - 359.57844642315
+  - -128.06730885845744
+  - 85.45575362372192
+  - 1.4986429895468638
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 74b5d617-5838-4cab-8536-7890a7b5c3fa
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.72357514658495
+  - 44.02173239969118
+  - 356.1734263118699
+  - -126.99788937383651
+  - 86.46288247915611
+  - -8.675618938062176
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: af7f1905-e61b-4d47-b47a-2943c1170102
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.72358073294775
+  - 44.021196975792826
+  - 305.9034537787835
+  - -135.3379250899583
+  - 86.34114510749387
+  - 8.41552292375214
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 42662bac-58d2-43a3-a7db-9e1f7ff2a44b
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.7183525894261
+  - 44.016046813844554
+  - 283.746562232834
+  - -137.1483128779201
+  - 84.38591030995725
+  - 2.1473839616555264
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 718012d3-247c-43a0-9be1-176eac431a66
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.71434488956709
+  - 44.01579887765608
+  - 306.7779634554795
+  - -126.67877006216723
+  - 85.39815832956324
+  - -0.996356428190887
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: e586c0d2-6a45-4d3c-b1b0-3c21e0000092
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.71520697294473
+  - 44.01486478128646
+  - 311.41961595624406
+  - -133.32553457955598
+  - 88.33775087283907
+  - -1.3557293682029257
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: caff91ba-54f9-4b2b-bc8d-669faba7a99e
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.70997818352878
+  - 44.01281138039993
+  - 260.443553987298
+  - -132.70576841452387
+  - 83.76755106863766
+  - -4.952666001319422
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 7db0505d-ed45-4f47-8941-0a0878fbc8cc
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.71023887806376
+  - 44.01122997366237
+  - 261.7437151785857
+  - -133.26124971411488
+  - 85.36875868472632
+  - 10.245559940503373
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 1eb07763-8397-48dc-a56f-94c522bd83b1
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.70764725524396
+  - 44.010360257671316
+  - 254.55718223283014
+  - -125.37824172345695
+  - 86.88329382062685
+  - 2.177061671401714
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: cc80c2d4-9886-48a6-a9a2-53c0c491af4b
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.70473197223296
+  - 44.008512959451586
+  - 228.67708585283367
+  - -127.52319408175846
+  - 85.19119838958638
+  - -6.697045363853258
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 67c2fe3d-889d-4c7b-a2b6-2fb600132f81
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.70390743429377
+  - 44.00808062748751
+  - 221.28104882468696
+  - -127.49033121223074
+  - 86.88299742380217
+  - 3.3637779170105464
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 0aa1d32b-1021-4f47-a0fe-7d2516e918e8
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.70318487420455
+  - 44.007570078965635
+  - 220.28921046806343
+  - -129.12889805803616
+  - 83.37717229752994
+  - 1.4025208320470328
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 00f2e65e-79dd-4ace-8998-d32a6a96999e
+  airport: ZYCC
+  runway: '6'
+  pose:
+  - 125.70310456164599
+  - 44.00739977841776
+  - 222.04053011315426
+  - -131.7531793364168
+  - 88.05483220476002
+  - 9.384890647160518
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f13dcdc2-791b-4240-9cd1-1cf1b038769f
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.62014716222977
+  - 43.95495281303398
+  - 501.6554778529694
+  - 58.24484149275122
+  - 86.5721646885219
+  - 4.310862353542883
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 8f8d1ede-720b-4701-85c3-4cfa4ad6376c
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.6215608931017
+  - 43.958220640216425
+  - 463.5047973162492
+  - 45.216984637717545
+  - 85.40042832238828
+  - 0.976556442230021
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: d21cfb5f-2152-4574-86e6-9dd174b35030
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.62219112801166
+  - 43.95905102295492
+  - 487.8779320598033
+  - 47.018382582663996
+  - 85.1292462382058
+  - 2.208107681849393
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 542ebe98-7038-46bd-8a45-11f5aa0c2e1a
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.62338803952137
+  - 43.958663488824065
+  - 434.2655005270807
+  - 48.17508901207301
+  - 84.32282044273957
+  - 6.712771245375996
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: fa37eace-1fe9-44cb-a424-cc799c8e1b42
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.62384158319217
+  - 43.96027450611527
+  - 518.1169855385667
+  - 53.463322986487555
+  - 84.59889091609361
+  - -3.0012559750216665
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d43b8319-dbb5-45c9-8136-e94cc18d75cd
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.62554289623137
+  - 43.959562447796706
+  - 404.9170494535083
+  - 47.35319999248087
+  - 90.04350121532254
+  - 4.466779500648422
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6d4b8b36-785a-40f7-af6d-d292b2fe7e4c
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.62689794761617
+  - 43.95885162876226
+  - 493.3511916562652
+  - 58.68263771278545
+  - 87.15523846268262
+  - 3.3089561492380826
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: dcca709a-e9a0-4f23-9176-3d9151c3aa21
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.62558600913552
+  - 43.96049180810571
+  - 458.43350540614097
+  - 49.65847381108317
+  - 87.02858146812832
+  - 4.708050142320582
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4cb45294-0108-424d-98e8-4c538ef9602f
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.62549141704005
+  - 43.96140164007214
+  - 433.6424199028892
+  - 43.692617546266874
+  - 89.14407258074445
+  - 4.076316896084226
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d578a772-5d3f-4340-ac99-bb4d7cdf9fe4
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.62770539649905
+  - 43.96008116201619
+  - 561.6573173161034
+  - 51.79364589862962
+  - 90.1633835239437
+  - -6.664648163319748
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: dcba33d2-f8bd-438d-b8ba-7e39a3ca60ca
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.62941973814499
+  - 43.96100634313137
+  - 385.6913334617449
+  - 52.58424254345636
+  - 84.75561703783946
+  - 10.517472596989892
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 87b5d906-4638-420f-9a73-f19cc7b9443a
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.63015284543273
+  - 43.960464054242706
+  - 442.93833905362374
+  - 47.682178208876294
+  - 87.51522650338306
+  - -3.465960820258784
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d5fbfa61-a827-4f58-be06-8f904b69cd59
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.64150308009572
+  - 43.96754361428284
+  - 400.3642927365588
+  - 56.18008219627763
+  - 86.50996429795586
+  - 9.61371316166376
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: b2d59fe8-4ca2-4c81-905a-0e710366ab76
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.64295622373534
+  - 43.96900694563673
+  - 370.13621278688794
+  - 47.00764404860168
+  - 80.49295503297512
+  - -12.755718321498664
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: cbf5d518-3601-4966-9e08-5dd62d843c77
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.6442538034923
+  - 43.96871845924857
+  - 405.58244369141084
+  - 52.72738964553817
+  - 84.65663247419423
+  - 0.5138808752620259
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e8e05fc9-1c0a-41fe-a90f-abafd953fbf2
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.64351522741605
+  - 43.9696040271424
+  - 407.63782376656775
+  - 54.19111595989914
+  - 87.53015559622318
+  - -4.374496504480076
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 749ac773-744a-45da-8238-b1aa91ed1b40
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.64352850607146
+  - 43.969917409340646
+  - 380.7990629289428
+  - 41.372715033624075
+  - 85.51204066673907
+  - -4.9251265757355505
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: d8f2b495-acfe-4233-9fed-7c18763a4bde
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.64307278151823
+  - 43.97032588302169
+  - 382.0294746944287
+  - 56.13122262771313
+  - 86.52959426159697
+  - 1.3900770012207933
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: aee068c0-fcdc-4e3f-bcdf-51d95622cf10
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.6436293397257
+  - 43.97040794547456
+  - 360.78652701385596
+  - 51.18676832686848
+  - 82.40118322255682
+  - -7.051752741303465
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e3e23049-db96-45c9-8d5b-4eff85cde34a
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.64442320515569
+  - 43.97245347519932
+  - 390.7577755659873
+  - 33.09369144516408
+  - 86.69158467860798
+  - 1.1197257977529926
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 8f2ce258-5608-4980-ae11-04ab16e268d2
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.64899436918182
+  - 43.97384510502261
+  - 349.4134531066419
+  - 37.77691198382537
+  - 84.29929077672882
+  - 5.572444887982204
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 558dd4a1-7540-481e-9bd5-b2eb69f9de36
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.6499358614294
+  - 43.974634915162255
+  - 331.1464914444273
+  - 45.57068445870688
+  - 88.85087150922807
+  - -4.082003226301629
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9211b256-ae19-4540-9fa1-7807f10059fe
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.6524707326086
+  - 43.975244714483594
+  - 350.3618038492617
+  - 48.07811102824993
+  - 81.90979249393473
+  - 0.23358141712547273
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 518959e6-da2c-4c15-a8de-64c15bd24eba
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.65377022186856
+  - 43.97685957675248
+  - 333.0488449722278
+  - 47.603561514372785
+  - 86.98544038626945
+  - 9.3791334452297
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 7fab6b69-a604-492b-beac-b5d182ac0b74
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.6579306342095
+  - 43.97960900160642
+  - 306.33412986313317
+  - 48.63570793396421
+  - 83.54168281065412
+  - -3.262034973769265
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 3dfe7bde-bdd9-4ee3-8b5a-8a0c344bbed9
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.66207193657486
+  - 43.981801153011425
+  - 270.7891358115222
+  - 51.28583127146707
+  - 85.58299023519517
+  - -3.7953371437452605
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: dd6e5ad1-8030-447f-a71a-181b318335d3
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.66226693747745
+  - 43.9826569356251
+  - 264.55061194522483
+  - 48.937114695067606
+  - 85.32024590277081
+  - -10.443129204625459
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c6f8694c-3546-4ec9-bc55-419b4c74e5af
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.66382344154442
+  - 43.983407998241965
+  - 270.0849344203183
+  - 40.41204587247601
+  - 88.07720581517277
+  - 3.865305328444047
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 90a90a56-0c71-46a3-888d-37c8599a091e
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.66587615715328
+  - 43.98456633113018
+  - 250.63468208645835
+  - 50.71677274715994
+  - 83.54006323846353
+  - 13.405466821973695
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e35eaa5a-e15a-4ab1-b538-ecdebdb9feab
+  airport: ZYCC
+  runway: '24'
+  pose:
+  - 125.667249850636
+  - 43.9853896642494
+  - 249.7033909406684
+  - 49.610192717676384
+  - 88.18876140554308
+  - -13.297087473910725
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

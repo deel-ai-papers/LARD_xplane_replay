@@ -1,0 +1,1078 @@
+airports_runways:
+  VAAH:
+  - '5'
+  - '23'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 92b0ef38-e25b-4394-b376-e38504b80786
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.68840178941079
+  - 23.125604941360947
+  - 438.8733793458489
+  - -130.71717039256947
+  - 87.1288601001134
+  - 2.202362584211767
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 59db0f73-3a25-4d40-a925-b2b141074c0b
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.68624248976225
+  - 23.126668708778656
+  - 435.31953061402027
+  - -135.59816233090984
+  - 86.92125160562489
+  - -4.689542922774442
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b295a966-f4ea-4488-9483-2d8f2f3e74b0
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.68373451218733
+  - 23.128165705095032
+  - 357.33456413765936
+  - -145.34791439460096
+  - 85.15025902368575
+  - 0.2873201874365993
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: ef19fcb6-5d7a-431e-bee5-5538776dffd7
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.68422069428252
+  - 23.12463449665613
+  - 422.2956774631326
+  - -133.26823493804073
+  - 87.82020141372361
+  - -11.902324760181385
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 1e071b63-c1d5-4207-bd11-df5ffce26ff2
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.68248770011218
+  - 23.120938563471118
+  - 335.15203281806953
+  - -140.7046619314709
+  - 87.56581978331619
+  - -0.4440577359217721
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6ee96525-309b-4434-9914-fca9fd467791
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.67948018412615
+  - 23.12113440425085
+  - 308.75755885876976
+  - -146.88469447671025
+  - 86.66114870121717
+  - 6.052011436102141
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 4db2a977-1ccd-4b98-8c38-c176cf1420e2
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.681740102611
+  - 23.11897517927752
+  - 455.27950502316816
+  - -141.30011525771644
+  - 85.25652484170153
+  - 2.664110383811889
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ae9d0da7-9e98-429a-9262-45addb465063
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.680637125601
+  - 23.11884869877968
+  - 248.44014208483546
+  - -134.98427004048798
+  - 89.0793210115901
+  - 3.6097819736524865
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 445a5607-ab3d-47f7-84d7-851c26a7c280
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.67944021130003
+  - 23.11895407898379
+  - 330.2834752151207
+  - -140.94998611386183
+  - 86.48939049925845
+  - 4.166034863298367
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 47068ea1-bbe3-4150-94f3-5bc364e6f980
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.67736884304264
+  - 23.119122942016773
+  - 262.3984635820577
+  - -134.85555780344959
+  - 81.03438649006719
+  - 1.7454961039881132
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: b6b2f5f1-7ec1-4136-88ff-4db3a0f0d39b
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.67588403502295
+  - 23.117739355487952
+  - 286.01031407421954
+  - -131.25960910265792
+  - 86.44993979749111
+  - -4.396491729149925
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: dc4375a3-efed-4b93-bf6b-8b2f900ba94d
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.67551365363224
+  - 23.116811560611467
+  - 318.60247204001155
+  - -132.31480328817588
+  - 87.32356682368804
+  - 0.0746759346603234
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 28e99c98-9e71-49ad-b13b-903146646de6
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.67537379770818
+  - 23.11663486753005
+  - 346.735604038228
+  - -135.4674939508345
+  - 85.03009499584769
+  - 4.005558968732428
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b9b999ef-7b96-48a0-b7ba-0db7b8971c00
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.67397980145024
+  - 23.11575041224997
+  - 304.77934275304614
+  - -138.1327886605574
+  - 88.08908515328727
+  - -4.44625086393091
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 784e4cc4-4f71-4121-890a-35fc6164b89d
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.67131669987545
+  - 23.112717305430465
+  - 258.906577041136
+  - -142.4226136055988
+  - 87.73056819392444
+  - 3.0819659902900174
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f33f735d-4bb9-4791-ba66-f600a86cb8ef
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.67344826892244
+  - 23.11066991912662
+  - 310.3260923043653
+  - -132.88284733982454
+  - 85.13900392042952
+  - 4.54302527936966
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 0a87f733-349e-461c-9df4-6c6fc6b7a20d
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.66995645210073
+  - 23.10780608565283
+  - 264.2311751801687
+  - -136.3074330096834
+  - 86.81126817246796
+  - -0.2637513139769958
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: af159501-c523-4a8e-ad2f-dadef033cb6d
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.66419550767179
+  - 23.106764874052335
+  - 249.93005300512115
+  - -127.77064787126167
+  - 86.98593874136881
+  - -12.004575061154437
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c754ab39-3ffc-4b22-be33-fbf0e9cae6bf
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.66445628170527
+  - 23.104086806180753
+  - 217.15704834112086
+  - -144.02682180442068
+  - 85.71501669616333
+  - 7.887621907032079
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 50f4323e-3bab-4b9d-a0b1-c9be4d07494b
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.66436600644145
+  - 23.103838335311032
+  - 224.23864240645898
+  - -136.36356944404935
+  - 84.49919825172593
+  - 5.7048919342568425
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 60632374-e258-4841-b39f-42178bcb0ef3
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.66124222538991
+  - 23.102754506257003
+  - 230.1064805758193
+  - -137.82624456985542
+  - 86.80791920288753
+  - 2.728396894226268
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 4b2c5bb4-bf0a-46cc-b3b6-c1ed784f892e
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.65976713047792
+  - 23.102314053556228
+  - 177.363219247921
+  - -134.6236057816782
+  - 86.10051364581182
+  - -14.93816798130885
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: cf6f649a-1f03-4b1d-a02f-5e8455b76f56
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.6570327683375
+  - 23.09879063279515
+  - 171.58877287644188
+  - -127.87321770565349
+  - 86.4350705080512
+  - 0.7733820702029661
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 83826a43-32ae-4053-a86c-c735533db098
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.65631687238523
+  - 23.09697471875135
+  - 169.8726522360571
+  - -137.20744686495644
+  - 83.6654559724069
+  - -8.441944524557764
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5f7bcdd2-b6c4-4ee3-9ff3-8d49398c4848
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.65561686540913
+  - 23.096863364738926
+  - 153.4322670055651
+  - -134.5224365082725
+  - 86.41350628798708
+  - 2.005420807267353
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 99c6a176-b969-4f26-942c-2936e25defbf
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.65194609278065
+  - 23.09392946568635
+  - 130.14403822360754
+  - -134.27406489507487
+  - 86.08015901932356
+  - -2.734827670519207
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: eb7530bb-da99-420b-a864-e5331c9e7fb2
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.65185329719205
+  - 23.093619812821547
+  - 125.20251717830533
+  - -138.91693428455477
+  - 87.33668284077774
+  - -2.4310335982268376
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 85680420-453b-46c6-82d1-9885f2713158
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.6502935547357
+  - 23.09217346711446
+  - 130.04751533874554
+  - -139.92228105384683
+  - 88.56840021277367
+  - 3.700718821984773
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a2cbfd4b-d88a-452a-9069-c3d0f44fffcb
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.65052565522161
+  - 23.091875060449592
+  - 121.34436556163304
+  - -131.7674689072453
+  - 86.45984109899862
+  - 4.489411154504683
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: da434764-7734-4780-8806-689b0e699b20
+  airport: VAAH
+  runway: '5'
+  pose:
+  - 72.6486305121797
+  - 23.090650618757575
+  - 114.70964741158298
+  - -137.09822139922022
+  - 87.67686645565848
+  - -2.5720235543657965
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: dcbfc2a5-5408-488b-9551-df5ff9c8740a
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.58165154740917
+  - 23.028092284510517
+  - 397.54680726814314
+  - 43.15082685334555
+  - 88.04580053004561
+  - -2.7525866695438146
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 82aa64cd-a26e-4dc2-8449-8bd3a86b558a
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.58359656162878
+  - 23.026690178280752
+  - 410.66216465529635
+  - 51.25902274438096
+  - 85.14799164495561
+  - 1.8975453349323022
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: f5cacb9f-cc76-44f8-be58-0824ec500341
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.58475228904794
+  - 23.03329106730921
+  - 393.53073886925
+  - 47.90688366539319
+  - 85.72686058733058
+  - -0.7338065421240041
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 6a0bb3ac-3005-4d46-8bb1-c4d5bc2c144a
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.58843441399277
+  - 23.034231385055804
+  - 358.02705078063855
+  - 38.251497780961344
+  - 87.60767461572915
+  - 3.49110665093764
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 15e7f183-b56c-4216-8371-cbf149c1198d
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.5892296583789
+  - 23.03357974167695
+  - 335.14691821434707
+  - 54.583716794335444
+  - 84.48327523149321
+  - -2.1228597698676586
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 0c86ddf7-d145-4b25-a99a-bec57bb4e17e
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.5887573148803
+  - 23.035189471199626
+  - 394.97744230660146
+  - 47.38680540748922
+  - 85.2073813471123
+  - 0.5185972507126928
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: d98ca830-841b-42ce-a688-d2f6f81d2f2f
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.58758991484389
+  - 23.036810584914054
+  - 389.6021308891176
+  - 48.29041996187741
+  - 83.32344707290024
+  - -1.0692484827773876
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: b8c5ff4a-1a72-4df8-8093-8ed4366cd59a
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.59089373080245
+  - 23.034879249447705
+  - 341.4371497261274
+  - 50.07120663819482
+  - 86.75146489220866
+  - 2.419461672410778
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: bbcc78c3-a934-4502-b277-44fb773737a0
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.59178677655666
+  - 23.0358842660103
+  - 313.8492089380193
+  - 48.55717936880315
+  - 89.19239701212965
+  - -6.870779235433213
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 8c48742b-85de-48f0-938b-fb44525ff3a2
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.59115875213648
+  - 23.036824678595046
+  - 340.8490198258776
+  - 37.67512876578182
+  - 86.06200733961596
+  - -6.177057542135094
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: afbd203a-077b-431f-9e69-2cc215aa8b09
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.59528397345392
+  - 23.040396065210615
+  - 311.8435449227429
+  - 41.959639037312144
+  - 84.37353941778231
+  - 3.4016780146195877
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b69d21fd-1144-4105-8f8b-dbc950e4efa4
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.59609058161445
+  - 23.0417522074079
+  - 365.10830748845643
+  - 54.37419133586203
+  - 83.234709626061
+  - -7.5682640579085945
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c358e0ab-4ac3-4165-b19b-856be98a3ed1
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.59722006080884
+  - 23.042887924498658
+  - 268.85085001128647
+  - 47.0400794813755
+  - 82.52383953540271
+  - -1.3181257299037417
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 60dca51b-b201-4d89-a1bd-aca4c12be8e2
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.59844851665457
+  - 23.04327509625172
+  - 284.8141224701328
+  - 36.05191684349426
+  - 83.38679919079122
+  - 3.986227328580976
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c0c5f641-9532-4acb-9555-3e2a4068cd36
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.6007342779872
+  - 23.046858938469324
+  - 265.14291943424007
+  - 52.432523180770715
+  - 89.67239753890172
+  - -11.019668051347702
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 3747d915-3dda-401d-b5ce-6349f16708bb
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.6032637476029
+  - 23.04915718984394
+  - 242.2964735233132
+  - 42.70500499402475
+  - 84.17137534464246
+  - -1.7810822519009717
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 54f8576a-51b6-4679-94ae-f4f0eeff2145
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.60354493141551
+  - 23.049582974985437
+  - 230.71868678276445
+  - 43.63617713472281
+  - 84.8638789101394
+  - 4.081482833810439
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 5352ccd0-4a21-4513-bc9c-83e6b9f935af
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.60457987853995
+  - 23.049162651964117
+  - 231.05202201690315
+  - 52.28910809320632
+  - 86.70046032099094
+  - -7.377640568100422
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3a51f3e7-2b2f-466f-afc3-cf1884c3664a
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.60482441728631
+  - 23.04901132583222
+  - 249.16537421958628
+  - 50.428508979001926
+  - 85.008309493142
+  - 8.738159657262607
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 70ba2bbc-b356-4a0f-b5a7-ea0d154703a2
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.60538646609731
+  - 23.04980306348954
+  - 249.27374882036932
+  - 44.625656814433654
+  - 86.22271869219385
+  - 6.011607959421319
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 8b437548-a440-42f9-93dd-a1548deca22b
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.60740543027865
+  - 23.052530290333898
+  - 207.1023190748075
+  - 41.33811498026123
+  - 86.2536525280121
+  - 2.9873215639443638
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 50799247-5e25-49eb-9ef0-957dcdb80908
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.60999320829703
+  - 23.054067322951543
+  - 185.40291689408997
+  - 39.47663991519666
+  - 84.72031457805613
+  - 6.329564377868069
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 31212311-31a4-4c22-8419-dd2a14a4966d
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.61095380797451
+  - 23.05525132709086
+  - 179.227188605785
+  - 38.09084137944827
+  - 82.47189817620746
+  - -5.874453237051674
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 8b4cd0b0-f8b4-4fcb-90bd-872006aef043
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.61105415883704
+  - 23.055437697081658
+  - 168.13951890924426
+  - 39.10848069087014
+  - 88.40104677393614
+  - -9.76978975487311
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5771efb3-141e-4a81-ac5e-6fdc0e4e2b4a
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.61437174700811
+  - 23.059041330167176
+  - 136.79345533021137
+  - 44.2090553637488
+  - 84.22477169774768
+  - -7.615737800697419
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 61bc21e5-8bb8-42ae-a44b-6a21890370e4
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.61461864263902
+  - 23.05967325603638
+  - 146.8249378880741
+  - 41.33760707860215
+  - 85.19071134220736
+  - 2.3058381980248037
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 440e87e5-d414-4eb1-83c9-b88826f8737f
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.61700731291
+  - 23.061166568432398
+  - 140.17961777972357
+  - 43.502531313409044
+  - 89.9229203296929
+  - -2.6903955534889996
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f7943658-7604-4bab-be94-cfc96857b653
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.61820269625893
+  - 23.061556065979474
+  - 128.36529564152863
+  - 45.942537316709675
+  - 88.64810760559723
+  - -8.269307761984733
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4c399b73-7ae6-436d-9bbd-63a865001733
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.61877386243006
+  - 23.062793293786715
+  - 120.73402085550894
+  - 47.5953124822418
+  - 86.58441715714591
+  - 1.1953289579104946
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a46303b5-b873-4441-aacd-343643fbee05
+  airport: VAAH
+  runway: '23'
+  pose:
+  - 72.61918725938139
+  - 23.062761070772094
+  - 119.06249384700114
+  - 47.53477631341412
+  - 85.52191658195055
+  - 1.6470719816712869
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

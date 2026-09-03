@@ -1,0 +1,1078 @@
+airports_runways:
+  KBWI:
+  - 15L
+  - 33R
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 99c2aa55-03b2-440c-bbf6-ae69c4169bed
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.61492480049229
+  - 39.13191392144958
+  - 332.7420505438599
+  - -36.67528310177526
+  - 88.13496488928055
+  - -0.8418295073570718
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: cb9d6500-07d0-4fe5-af2c-74587d1427ba
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.61592742768802
+  - 39.135480821801
+  - 400.5955818538135
+  - -51.76078863288388
+  - 84.01121967329831
+  - -3.8233559465772875
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 92a70cbb-5f99-4767-a482-4666e79263da
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.61728756104132
+  - 39.136498724916336
+  - 303.02603051028854
+  - -32.821707125025405
+  - 86.59509329762588
+  - -4.2727723537731315
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3b4fffff-e3b0-457d-bc1f-aef2cc384006
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.61733930701331
+  - 39.137718399588785
+  - 241.44445500094173
+  - -30.984442610833113
+  - 86.68070761950437
+  - -2.7299380865945966
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 8d166900-b089-489c-b659-a4dc89da09ba
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.62037599929282
+  - 39.138535224034996
+  - 312.35931563300664
+  - -38.04880139969404
+  - 86.78464055570171
+  - 5.342586357931355
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f0ed7658-2ee1-445a-86ae-0fdf9a88b115
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.61971873985645
+  - 39.13890268497727
+  - 327.7278348679373
+  - -32.69821214034272
+  - 85.23879710883658
+  - 4.237151944609906
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 3e248c74-ec1b-4e3f-b37d-195aedab7cc5
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.61841545584426
+  - 39.141809304206845
+  - 250.1924866783215
+  - -35.76805753453276
+  - 86.16359563922877
+  - 1.7017647891251646
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 28ff66ef-206f-4c10-85d4-f945bca7eb79
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.62115418100143
+  - 39.14188155896847
+  - 316.1857318994014
+  - -30.27869059015625
+  - 85.33099912408593
+  - 0.8885557952678748
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: d051090d-0eee-47b7-b005-450e0dd2e9f2
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.62291686162206
+  - 39.14215952201192
+  - 299.362378099009
+  - -31.65534177833027
+  - 85.94655228992377
+  - 0.9281159961065872
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 94081ad8-9703-4529-b61f-ae60b99d29db
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.62236382904803
+  - 39.14328294948391
+  - 293.8332055573098
+  - -29.999903343118078
+  - 85.29139839802987
+  - -1.547156780217271
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d9ca5431-4641-4492-a9d9-5a8307a70f44
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.62229152065026
+  - 39.14395065796018
+  - 336.1464392311655
+  - -33.67897256895309
+  - 85.33257622259109
+  - -10.071160196682559
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f1aee34d-714f-40f9-b25d-17ef56484b5a
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.62217415906423
+  - 39.14436433506588
+  - 284.36362920733194
+  - -37.21229701553522
+  - 81.88310598494358
+  - -0.9435342846890017
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6f825d00-bbe9-488c-8638-7c7de9033dd5
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.6248272397403
+  - 39.14453256703129
+  - 267.60359641896184
+  - -32.77867644138749
+  - 85.79256088483378
+  - 2.2782994271000243
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: f0c723a6-a805-410e-b97b-3dad20dc68b5
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.62571167306986
+  - 39.14435672378715
+  - 266.778099098844
+  - -23.57084488908243
+  - 89.28658686129702
+  - 3.2723677835618723
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: fbb0e0cd-895c-4aaf-a0bf-6f00d0af307e
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.62699955213323
+  - 39.14909264692823
+  - 244.02560747484105
+  - -33.15228296234468
+  - 84.97591335315622
+  - -4.552747484997475
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 22d13547-1f23-43e2-9ec9-e148921ef12c
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.63074382443617
+  - 39.15072272182577
+  - 232.92678732392784
+  - -27.62240806008846
+  - 86.56053227712027
+  - -0.41585713658903983
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 0ffd4a42-1469-4d24-a6c7-05daa3b99264
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.63163410879869
+  - 39.153838361113905
+  - 212.4781637649767
+  - -36.14656448298821
+  - 83.16650726871416
+  - 7.2609479496643194
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4afdfde7-19e8-4e73-b45d-c31c03b15411
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.63333353294054
+  - 39.15332748544382
+  - 211.00969176198976
+  - -44.73963935100911
+  - 83.39743599692379
+  - -9.14247939804109
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5b5f04af-b435-4d17-9637-098f27e27473
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.63259004094677
+  - 39.153821323825504
+  - 186.4803945846997
+  - -35.68818109606697
+  - 83.58410596355588
+  - 7.380812783920806
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: f19bc58e-fba9-4c72-9b36-0ef7c071bcad
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.63347138207583
+  - 39.15490798087166
+  - 208.1902325474773
+  - -36.44821719954889
+  - 85.0792066700734
+  - 3.375641840626366
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: d34d45a0-a6b3-4457-b245-38c8e2bc2193
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.64082857893672
+  - 39.1615085488263
+  - 147.25539261245945
+  - -39.44672918373654
+  - 88.15872665245492
+  - -7.478454865927198
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ddf050e6-d2d4-4c25-aad0-2bf622fd6863
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.64153058411624
+  - 39.16407251582611
+  - 151.66338791091306
+  - -43.651256655761905
+  - 86.05778503977216
+  - 0.5541590337505633
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c546434e-436a-498c-a478-cb07773031d2
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.64623195256827
+  - 39.16927635280584
+  - 108.22569447782107
+  - -26.10324089328174
+  - 84.8975533211164
+  - 4.014901046289149
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 241bbc24-e77c-44bc-96cb-5a2421827b74
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.649381656753
+  - 39.172009963750575
+  - 77.34430133912153
+  - -38.39354468799746
+  - 86.52435892472413
+  - 1.6097952587876923
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 1a4a314c-7648-48a7-9108-d2adedf2be71
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.64932401316128
+  - 39.172499892050844
+  - 89.52893361414505
+  - -32.593662774712
+  - 84.02315355542677
+  - -3.171564347071876
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 493e7cce-5950-4dae-a490-68455b3c4d4d
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.64986357424009
+  - 39.17245871326645
+  - 92.74185588536665
+  - -28.495245361362105
+  - 85.31442136263078
+  - 0.4807287885982676
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 72ae11db-ddc4-44b8-b256-e27f5454dd01
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.65085558780814
+  - 39.17349025213687
+  - 67.23969656357957
+  - -37.34612652429556
+  - 84.28839673611668
+  - -17.302802046684775
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 28998fde-f466-47dd-aa3e-eddc5f010dd1
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.65074531054499
+  - 39.17366561290444
+  - 65.5581684484433
+  - -35.36648813057187
+  - 81.9566700610497
+  - -1.777388806721475
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 5b97ba75-c885-4ee3-9424-36a64a58761c
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.65074892265463
+  - 39.17374030692728
+  - 69.20396540504757
+  - -30.72691938811741
+  - 84.78236798357386
+  - 0.9306183626595753
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 9045ee06-50a9-4817-8e74-d26f632d3125
+  airport: KBWI
+  runway: 15L
+  pose:
+  - -76.651223724782
+  - 39.174105973056996
+  - 71.35755147799395
+  - -31.33131151370541
+  - 87.89283640462553
+  - -3.0688290427292415
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 9fe20b62-8722-4583-9d48-1f8ed47b0417
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.69977555688452
+  - 39.230305064336406
+  - 381.38804879119493
+  - 148.71897146389333
+  - 82.94604646766457
+  - 6.785949791432985
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 28a4eb89-d278-463e-a987-0661b0dabfbc
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.70207713752296
+  - 39.227344607417606
+  - 435.78378066127453
+  - 150.3375449160115
+  - 85.9978835481319
+  - -1.2147608079972523
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: f6c059ff-5004-401c-937b-ba9e9d777cd8
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.70023838605161
+  - 39.225796138237214
+  - 338.48399222164755
+  - 134.7385766206482
+  - 86.10340272960966
+  - 0.07748388895839747
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 416f31bf-1514-4ac5-89e7-430639ccacd7
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.69856110445866
+  - 39.22657917211901
+  - 346.9415940731728
+  - 150.99184726763835
+  - 84.85677938523855
+  - 0.20912170294364735
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 1c94a1ad-81db-4edb-8195-9a81ee27848d
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.69633467838948
+  - 39.226220225801924
+  - 358.0171196987006
+  - 144.12555968181255
+  - 81.33602324795777
+  - 0.46467721638742104
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: efdb0d1b-d9b7-4ddf-86f8-611c08cce35d
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.69673575630938
+  - 39.22080516772808
+  - 333.42266210854797
+  - 152.20507883258801
+  - 88.96385954905816
+  - 1.6987431428128699
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5f3457c2-70f1-4ac2-8afa-3d773e14af2c
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.6954769823986
+  - 39.22023595632244
+  - 266.9755924640196
+  - 145.0909089419401
+  - 85.27054934329313
+  - -5.210126220610083
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 2fbfd336-c95d-46c0-8d09-32c071d0786b
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.69296086800871
+  - 39.220929813796054
+  - 313.35564834450753
+  - 145.529840429034
+  - 88.9064683033479
+  - 1.5388547981278413
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: db86c008-abc1-4d2b-b0d3-c7f194456ab3
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.69582345115417
+  - 39.219269305281
+  - 262.4189505511967
+  - 143.8271154840002
+  - 84.78972823595238
+  - 5.5490949873723014
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 3325ec73-95c2-4ef5-8f52-d67acc3f6c14
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.69471673057
+  - 39.219909151918884
+  - 296.74378783172324
+  - 149.05728887444081
+  - 85.3231509852946
+  - 0.9085258295483671
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: f6be2ab0-1f31-4991-a78d-4d90342f66c1
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.69206585771043
+  - 39.21697605713939
+  - 339.0904870511307
+  - 142.67954140017378
+  - 88.87404761011672
+  - 2.6404166057698184
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 39db65c5-8f68-40fb-8ceb-4b169282be12
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.69028797729439
+  - 39.214963900725174
+  - 209.30668049772916
+  - 149.34503505790906
+  - 86.81141232184235
+  - 0.8237204765146732
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ff1dd881-8eec-4b4d-9381-e4b0819e3297
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.68806210912776
+  - 39.21482473722211
+  - 277.6955052066685
+  - 144.31601482398662
+  - 87.79486542843956
+  - -3.050532392575972
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 91f6e7c9-1148-40ed-822b-e52548df8bef
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.68400683857396
+  - 39.20932451311441
+  - 214.25943430949985
+  - 149.3429823338386
+  - 91.67836870403946
+  - 0.14699409478350728
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e7f1bd26-a238-4b7d-9daa-5945bc8b320d
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.68157406920878
+  - 39.20852737994079
+  - 173.08084157497265
+  - 142.9032940172709
+  - 85.7269158964584
+  - -3.828922548839457
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: af74db31-8b8f-4413-9e48-db7ed58064da
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.6822567273112
+  - 39.20779816548688
+  - 193.58949338904372
+  - 147.65324406879637
+  - 84.17292980132365
+  - -1.798120035675264
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 774077bf-8e92-4fb0-a0f2-cbc6b127c208
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.68167809600004
+  - 39.208107854302554
+  - 233.3306207924946
+  - 150.130693592106
+  - 86.53301062404243
+  - 4.676613026316491
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c8486994-cb3b-429d-9d42-dc3fe56005dd
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.68194829236232
+  - 39.206509525823996
+  - 203.13949523293027
+  - 144.32981049005073
+  - 84.45877138464719
+  - -5.917745209697341
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 82a091ae-721e-4956-9d09-400fd1fcb929
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.68003516293103
+  - 39.20730252396336
+  - 221.7610388341777
+  - 146.68989282955624
+  - 87.96227802812983
+  - 6.062077077606093
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: b338797a-e21a-4298-aa3e-a53be6e6622e
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.68162041966823
+  - 39.20639548341633
+  - 186.08656581503683
+  - 145.9997392068699
+  - 89.69221372231652
+  - 3.265223548416852
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: d22f52bf-0f22-4197-9ea6-34288868bd09
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.67768237819071
+  - 39.200411545535715
+  - 150.62782191118987
+  - 144.94990762401247
+  - 86.1602154555924
+  - -8.904383955664404
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 439bc980-e0f1-4d98-86c7-89f16510b2d6
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.67345769182249
+  - 39.201114594646995
+  - 159.59205610800646
+  - 139.19819574095246
+  - 85.22838982638336
+  - 1.4495234757515711
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 2235c555-b567-460f-84cf-d3ddc568c71b
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.67481277596355
+  - 39.199943092271674
+  - 121.55896658897707
+  - 141.6080114486252
+  - 86.54908169629475
+  - -10.192315615063174
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: f0fc1148-926a-4553-b849-1d7e629dfde7
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.6749329848733
+  - 39.19932497704994
+  - 174.57388732623332
+  - 141.6847533521955
+  - 88.36244205494663
+  - 8.444384544344235
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9688ca93-d708-4822-af3f-39b0956b6c87
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.67353698508718
+  - 39.198565635675024
+  - 151.36835874873114
+  - 141.98707226219463
+  - 85.77317280210751
+  - -13.212185584696874
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 5676d179-d4ca-4c3d-b9b7-0711db238c81
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.67298412585431
+  - 39.196960751083935
+  - 139.00495363467016
+  - 143.75767774595485
+  - 85.82247283662494
+  - 8.243534355608265
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e24ca774-bc46-41cb-bdbf-72d27c693056
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.66866519235826
+  - 39.19264711571278
+  - 101.9634661278119
+  - 139.23846134728183
+  - 86.14628646434558
+  - -4.411929387877115
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f758acdc-c542-4362-baed-d6f50507d391
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.6670283150896
+  - 39.191822817032254
+  - 93.4054587634825
+  - 145.18985257536775
+  - 84.90104485749224
+  - 2.5044244375899405
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: bd199b8a-f735-4418-bb25-187180e5396a
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.66603546113664
+  - 39.190069619390016
+  - 82.88770904645
+  - 147.48436151542364
+  - 84.4241739537007
+  - 6.164394671623278
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 46d37097-ea1f-487d-a337-dff1dac77085
+  airport: KBWI
+  runway: 33R
+  pose:
+  - -76.66569038202051
+  - 39.189437272543735
+  - 75.35880548706527
+  - 142.5541586334349
+  - 82.91768579094828
+  - 5.158452295613439
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

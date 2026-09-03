@@ -1,0 +1,1078 @@
+airports_runways:
+  LCLK:
+  - '4'
+  - '22'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 810ba33b-2481-48c7-9ef6-cb68affb9d31
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.680225915107826
+  - 34.9199702438282
+  - 388.46624761105824
+  - -129.67914075805245
+  - 85.60865309914453
+  - -2.654305641257947
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: aeb208f9-ceb6-43bf-b988-fa59f54c0ca8
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.679491831725755
+  - 34.92012225769992
+  - 377.89002564115583
+  - -129.18300602266388
+  - 84.43654162637243
+  - 4.484042784822574
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9ddb226f-1b59-4f6a-ab2b-7acae93d13e7
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.6810000860825
+  - 34.917456573517434
+  - 303.0099083631415
+  - -140.80023339852988
+  - 86.58892368267686
+  - -0.39054042834975383
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 672bc41e-a459-4a69-a5c5-ac39af010da9
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.674825811262586
+  - 34.917587815839255
+  - 341.69998547102267
+  - -127.63665990729605
+  - 83.38416542905415
+  - -6.0138388889373555
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 0b561d35-595d-4524-a521-849e459f6902
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.674050667957054
+  - 34.91659908658951
+  - 268.01865841861763
+  - -136.5215807752151
+  - 84.84458220325203
+  - 1.3398004171596443
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 219d3617-e144-4371-86a2-e10284337555
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.675983191293135
+  - 34.913746143733654
+  - 246.37055438713935
+  - -135.8278882716712
+  - 88.4389889445388
+  - 0.35298554311019903
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e0ab38c2-1c37-45f4-8ddb-a5b174e7d5d5
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.67505521967643
+  - 34.91211822865609
+  - 265.81091945793867
+  - -135.8085910421563
+  - 85.92776798539273
+  - 2.68459683494993
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: cf6f3ca7-6870-449f-b574-e3ca5aa7f9f9
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.672395202708564
+  - 34.913445337450945
+  - 262.7667180156447
+  - -134.33075677889974
+  - 87.79811573267108
+  - 1.5661930475051076
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 8a67b16d-9f13-4984-a0cd-728fee0ab014
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.66757894423439
+  - 34.912038971249835
+  - 233.97004430557905
+  - -134.08526768444534
+  - 87.12355713001602
+  - 4.631796270553009
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 7ca24c17-861a-4b27-b578-17b6f892483d
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.66833681322042
+  - 34.91138253074533
+  - 212.9770086308465
+  - -141.2743284961024
+  - 85.34444062824369
+  - -6.044691432888579
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 9f4ff4b0-79fd-4672-8410-07ed600c0468
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.66715980341229
+  - 34.91099552878933
+  - 259.009362658539
+  - -137.77342795608212
+  - 83.35952746271701
+  - 1.6762717404060667
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 60aa7188-9b7d-4a26-a511-356712a04b8d
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.66184754078068
+  - 34.90600169592379
+  - 224.29597469066255
+  - -127.65309331897994
+  - 85.76605878233364
+  - -0.7980846770666699
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 4a674531-80b5-4f0b-ba78-4d54178f32ce
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.65875833799646
+  - 34.904404564523425
+  - 186.52764320362638
+  - -138.22947716551093
+  - 86.67034052995618
+  - -3.140413292601478
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6ef921a3-3a5e-48b5-a623-818aad7309f3
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.65834504843278
+  - 34.903533263522824
+  - 212.55054496058378
+  - -144.1899341811181
+  - 86.78555614327267
+  - -1.500598748006447
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9ca5cca2-041d-401e-9b54-f5aab486cade
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.656973925862815
+  - 34.90277397274368
+  - 148.75080500713412
+  - -133.79122088672355
+  - 88.26909245873209
+  - -0.40145282107120905
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 6f811667-c411-4cee-8d8c-bc1c2d3a6865
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.65851851526321
+  - 34.90108779548176
+  - 206.4991164458628
+  - -131.79296871014165
+  - 88.23967533924426
+  - -1.3346729994522435
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 459a1bce-4c7d-49de-931d-2344eb7fbd9f
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.657470884047264
+  - 34.90176043352397
+  - 171.42893743413168
+  - -128.3287756754556
+  - 85.89261733961007
+  - -2.520170977478301
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e2d78ef4-ae71-4b57-a02a-9599e5569a32
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.656035713646446
+  - 34.902131153353885
+  - 151.23309783583005
+  - -130.14943917417403
+  - 85.36629409710628
+  - 1.18024178135333
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 0670c8fb-8469-4682-bae4-1c0341f5f7e6
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.65515514891546
+  - 34.901092551197785
+  - 171.24860991054823
+  - -134.50798101740313
+  - 83.13257366264244
+  - -5.724508180398999
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a9526a22-8741-4cb8-8a9c-34cb12e1ab5c
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.65444380682192
+  - 34.89824623563032
+  - 154.7410329687197
+  - -136.03208582721388
+  - 84.84058469807935
+  - 7.4635896332372
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e7f2ac66-1bb1-46db-9ace-2ded8ad89358
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.65367691500553
+  - 34.896142792381134
+  - 156.3988897616912
+  - -141.8359429189701
+  - 85.0396327926025
+  - 5.27039383800388
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 0c4cb010-37ba-49db-8cc6-2c6a28761f36
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.652230327243025
+  - 34.89661694969907
+  - 128.67271843247832
+  - -141.74797013722542
+  - 84.10512988981668
+  - 6.618839581643971
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 6b6ad6b5-2fd2-44e2-b8c1-84b9624af660
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.649630979206776
+  - 34.89457974764875
+  - 128.95209615756494
+  - -138.30702400653308
+  - 82.84403223559787
+  - 5.78089251789209
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3e66e122-a30f-44d7-b05c-a2b50aa2eb41
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.64759598998373
+  - 34.89264759342036
+  - 116.62275636127029
+  - -130.16513265618414
+  - 87.8016952077166
+  - -7.95433031778817
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 0371bcb3-e4c6-4bc4-b9fd-fd16e864262b
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.64662846416072
+  - 34.89246488970346
+  - 89.21460861383275
+  - -136.56570639514177
+  - 86.39107627919329
+  - 3.332885771187169
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5fca77f8-ed4f-4ec2-8783-62059e5c3adf
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.64628212733035
+  - 34.89167006143929
+  - 121.8341064836721
+  - -137.00594666216486
+  - 86.08127449858324
+  - 2.779356261373081
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 27337c3b-5fd3-4c61-95e1-064cc29e8e7d
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.64376626487043
+  - 34.88842127933115
+  - 61.702607745380114
+  - -131.99721382818814
+  - 85.04720661634624
+  - 2.6292174072479977
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: f9483243-4cb2-4b89-99ce-340863c6b1a2
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.6396034182224
+  - 34.887082865132385
+  - 59.745137089695305
+  - -126.75886383825073
+  - 87.78886574088928
+  - -4.306316567465713
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 92d8bc20-fb40-45d2-988a-3b55fd6fae6c
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.63805136734558
+  - 34.88596390550664
+  - 50.08889183128523
+  - -125.87229649931665
+  - 87.28273823308753
+  - 2.806410400516338
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: d34f7530-0ead-4265-a142-3e6af725830c
+  airport: LCLK
+  runway: '4'
+  pose:
+  - 33.636553510549994
+  - 34.88401084400722
+  - 40.49582564261538
+  - -128.14137752715467
+  - 84.79504514364531
+  - -5.7675030794422675
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d57c200c-c110-4701-9b4c-447d37366769
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.5666701702681
+  - 34.82569241787093
+  - 230.40614896709937
+  - 42.24639172515765
+  - 88.35275193635943
+  - 1.9194273974972953
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 842b0384-6d18-4e2a-ba78-8da5654e01cf
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.56546918157534
+  - 34.8277026661497
+  - 271.2161449496375
+  - 48.58185240048451
+  - 84.84201404686502
+  - 5.804976607012836
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: cf35946f-fa09-4bb0-8ef9-0aff487808bc
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.56690211459712
+  - 34.82840504545366
+  - 313.1605476140877
+  - 43.40883178885772
+  - 84.18511187515074
+  - 6.923201079326699
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 538f27d6-727f-4894-bfb8-a94a5da1c175
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.570387348814876
+  - 34.827396096845945
+  - 329.3649867869463
+  - 38.41852766166769
+  - 86.93117665942663
+  - 12.160656736286729
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c42448ec-e6be-46a4-88cf-94feffba90d2
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.56876206795134
+  - 34.83184111125376
+  - 342.33552223926597
+  - 45.48584994920644
+  - 90.44923422275245
+  - -7.135377988271678
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 4e4a5d27-57e2-4778-8ec7-d2ad6a98f884
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.57148583066618
+  - 34.830504953131275
+  - 322.9412827845252
+  - 49.87803261914925
+  - 86.00536339215836
+  - -12.676348955523771
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6e19fb01-d7c7-4a49-b22c-85d553d451a6
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.571503330045715
+  - 34.83121585065814
+  - 247.96152287254796
+  - 55.06794161895556
+  - 82.97854496481925
+  - -8.985242749935797
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: df3ab5f2-92bd-4499-bd3e-090d41c85a1e
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.57169864479443
+  - 34.83350695372451
+  - 259.12488888204217
+  - 55.18252765459005
+  - 89.19068377945258
+  - 4.336122963180991
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 8de05bad-3a81-44fa-81e1-3d6da198c7d2
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.57244832891287
+  - 34.837377770053564
+  - 300.1479085256208
+  - 40.54911006346977
+  - 86.2677433606685
+  - 2.9886433853841634
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e39ab430-33ba-472b-aa1e-65b5f5e4498f
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.5770847185197
+  - 34.83505422149388
+  - 266.24600273952717
+  - 49.21487975652416
+  - 85.09178764517985
+  - 4.046886943981676
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 1654812d-b0f3-42ff-9de4-7bdc439dd5ea
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.579978399512676
+  - 34.83512593757329
+  - 244.47950609192398
+  - 45.581239640763535
+  - 85.69026120913598
+  - 0.6919638485275175
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 33f22861-8113-4ad2-8c6f-d43daf643e52
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.58016492090594
+  - 34.838818419990076
+  - 231.5480244090613
+  - 48.23434362907308
+  - 86.187409186839
+  - -3.2941254996773797
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2700319c-f01d-4953-960b-f34aa0c50123
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.582811238018785
+  - 34.836833847839095
+  - 262.34899734437346
+  - 43.185475475206694
+  - 84.2034453774199
+  - 6.8364936839165305
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 9326cd6a-2d2b-4ca0-a7ab-d62a3d79b63e
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.58360324429355
+  - 34.841583397870174
+  - 239.74097069449164
+  - 40.2049741591066
+  - 83.24847955551013
+  - 3.325551803226094
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 14eba4c6-c0fc-4802-96ba-58297b1cc95e
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.58384167374808
+  - 34.84247254273831
+  - 176.54733684278912
+  - 36.06134715021171
+  - 85.62571148664077
+  - 4.074714131086511
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f0f3ea4e-3831-4f71-b359-b1008c28927f
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.5889796303338
+  - 34.84369898169487
+  - 185.30582834679944
+  - 48.312623805731036
+  - 84.68257508733096
+  - -5.161336149483956
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: bf19f0dc-59df-428a-ac15-092267ed074d
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.58792505682889
+  - 34.84614916473549
+  - 165.08294597261903
+  - 38.9148656707954
+  - 86.59457348859068
+  - -3.7869649938144603
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e58271e7-ffe1-441a-b795-f6f364694d90
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.590485116378794
+  - 34.8478836929753
+  - 180.95899642091837
+  - 50.94636384143728
+  - 91.87614072531721
+  - 9.598985522186661
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: fa306e68-8a0c-411e-b931-5d7d2d64972e
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.5921933293095
+  - 34.847398978114256
+  - 164.7043659965362
+  - 37.07076558059405
+  - 87.23118430186199
+  - 2.660086719644117
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 62f043ed-938a-4de9-b69d-ecb8acd8af14
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.59330550644351
+  - 34.847921125748925
+  - 153.02501402686374
+  - 50.77222769114404
+  - 85.60931980791939
+  - 1.9898593650310439
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: fd845b5c-ea72-4416-ae02-a36629f1a575
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.59471721923868
+  - 34.85106100665131
+  - 110.31638955407558
+  - 47.008399594419174
+  - 85.3297779915637
+  - 3.5570464115927996
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: beb57e01-d0f3-41bf-83b4-cfcfecd9fb72
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.59929087941311
+  - 34.853247814906496
+  - 110.01870265512962
+  - 40.82532401284645
+  - 84.01779088663048
+  - -1.8007356676520994
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3a896360-1baf-4d3f-99ae-450b1d698110
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.60337378735563
+  - 34.856626888662376
+  - 83.17358051917502
+  - 47.16844844473952
+  - 87.94289005065099
+  - 3.4262257360771784
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 98f24706-5a66-4397-a53d-50bd5015b4d5
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.60426734570923
+  - 34.858363066885836
+  - 68.58173930926823
+  - 48.565036340175105
+  - 81.50548508185635
+  - 2.7430014628706827
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 6db8786a-a891-4880-b477-7d8e8a070b88
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.604254056611644
+  - 34.858702177853644
+  - 77.77398806152571
+  - 47.50261776895865
+  - 85.73318590805377
+  - 0.22379574374047873
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ed96ee04-a68f-49dd-9e53-cdeffd39181d
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.604789066449115
+  - 34.85853225617045
+  - 61.95721259958095
+  - 51.481694621035075
+  - 83.88602705438255
+  - 5.87033341717102
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 23739bb1-0e10-4a0a-abf7-95526837358e
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.60528052866555
+  - 34.85835417678439
+  - 66.14964226144659
+  - 38.537766274043825
+  - 86.09190341456555
+  - -0.9562178569870451
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a1abcd52-15bd-46f9-bf37-62a4bf2a2aec
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.60565906639465
+  - 34.85872854002449
+  - 83.23396281175464
+  - 48.41925823317611
+  - 90.5046803677469
+  - 0.5238600261067392
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: ec6f6d0b-2392-448a-9791-0c6a7c07be1e
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.60943561778324
+  - 34.86192816113138
+  - 31.294876059797314
+  - 50.48823447796273
+  - 84.30802154565635
+  - -8.440304152502051
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ef9ceb37-806c-49bb-9c48-1fba3979a902
+  airport: LCLK
+  runway: '22'
+  pose:
+  - 33.60938115129713
+  - 34.86214141901773
+  - 43.297698623026584
+  - 43.69952951415212
+  - 84.63114257712884
+  - -6.637430025124393
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

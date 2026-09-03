@@ -1,0 +1,1078 @@
+airports_runways:
+  ZSSS:
+  - 18R
+  - 00L
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 2a68a097-251d-451d-b7cd-1e751d15573e
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33633779261255
+  - 31.13353613012448
+  - 372.18476980233106
+  - -2.33737354979525
+  - 84.18855514170976
+  - 2.3802557128319197
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 5df99130-d1c3-403a-8a69-cd98a3c67d3f
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.32924325527934
+  - 31.133815474111394
+  - 313.69531097733665
+  - -5.854356569031349
+  - 86.63274633409347
+  - -4.339351740644068
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c3dfbfbc-b6c9-41da-a1a6-d2180ecca996
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33539815034888
+  - 31.138979557401207
+  - 297.55193292913356
+  - -4.17389395736504
+  - 87.4721681319228
+  - 8.238922497854606
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e9b9cd67-ef3c-4d84-8e7f-5e6588a99cff
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33716126887055
+  - 31.139190279837045
+  - 257.1178593205075
+  - -5.029204700176072
+  - 87.02368915325872
+  - -6.822528792914273
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 137d7701-b95b-4831-8de7-f00c284a01b6
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33359193920195
+  - 31.14205450828232
+  - 358.02247169295583
+  - -6.316853354452874
+  - 86.27294932494084
+  - 3.028556879059198
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 15ddd1f8-fd18-4aa6-b405-dce00b266258
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33425836249498
+  - 31.143085185418506
+  - 249.3851446721868
+  - -11.27284852883548
+  - 85.1702144896472
+  - -6.7494323331681985
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a81d6e3f-d833-4be6-b875-4fa4446ba2e9
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33572774053758
+  - 31.14379964684355
+  - 231.29450142805436
+  - -4.680414533217083
+  - 87.46724542941222
+  - -3.3387623785614395
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 954dd23a-1a6b-4903-af9e-5f1af746dc04
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.3349225772945
+  - 31.14393751090368
+  - 297.92254428378726
+  - -8.951407437339952
+  - 89.57099795277641
+  - 2.569024572314781
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 71f81b32-afc9-4851-baa9-b594e8de94b9
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33575754556405
+  - 31.144272097503244
+  - 308.83747459000614
+  - -4.1878374036001675
+  - 87.82720348099784
+  - 0.11424495223970792
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 15eacaef-241e-4a21-9b67-d8e83159eb69
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33605958883622
+  - 31.144853923388183
+  - 257.01081442549184
+  - -12.42055866356841
+  - 83.49418282011493
+  - 6.373924225181518
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 93fd627c-378b-4efc-8b4b-8242d8d612a0
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33578707998524
+  - 31.14831285903802
+  - 236.03865545083943
+  - -6.534400023220957
+  - 84.92864560837056
+  - 1.5324397611296083
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3e52a37b-e0ab-422a-aaa8-f4f6be33c867
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33647547183466
+  - 31.15031226677772
+  - 248.48784219906835
+  - -3.0719745831474112
+  - 88.55155533636119
+  - -3.1391886619997256
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ae360e51-d25d-40fa-a2a4-628033ecf718
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33528532858939
+  - 31.15067315825064
+  - 231.7623902066744
+  - -0.7568735632858907
+  - 85.20478147146407
+  - 3.7885018528454544
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 08c26911-a21a-43ad-b7cf-e6ffc9afdf5f
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33453432462629
+  - 31.15160024174753
+  - 241.84569659395086
+  - -1.0508273493259939
+  - 86.5729314907222
+  - -6.239748297045082
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 292804c4-e84f-4c71-a3aa-8068997e7a21
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.3345590866341
+  - 31.152800667009164
+  - 225.07392672173611
+  - -1.6279849829663506
+  - 86.53866747569575
+  - 3.871633454046414
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 882ba29b-31a3-455d-ba75-1fb2474390a5
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33466189019099
+  - 31.154891012309836
+  - 183.76838609338898
+  - -4.745415816982236
+  - 83.93822642450067
+  - -8.32452590022819
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 35c96935-5d48-4d29-af9f-b8843e2f51b6
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33550035959867
+  - 31.155705555675492
+  - 195.20103003466625
+  - 4.752501802980133
+  - 87.67948187444091
+  - 0.5974102826161116
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: de59a302-cfb5-405e-a387-2dd96aee1557
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33409910415563
+  - 31.159212882056636
+  - 230.34445902234916
+  - 4.256745760544781
+  - 85.26045511336169
+  - 7.279640521409241
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 965f80bc-5053-48f0-a138-406b1d9191fa
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33218689224869
+  - 31.159437232623958
+  - 197.7959612327925
+  - -8.540971952352901
+  - 87.74659255424832
+  - -5.1643643332356435
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 58f1a16c-9fce-4292-91cc-4abf227da1ee
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33573708420317
+  - 31.16340932611436
+  - 127.82179381378451
+  - -6.935630128698499
+  - 86.98046927686258
+  - -1.971450178055945
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 365da2cf-67b9-46f8-90f8-4d7880d62657
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.3327283283759
+  - 31.172280364769275
+  - 109.03416164414455
+  - -12.174297579297823
+  - 83.6790252575675
+  - 0.8195557045184976
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 05b7cd6b-aac9-4911-8394-68727ffeafb5
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33314324788253
+  - 31.172366023413787
+  - 80.29311103615542
+  - -3.659359672592533
+  - 89.38964658732942
+  - 1.7817830492850861
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 4b918132-76c2-427a-adaf-48e187ac4ba0
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33401441079432
+  - 31.176255686214258
+  - 83.40371981175757
+  - 4.845524906278062
+  - 85.04981923484058
+  - 1.275858758939016
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: e3cecbbb-a347-478e-af13-33bff6a10075
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33418046083005
+  - 31.177825928422855
+  - 69.43417429722238
+  - -4.009635962824726
+  - 87.87253344539933
+  - 3.640229292664985
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 920fd573-2fe0-47ee-86d0-5cc220643eac
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33338015163744
+  - 31.178595196290424
+  - 72.06375667875409
+  - -2.0719467523485418
+  - 86.77689411642204
+  - 4.810475279088073
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: d8078766-3ace-405b-b065-7ff40324a8c7
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33354372654101
+  - 31.178806794879602
+  - 55.32332767349413
+  - 0.3456069581813628
+  - 87.07858277279036
+  - 6.844472926907049
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ff1fd51f-16ff-476b-82ee-2263a1ab8f74
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33362980435425
+  - 31.17926627973888
+  - 54.51000027827127
+  - 2.334550173315912
+  - 83.61773925613423
+  - -1.9816704027312524
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: db9e9293-899d-4d5d-830d-6d3cc293ed7f
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33340883754514
+  - 31.180662824027397
+  - 39.62218262757219
+  - -5.656120539653001
+  - 89.4529367904767
+  - 4.205953100403185
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 2a5ea69e-153e-4a8d-99fa-2ba17b9d5637
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33324453596957
+  - 31.181543769223403
+  - 46.17583239956276
+  - -2.9319192583184677
+  - 86.77830862712091
+  - -0.7217429343051924
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5ad260a2-bd21-452e-946e-53a05c7fe162
+  airport: ZSSS
+  runway: 18R
+  pose:
+  - 121.33331574767513
+  - 31.18209910790384
+  - 43.443256160640146
+  - 1.5606978142462822
+  - 83.83632722952515
+  - -0.02772944778895061
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4525b788-9a4f-4321-961c-1343c426ded4
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.32754424818381
+  - 31.26265441317495
+  - 271.58553404607073
+  - 175.06651828962993
+  - 85.2767582862933
+  - -0.10630463385016062
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 8ed47ca5-128b-49e5-bfac-5df37ea33352
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.32777905831917
+  - 31.262261469104402
+  - 381.68124990401617
+  - 182.51480673204807
+  - 84.73437046144981
+  - -0.21782605108703462
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9ddbc25e-5a32-4c2e-8fe7-d5e2ac22f960
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.32912437611981
+  - 31.26054011930553
+  - 250.66321813266757
+  - 173.17901106390306
+  - 87.77459733236103
+  - -3.4691542266188824
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b7fd323c-97de-4140-ba26-0a90ff7940c0
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.32940309107765
+  - 31.260325992191362
+  - 284.87899438613783
+  - 180.37903826225738
+  - 84.04864570887922
+  - 1.8576529812976035
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 182d19af-bb1c-4ef8-aa6d-e322a0187d68
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.32713953996144
+  - 31.257295706590774
+  - 320.4070288694053
+  - 182.01499176670598
+  - 86.25489386923341
+  - -11.088791393969482
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: fad50291-cf5e-4f9d-bafc-acd81b029cfa
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.33057107442595
+  - 31.255816576449842
+  - 267.15921564568856
+  - 175.77756412035322
+  - 86.63555567284394
+  - 1.8662910006564524
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a0b01900-8e5e-4932-afb1-e0e956b6bbcf
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.32847025539974
+  - 31.255572031232525
+  - 331.48285076059614
+  - 178.1811242390332
+  - 88.91810176662338
+  - -5.133584188453329
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 1ab57391-549c-459d-aa52-4e1beaebf1cd
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.33014295093358
+  - 31.25547762398522
+  - 313.84158766012536
+  - 173.84868013411463
+  - 86.56337583357713
+  - 2.6169699612123285
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 40809840-0e61-48cc-92de-81cd50e82d00
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.33007874481243
+  - 31.252230939323592
+  - 255.99332722401203
+  - 177.56895917981242
+  - 87.66799952162526
+  - -1.8861669510978964
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 604333f4-9e53-4450-b78a-4827f2e9454e
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.32752872211317
+  - 31.251199442043614
+  - 180.38519894711308
+  - 176.4757935634751
+  - 86.88177844158339
+  - -5.648079976265283
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 05b44cc0-a4db-4bf3-9b24-e1c8c53fff72
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.33149664833647
+  - 31.24275744100645
+  - 167.83938429977508
+  - 184.51353732618244
+  - 84.87787682553912
+  - -2.8516535189940244
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 77a4c8ac-60d6-4a31-b716-b42944c0aa98
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.33005207053077
+  - 31.241565107745974
+  - 229.77517793429013
+  - 168.44239744911883
+  - 84.2448315477368
+  - -4.94981539990574
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 51e801b3-965d-41d1-b858-c2d2b94e2446
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.32821892208545
+  - 31.24126775988418
+  - 156.58357616730655
+  - 179.46840414732196
+  - 86.5839379332087
+  - -3.062633723994664
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f5f99404-9ebf-4ac8-944f-eac59af5192f
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.328974160857
+  - 31.240539877347075
+  - 204.14598588062532
+  - 170.67761786361064
+  - 84.37319612962654
+  - -0.15823964789489361
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 81275210-141e-4de2-bed7-9435781aacea
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.33213715121033
+  - 31.23721735393013
+  - 188.30582860873665
+  - 174.8053746801774
+  - 87.5478281230214
+  - 1.3734912343476124
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 6ef325ed-9d2d-4f31-a316-2e383d3c889a
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.328507811504
+  - 31.23565316113348
+  - 182.1972314128313
+  - 173.58127640132304
+  - 86.1235104699624
+  - 2.5450746462751326
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 3cc6e7a9-6c91-461e-af98-96c8b6379afa
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.32921904505928
+  - 31.234915586795182
+  - 154.5724920684154
+  - 176.16500428038964
+  - 88.56441268815958
+  - -2.265768687769963
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 0f8842f9-c147-4276-bed5-308decb90d91
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.33024643805328
+  - 31.234124679879045
+  - 148.46719661831733
+  - 177.86991014843372
+  - 82.80407515421952
+  - -1.1867495289559098
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3dffe6be-1e3f-4636-8495-6690f5a0e379
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.3303027808851
+  - 31.234087100069086
+  - 159.739553355074
+  - 178.17760267929356
+  - 83.28467766001398
+  - 3.6605047800510255
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a42c5ae7-c70d-408f-aab7-fa8b545e5906
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.33106284190886
+  - 31.233050925044274
+  - 151.2329243855653
+  - 171.38335415169178
+  - 83.46526256597545
+  - 4.330719159629465
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2cb11671-2239-4cab-bc08-6d8fbaa36351
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.33016290795648
+  - 31.2292742635997
+  - 128.46775085780814
+  - 176.2400060093794
+  - 89.02991598809527
+  - -3.4738601478862554
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: cc0005e6-a787-4a50-9c26-6e4d77fcae1b
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.33090288393228
+  - 31.225549917754822
+  - 134.1794035556221
+  - 179.48568185033955
+  - 85.29040534386115
+  - 4.836868550115481
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 0450b259-04ac-4697-85c5-be59aec5ae0a
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.3317819001032
+  - 31.221305010980558
+  - 81.83100486536048
+  - 176.66472834900864
+  - 88.12826690764686
+  - -6.2745534830714345
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a3dc6779-9b2b-423e-ae7d-c7fbc57ad4ce
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.33079395987588
+  - 31.21820120376198
+  - 75.46058565510036
+  - 178.29975674700643
+  - 83.9858415059449
+  - 2.649019144430993
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 1e0bb6f7-1d87-413a-bae6-f8da11c37501
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.33135742469628
+  - 31.21722175730077
+  - 51.94139073225717
+  - 177.37217730879848
+  - 88.95247696496178
+  - 5.282192008716731
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 85517750-8cd3-47e0-ac23-f6455cab20f4
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.33144534273409
+  - 31.21480178539984
+  - 48.64054883361185
+  - 178.4783929577869
+  - 87.02172822399112
+  - -7.232530099812583
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ff3f2bba-017b-424c-9b03-c6bd8f263e1e
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.33151662936311
+  - 31.213905745641046
+  - 44.98715454884033
+  - 183.31459302200713
+  - 83.06335549238119
+  - -4.134786293296352
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 21db97b8-8e4b-48e7-8bf4-16134eff42d3
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.33127137411711
+  - 31.21324758944706
+  - 31.86222951402727
+  - 181.11228181597988
+  - 85.08337804001064
+  - 1.1692974011664117
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 9d3053c7-51b5-4267-9db1-6bb8864dbd78
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.33149573737815
+  - 31.213175392199403
+  - 36.14421975815033
+  - 182.36824945419025
+  - 87.69714225683154
+  - -11.10929111062363
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 072061a5-186a-4227-9121-a962ee6794e8
+  airport: ZSSS
+  runway: 00L
+  pose:
+  - 121.33159032650639
+  - 31.213063726279213
+  - 37.829635417652675
+  - 172.4385957329154
+  - 88.64288777365691
+  - -2.2428250257268814
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

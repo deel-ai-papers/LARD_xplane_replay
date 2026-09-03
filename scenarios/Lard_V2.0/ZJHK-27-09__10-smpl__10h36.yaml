@@ -1,0 +1,1078 @@
+airports_runways:
+  ZJHK:
+  - '27'
+  - 09
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: f5d504f2-0667-48e2-b076-e81ce5bcee60
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.38615442643825
+  - 19.93814480124256
+  - 297.9565631768114
+  - 86.70039300335088
+  - 87.29145924365842
+  - -4.252691033272521
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 82a1912d-27e2-4b58-8c56-e53baea88147
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.38636168394707
+  - 19.93169551418385
+  - 302.14886703348037
+  - 96.26003669752183
+  - 87.54487202372313
+  - 11.714976028013776
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ea35d524-fb7c-4d84-84ed-f53e7ca3e4a3
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.3879548699461
+  - 19.9343025520833
+  - 339.7400853476778
+  - 86.30387550602758
+  - 85.51745187320832
+  - -0.06242856341214496
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ffb91094-7219-438a-98c5-3e8a4c6668c5
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.3889390095788
+  - 19.933571165127045
+  - 420.76723032695617
+  - 85.66344534933523
+  - 83.46083508800233
+  - -11.238002832381266
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a4c553b3-137c-40f7-a6af-1829eef8b26a
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.39509876525173
+  - 19.933462960497724
+  - 251.42522952028477
+  - 93.34349386683921
+  - 86.74531370665945
+  - -6.992024623512986
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: efa52dcb-3884-42bc-84dd-f6dc6c650f15
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.39636779264517
+  - 19.935666155795115
+  - 293.52113420826845
+  - 82.82125137166115
+  - 84.17605277895007
+  - -5.553771134424855
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ec92942d-5a35-4d2e-8fda-a7c730a8319e
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.39663618579111
+  - 19.933501952816535
+  - 295.88448322780954
+  - 89.56028473673838
+  - 87.18056651309568
+  - -12.312063939360423
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 16d2d2e6-5684-461a-a36f-279ef03f3940
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.39792508017216
+  - 19.932688355659444
+  - 264.9901645354722
+  - 93.08797992728671
+  - 87.77120327883561
+  - 0.11298596160664877
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 90000203-599e-49ea-950d-0a81fac219e9
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.39856002776037
+  - 19.93429263592541
+  - 312.3186379356829
+  - 99.64798931363548
+  - 88.63821322078579
+  - 5.210971198978581
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 79a73e2f-ed02-4b69-b30d-a7a082e30f23
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.39858150797254
+  - 19.93576254340659
+  - 201.67836448675925
+  - 90.46628009412834
+  - 85.45539251848356
+  - 0.3429788643295191
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: afcc4b3a-8002-4c25-b4a1-7a0ed969fc4f
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.39971074129497
+  - 19.935548707709973
+  - 319.2175032541364
+  - 84.70567913496124
+  - 87.9779017277429
+  - 4.648570478693543
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 5c1acf07-8f28-4eeb-ac3f-ce0b40b3e9c5
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.40056887376619
+  - 19.934808208057618
+  - 257.79971811619095
+  - 100.04684808001775
+  - 85.1325198064104
+  - 5.566069488386746
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 622fe34e-1ddc-499c-b900-5f31d06e632a
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.40097567278356
+  - 19.934657938447426
+  - 256.11870824023856
+  - 81.57239206736902
+  - 85.9774854811936
+  - 3.801849572785369
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a08676a5-dac2-4816-ab72-a8ac8df56bec
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.40205879768342
+  - 19.93683407033184
+  - 289.67361887052544
+  - 90.44639709146716
+  - 86.2381325973291
+  - 2.6364572056861535
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ca4b0dab-90cb-463c-b4fe-047d1f487761
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.40370287142768
+  - 19.93530807396727
+  - 223.9683280368989
+  - 83.42091786030491
+  - 82.87147748382097
+  - 3.4023965627312904
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e4de9b00-8359-4864-ac53-b078c400b8e1
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.40392739170034
+  - 19.933043637769714
+  - 271.63965057039104
+  - 81.21661473177559
+  - 84.89051317310523
+  - 2.034331282333783
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 1cd993b9-0058-422a-9306-78cd4374a302
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.40665648584027
+  - 19.937503328548154
+  - 224.30602093827102
+  - 83.77474331701619
+  - 82.45281140287449
+  - -2.8237932240065367
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 36fbbc86-23b5-4ab1-9f76-4b553e16ace7
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.40959344268747
+  - 19.936565022769813
+  - 216.6814182193527
+  - 97.09892768044043
+  - 85.15133185343527
+  - 4.665496780530513
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ba03054c-8001-4352-a2ef-a1675cd71ac1
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.41540866010929
+  - 19.933992189058504
+  - 181.5409749794662
+  - 85.44351614648654
+  - 89.40032993089889
+  - -3.318708278282387
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: d2a9eb39-d8ed-4d55-9290-bf6fbd0c4da8
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.4174435470733
+  - 19.934359326031714
+  - 176.415626069906
+  - 89.48700252075581
+  - 88.88651785694304
+  - -1.2739168984078724
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: f64ad51a-3a28-428f-ab89-8b4bed0d0c8a
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.420030107258
+  - 19.934622347660913
+  - 192.31955252644462
+  - 94.1489157313948
+  - 83.71208481031526
+  - 0.7876721239340424
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a1aa60b4-0b86-438e-95f9-82ced6cd5441
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.42024235597626
+  - 19.935757067829613
+  - 166.71308456815575
+  - 98.88988671501212
+  - 86.19477673579904
+  - 3.741355979905725
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 251eea01-ca87-4646-9ca0-9b6fc6631186
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.42200308735025
+  - 19.93430883840123
+  - 175.01673813911503
+  - 96.13712905088774
+  - 84.53339230099631
+  - 3.1160421865531824
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 1937537c-3d82-4977-8c60-e7a89bd688d7
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.42325457095993
+  - 19.934416393549675
+  - 141.54668656268097
+  - 86.416285080994
+  - 87.37572462337616
+  - -0.8400010856708933
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 74fce111-1d90-453d-9044-1a970b6ffac8
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.42517045477291
+  - 19.93528661819991
+  - 137.70145854760943
+  - 84.30552738676079
+  - 85.08414387592246
+  - 0.5417373912456218
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 180d2d4e-7411-4369-bcfa-009e60a28f41
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.42725603838086
+  - 19.934493505275636
+  - 111.90407908786023
+  - 84.77037518361035
+  - 85.99370718720475
+  - 3.6579838241382467
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c151b84c-a6a7-4c9d-ba0f-c1c494b9588e
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.43067745466347
+  - 19.93491124413369
+  - 93.09247214011303
+  - 95.61608570367554
+  - 84.143111028
+  - -6.094645293833178
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5eb919ef-ce6b-4f76-8301-e5d9ae5f67af
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.43499670066237
+  - 19.934956429415966
+  - 73.90037553078703
+  - 90.0680894111742
+  - 85.38546164954019
+  - 7.1760331507228
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 36871e18-574d-4063-92f3-6925e0aac384
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.43553109320075
+  - 19.934564944893015
+  - 62.16526033244154
+  - 74.80965649248162
+  - 85.27728329318619
+  - 0.47627061046963465
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e19467bf-00cf-4410-88d8-0591291e1da0
+  airport: ZJHK
+  runway: '27'
+  pose:
+  - 110.43812819478372
+  - 19.934665980308903
+  - 56.866317546753166
+  - 83.97218270210139
+  - 86.92877793341437
+  - 8.731198895542082
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 58e82d0d-8365-46e6-9e2b-ed3f0aeadeb8
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.53289269471247
+  - 19.935517778289295
+  - 304.3297212527077
+  - -77.58829550049413
+  - 84.93571839673099
+  - 4.2570335109120565
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: d415bb61-745d-4ac1-a6b2-071b7a0dc881
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.53048009278221
+  - 19.93413124036079
+  - 359.30691205843283
+  - -89.13310658385214
+  - 84.33001401245214
+  - 2.686510706730388
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7d80e761-476d-4ac7-898e-886549e58bea
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.53043239738712
+  - 19.933327619051195
+  - 375.1240272761788
+  - -89.35793779734756
+  - 86.16662416670759
+  - 3.9570798830180625
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: d8334048-463b-42a3-b9c1-660c5783d87c
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.52954715623481
+  - 19.934440875994234
+  - 354.20743906229677
+  - -86.70097048861857
+  - 90.49336149743111
+  - 0.6913321336666911
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 262418f9-67a4-499c-8482-54c206bae6fa
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.52648320662972
+  - 19.933457841301422
+  - 305.9316789473278
+  - -85.59955924519987
+  - 89.95593075243836
+  - -1.5764529128326534
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 7140da5b-8c13-498c-9aea-79407f2fb9c3
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.52529608725138
+  - 19.93312631909609
+  - 248.8316672758118
+  - -87.96505028963733
+  - 83.85630074566531
+  - 9.789633987143844
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 142095d3-0390-484e-8ea1-66e9acec7b93
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.52386652848237
+  - 19.93487372801419
+  - 311.0305672732216
+  - -78.55089015325768
+  - 85.48237799007353
+  - -1.5558559183151588
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6ecde9c7-a484-4c2c-b79c-bf9ae58c29be
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.5220224230151
+  - 19.9366008098248
+  - 293.90610369938304
+  - -88.06654276719345
+  - 84.35278130699403
+  - -3.012529805762232
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6cb22444-cf7b-4b07-aac4-725485ea0c90
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.51937628002801
+  - 19.93391274102768
+  - 281.1869960956773
+  - -94.5336037778101
+  - 84.12097055048879
+  - 5.807624794778757
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3909057b-cc20-401b-9a59-de30d4444fd3
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.51919085034449
+  - 19.93616185095416
+  - 298.82486583385077
+  - -81.56541710472307
+  - 85.29753923855381
+  - -3.9972364497749036
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 0fe24f74-2319-456c-b6f6-98c636bfd706
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.51691978125112
+  - 19.934284466439948
+  - 259.4423661227787
+  - -85.0786379353403
+  - 87.95472293530014
+  - -7.528468036667406
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3a9ad9ae-a757-4887-bf32-51c5f22a4f34
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.5138695960825
+  - 19.93371828629324
+  - 256.96358574308033
+  - -88.3895608088671
+  - 84.04241149495631
+  - 4.467246991115694
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: d07b86ce-a777-4676-9e8c-e51474e8065f
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.5110647485859
+  - 19.935734033368327
+  - 224.31157984430735
+  - -93.23436999200895
+  - 89.44182120841648
+  - 1.6467447741000631
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 2b5ec82b-ea7f-4f3e-8467-0a7038c47651
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.51068162298633
+  - 19.936438540004417
+  - 264.73870058586056
+  - -101.06357685948932
+  - 86.5473744995513
+  - -4.558477499315481
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 02835312-5443-4aef-9e6b-046c8bccb281
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.50527897948028
+  - 19.934560700028637
+  - 198.55503600410174
+  - -85.85553299489793
+  - 84.42070582621558
+  - 0.15900786185851348
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ed9ddf3c-776f-467e-b006-b32374dbf051
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.50478662498867
+  - 19.93414932245681
+  - 203.8340825777315
+  - -93.85294328469755
+  - 87.36906681997856
+  - -0.6092827305973245
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b3d8aa40-8fc4-4a64-8798-0c4f7c875cfb
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.5021510875206
+  - 19.93512136405571
+  - 144.3494058281758
+  - -93.19089336520439
+  - 84.84226604750589
+  - 2.5349326592872004
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 5c6fc941-3d89-4f48-8f2d-8cb840c61fde
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.50214544605569
+  - 19.935417855550494
+  - 152.59338734844343
+  - -92.21854189297639
+  - 86.25452697379093
+  - -1.4309472910566043
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 31ec9454-2f8a-4acb-ab97-e93f80e2642f
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.50189143808983
+  - 19.935961073918598
+  - 165.19271405162863
+  - -89.1034269401547
+  - 86.62217973725423
+  - -20.213088200352665
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e5988d79-ab19-434b-8ea9-b855a11bd470
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.5010136661149
+  - 19.934201470847565
+  - 153.66460498526587
+  - -90.49852259873423
+  - 86.13659825183366
+  - 1.8224769769037394
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: ed3905b5-a162-4696-8d94-5c80530c56a0
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.49880902999759
+  - 19.935768989607393
+  - 147.42730703038293
+  - -81.56015030594526
+  - 86.52485332310633
+  - -3.755555594162781
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 8ed8e25e-8213-44bf-9b44-c7ad125a35a8
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.49459671335416
+  - 19.9347618941569
+  - 137.6559481149879
+  - -88.18724293037948
+  - 85.85230650845041
+  - -0.9701453028388689
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c0e919dd-ff41-423d-8f04-9055c85f12da
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.49384464066796
+  - 19.935268928707
+  - 121.24309903137606
+  - -96.26368734179971
+  - 84.64510663244019
+  - 8.442891859680984
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c61fcdf3-8597-4aa0-ac09-2696cb7cee34
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.49200163084026
+  - 19.93399218553627
+  - 114.1115504040152
+  - -87.48474100602212
+  - 85.95859619286193
+  - -2.895430033441629
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 23ca1076-14cf-435d-976d-30ccde5dfc45
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.48568807831806
+  - 19.934678011754
+  - 99.21797675043497
+  - -83.97529459365269
+  - 86.8016000180679
+  - 10.218179592396492
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: cff8445c-1ca6-46ac-a778-855b07af8a9b
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.48404057471606
+  - 19.93476511982648
+  - 77.87990732738346
+  - -89.244841943956
+  - 88.57325691891657
+  - 1.029561986884882
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: b2e92f9a-244b-4212-94fb-8e4e996cb2ad
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.48198709311684
+  - 19.93497021984008
+  - 69.02834811430381
+  - -91.77275769631831
+  - 87.42832175031202
+  - -3.0229880932215734
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 56eb0637-4b24-464f-8fde-d50eaec02f13
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.48000067130776
+  - 19.93464984309563
+  - 51.69817356885743
+  - -87.44823516792596
+  - 88.18264121269087
+  - -5.732748200391869
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 959c907d-4d35-448f-bf75-85c26526e136
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.47897440531752
+  - 19.934850928277086
+  - 48.87239298246347
+  - -97.64527082302935
+  - 84.28326882309479
+  - -7.97906410450362
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 79f600d7-23c0-4559-9404-b7b1f149c80b
+  airport: ZJHK
+  runway: 09
+  pose:
+  - 110.47882048401996
+  - 19.93494241538233
+  - 47.98546067222775
+  - -89.06389092860795
+  - 87.83595833067173
+  - 4.691230847516932
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

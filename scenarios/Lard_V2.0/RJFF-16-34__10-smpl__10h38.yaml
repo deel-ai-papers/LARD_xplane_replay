@@ -1,0 +1,1078 @@
+airports_runways:
+  RJFF:
+  - '16'
+  - '34'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: e8da400c-a50c-41fc-bdcb-b513f8b72513
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.48616507384065
+  - 33.532180085531586
+  - 278.59627404279365
+  - -29.473352089164024
+  - 82.65787850223568
+  - -0.5432401720502307
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c88a8d5e-4efd-4813-be39-d689b4276cf1
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.4831806388964
+  - 33.53314073600323
+  - 308.25749247629625
+  - -37.14798054186046
+  - 82.35773648493453
+  - 5.902099340628774
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: fa075e1f-0d91-41bc-bf51-b8390f4c23b3
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.48774693243584
+  - 33.53726467565717
+  - 306.18598160876815
+  - -27.174049172536403
+  - 85.42612436204273
+  - 6.391677519846511
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 554db280-b297-4df8-a4ca-fdaa7ae7f49c
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.48530430606297
+  - 33.53643844527359
+  - 373.14963932716097
+  - -39.72441558933377
+  - 83.06856132966405
+  - -6.811323938584225
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: cb2f2254-ec6d-402b-99bd-a471b9f69449
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.48204501729177
+  - 33.53856305241633
+  - 290.3947544346663
+  - -34.30519645925365
+  - 87.80304202717049
+  - -4.695380059803382
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e00f01ae-be7e-4d25-93ac-ff6b1cb6fc2c
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.48499461103455
+  - 33.5401582196371
+  - 279.6366204882277
+  - -25.138500748372735
+  - 89.35689402692067
+  - 8.23339331743012
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 5c94b405-c01a-4e71-a227-8c08538366fb
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.48201466743268
+  - 33.539022631361725
+  - 240.92070456959692
+  - -24.768718533224337
+  - 86.85422761877027
+  - 3.324635182655862
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 2209d8e1-4c6e-4178-8817-fa802ad2e7c8
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.48199599102915
+  - 33.53911643756894
+  - 286.8577162095804
+  - -47.01776718231591
+  - 87.17570704147609
+  - 10.542321335498455
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 37b89158-19d7-4c6d-9a09-e120a848c03b
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.4845825590256
+  - 33.54047920451664
+  - 262.5091906481813
+  - -32.42900635291567
+  - 86.65416305346025
+  - -4.603052240432709
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 622bee96-7d14-4770-8da6-18099aa85603
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.4808533761031
+  - 33.538712481855335
+  - 287.0155086462158
+  - -23.808336673803396
+  - 85.66201780461327
+  - 0.3012918407558284
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: d861ccd5-3dda-406f-9b18-644a70b91f92
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.4816719391801
+  - 33.54243422533642
+  - 226.20669177683357
+  - -33.423149566417266
+  - 87.78039635603923
+  - 1.0384405646734272
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: cf41dd27-4489-464e-b0ef-cefa1ebed858
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.47737714962236
+  - 33.540773928932126
+  - 197.0350383895973
+  - -39.16691180865146
+  - 80.84566295523285
+  - 4.945792736580858
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 82cb557d-9ff4-46ea-b5f8-2e57abc0261e
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.4782164087046
+  - 33.54633405183743
+  - 222.53839526904255
+  - -25.53052001201915
+  - 82.61107837099712
+  - 5.474425771673452
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: daca2aa2-334b-46dc-960f-4075cd7709f1
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.47780649310047
+  - 33.54845172342979
+  - 240.71633986547508
+  - -25.401554906770635
+  - 88.04031155103984
+  - 1.298553791913461
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 810dd4fb-a95b-49ee-b665-6120d25d33ec
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.47520445712698
+  - 33.549323292571465
+  - 203.7060644944791
+  - -29.783699545706305
+  - 84.87271088875481
+  - 2.5248313394396495
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c9198109-16a2-4cd5-840b-484fadc5a4eb
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.47436083475299
+  - 33.54932162724085
+  - 159.33155013647357
+  - -28.84775798282694
+  - 85.1706885022965
+  - -0.3757313606898654
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 43e7e37d-74ec-49f8-a82b-2e03bdbcb469
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.47445279534998
+  - 33.550454913842316
+  - 151.8306138459591
+  - -34.60418224203625
+  - 85.67805343725075
+  - 3.277530598590454
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7cfabe6c-0c20-4686-af2e-d82c0a1535ef
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.47451817861133
+  - 33.552081688475226
+  - 168.6298770429146
+  - -28.367668518819368
+  - 84.2370303072122
+  - 5.361945579742447
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 922b17a5-cffe-4b59-a775-3c19c8bd0f1f
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.47401055510164
+  - 33.5523370406379
+  - 167.17078554015654
+  - -30.5034333034566
+  - 86.11086181257608
+  - -7.0433834005087075
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 638d07e4-5812-4de7-8763-2ce84c9f318a
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.47194554501905
+  - 33.55502362906442
+  - 152.49654286188442
+  - -39.55552871737629
+  - 85.22615981348706
+  - 2.6891122737615634
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 69686be7-a554-495c-8ec7-1130ad9dc401
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.47081085813605
+  - 33.55692638873182
+  - 144.17055012634546
+  - -33.11874019194804
+  - 86.908655032436
+  - -0.18304444117259847
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 02819459-fcab-4c79-b3d4-d3452599f0bd
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.46954430131404
+  - 33.55780010301295
+  - 138.7955363474195
+  - -28.089430284852824
+  - 87.77284819948505
+  - 11.42330404860298
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ad85d71a-b28c-4d36-ba2b-634187ba5a17
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.46899373436224
+  - 33.55858859722562
+  - 106.56998571864743
+  - -25.567280793858636
+  - 84.9522657298019
+  - 0.9071075313858136
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6f7e2003-8f75-4e0a-9479-1af3429fb804
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.4699290926483
+  - 33.55922279520314
+  - 143.90683589769654
+  - -34.74169634271333
+  - 86.2703166646587
+  - -11.350530005129656
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a04633c9-9e03-48a4-ad3c-1e90a770a6ba
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.46910426336748
+  - 33.55960440710574
+  - 148.56168312230997
+  - -28.67207344732411
+  - 89.16657725706588
+  - -9.06196983935105
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ca3f7c0d-eb4d-4740-88ed-813ccd43633c
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.46805865166013
+  - 33.561329683487735
+  - 116.34249792333699
+  - -28.943393966012604
+  - 88.63699320563974
+  - 10.068640396346812
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 7f4d73b9-1b2d-4eb0-8bd5-eb7dd951faab
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.46727181624365
+  - 33.56114434322188
+  - 133.74438087942457
+  - -30.120256449494
+  - 88.56881442643541
+  - -2.471816610010514
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: cd6e13b4-2fe2-4a39-a7d1-f18a84f4ac85
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.4642979501926
+  - 33.56506104669083
+  - 91.43976144501258
+  - -28.590511496894045
+  - 83.81301513561226
+  - 4.832745851291956
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 0e4b2d01-7f4b-447a-a4fc-40717969693a
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.46399934423457
+  - 33.56509716984021
+  - 84.9813622413229
+  - -23.5402973321289
+  - 85.57973746348421
+  - 3.948289971554372
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 155ef1bc-7b09-4261-a270-5b415fd3408d
+  airport: RJFF
+  runway: '16'
+  pose:
+  - 130.4602779586528
+  - 33.57202284697673
+  - 44.584803589338236
+  - -30.772489141429272
+  - 85.8246042467197
+  - 1.2660462705333575
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f27b9385-972b-40ae-b1b9-e79b546ea5c3
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.41072064165724
+  - 33.64296949844544
+  - 278.9802318616349
+  - 158.27220037180783
+  - 84.25867235690495
+  - 1.8599264123435213
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 34ed97e9-9048-4290-b523-8cb95b06418c
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.4112644692082
+  - 33.641632051254206
+  - 348.4465429204273
+  - 145.85523800258008
+  - 85.91620195542076
+  - 6.1560422108512025
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 2b6afa13-1e1d-422f-b54d-032ab192fc87
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.41422135616332
+  - 33.640167842441706
+  - 349.8780541348052
+  - 153.0480801940305
+  - 85.77829093489987
+  - -0.4343194718027885
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 3436328f-3e5d-48f1-8db9-649d3a4732ba
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.41329389389915
+  - 33.63833800036075
+  - 283.76664322140533
+  - 142.00686843728784
+  - 83.00414844297886
+  - 2.845067479001645
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: f6a06f1b-cc3b-4feb-9244-3b4ef940ac26
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.42003737030547
+  - 33.64032659971617
+  - 269.0179642644957
+  - 146.76432311897238
+  - 88.24461087702184
+  - -3.568875587986155
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 31281ca9-d45b-46eb-8df1-ab8dc808987a
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.41642391834145
+  - 33.63665136528544
+  - 272.71750083469806
+  - 150.20935183720678
+  - 89.42587785482678
+  - -2.7122424314251865
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 014c84b7-7190-434d-8a19-568c4eb395fb
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.41658299227637
+  - 33.63470032536291
+  - 269.2092169988253
+  - 144.93144837542
+  - 83.92340860201827
+  - 4.562393740495691
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 316be993-7570-460d-a3b0-6f2206859ce8
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.41522447665207
+  - 33.633119596197254
+  - 270.6245410374586
+  - 151.62642170296073
+  - 84.62679535726429
+  - -3.296727779494959
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d40b8017-43ee-4af3-a69a-b2f7f85daa99
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.41900476046126
+  - 33.63416225575712
+  - 251.2200026997733
+  - 148.48505035865762
+  - 87.22292321793662
+  - 3.96971288684065
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 08efddb0-ee2d-4a77-a846-cb251242aaab
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.4194975921052
+  - 33.63272285389571
+  - 264.603653063411
+  - 149.44218767300367
+  - 86.84728757670696
+  - -7.512627791413996
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 91f6423c-b522-4f5f-8436-eea887bc087a
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.41849088024946
+  - 33.63145398263043
+  - 209.21436915839644
+  - 137.8612324243087
+  - 83.88735406459793
+  - 1.6446450859575998
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 4b089541-e7aa-4034-9369-ed17de67acdb
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.42146258530923
+  - 33.627469552624234
+  - 197.5977633240974
+  - 153.93812150523866
+  - 86.9037152904078
+  - 7.049531228330315
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 5acf7e5e-85f0-4d9b-9cb5-7012fcfc4f67
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.42283738951
+  - 33.62682121597637
+  - 194.61228111422625
+  - 152.2153744394264
+  - 87.92864147825458
+  - 5.037446661154541
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: cf5f732e-2450-49ec-ab89-4c7af4f904d1
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.42166071317513
+  - 33.62601799106683
+  - 170.64578753069114
+  - 145.73331928219707
+  - 84.66328629782394
+  - 1.52533385812779
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 9e00d05f-79e4-45d5-9b78-62c280af3497
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.42330935771213
+  - 33.625932366389684
+  - 215.95124871621672
+  - 146.88508601321442
+  - 86.11419526714923
+  - -2.033901644094005
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: f545bf29-08ba-4eac-af5f-e9b729700646
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.42274743163637
+  - 33.62518654701167
+  - 209.89828097594432
+  - 150.75921084766352
+  - 89.73954874806967
+  - -3.920066572007859
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: f47eee80-06ff-4189-bf09-a132b260161d
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.4292118761923
+  - 33.61851858934771
+  - 164.4292370062478
+  - 152.0033649927578
+  - 83.79474045056122
+  - -8.242067012029139
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 0044df30-1876-4b73-a068-be355372d7ee
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.42882470145386
+  - 33.61703678795213
+  - 164.9467160770717
+  - 147.18934226004404
+  - 84.74338424582754
+  - -3.095629845518334
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 450627b6-6e87-48da-b83f-b08c7c5ebf22
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.42984012857772
+  - 33.61675845723272
+  - 183.72536799060154
+  - 142.76535550725907
+  - 85.98715221342019
+  - -2.3438309681474685
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a2cc9bbb-b371-486e-ab40-bc2d49d44996
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.43066844271672
+  - 33.61690030816953
+  - 139.45135921854234
+  - 157.0001830294841
+  - 84.994949204568
+  - -6.852338312252479
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 6aacef2f-4e91-460d-9d82-d28f16d891e1
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.4327383637167
+  - 33.6120963820296
+  - 99.55974448704256
+  - 151.05242328564458
+  - 85.07208358559018
+  - -4.3018945418892365
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: fe64c97c-6740-4480-897f-92d2cfc19fa4
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.43691882478916
+  - 33.60687161619576
+  - 99.97323863256445
+  - 155.0553692953139
+  - 85.95112380644849
+  - -2.0196276701644593
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c7ffd271-8d4f-41a1-9b82-603ae3652f47
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.43841670919892
+  - 33.60365814628621
+  - 62.43655622014079
+  - 153.49887265321092
+  - 87.95370487869805
+  - -1.74064174108454
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 93b66a85-2727-495d-9bbd-aa7671fd509d
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.4386675911648
+  - 33.60343818411807
+  - 72.15647006886128
+  - 151.74725893977777
+  - 85.58145588980994
+  - 1.1269498406707603
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 532a69a2-7009-48be-b66c-6b77facaa745
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.43879536559558
+  - 33.602669653070436
+  - 50.780787887480464
+  - 136.91144251957877
+  - 85.24248851210862
+  - -3.604989057816337
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: c0a13c37-d727-46a7-a55b-2ee4fab5de18
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.439939830068
+  - 33.60141039432666
+  - 47.09697798874119
+  - 143.99679664828906
+  - 87.20871696479483
+  - -2.042023403668828
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e551795c-83bd-4fc3-bfcb-d80b1fd24596
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.44017722091453
+  - 33.6011021062052
+  - 37.43975001393919
+  - 152.06242381057552
+  - 88.94001927949869
+  - -3.4896684862621474
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f89ea4b8-8396-4eec-af7a-5085a0b60bde
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.44095662443226
+  - 33.600314271854685
+  - 41.522183382150594
+  - 146.72647716788302
+  - 85.54030023790122
+  - 3.1419873053462837
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 8be42cc9-df8f-43b2-a3ad-5500bf6f5deb
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.4408857834391
+  - 33.60020743032884
+  - 32.24022399816981
+  - 152.15157833510224
+  - 86.55553848593958
+  - -9.163355748662239
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 3b708a7e-d49c-4b48-ad09-5514ac8cacec
+  airport: RJFF
+  runway: '34'
+  pose:
+  - 130.44168542969075
+  - 33.599238526839706
+  - 33.804123849488306
+  - 155.25806630285018
+  - 88.36520895508826
+  - 1.1416600980342748
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

@@ -1,0 +1,1078 @@
+airports_runways:
+  SBSP:
+  - 17R
+  - 35L
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 980d4b83-0e2c-4749-9b19-d6f3949c1cc1
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.62030717810842
+  - -23.67727859053686
+  - 1073.126097050936
+  - -33.894644426610725
+  - 85.6861556566994
+  - 0.07292132058458715
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 9474008b-eb7b-4dfc-9c1d-cfc65ea74b53
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.61997022729884
+  - -23.67577692088014
+  - 1060.7857811485962
+  - -34.823582983753695
+  - 85.64494297175175
+  - -1.6158156492948739
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 3fb07cd3-c05a-493b-b80b-9417811444df
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.62198499450198
+  - -23.674410496727603
+  - 1135.9207615932794
+  - -28.161484419624394
+  - 87.55695893664773
+  - 5.282056888626797
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b6c04428-871e-484c-a15d-09743928442b
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.623570985155034
+  - -23.674383680090926
+  - 985.7794146536382
+  - -35.55033905490606
+  - 89.70170201158294
+  - 0.5168807280139771
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ecf59765-1343-44c7-a7d4-86eea89f6918
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.625104515175046
+  - -23.674348386778068
+  - 1126.2341673204446
+  - -23.866287478795513
+  - 84.11937511660534
+  - -7.859770081562773
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: acc8c700-61b7-475e-9e72-b7fbe929180b
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.62325593991143
+  - -23.67252780286123
+  - 1088.8472205136522
+  - -33.407604568722185
+  - 87.7523527322395
+  - 2.8530594311783237
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 563f1c5a-0060-4b7b-9a66-2df37e6ed988
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.62448018667628
+  - -23.673180935552583
+  - 1067.708587603936
+  - -34.956224660148735
+  - 84.85443757706048
+  - 8.862838732291793
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: fbd2073e-24eb-4464-bd56-b35a329b4f34
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.62165219222614
+  - -23.670955536545208
+  - 1079.1249005952013
+  - -28.476709075541375
+  - 83.75109324845415
+  - 7.490620908239293
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f36863cd-15bd-43be-bc66-bae94dd21b7c
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.62409872663179
+  - -23.67220782088862
+  - 1090.6178513152638
+  - -29.74497992938333
+  - 86.38661638470761
+  - -6.494903463945155
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7fda05a5-0c01-408c-86c2-107e6cb99419
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.62578974124583
+  - -23.668135306782823
+  - 1000.9850074977221
+  - -37.268149731064646
+  - 92.41456580551483
+  - 7.292460368631948
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 42213090-35e7-4dcd-a58f-3b89ff93309c
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.629967979782656
+  - -23.666031933676187
+  - 1070.871478223978
+  - -28.0796653553419
+  - 83.68903194591451
+  - -11.929849460653566
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ea280407-ba4a-464b-a50e-d6b75568e2b9
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.63417822476573
+  - -23.65934885237289
+  - 966.9208361726893
+  - -32.269120947645916
+  - 90.13705037118181
+  - -5.8132396231534
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6124f2b2-4560-40bd-8f01-1d4b48c90cff
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.63497734468341
+  - -23.657368606061723
+  - 988.2131819994079
+  - -33.446915291482185
+  - 85.83591007745223
+  - -0.8622145100674208
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 149e1f72-ddd0-4963-8f18-93d494b15bf2
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.63689188040275
+  - -23.657942283737537
+  - 964.114899255861
+  - -25.647486945253792
+  - 85.15347374808091
+  - -2.9254191751809318
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 0c84e9c7-c78c-4ec9-942d-4f94a0ac607e
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.63631161829428
+  - -23.657237622944397
+  - 945.966555042357
+  - -33.86963518697942
+  - 87.02096223570265
+  - 1.1829429252990677
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 55f09376-0d08-486d-b63f-a0cd1f473dde
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.63598028427447
+  - -23.65659324283408
+  - 974.4638871394019
+  - -38.411352384430025
+  - 85.1194414341882
+  - -1.897154733207689
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 6fcafe8d-fc86-4572-8da6-25e80da0dd50
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.636238425451126
+  - -23.654656471590986
+  - 1009.6122807705353
+  - -36.66572947777406
+  - 82.49694921974107
+  - -4.247081053515771
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 8d22e73f-cb14-4af2-b3a3-59a48a11af6d
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.63844348905075
+  - -23.65460726144602
+  - 949.6250414305928
+  - -40.589185419440305
+  - 84.85576663031284
+  - -1.440883966250253
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 7f648975-efe7-4e51-8ee9-cbf0a15fd147
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.637233267778115
+  - -23.65353162672635
+  - 958.8544597712923
+  - -28.529278168659346
+  - 83.09601586025892
+  - 2.1061955072723917
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: df00c65f-be04-4722-b6dc-128e853cae96
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.63763357352291
+  - -23.653239915811884
+  - 950.8160807460567
+  - -29.590638040777307
+  - 87.42159753059053
+  - -2.8344716790099023
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b6bd5380-7e6b-4787-bfc8-2d993f275c6d
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.64027271765022
+  - -23.650971707535586
+  - 920.4266630124981
+  - -34.7802617140389
+  - 87.10068854675949
+  - 0.5856035026443888
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c0ddb1d6-eeb1-424a-ba87-cfb9be46e4c9
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.644016955681636
+  - -23.645056259788962
+  - 868.6181692185423
+  - -31.943452174031957
+  - 85.05708507149345
+  - -0.30105536995520815
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 58cf4dbb-5fe3-4502-8292-445f70dc5b7e
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.644152109783526
+  - -23.64448383797117
+  - 876.395454519564
+  - -29.343830978723197
+  - 86.85521429865949
+  - -5.367903636449729
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 4be4f93f-0d54-4efc-ad62-ca250e846eb7
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.64648990520104
+  - -23.64086171216013
+  - 849.5233608212111
+  - -27.53561429945763
+  - 89.06985680263303
+  - -11.81874959104471
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5027e897-0af3-491d-8937-ad45bce7df27
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.64692174293479
+  - -23.640296038323136
+  - 862.749914969196
+  - -31.407760233528418
+  - 84.07754129362674
+  - -4.696406241224072
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 9b189929-d2cb-413f-905b-c95f5402affd
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.64750157297604
+  - -23.6396117058258
+  - 851.3085414490425
+  - -32.66231738738001
+  - 84.6305258772931
+  - -6.852725258983999
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 9565c325-879d-4e46-b17a-fb9b2f461833
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.64750687225613
+  - -23.63927269635651
+  - 852.8703376206864
+  - -30.035157136826257
+  - 84.77822958083065
+  - -1.7726827901875866
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 10aa4728-bffd-46c0-9f3e-56330a0d4478
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.64785275162089
+  - -23.639068053128277
+  - 850.6311928515327
+  - -35.519725555688126
+  - 89.37165756326047
+  - -7.6014338539081505
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: f4a01b18-1837-4a5b-bbe8-4b11f450050e
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.64776644438465
+  - -23.638798369198028
+  - 850.8945416873655
+  - -31.067779811523366
+  - 87.58603100230327
+  - -0.7418521904862336
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 464cc870-f8f5-49c0-a086-20fe06a2212c
+  airport: SBSP
+  runway: 17R
+  pose:
+  - -46.64883495823457
+  - -23.63765609692144
+  - 840.499076512728
+  - -19.295246843217505
+  - 86.85264982631561
+  - -1.3967254976260646
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 4b950493-3859-40d6-980d-1e0cfd69e5a9
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.691722511411236
+  - -23.57827293618649
+  - 1098.140571925038
+  - 150.00580452216752
+  - 85.4521425525734
+  - -4.5336944151077105
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 9955c255-d915-431d-b006-a30b9d437d18
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.69078521698749
+  - -23.578712671619
+  - 1090.9446014501004
+  - 153.5215549417104
+  - 87.23155123944515
+  - -3.5985895978712756
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 0b15fee3-1fe7-4866-b266-b72aab43c16e
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.690910343832286
+  - -23.579202402750166
+  - 1102.6577475953059
+  - 149.78938479544695
+  - 86.64227957529286
+  - -1.8629326184487616
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 23ec0aac-58be-4fc2-822f-eefadc0bfd3f
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.6876189169291
+  - -23.579422422733067
+  - 1089.068836411031
+  - 142.92981795010914
+  - 87.60131939539387
+  - -8.96540478490661
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: fed29967-d4c2-460b-bc65-dc5a43992a18
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.6870740865119
+  - -23.579242986553606
+  - 1085.0341483848038
+  - 152.03729672126624
+  - 85.50650731528974
+  - -1.8339179149827638
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a3d124b1-e682-4b95-bcb8-4cd9fbc6a21d
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.686654515003525
+  - -23.582933726831616
+  - 1080.5304671350953
+  - 152.08433732695434
+  - 85.13827577669382
+  - -2.7716730263634553
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e84ab29f-5110-4831-8b44-c020fd1b960a
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.68543335910059
+  - -23.587004103680105
+  - 1047.3397456055159
+  - 149.36718987530372
+  - 85.0475534466624
+  - -5.161407175279418
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e498dd5c-aa28-4bb0-9ac5-40f621562256
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.68538807917482
+  - -23.58707342843436
+  - 1064.4048282239517
+  - 137.25832760860067
+  - 81.55776346686928
+  - -1.3768675639227657
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 3adac175-f864-4343-91f0-e1d2e31fefc3
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.68360074891734
+  - -23.58613457034971
+  - 1114.2276202476771
+  - 150.60505119808042
+  - 85.97567387495744
+  - 4.413578495017868
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6c24e9e5-2188-4cb3-bcba-576236644b09
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.68487717856497
+  - -23.58695219666606
+  - 1014.4081060959041
+  - 142.11033549602337
+  - 85.33361012228328
+  - -0.4033698084384233
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a3eaa73e-2b95-4f9c-94a4-e8036e490500
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.684777463126316
+  - -23.58828841290064
+  - 1032.3059877682142
+  - 151.59016823977197
+  - 83.39598223820305
+  - -8.297401065925504
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 9cafb63c-4558-403e-b3f7-3599d1d9aae8
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.68182286346614
+  - -23.588776367273702
+  - 982.7039205535722
+  - 143.52941674073162
+  - 83.82640578737364
+  - -6.363953902316876
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 0fa414a4-f130-4ff5-9de8-5d84ac3ea303
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.678890929317575
+  - -23.592795647639786
+  - 955.7636510237544
+  - 148.36453099858073
+  - 86.84384820844289
+  - -0.19171974033344052
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 39608175-2055-4f55-905a-d6beff5e9681
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.67920381679464
+  - -23.594119387773016
+  - 1015.1238576423924
+  - 146.35957566851212
+  - 86.45749693989582
+  - 3.0759944946376665
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 3a9daedf-60fd-43fb-8c80-10f81d670d8c
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.677764640632084
+  - -23.593776240696464
+  - 1022.4426704574214
+  - 144.99371224831648
+  - 81.86614305512013
+  - 3.1861503595356675
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6b6b85e9-f711-4fd2-b7d4-393247ba7061
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.67747729745537
+  - -23.595510158149263
+  - 971.5918352325998
+  - 140.63867363035158
+  - 83.84641881306112
+  - 5.646925056092364
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e06bd8d2-48c0-4b63-beef-7f13d719631e
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.6755341200047
+  - -23.59915622744164
+  - 968.4952735199772
+  - 133.66180279354919
+  - 83.9105733064206
+  - 0.09425303449823874
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 17b0e30e-a49a-491f-90cf-c2fdd4351c92
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.676463365412026
+  - -23.6005983669314
+  - 991.8932460291062
+  - 155.83381116700187
+  - 84.77944747750742
+  - -0.4457385064143501
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 63449c6b-2589-4926-8eeb-852a580818f3
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.67406076135966
+  - -23.601263229215697
+  - 953.7982247977761
+  - 146.22610168315157
+  - 85.29728009681418
+  - -13.535081346334852
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 0b6369f2-f524-4cdb-8b8f-ecfa23193dff
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.67371756286015
+  - -23.601715357853998
+  - 924.1299344060914
+  - 142.9069085176539
+  - 86.01807018062549
+  - -4.44671471399287
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 41043222-c021-470e-8c58-7151dd068a16
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.67136576092755
+  - -23.60526922838511
+  - 937.7764924329523
+  - 155.50310500965458
+  - 86.1537635423885
+  - 3.658110748703197
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: f4fe79c1-a83c-4f38-8275-29a61382bbfb
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.67047808013734
+  - -23.60707484387202
+  - 891.8370809684196
+  - 146.86080357757285
+  - 87.69174564126122
+  - -3.957807809495968
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c75650fe-dd97-4d86-b650-5a19388bef8b
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.66901103619906
+  - -23.608528511632848
+  - 912.5364519582773
+  - 146.29854462164374
+  - 83.47624517964587
+  - 4.118947967307617
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 8557a3dd-0097-4c22-ae75-5aeb512bd3aa
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.66585196136429
+  - -23.613587889358794
+  - 862.8803982162973
+  - 151.41076132600736
+  - 85.26593663433918
+  - -10.721805074829778
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: d6f95239-d486-4efd-8c63-9de201942b63
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.665278357317106
+  - -23.613698552029334
+  - 868.3779867613584
+  - 140.1109154254595
+  - 84.23105033830359
+  - -5.359846719034584
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: bb85ebb9-1355-47d1-8d29-af5d7a886f46
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.66390012030707
+  - -23.615360415682808
+  - 842.2993842001882
+  - 150.78583543162648
+  - 87.90695798331639
+  - 3.160263631806266
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 28d014a1-8319-48bd-bbaa-5266a37f8372
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.66326225373392
+  - -23.61652842765202
+  - 830.5754517723219
+  - 147.1380308905706
+  - 82.93375248390903
+  - 1.967395162501123
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 6f9fbdef-dded-4141-bf0e-490050e43a96
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.662901052149074
+  - -23.617570721589043
+  - 827.5975202572165
+  - 151.044716239138
+  - 85.01518708805948
+  - 0.27974596968581367
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 72dfd51a-39ed-4275-86b7-64b957ef8ad4
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.66248693293713
+  - -23.617832187612194
+  - 826.9921949696317
+  - 148.6576886718816
+  - 90.58561054614343
+  - 6.081031441133311
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 50a734b1-8608-4277-a701-09844db5ee44
+  airport: SBSP
+  runway: 35L
+  pose:
+  - -46.662818637488634
+  - -23.61806209140266
+  - 830.0302654561768
+  - 152.1291082541046
+  - 81.69777362389208
+  - -5.241351117551489
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

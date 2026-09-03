@@ -1,0 +1,1078 @@
+airports_runways:
+  SCEL:
+  - 17R
+  - 35L
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 1b408551-e768-48d2-b113-1a52c94ba070
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.7990903609793
+  - -33.45807607570671
+  - 809.5854624607773
+  - -1.3635226537310743
+  - 86.12964726867217
+  - -5.59003177074406
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 7535a0a4-9dbc-4846-b2f1-3510f495b3df
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.7946091949018
+  - -33.454966613160934
+  - 739.3847803266809
+  - -4.382304531740555
+  - 84.73681215572638
+  - 1.4643066148185155
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 69b8660b-92dd-48f0-b821-2338141e175d
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.8003688918151
+  - -33.45423279787711
+  - 771.0982626494119
+  - -5.421201498061756
+  - 89.550874523549
+  - 4.529505134197257
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 35a80158-dbc1-4326-9012-9a1c95f9fe4d
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.80052083994588
+  - -33.4529252477791
+  - 760.813799129366
+  - 0.5077641984488994
+  - 84.14152478619476
+  - 2.1394694224719055
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 13e99143-3aa5-439f-8696-527c3af5fd57
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.79805578782077
+  - -33.45266787290688
+  - 754.3753717142935
+  - -2.3520216748631815
+  - 85.0953165516369
+  - 0.1508723224901468
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5ae21917-c2f5-4ef5-bea8-791be3624123
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.80009708270298
+  - -33.452025654995346
+  - 672.7460402747447
+  - -8.739482884254295
+  - 86.62974428837518
+  - -1.793591125748012
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 2cb42af6-4954-489a-b94c-993de8ad1a7c
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.80270629536076
+  - -33.450063395576144
+  - 697.8497397713259
+  - 0.5759252850631436
+  - 84.84848484620306
+  - -3.0755656331277716
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: df02de03-aa02-4fcc-abc1-11816daf8a14
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.8015466266013
+  - -33.449563656491236
+  - 744.5650423863124
+  - -5.386716478245457
+  - 86.98047770381207
+  - -2.5525000806210274
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e8d0f453-8ada-4f86-a2c6-185afc237c01
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.79719671426489
+  - -33.44774432624368
+  - 772.5311154120943
+  - 0.15611167326704445
+  - 87.13944102992403
+  - -6.333534333019426
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 3b5e6eae-c128-4b48-87df-16be9b09354f
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.80231508744855
+  - -33.446994383173646
+  - 738.120587508477
+  - -9.54643395682137
+  - 84.25034436639396
+  - 10.15346624489206
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b95c35aa-ea43-4bd7-8442-76481420dc61
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.79837769295149
+  - -33.444006010282344
+  - 719.0209821783185
+  - 2.679421713482426
+  - 88.66601376468986
+  - -4.698023535850038
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: d345a6ad-b354-4999-a763-72e894255b52
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.79977109483536
+  - -33.443934518687556
+  - 679.422874551107
+  - -4.534447464530814
+  - 86.63180441448621
+  - -3.102807850937819
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5e52b302-7b03-41f8-b9d8-29a9df904e89
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.79791297595776
+  - -33.44363271732489
+  - 705.1149218525276
+  - -3.7725864401414753
+  - 84.94717473438843
+  - -7.55789699748779
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5e7a6c74-216a-43cb-8642-d0780cde9b48
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.79944547311898
+  - -33.443720009214054
+  - 758.7281605639458
+  - -3.6084635703440426
+  - 83.20525771030299
+  - 6.652567362939755
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 0e9a74cd-65a3-4fbf-97b6-beed0ca5d251
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.8023020152611
+  - -33.4389389544805
+  - 660.2911691909204
+  - -4.32149178496614
+  - 88.39136234565551
+  - 0.17805765571766485
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b2dee741-e9a0-4bf6-9603-7931fd66808d
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.8014432075751
+  - -33.433094224367665
+  - 652.1376471842818
+  - 2.650494181634978
+  - 86.39050894677142
+  - 1.8929972954473975
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 40f5bbfa-a737-4298-8b96-64baad8ec629
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.80014037218045
+  - -33.432117689166105
+  - 657.1476607879048
+  - -1.1384601694951781
+  - 90.10591926435474
+  - -1.8561267523429017
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3a9d25fa-3f0e-4832-9424-f0b06cd1d8a4
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.80014778646752
+  - -33.43140562824879
+  - 627.3768244674575
+  - -3.8163089137025894
+  - 86.0773576197695
+  - -2.2355346609717524
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5edf617f-6bbb-49b0-bf7a-1ce01e874d05
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.80131802744009
+  - -33.430227552347844
+  - 655.2125495565143
+  - -8.44617331556501
+  - 85.7759935034211
+  - 3.889781784217012
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 128a6b54-13e6-4cf5-ba1f-ee55f1e7c359
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.8010747018294
+  - -33.428692707628215
+  - 615.1978707244094
+  - -9.546654925624518
+  - 87.95607193493657
+  - 7.760067385706981
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 86a7b514-8f80-4830-bd46-c027bdd44312
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.80070304390895
+  - -33.420687645081706
+  - 580.4162242430145
+  - -0.31232546363001834
+  - 88.1392071204883
+  - 1.7297294926660522
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 045134dd-9b2f-4bfe-bed8-817c3198ec07
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.80132665002056
+  - -33.418902764151284
+  - 536.7094248681108
+  - -8.810564861172475
+  - 82.96707092875207
+  - 3.689605625380416
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 62c62644-732b-433a-9c65-ea621e9dac26
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.80131211043445
+  - -33.41606318809925
+  - 531.2615335426792
+  - -0.8665200659173404
+  - 86.48218520805081
+  - 4.021558905000606
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 3b86e135-7f2b-47aa-aabb-016ff29fef7e
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.80135726550022
+  - -33.4156210263465
+  - 521.6239757274385
+  - -4.236388728389702
+  - 86.39131947337047
+  - 2.8380996903191855
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 745e1fff-d46f-47b6-9539-6f415e9426cb
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.80088349873621
+  - -33.41515869754011
+  - 539.4361425586529
+  - -12.479359676238042
+  - 89.17593044212643
+  - -1.9649151600450088
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 63687799-ff6a-41d0-823e-5c980bfabd07
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.80187833521373
+  - -33.41517355804417
+  - 545.6271066025296
+  - 5.809962149557409
+  - 85.68202366050502
+  - -3.6574722971684688
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c560fe19-500a-4a5e-b615-eb977dd505b6
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.80202030001603
+  - -33.41320197362001
+  - 531.6495998738995
+  - -7.087931611406658
+  - 89.08320196747677
+  - 9.330660392091938
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 2fdd7ab7-7012-4613-b06f-73ff98406d63
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.80169158021876
+  - -33.41048235394306
+  - 514.0747712261433
+  - -5.591143318942857
+  - 86.3384516037348
+  - 3.9916828305106637
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9d359672-af78-4e07-9255-aa37c8c4731b
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.80177419668863
+  - -33.41005923991813
+  - 513.5597867411931
+  - 1.4021816514264573
+  - 83.02130852800937
+  - 3.071487974958006
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 28227bf5-f4ae-4065-89fd-461d4fdc9b62
+  airport: SCEL
+  runway: 17R
+  pose:
+  - -70.80168240082877
+  - -33.408701262391176
+  - 514.1993159620052
+  - -4.523359694390924
+  - 83.79322004095151
+  - 5.91873195353391
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 5ebc8118-63f6-4ffe-9558-c95f713f7fa8
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80601701700546
+  - -33.32086242718355
+  - 853.8336254441931
+  - 177.7549294799097
+  - 86.60746384291303
+  - 5.405239891064994
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e5fa2f52-fa3e-4bd1-8ce0-1140ed060bf7
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80510771375121
+  - -33.32176094876637
+  - 777.546546523329
+  - 180.47068123998147
+  - 90.74203519210603
+  - 0.49856940275349654
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: fbcd5623-f549-4942-ac86-ccaaa139e3c0
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80835084837398
+  - -33.32624281225738
+  - 764.2637346814919
+  - 175.3773211398683
+  - 85.1996989196414
+  - 3.7616411674053256
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: fd819ddd-df6d-48e7-b447-26e68e62e4b0
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.8035171723742
+  - -33.32685589148663
+  - 741.9451425783044
+  - 171.1403609052652
+  - 85.29689161425995
+  - -7.735490994617457
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 6e42b72c-484d-4ea7-9d7d-037e38e6122d
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.8042116377473
+  - -33.328020562916834
+  - 814.8849756301337
+  - 174.78311686269808
+  - 83.87670472284452
+  - 5.925552538346461
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 68c4beaa-b80e-4125-bc3c-74b8d7da7430
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80668371674098
+  - -33.328201535299094
+  - 770.0685730988605
+  - 174.04492152464135
+  - 86.96163068927943
+  - 5.487927080846953
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: fd48c305-10c7-4f84-bc3d-232d37bb48eb
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80419306874875
+  - -33.32819660462703
+  - 694.8009219429914
+  - 172.51146956480298
+  - 86.23198317372686
+  - -0.7732459590483216
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ab0cb726-b0f8-4a59-8b07-65bc05bccaa2
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.81226872538677
+  - -33.32971169918769
+  - 699.8814158555537
+  - 179.90974158239294
+  - 89.52931686042828
+  - 3.0073064682014596
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 1694eaa8-fffb-4799-a679-6a815c39bf8c
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.8064409275394
+  - -33.33026138284316
+  - 742.3214004622558
+  - 168.3004664772174
+  - 86.62180868626409
+  - 1.0600529211286078
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: ea7161f6-8386-441d-a91e-505dd4cf56cd
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80638529100231
+  - -33.3312805433523
+  - 663.213689727362
+  - 180.88661980686575
+  - 84.72915558431049
+  - -4.533219187063341
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c36dd515-e0bf-40d2-bc15-48e0c32c38b6
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80615921313779
+  - -33.33478639077
+  - 722.3357360500468
+  - 182.47814283454133
+  - 86.4247487226988
+  - 0.8159952313763824
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 4fbd2062-ba13-4ca5-bb2a-17042cc7fb18
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80709876479216
+  - -33.33692858869231
+  - 727.0880878801934
+  - 172.22170847048275
+  - 84.64360987929983
+  - 2.9503257806866268
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6f1e9673-c8f3-423c-8eec-7e44774289a4
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80751744484054
+  - -33.338476042589555
+  - 733.5236774276827
+  - 174.71851853572306
+  - 89.06402541679815
+  - -5.730075330810058
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ae87371c-3e59-490a-9e3d-448127b51696
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.8062899707036
+  - -33.340542044854544
+  - 672.9200707665138
+  - 175.7749757446168
+  - 87.16503715774041
+  - -3.2494775457796674
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 21b29636-8174-47b3-9024-af1dd6688cfa
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80449320478857
+  - -33.34087928528224
+  - 661.3675312804446
+  - 177.6662426705155
+  - 85.88986363349561
+  - -3.297738887531683
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 06b121c3-bd29-4f2e-a118-cdf7ae40b483
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80390348196333
+  - -33.34493297181348
+  - 669.0189337882955
+  - 176.6008941886881
+  - 83.68297942572887
+  - 6.4378213843373935
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 22eac5af-01b0-4589-8d43-625372ce1126
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80465889413138
+  - -33.34580869363337
+  - 604.5212076289454
+  - 179.88490314990784
+  - 88.86499900456705
+  - -10.191379722357752
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 4d5ee4c0-45d5-4d22-b759-f15b7bd7301a
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80644610937762
+  - -33.346367795765886
+  - 630.6997531637257
+  - 181.20917472897284
+  - 87.6620221355292
+  - 0.318098209040038
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 6f67b1a5-89ef-42d5-bf88-2303eeb2fd41
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80354892232347
+  - -33.34708354064392
+  - 658.0904729878189
+  - 174.74955615424113
+  - 83.29054650071049
+  - 4.219416816660317
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: edee3104-1116-4d20-9ed6-29bd1bc2ba0a
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.8055292412211
+  - -33.347814545408994
+  - 614.1917707820745
+  - 175.51503272033193
+  - 84.0267735629725
+  - 1.2873812188655047
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a8e8490e-c418-4e8c-9f97-25f4a401f8db
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80467850625585
+  - -33.34941698396211
+  - 643.5539292020397
+  - 181.51109602692205
+  - 86.25729545483607
+  - -2.8273976306808137
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 7f4a69ed-f452-47b7-a8bd-b2bce588efdc
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80496411249126
+  - -33.35671110753529
+  - 569.111653847089
+  - 170.988780442527
+  - 87.83546222711166
+  - 2.8368323026424394
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 26ace46f-0abc-4bcc-ba07-10aebd5bd339
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80426269840407
+  - -33.35785801350681
+  - 581.6517697876607
+  - 178.58280271459574
+  - 83.21269373938385
+  - 2.2266641739663986
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e9af1c9b-109c-459e-b50a-ae13248bf758
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80472575904707
+  - -33.359752994389176
+  - 561.6759072234389
+  - 177.58786833959897
+  - 86.8160186201724
+  - 5.221634050558808
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 45633b20-677b-49ed-9ad9-f4bbde3f8441
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80370001941036
+  - -33.360480316008655
+  - 563.4073687855307
+  - 174.98540783721913
+  - 90.49901121578301
+  - -3.0889094555907173
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 410d1ea4-c529-4a2e-8dd7-408869036d12
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80372018580572
+  - -33.36052098888185
+  - 563.2566353072996
+  - 175.91354059352653
+  - 87.31164178059448
+  - 2.1868594009660196
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9eff3bfc-4b1f-45fa-bb32-46d15bbdd704
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80430570087931
+  - -33.36579942111873
+  - 520.6387824520411
+  - 175.4486880657103
+  - 86.76646786549377
+  - -2.411130252942605
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ef698806-93c7-4b02-997e-fa4f11c77c8e
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80396863589782
+  - -33.36716389046493
+  - 509.0775820280775
+  - 179.52855146672158
+  - 86.17934739986686
+  - -7.617956129290015
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b5402598-1a41-441d-9861-bf49870264d2
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80430131274554
+  - -33.367542592351185
+  - 515.0174531486971
+  - 181.33973613058706
+  - 88.90656508056834
+  - -0.9257121259921319
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ea8eff82-73e8-46cf-8cb5-d5589b9fef83
+  airport: SCEL
+  runway: 35L
+  pose:
+  - -70.80399978894671
+  - -33.369157247469204
+  - 497.27297830809164
+  - 181.2240842659715
+  - 87.46092009835081
+  - 0.8242893007652446
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

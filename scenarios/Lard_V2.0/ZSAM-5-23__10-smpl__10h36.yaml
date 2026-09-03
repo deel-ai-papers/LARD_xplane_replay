@@ -1,0 +1,1078 @@
+airports_runways:
+  ZSAM:
+  - '5'
+  - '23'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 2d6d1229-710a-4f71-bab2-f3da97a77e0d
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.183610878121
+  - 24.583855491268075
+  - 361.17103291750146
+  - -129.11979856671675
+  - 85.3300399942893
+  - -2.9503584997694308
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 29e48fc7-28e7-4920-a6df-d6347c50a2ef
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.18199079227334
+  - 24.58550002724876
+  - 417.2851798461802
+  - -135.29052708967342
+  - 88.66765800907666
+  - 1.2971970534679957
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 08a2ac8f-b26b-4e27-bacf-ce4f6d0a221e
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.18214492883027
+  - 24.584852564821677
+  - 308.2410480060389
+  - -127.94012954576516
+  - 83.69249341837767
+  - 5.437356664096392
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: e44b1579-1e1f-4bfa-825a-cd7c4b2f4ff9
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.1828535758017
+  - 24.582669454321618
+  - 359.9896831920672
+  - -135.10982839693733
+  - 86.45346638396562
+  - -6.974965617395824
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5cc76f86-a104-4f07-b059-262fba4ab220
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.18065629799082
+  - 24.58157793493822
+  - 249.19418769870103
+  - -121.88213963097652
+  - 88.89237562412649
+  - -6.729621413402549
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ca6c0c79-1ebe-4760-bbd1-c51b0daf261d
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.1805412088534
+  - 24.579851034927945
+  - 328.9072989573861
+  - -129.8796541345726
+  - 86.6026471845435
+  - -4.49375387099463
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e5e400e5-2a2c-41f6-9fe2-0461a224fd98
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.17587405390913
+  - 24.579428163820744
+  - 300.8222418579407
+  - -121.35745220893004
+  - 85.31323970468813
+  - 1.0663704024214407
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a4c6b886-a736-4e5f-bb75-b7e745b1ac00
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.17580680050692
+  - 24.579058573068057
+  - 255.8643466823206
+  - -128.5825416039727
+  - 85.97863836854359
+  - -0.13104218470707357
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7a699834-f6c9-47e2-8d25-197245b6273f
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.17513607322553
+  - 24.577106066322315
+  - 223.93944599383988
+  - -127.535561266701
+  - 86.98731391047579
+  - -0.9255543449645129
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 063bf6af-b4a9-4d3d-b68d-585c15dadba8
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.17485666075977
+  - 24.57692385112918
+  - 191.20816156820706
+  - -133.67075568515784
+  - 81.06564598707938
+  - -6.809550788220928
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: cf2fe4d2-b166-439c-8e38-11713a4eae4a
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.17434666152744
+  - 24.576748312193438
+  - 292.850776420691
+  - -121.6068058892279
+  - 85.87874133221833
+  - 1.136223946741033
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 685b16f9-638c-4fc3-bdee-2a8f1234682a
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.16616035308526
+  - 24.57244609552626
+  - 201.92946967741315
+  - -130.9943989159837
+  - 86.7827760017488
+  - -11.216331268458969
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 6e9580db-e340-4e37-94c3-d986a82a249c
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.16562522009916
+  - 24.572902669489775
+  - 271.7547786422937
+  - -129.03043591582258
+  - 87.78816393521943
+  - 6.955347918709619
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 498028ef-335d-493d-8e7b-126206489ecc
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.16736333721265
+  - 24.570658731982434
+  - 190.03416946242163
+  - -122.98206584554774
+  - 86.48623389489583
+  - 2.411547827934057
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7c66e943-da0c-43f8-910c-5a06c995ee49
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.1663989459058
+  - 24.571380911995035
+  - 156.12866274354116
+  - -125.99042090941425
+  - 85.01901986267953
+  - -5.0556141768754905
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a8100050-bb66-40e9-bac4-5d668074042d
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.16448200243319
+  - 24.569319636732494
+  - 172.46704562103255
+  - -130.17602615061264
+  - 87.44827873541936
+  - -0.036715139497273896
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 28ea368a-3c26-44b9-9e7e-c27b58a17259
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.16453330660917
+  - 24.568761010873235
+  - 200.2046651462755
+  - -127.11468688816599
+  - 82.6780799095556
+  - -1.6612182180101764
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: fc66d508-9d98-4b0c-aa69-e976ac72bce1
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.16083071159231
+  - 24.56907004342543
+  - 159.061476866166
+  - -128.16452007214352
+  - 84.52713015089381
+  - -0.9817234813878105
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 06b9992d-5e5c-4643-9d3c-220168e44156
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.16030479233707
+  - 24.567693472860917
+  - 148.92557268441237
+  - -123.60168204990354
+  - 84.67378860016888
+  - 5.980270661826229
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: be8020c9-ce8b-45d4-993e-f2059cb50a7c
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.16046887822037
+  - 24.567381182259826
+  - 143.88609926720133
+  - -129.88678908743196
+  - 85.56397450379757
+  - -0.8129972441508139
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 930f9606-9049-4e2b-b432-7b1b25c4760e
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.15696959767637
+  - 24.5663774398153
+  - 149.9682831382139
+  - -125.4315681360438
+  - 86.34264951022536
+  - 3.537154937624889
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 83f96193-8556-4ce3-bf94-528eafbd3270
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.15588286159023
+  - 24.565090503287216
+  - 108.50935111524332
+  - -122.43027868836631
+  - 85.30516404852253
+  - 4.080269014754129
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3aaec59e-cba3-478f-9ebe-46270d43ccd4
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.15107774717161
+  - 24.561544348409363
+  - 110.04606810656608
+  - -127.29575938932793
+  - 85.32373659424786
+  - -7.008698035408726
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 0fb65428-90a3-4269-a63b-a9fda3f12ccf
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.15095626762961
+  - 24.561091133556676
+  - 81.98598435560591
+  - -124.57277682193877
+  - 85.9541740594287
+  - -8.194948659502657
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 37e514a6-b5dc-4694-9c18-96de0be56fa8
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.1508823918186
+  - 24.560832423134194
+  - 116.46635829733663
+  - -122.21035877209786
+  - 82.6924212710642
+  - -1.4330869186023145
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 22121f8e-3af2-4ac1-83b1-54ddd3d5a99a
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.15015116790117
+  - 24.5592564880752
+  - 90.91609694006547
+  - -120.77956603951633
+  - 85.87835789657352
+  - -10.271994741987358
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 0eba3126-4e6a-46b6-99ef-eee5ed6b00c3
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.14611450618192
+  - 24.556710027210478
+  - 71.20419927870077
+  - -125.47336153252814
+  - 85.87648011973808
+  - -1.9856308081566465
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: bd8f088a-59ae-4fbe-9eb4-969a55de42b6
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.14506655105038
+  - 24.55655570429839
+  - 69.76305201115233
+  - -128.53841895753823
+  - 87.80337495914806
+  - 1.785380010848158
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 566325be-fb03-4320-b2d0-2fa730a8f3e1
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.1444374304389
+  - 24.55573861769673
+  - 55.35659317096545
+  - -126.61849612714546
+  - 86.0626434749521
+  - -2.9393546623167848
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 4a815c1d-0661-437c-a546-cf3daea47f11
+  airport: ZSAM
+  runway: '5'
+  pose:
+  - 118.1419851293388
+  - 24.554344842403577
+  - 47.628782113521716
+  - -133.18934260600682
+  - 83.05133951160674
+  - -0.5203456568927559
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: cedda41c-7c1f-4980-9e0f-148bbaa2eda4
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.07067024956233
+  - 24.500304935284788
+  - 383.32821068084075
+  - 61.65099244296806
+  - 87.08750265224023
+  - -0.15686421661513725
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 7c24529a-b9fd-44aa-bd1e-ad82f8a4a014
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.07206059521248
+  - 24.50601274257229
+  - 298.4901463304633
+  - 46.7138369595443
+  - 84.94818059102143
+  - -3.9060037371139544
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 8b674499-9d91-4ff0-ac0b-5bead432bdc9
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.07346389514281
+  - 24.507202624927128
+  - 296.88092306439097
+  - 52.87031891706595
+  - 83.33048398657718
+  - -4.0910086180224505
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 33e2b5c8-b8ec-4b92-b3f4-7a1a6da5e1e6
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.0745134908712
+  - 24.508060790403192
+  - 280.7954281891382
+  - 54.871880484529704
+  - 83.85394905319417
+  - -1.1315064150116108
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 89446156-8be2-46a2-a9cc-15cc85ee0b8c
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.07764977956693
+  - 24.50657746880952
+  - 316.6868107199387
+  - 43.62793799396043
+  - 84.71860104134073
+  - -3.503981377060601
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 95c4c45a-6e69-4b06-a25a-c9a187969930
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.07584435399124
+  - 24.50910992260953
+  - 307.4131655286356
+  - 44.73240254430935
+  - 83.6258354021837
+  - 1.5929924712537538
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 18b845b6-20cd-4611-b664-9de6882b82ba
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.07914765080774
+  - 24.506237721966748
+  - 256.4391813893633
+  - 48.847205818883765
+  - 84.80764599305286
+  - 3.394203029310126
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 1310d28f-6cf9-4fec-b535-44b3cebdd8ca
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.07928534355537
+  - 24.509597482039513
+  - 271.8017098388011
+  - 53.89123544571219
+  - 88.58556857662292
+  - 0.575684360187406
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ccb38e58-adc0-493d-9743-6eed6a287167
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.07972171969855
+  - 24.51122892932226
+  - 222.3112767289071
+  - 54.48225368251637
+  - 87.49277214252346
+  - 4.269472925005955
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 2c7bb980-f50e-4784-a537-73dd62d90bf0
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.08042991640657
+  - 24.51063952779088
+  - 255.52318717500737
+  - 58.143268472783774
+  - 83.60595062960525
+  - -2.155015299445464
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5d0ba41c-546a-4f85-b827-f7457387e34a
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.08448729736526
+  - 24.514434834571276
+  - 226.4026932407499
+  - 47.99424556349743
+  - 86.97392760157923
+  - -4.140663540922243
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 25e84152-e7f2-411b-a242-7aad08961549
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.08913122320739
+  - 24.51534522799328
+  - 217.05683132184004
+  - 47.10051107750431
+  - 87.56465244093647
+  - -2.6396224443728333
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 65b53aca-fc57-4a53-b4a3-b90168c72a9f
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.08893560082436
+  - 24.51692875631748
+  - 206.71651085476492
+  - 56.88981741076568
+  - 87.16028648236362
+  - -3.4554280576280676
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 3aabb2ae-4907-4cd3-9e3f-2b10d6aa8af0
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.09025952705883
+  - 24.517149417871263
+  - 192.8222711302734
+  - 45.48537155433935
+  - 83.22593265680347
+  - -6.369284910338014
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 7325e976-3b71-4701-889f-c0e21dee3706
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.0895224388594
+  - 24.51848427271031
+  - 187.51958775259268
+  - 61.23650008407229
+  - 84.83612046714602
+  - 4.037872770180301
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 78abe36b-eb06-4a10-94d7-10e5f32c2a88
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.09055250355293
+  - 24.518011112507708
+  - 248.96500272960108
+  - 52.26195135829405
+  - 87.09359053476464
+  - -1.6654348364849283
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: e7117a69-0783-40d8-98a6-8ed56286ff2f
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.09305833873627
+  - 24.52091200703153
+  - 185.11305430049472
+  - 49.78434458346288
+  - 85.03167347829981
+  - -0.5585122241660638
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 033308a0-0ae8-41d7-af0d-bd2075a5c135
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.09517592329826
+  - 24.51978670950476
+  - 202.3586477162415
+  - 46.74957847441386
+  - 82.95562438552842
+  - 6.433294858372724
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 0ee0ce31-db43-4f95-ac8d-823af67c28cb
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.09502768561157
+  - 24.52027810130849
+  - 145.69661695085466
+  - 54.82625300330723
+  - 86.70591072032644
+  - -0.17283108267909225
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b8188264-a705-4d72-83c2-3f9953a14293
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.0961714695012
+  - 24.521460618938555
+  - 173.82987732978043
+  - 50.463429703761044
+  - 85.60940550129048
+  - 6.402790571576936
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 4d2419d1-7300-4611-8ebf-bacd0344ad8d
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.09694715432548
+  - 24.52273762542921
+  - 142.13333523284575
+  - 54.88860460276521
+  - 86.21276284196027
+  - -2.728001141149212
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 916bd1b6-7bb3-466d-b68c-bbe106c5c0df
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.09754700538338
+  - 24.524570405673426
+  - 103.15760360002973
+  - 59.33548399291035
+  - 88.97235980869303
+  - 6.521876114121957
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 11314a39-fb36-4992-8c97-1854f1735257
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.10051554613936
+  - 24.52440284914772
+  - 141.302784901121
+  - 50.96678359975692
+  - 87.03112313405146
+  - -7.728497947694134
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6a79cdd5-4665-49c1-94c2-38413920f29b
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.1008077494926
+  - 24.5252565056882
+  - 151.78856053863996
+  - 51.78341071689998
+  - 84.7953955912147
+  - 2.40947045843849
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: cc5ec42c-8620-474e-8daa-296ad4b93b93
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.10304166538161
+  - 24.526974015167436
+  - 110.95682200490461
+  - 51.072300701822094
+  - 84.49190432682646
+  - 1.9882565545908768
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e77c3aad-e8b1-4552-8a26-325cae93ea09
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.1071144037757
+  - 24.52927768972916
+  - 102.35590645479185
+  - 52.75537268529028
+  - 85.50340536546162
+  - 0.615194710249216
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a2f54798-64ee-43be-974a-ac33f58cb2cc
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.10855461049525
+  - 24.530167187844768
+  - 64.8525608606505
+  - 57.2739452654065
+  - 83.61702068033743
+  - -3.7608246623614394
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: fe45a56b-5466-4069-9a3a-ff63406cc608
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.10986118957403
+  - 24.531802168236688
+  - 60.77513177286883
+  - 49.286315793376026
+  - 82.05191934869161
+  - 5.653976939960389
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: db650d23-97d1-4dcc-8ef9-eea7dd854d62
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.11031769039585
+  - 24.531592335947842
+  - 68.39644017128997
+  - 58.75773051810321
+  - 87.50758741390257
+  - -1.5899437943098282
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a43fe5e8-9a87-48c3-b06d-07ebacfe42d1
+  airport: ZSAM
+  runway: '23'
+  pose:
+  - 118.11306181225034
+  - 24.53369875172838
+  - 54.46004007901389
+  - 53.99228043948968
+  - 87.92645479433537
+  - -6.120981407212622
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

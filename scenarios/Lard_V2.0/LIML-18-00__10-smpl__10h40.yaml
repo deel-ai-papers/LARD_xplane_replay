@@ -1,0 +1,1078 @@
+airports_runways:
+  LIML:
+  - '18'
+  - '00'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 2b34143f-e2ba-4064-a698-624e84f8d650
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.284366169681382
+  - 45.38200438132143
+  - 390.1736867898231
+  - -7.726788666340125
+  - 87.24772566559828
+  - 0.7691691197751445
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 8e7367a3-eccb-4746-8e58-aa08d87114bb
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.283187490850532
+  - 45.38347361430134
+  - 360.6191670515407
+  - 9.450043403234737
+  - 88.50628254713048
+  - -2.103953647621355
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 4ff8018b-03a0-406b-ab27-6cc7f563b582
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.28945651449461
+  - 45.38523920661104
+  - 413.60274499844013
+  - -0.9951034412572581
+  - 85.96932869659626
+  - 5.044309307571391
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4fac9cfe-6d22-4da5-afb2-b78dc535b7cb
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.285423365016968
+  - 45.38714018386081
+  - 425.5128583639985
+  - -7.543992003386675
+  - 83.79552666555607
+  - 9.072637812789447
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: eca3c29d-824d-45ab-b071-57459bdb2796
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.286160661085246
+  - 45.39188689837202
+  - 400.1293433795432
+  - 6.516348419562321
+  - 82.5982751494105
+  - 4.7169835204933825
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 324e5a64-28e2-4166-9eff-ca2cd78aeb9a
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.282004312152612
+  - 45.392084800877704
+  - 386.93003155760294
+  - -11.849232985394384
+  - 82.96965241518735
+  - 5.420825437900088
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 6a8b54d7-e878-433d-8627-047a36d494df
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.283743739903144
+  - 45.39218718650544
+  - 352.95407075350226
+  - -2.670536642484421
+  - 87.62112309614047
+  - -4.888104553244369
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 7ae503d8-63ab-47a9-b50b-6fddbad56239
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.284008660490281
+  - 45.39280725343338
+  - 332.5449224157244
+  - -2.360165665084395
+  - 85.60183819839814
+  - -1.8979630022201626
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 4418f5a8-1f18-4e2c-9618-6af2b5690a20
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.280863714906445
+  - 45.39286292440067
+  - 326.3409409950069
+  - -4.192676410531725
+  - 84.50741809535639
+  - 5.908540258196448
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 9b7143c5-f584-463e-9c50-343953f65b1d
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.282820222553337
+  - 45.39353986326844
+  - 377.7219420296013
+  - 0.9953472761331561
+  - 84.1840539489903
+  - 6.907348349436392
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 9521c66c-f895-45b1-ae26-234b42636edb
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.279907349041933
+  - 45.396808428790536
+  - 343.37425355029245
+  - -3.5134006225344696
+  - 87.79884259539854
+  - 2.1246247770034308
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 983f176b-b4ec-46c4-9665-828cf13802f3
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.285396397258783
+  - 45.39879500685662
+  - 329.0523859329481
+  - -2.6280787727711137
+  - 84.21588284122389
+  - 2.1800503885811584
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 268f11b3-9f1e-44f1-bafe-ee90ce3f80c6
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.28441018574262
+  - 45.40024129297826
+  - 326.1195760362315
+  - 2.263241013726306
+  - 85.45639412146745
+  - 7.022832376123778
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 8804a289-2af6-4c4f-8bfb-22b8d5f64468
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.281532582713595
+  - 45.40271032600159
+  - 331.63039828928606
+  - -8.807248851663285
+  - 90.23527775602781
+  - 0.5244044351670867
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b8ce710f-d727-4a87-b3f2-8ea7900763a5
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.27864557316542
+  - 45.40576221706086
+  - 300.0391978086428
+  - -9.530978161348798
+  - 86.68315986083627
+  - -0.14189812687998501
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 830551c1-429c-4e86-99b5-0272a892233a
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.28137565273641
+  - 45.40591374716548
+  - 256.4864320451644
+  - -10.904595821340525
+  - 85.19419166808287
+  - -6.475841435805164
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ebfedd04-8ba2-4a4e-b822-be49c9999614
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.28064129008482
+  - 45.40781769952389
+  - 263.19141828962574
+  - -5.380349173634398
+  - 87.92657120294629
+  - 1.361566842964193
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2539a581-57bd-4328-bfcd-5dc117227ef1
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.281897635134353
+  - 45.41017159411637
+  - 239.7053481967203
+  - -4.8783526987752595
+  - 84.66528430633021
+  - 6.978404807949794
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: dc62eb8e-94a4-41b9-b408-1ed0ba5da1c2
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.280405711061292
+  - 45.41034700237771
+  - 260.95188079548575
+  - -1.4855188838580826
+  - 87.04089786065384
+  - -1.4473289686552795
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 644867b8-a213-44f5-9876-ad920ef4f07a
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.279777669659238
+  - 45.41147160405721
+  - 229.0814295365655
+  - -3.767502449186564
+  - 82.49422219954764
+  - 5.184441054505595
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b8e5e8ca-bf26-41be-ba9d-703f20fde7b0
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.279379931262774
+  - 45.41766718109301
+  - 240.2685089419104
+  - -3.6571726015055157
+  - 87.74025898171564
+  - 1.7378486291692807
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4151f1e3-f53e-4ac0-b87a-de9273acd2ac
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.280253881732193
+  - 45.41802952930578
+  - 207.23749923711205
+  - -10.823484631500335
+  - 85.67969497292489
+  - -0.8944334950588827
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: cc551043-0b4f-4b01-a02f-55b66bad6665
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.279200588270726
+  - 45.42198063176595
+  - 198.74515208646346
+  - -5.27369475778446
+  - 84.51450145384635
+  - -0.3572848905222066
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 0a2d191a-8fab-42e4-87f3-1bec06231609
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.279333974768798
+  - 45.423923854312235
+  - 174.29252069461745
+  - 0.6865731978117013
+  - 83.75945965323554
+  - 6.004357597004112
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 1d2189f6-b330-419a-a1fb-d4be46a1773f
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.279390079179755
+  - 45.42701711375008
+  - 161.16281759440977
+  - -0.5896299784878769
+  - 84.68155212415928
+  - 2.9775608124299464
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: ef77caa8-756a-4c58-8143-299b6ae6c022
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.278426600515823
+  - 45.429495818136886
+  - 143.24286742317196
+  - -3.2079500180054863
+  - 86.84111038287199
+  - 4.445606851312102
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: f669e675-ab29-4d0b-8402-382edc93a17c
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.278443566167565
+  - 45.42973627544826
+  - 146.00818374678752
+  - -10.318011440623913
+  - 89.78380295100276
+  - 5.202045752574925
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: fb2f7575-f546-404f-a0ed-8ef24fdaaa67
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.278554259249173
+  - 45.431246180542125
+  - 132.07728281062805
+  - 2.2660721664377013
+  - 88.78407723836791
+  - -2.359495981912722
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: d22d6083-891f-4ecf-a808-27f262768e80
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.278528154403483
+  - 45.431613877784564
+  - 139.6330237638101
+  - -2.4242143158222045
+  - 86.73231831675317
+  - -3.370802050998421
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 84e83d2e-b44a-4a98-a21b-1ebc77cfd719
+  airport: LIML
+  runway: '18'
+  pose:
+  - 9.27833540518593
+  - 45.4316372540007
+  - 134.1167036795574
+  - -3.7156553040546747
+  - 84.36113233603537
+  - -2.8929556417505973
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4cbf75fd-ef5c-4ca4-ac34-d8b1bea9b02c
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.26881001440612
+  - 45.50798892343108
+  - 454.83831103016604
+  - 173.65356475501787
+  - 85.94446388287626
+  - -1.3391596396211736
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e76786ea-cc20-4748-839e-62c71c674877
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.268503786849239
+  - 45.501916078569934
+  - 348.2657433892614
+  - 170.64400504505548
+  - 86.67821528014596
+  - 2.2083639150721286
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: add9969c-c871-414b-8f2b-de4de6a1a967
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.266977676786139
+  - 45.50114372216188
+  - 363.0238079510459
+  - 166.95998369996735
+  - 87.22790170873925
+  - 0.8841390662270332
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 8394018d-cd1f-4b8e-b1e3-f51346d182dd
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.268757688540775
+  - 45.50076718645723
+  - 379.65219974704263
+  - 177.80923120923467
+  - 81.32144150326764
+  - 4.132530729683634
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c70bd57a-f38f-480d-aa63-5fa97c928b99
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.271810832092788
+  - 45.50059223380376
+  - 417.1915924025371
+  - 168.05030623122434
+  - 84.69132080270332
+  - -1.0469107113589506
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 32882dd4-c71f-4575-a65c-a0e26abb4560
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.270564086732046
+  - 45.49734620203297
+  - 366.0052362070415
+  - 179.32843282049092
+  - 86.67049276922215
+  - 3.205033201304083
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: b3d2d468-b9cd-4e9a-a40e-a54795852c08
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.271582322312309
+  - 45.49703228683605
+  - 405.6497984769692
+  - 179.0449582605952
+  - 86.02753881861092
+  - 6.653389829774284
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: d8e42ad0-b461-40a6-9dfa-55699a58b67f
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.271524137593511
+  - 45.496838577126326
+  - 380.86955781221167
+  - 173.69115204956643
+  - 85.69725957542782
+  - -4.01144411297562
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 2dbf07bb-10a6-4a66-8a69-7aa0192eb9ae
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.269407373879591
+  - 45.49650962672953
+  - 406.5036661931352
+  - 179.03186348484215
+  - 82.85749264510596
+  - -0.7268485875395975
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c2db7892-824d-4d05-985e-14e2faf0c379
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.268978103997648
+  - 45.496418903816355
+  - 372.1413951401628
+  - 176.1835844821704
+  - 91.04441711304685
+  - -2.4488179880793197
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9e2b5868-2fc1-4aa7-ba22-7e3a07d58cf3
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.271533122155528
+  - 45.494665811682886
+  - 331.4990471641112
+  - 180.6838723318812
+  - 86.76212464992321
+  - 4.329716041819321
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: d30d3799-84ea-4f1f-8c69-e75ed292c1f6
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.27362970067349
+  - 45.493434166112905
+  - 333.4820189836497
+  - 175.48376579658571
+  - 87.27106394432825
+  - -0.8339432269822039
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d3004fed-e74d-4fdb-9b98-f2ff1f0c4ef6
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.27274789435279
+  - 45.490294256893094
+  - 300.73298527902114
+  - 168.07121720904735
+  - 88.26458525911472
+  - -2.4924961030506214
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: cd6a393b-9501-48e4-9e1c-3504acf5320c
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.2723549690787
+  - 45.48649419884766
+  - 280.3670910362491
+  - 177.69468585272043
+  - 84.7052864224294
+  - 2.93101081141834
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: bf48b9c7-773c-4c61-9709-b3f32dfd5749
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.272870478435937
+  - 45.486327292148374
+  - 332.461990962711
+  - 175.58746587734063
+  - 85.81704053077887
+  - 1.2235118821445685
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 9c1eb7b2-8bd8-47a4-a2a8-44b46db6fab1
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.27320893280291
+  - 45.48298683383969
+  - 272.81908985012274
+  - 176.22370837801094
+  - 86.66688934248549
+  - -6.525680624899989
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 53117ce1-5a69-420e-8018-888789238f75
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.271999632333973
+  - 45.482681307741956
+  - 289.38923965451727
+  - 177.9909885216128
+  - 84.83470765645966
+  - -5.6376776840779925
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e1514778-7c5c-48ba-baa2-c78de475b440
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.273424816162727
+  - 45.481823357983465
+  - 273.11904236076134
+  - 165.4163448945489
+  - 83.95503580995515
+  - 2.467294436273408
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a154fe26-1175-446d-a595-94a59ea4720a
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.273977683255275
+  - 45.48021267844151
+  - 275.7023993666711
+  - 184.11233582996041
+  - 87.26526837096287
+  - 3.005844111688783
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6a0791db-1a1a-4b70-a8d5-18bffbc009e1
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.271761631138931
+  - 45.47903827927387
+  - 250.33292295263774
+  - 176.7243739006541
+  - 88.8453546162467
+  - 5.503293361294142
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9cdf6e31-7156-4d83-9ed0-c1b4519546e4
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.273625591038973
+  - 45.47588288502633
+  - 235.43537975289263
+  - 174.80827863737565
+  - 85.78779183590976
+  - 5.415597006578218
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 99c416b9-b30e-4b4c-b86f-c681e00f22a9
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.275428683708313
+  - 45.47538312521355
+  - 252.1003380268097
+  - 179.74626068313086
+  - 86.24870389846151
+  - 1.498485464653401
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 6e308aa4-95e5-4aad-9e8f-92257d8f76d6
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.275024886058644
+  - 45.47371118310124
+  - 215.91291244103837
+  - 179.92050225268855
+  - 85.4050731409424
+  - 2.538628569444181
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5e233bae-eb71-40bf-8821-d43afb1ba1c1
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.274024737574935
+  - 45.4693150683522
+  - 190.24001819781992
+  - 174.69952477102302
+  - 86.70000053717696
+  - 1.3654475688733567
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 0b27e024-4c81-4011-b84d-2f06846151b4
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.274237611270921
+  - 45.46780206830586
+  - 203.6094660611576
+  - 177.64180178945222
+  - 82.22046977081719
+  - -6.157623262600593
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 223cbfda-2b6b-4379-8ee0-a7c9725188d2
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.274891892324936
+  - 45.46775524998162
+  - 207.39664595432168
+  - 173.55265430540044
+  - 85.60395451013079
+  - -0.5223512747468457
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 1f71a2c5-a2a9-4dd7-ab6e-521a6ba8def1
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.275765452402531
+  - 45.46581824768687
+  - 187.7743008940546
+  - 180.7047731059468
+  - 80.63157859257154
+  - -2.3827908877600814
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: cc5fec76-9d5c-4db8-9e5d-869839988123
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.274937382762989
+  - 45.460702908585695
+  - 143.89357472460773
+  - 174.29625745085008
+  - 87.72509422676805
+  - -5.601938247771713
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c2ca5f5f-016f-4928-9518-068d107d7379
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.27552782190584
+  - 45.46013812823268
+  - 151.4547831568121
+  - 180.81622576193078
+  - 83.45219369983502
+  - -6.082255160477741
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 9ea710aa-4cb5-4c40-90fa-888891c75473
+  airport: LIML
+  runway: '00'
+  pose:
+  - 9.27521320205295
+  - 45.4595103810533
+  - 145.45660146856784
+  - 174.1574978293659
+  - 86.83211715512299
+  - 3.519096716429927
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

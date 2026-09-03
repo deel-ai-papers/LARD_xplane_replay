@@ -1,0 +1,1078 @@
+airports_runways:
+  ZPJH:
+  - '34'
+  - '16'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 857d5255-5e62-4f2a-9f44-2488b63fc3b2
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.74138498060287
+  - 22.03507489604409
+  - 823.2193979957985
+  - 158.9624968580825
+  - 81.49952270242213
+  - -6.6180579666896815
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c2a7ef27-20d0-4122-ab8f-0405d702e9ac
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.74097373913843
+  - 22.034843481690928
+  - 819.6736468511765
+  - 154.66674710413102
+  - 83.43210792973774
+  - -4.7497377782533405
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 13893688-53c3-4333-97d8-21d1d7628f03
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.74080811158026
+  - 22.034292202599808
+  - 878.0925658733253
+  - 164.79406661544616
+  - 84.73409403455551
+  - 3.742256639052286
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 22262c14-b947-4f10-8cd4-1cc3b2ccd57c
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.73868052676147
+  - 22.031536629776326
+  - 884.959723352956
+  - 161.41134512930398
+  - 86.86879726686047
+  - 0.4385987073441052
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 129645f3-bb1e-4577-9364-68d905b96b42
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.74154019534849
+  - 22.03173879894354
+  - 865.0117967164927
+  - 161.48224477801105
+  - 84.86980352859457
+  - 2.297321714150783
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: eaec0ea4-e653-4ccc-86ad-45da4a5f5562
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.7422244099016
+  - 22.031620864244378
+  - 852.4513024913731
+  - 161.50843975055653
+  - 84.19680051641583
+  - -0.6311448216526674
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: c21ccc5a-cbaa-4c44-ba53-627d9ba7da17
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.7430889286295
+  - 22.031238116768062
+  - 857.6114255263312
+  - 164.49480892252612
+  - 84.28047265559037
+  - 1.1162210118535336
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c70fd3ab-741a-4018-b691-4c0dc77a4af6
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.74132151729478
+  - 22.03022119131618
+  - 857.4621191141191
+  - 155.15521840563858
+  - 85.30183257917496
+  - 11.957704993175568
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 677dff3d-56a1-46ca-ad44-2d508beaa5c4
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.74095266297134
+  - 22.02977684964171
+  - 882.149102894941
+  - 165.46458739705466
+  - 84.01971244450556
+  - -4.872058527805742
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 6762047c-6481-4d6b-ad7c-3cbb647642c6
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.74236924540207
+  - 22.0252043458005
+  - 832.5594027829309
+  - 163.75684065232855
+  - 85.48063686779584
+  - 0.21741645740147753
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: be83bce9-e06d-45ee-ae4b-65d97ecede3d
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.74281538706296
+  - 22.022624315811342
+  - 783.8967763037433
+  - 155.8737645573239
+  - 85.32436834999443
+  - 5.569415042136
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c93d11c9-d715-47c0-94f3-3c05e3bae8a2
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.74646336825609
+  - 22.020687236249213
+  - 771.0441942699707
+  - 160.3939874643176
+  - 89.11549591943596
+  - 1.5256819873127023
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 62e8268f-fd7e-4eae-9c8e-d063ff49d8b0
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.74721145707083
+  - 22.019944135647872
+  - 844.2114947102793
+  - 162.13386297796504
+  - 86.5148592791675
+  - -0.8698128133530371
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e560d66f-78fe-400d-a825-6aefe34b50c5
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.74511888473621
+  - 22.017982701339445
+  - 760.5665414661728
+  - 161.50478251856197
+  - 90.228869208953
+  - 7.896486402618806
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 5c24c853-aa09-4659-9765-c4ea6efb139f
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.74478823901265
+  - 22.016813045747348
+  - 784.3171694779485
+  - 157.28284301496825
+  - 84.98137063063476
+  - 1.588002806195912
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 881e1928-8f93-4998-b4bb-8f5f1f7df137
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.74878040914906
+  - 22.011677025960104
+  - 687.7269038421057
+  - 177.2590805569814
+  - 87.62924446627522
+  - -4.531791375485129
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: e96c1453-ad76-43be-8071-3569d1683566
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.74953766237456
+  - 22.009609805830166
+  - 733.3790607213048
+  - 151.23811946695437
+  - 86.27936400997055
+  - 1.4256777510966745
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: f52965cd-1d7b-4254-919b-7f53a7e55149
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.75025950250554
+  - 22.00805948254383
+  - 664.8773732451652
+  - 157.5733327393361
+  - 86.76321745344599
+  - -5.448900798960356
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ec1fcc3d-328b-41f1-b604-8ed378f5bc0b
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.75081826233622
+  - 22.007814721227504
+  - 718.9500590997739
+  - 147.97773728448016
+  - 87.41030754406114
+  - -10.59558394463303
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: bdcf4595-d6ae-475b-ace6-530fbaf69839
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.75054106546943
+  - 22.007180467553923
+  - 690.6810526234474
+  - 164.23721822096388
+  - 84.89615723527785
+  - 5.728306830628233
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: ec8ff93d-ceca-4ec7-b018-f35a85f0abfd
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.75217663477282
+  - 22.003111606940593
+  - 665.1377702518311
+  - 160.42595887165817
+  - 88.27680801129769
+  - 4.117028819333401
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: ed72ffb3-aa7d-40af-84e4-7372f07ffb78
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.7541890943638
+  - 21.996465477665275
+  - 612.4709152001957
+  - 166.23557407416604
+  - 86.53080535604597
+  - 5.787408360529699
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 3fc322d9-4dd3-47ff-b671-5b9045b5eea7
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.75483897643403
+  - 21.993472086335252
+  - 614.3769249023089
+  - 159.98534001489617
+  - 86.37594573584079
+  - -11.247561357909852
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6a84a968-0e5b-4312-95d8-ac34c65ff904
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.75506441276511
+  - 21.992978686281813
+  - 620.7096334542001
+  - 156.65902575597914
+  - 88.61611515494184
+  - 8.1353184973507
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 0b60ca5e-a162-45cc-9eb4-a25e08202402
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.75558706872724
+  - 21.99254502660943
+  - 603.7979755259255
+  - 160.44732343281296
+  - 88.72019780573987
+  - -7.427646440383924
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5ad2b5e8-ca0f-4bd3-ad28-7fac773ba8a0
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.75549070238766
+  - 21.991716562222404
+  - 608.532019798498
+  - 154.39133975138773
+  - 86.93543423755146
+  - 3.6073630965306425
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 21f6b0e4-b7c7-46bd-bf7e-4b70dc5f886e
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.75658594096411
+  - 21.989666658592924
+  - 594.1377659027039
+  - 158.95475900749088
+  - 87.27215302855397
+  - 4.214027912368578
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 25c0712d-be02-432c-a4a2-50c20ed54eaf
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.75679681946754
+  - 21.988683395617766
+  - 591.5887732207037
+  - 153.62196302718752
+  - 83.712330022687
+  - 6.29302736705192
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: d3b3ee40-273e-4ac8-a395-3c4ad5ea851f
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.75728326870203
+  - 21.987600186496294
+  - 573.4659886303461
+  - 157.4665709135663
+  - 88.90754418920267
+  - 1.5585140071400287
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 06e25393-3c9e-4851-bcf3-8fc37f708ef7
+  airport: ZPJH
+  runway: '34'
+  pose:
+  - 100.75742914050592
+  - 21.987256825414445
+  - 574.2604507372528
+  - 170.54866254989176
+  - 84.15394618221694
+  - 2.8433847091046665
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f817ef3d-6796-415b-ae97-877593374efd
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.78579377430903
+  - 21.914181766642216
+  - 919.6406867663013
+  - -18.811512877389294
+  - 86.53614219994645
+  - -2.4953670569826505
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 4ab7615f-7190-45d4-af4a-c1d24384fa35
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.7852613329372
+  - 21.914656845002558
+  - 879.0034721916577
+  - -25.07856161804597
+  - 84.70801284730882
+  - -8.041322086025687
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e80648a3-18a4-4243-ae04-c8c3bf840ac8
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.78597909111555
+  - 21.916871337198806
+  - 825.238699391301
+  - -17.505481034606866
+  - 84.67420975840486
+  - 0.32262459802184035
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ca6a930e-3efe-4e86-b7c2-0e5d86eea22e
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.7808167524695
+  - 21.916803640209377
+  - 910.4697609980385
+  - -19.13179846888799
+  - 87.98078085789896
+  - -3.4818629990623338
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b4fe2901-2639-4517-ad0a-d96fc1635fe3
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.78066753109259
+  - 21.92056925988441
+  - 849.6990923987862
+  - -24.63594949024163
+  - 86.40829118637353
+  - 2.458556424181018
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 626397e0-0cd5-4b7b-a2f7-c17d1c036442
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.77872898708355
+  - 21.920782872899377
+  - 900.604320012854
+  - -19.23420638950057
+  - 82.47284130754034
+  - -5.383102723218245
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5ca16370-3712-4475-986b-28be652995a8
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.77772902895505
+  - 21.92116264855825
+  - 844.6037369034356
+  - -21.73564365175701
+  - 86.89659677291161
+  - -3.1965145559877204
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 032034e5-b47f-4fc2-bfad-8b088bdb64e8
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.77865530249925
+  - 21.92267077909961
+  - 740.1010393158248
+  - -21.750309331133142
+  - 87.63315873394956
+  - -1.6349053926975845
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 1c8df33f-c250-4df0-a90b-62af8ab6d4bb
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.78064202776767
+  - 21.923411219440116
+  - 871.4796566235525
+  - -19.44868430148983
+  - 86.76363533284795
+  - -0.06837792754789747
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 1b8d353a-cbc8-438d-92ca-00ec8d4bce94
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.77823533541678
+  - 21.92455365498863
+  - 868.5207211060206
+  - -23.842049742460347
+  - 84.92803548216393
+  - -0.056533888978351106
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ac225477-615a-4aff-86d1-36e8bd19277d
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.7828708020772
+  - 21.92704749385728
+  - 807.7200415329817
+  - -15.19578252507575
+  - 84.64114331216322
+  - 1.2503370595243843
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ee703912-0867-4baa-aecc-09d87b8d2da9
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.77943260415631
+  - 21.92762379006042
+  - 827.646095418473
+  - -16.169887654377494
+  - 85.44844831615572
+  - -5.0969106039413825
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 55bfb49c-e284-4cc3-bf46-5a972149fd91
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.78119958252671
+  - 21.933065598781162
+  - 792.7585109897728
+  - -20.463699569006334
+  - 84.28402320239063
+  - -3.642600605465432
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a3752638-6c5c-4627-bd08-60a0a97551d9
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.77655055731165
+  - 21.935122828375153
+  - 725.9483827215918
+  - -25.03057085655383
+  - 87.24319475053395
+  - -6.527446677897348
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b97333a9-6fdd-4732-a299-6c6a18cbeba2
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.77614312571761
+  - 21.935122042080025
+  - 710.9488964500338
+  - -20.811385109312667
+  - 89.41908038135693
+  - 3.690866885572566
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 029e5614-e409-458a-af70-c33dae292095
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.77735656279721
+  - 21.940439880416637
+  - 720.1297878619569
+  - -23.00362894430542
+  - 85.02718308837036
+  - 0.6891357458716197
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 42bf64e2-e841-42ae-9fcf-a57ab3059ac1
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.77546170769504
+  - 21.94141923859902
+  - 730.4681327822074
+  - -14.493971084447942
+  - 83.42651480746656
+  - 10.277648785895996
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 96b0183a-3525-4d55-a738-e07093a7428a
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.77506467369409
+  - 21.941735720722715
+  - 717.8962682083336
+  - -10.913125003781778
+  - 85.63657225687425
+  - 0.4255209533941868
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: e9207258-37f5-4d36-82f7-38eefea9bb70
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.77361435866516
+  - 21.942621610055156
+  - 718.1146632886612
+  - -21.33618914294446
+  - 83.29919055256731
+  - -2.0428436842008346
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: b6680d32-3aef-4046-ab99-03c0de6bd401
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.77435276080585
+  - 21.943099457877857
+  - 713.6564464186442
+  - -19.380250013325547
+  - 85.48613703517394
+  - 3.391696684064934
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 23fb2a8a-4a1c-426b-b27d-f96f7930dfbc
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.77354073034333
+  - 21.943294508061175
+  - 718.7621626484979
+  - -1.9741226182808624
+  - 86.47128237515894
+  - -0.6185529218275277
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 59998434-5d1d-4a09-8d93-3b6cbcdffdc6
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.77398428441843
+  - 21.94418806792379
+  - 726.3822003253472
+  - -20.018714243270523
+  - 83.99063771181342
+  - -2.9833570000028793
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: cfccfc8d-c9d5-45c8-b61e-a06508fcf58d
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.7733845742095
+  - 21.94505622124061
+  - 659.6920693476961
+  - -20.606890217429985
+  - 84.9768912166288
+  - -1.1931798014304116
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b14ab325-8f58-46db-b5c9-5b852a8eb322
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.7725521370987
+  - 21.945409886531728
+  - 711.3932542128925
+  - -22.201014749875537
+  - 88.35630178199665
+  - 1.9834533453209557
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 35abd203-d878-4f7a-a989-06ed31604789
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.77060877738695
+  - 21.952578939086575
+  - 641.9667436598276
+  - -17.269728104692017
+  - 86.31680924018356
+  - 6.240041167904721
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a2a8b41a-cf4d-411b-9088-ae5a1f33b46d
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.76920091796026
+  - 21.956446813054136
+  - 614.3096956879814
+  - -12.618680356677741
+  - 86.78093159463657
+  - -5.672331768223744
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d7bf5ea4-0a37-4358-9bdb-5f4ffa812ec9
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.76919045426763
+  - 21.95660818065285
+  - 625.772331269265
+  - -18.898186751026596
+  - 87.02161773656753
+  - -6.763881181399791
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a727127e-6325-4d69-a9f8-d6d30a7ba2b9
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.76839344975265
+  - 21.95908014374011
+  - 590.0969126358901
+  - -20.34179260490734
+  - 85.58027451399266
+  - 9.469894515115033
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: dbb7cfa1-2b0a-41c0-9503-70cf60bd3aef
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.76810259380622
+  - 21.959744520223172
+  - 594.2467865901807
+  - -21.113277704755212
+  - 85.48388484724896
+  - -4.539648200650495
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a7c7c5ef-3af4-47aa-b1ba-41e28652bfdd
+  airport: ZPJH
+  runway: '16'
+  pose:
+  - 100.76757722723642
+  - 21.961183531732104
+  - 584.663134625623
+  - -21.660172641111775
+  - 83.20584965035751
+  - 1.9094812450415275
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

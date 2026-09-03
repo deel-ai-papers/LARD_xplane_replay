@@ -1,0 +1,1078 @@
+airports_runways:
+  MPTO:
+  - 3R
+  - 21L
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 9e54ada1-1e99-45ea-a2dd-d3944616de12
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.35326199984539
+  - 9.118934397306235
+  - 387.0499541982325
+  - -152.46740573315864
+  - 84.09571969655904
+  - 1.5436734511616406
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: fbd23429-c8ff-44d5-ba7b-2f4457185425
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.35824616972897
+  - 9.121115771697005
+  - 353.4119531433886
+  - -146.04244593777233
+  - 84.42585239161302
+  - 5.986740077722825
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 567507dc-e98b-4f56-9b4c-ac0f1408c917
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.35103147169193
+  - 9.11724808999916
+  - 285.98179091614566
+  - -149.19421412237736
+  - 86.791663885849
+  - 5.201905171144646
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 82f78a09-f0d5-4da2-b49e-aaa759b1db4a
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.3541834677491
+  - 9.11752693086667
+  - 294.1216122650592
+  - -151.06196248250532
+  - 84.06705257687807
+  - 2.531655173445394
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 10461a1a-1641-42be-8d1d-f58b05aa9516
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.35321644792495
+  - 9.112649554177521
+  - 342.21383047436126
+  - -142.53692173441317
+  - 87.56198726538544
+  - 6.74582793287438
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: cab1866e-e701-4fdc-8801-313d87dbc65e
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.355055089174
+  - 9.111719281702763
+  - 227.25823202133301
+  - -145.9003352133398
+  - 84.8021713830978
+  - -1.8227696751401186
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a65c3b56-5a45-4f45-b3d5-211307844232
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.35473985078984
+  - 9.111517116202597
+  - 283.0415660942816
+  - -148.9838475647263
+  - 87.58745571358189
+  - -1.3276155719024876
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 5343766c-1003-4ced-a11b-912ae8448fef
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.35802504372515
+  - 9.112756804169747
+  - 325.8251428192638
+  - -149.50708810030582
+  - 85.73518804838751
+  - -0.2743673624927812
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 736ad2cf-15a5-4a91-bd5d-7288a0393fdc
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.35644077949208
+  - 9.106443432891306
+  - 281.5478507797429
+  - -140.03566485567586
+  - 82.99700163404574
+  - 6.705066008438746
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 9be1d433-8e6c-42ce-bd0e-e4d508f21274
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.35772296623723
+  - 9.107090972465015
+  - 259.3201155142582
+  - -153.31754933626942
+  - 85.62300890679202
+  - -5.164837811258912
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 552ca9ae-268a-40e8-b24c-cab662f3d08c
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.36068205636255
+  - 9.107038441581937
+  - 281.1024076802002
+  - -147.79937569612412
+  - 89.7108555310123
+  - 3.9665805765573454
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 1ec25711-0353-4643-a6d1-29621029c90d
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.36326347377017
+  - 9.102172905063638
+  - 218.39321225590558
+  - -153.3557175868729
+  - 85.20078914742308
+  - 9.021574445205207
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 90f8bb4d-86db-46c8-8e12-0bd8b1987d0c
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.3624134471736
+  - 9.101611827719465
+  - 237.01027171209856
+  - -149.21991080808328
+  - 84.83101745974098
+  - -2.8969444885021107
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 8d370036-9b1c-40c4-b835-44ac6c296f17
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.36499655645264
+  - 9.093879236867988
+  - 162.92418903079195
+  - -148.06599898241413
+  - 84.35018649494282
+  - -4.040245135692138
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 43344251-019f-4a13-bd9a-05749fc67154
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.36705167483233
+  - 9.094532830037728
+  - 154.50418259072956
+  - -157.94843321803006
+  - 88.36240874987845
+  - -10.398726301595127
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 363d7f08-52d8-45d4-afa6-07ca3132a568
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.36668126821547
+  - 9.093996893811546
+  - 171.95134886398478
+  - -149.43737301605947
+  - 88.09719493068263
+  - 0.5993069575011608
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a5be6266-f6b4-47e0-a0f9-6d773d2c2d54
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.36725570853346
+  - 9.093428467707392
+  - 158.87008936515005
+  - -148.16677004974446
+  - 83.61121538868072
+  - -7.073725619016788
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: b0b28a59-7b53-46c6-9313-570b59141ec5
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.3680214449065
+  - 9.091757190099072
+  - 138.03334672848274
+  - -157.74232020213157
+  - 86.82446406063488
+  - -1.0144763787330837
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 6183e413-0a20-4375-8266-010b19e7e500
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.36736063280634
+  - 9.091140251989808
+  - 185.92773649250324
+  - -155.76884756298205
+  - 87.95787217865482
+  - 3.029859661534639
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 45abe62f-eada-42f8-8bfd-0e0897609109
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.36766747707811
+  - 9.09115493915877
+  - 182.43819849913206
+  - -154.3061948992481
+  - 85.70644250839617
+  - -0.10636131008463953
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 481bd973-9cad-4206-bd04-60bb075601cc
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.36849193792418
+  - 9.091305299945084
+  - 158.90164993594206
+  - -151.65011049536187
+  - 86.82517815539818
+  - 6.642664569101065
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 1ebc22cd-e3c7-49f0-b4ff-7908fffa1a6d
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.36902379028162
+  - 9.0906571368216
+  - 164.29954703303213
+  - -149.8018474995048
+  - 85.28318322160487
+  - 0.6143933254906307
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 4439a17e-4723-401d-b9f4-0b853fcc25ad
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.3692283052345
+  - 9.088743074918197
+  - 148.55075264256226
+  - -146.0742652344152
+  - 85.79946447864536
+  - -2.7756323529367104
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 72ef1fbe-03cd-4dbe-b9b4-266d9e22307c
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.37045572822446
+  - 9.088165307448847
+  - 162.03123140306988
+  - -153.94014883207902
+  - 83.91118286214403
+  - -1.7713833370735501
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 9e2ab2dc-17cb-4c9b-ace0-5b9ecd17095a
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.37044669358404
+  - 9.087322336098852
+  - 134.96325146448186
+  - -159.93919823099344
+  - 86.08288920209583
+  - -3.252856385576612
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: af51f6bb-2ed6-4cc2-a60d-dc7fbaa2e376
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.37083504568741
+  - 9.086317541681003
+  - 108.08907632378465
+  - -154.84143715236294
+  - 85.25773064729611
+  - -3.062361412043298
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 93ec9864-e79d-4e8e-af82-deab41404d63
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.37302148801463
+  - 9.082910395234615
+  - 95.92525581406301
+  - -147.1498070152476
+  - 90.08835191189455
+  - -2.6692001394348814
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 215aa793-96f3-4e43-99b3-a09fdcf08707
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.37524530032324
+  - 9.078583519587808
+  - 63.798796707914846
+  - -150.5438011250032
+  - 84.42345232781979
+  - -2.817059253092787
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 62077f1e-bfea-4af9-80da-7f854b4b5e1a
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.37714977054232
+  - 9.074893534854667
+  - 43.58547452548827
+  - -152.4761473736115
+  - 83.0921852743734
+  - -1.4411387933094129
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 812c1388-f20c-4b31-aafb-2dc7959472e5
+  airport: MPTO
+  runway: 3R
+  pose:
+  - -79.3779072722911
+  - 9.07392107780414
+  - 34.440770220934795
+  - -151.0021880999239
+  - 86.27998391224509
+  - 9.905069267339844
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a5d66ac6-8096-4dba-9362-cc4391ded4a6
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.4180260256932
+  - 8.999695412614674
+  - 341.92880684132456
+  - 28.239824672823016
+  - 85.5884056961891
+  - 2.2207692000673145
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 68ab3c58-c596-4507-a6e8-b08e8b4207de
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.41700486630455
+  - 9.000306328113503
+  - 230.90541435093215
+  - 32.30784104223672
+  - 88.19407245681045
+  - 4.047628782778082
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: aa6ee082-c705-4b53-8ab3-50fa4420cede
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.4181885451952
+  - 9.002228388175563
+  - 290.42264487859336
+  - 27.573011063515615
+  - 85.61517382898249
+  - 0.5077128072205315
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3a82fce6-b179-4f61-96d0-30d1b85a7432
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.41773738953142
+  - 9.006318586089836
+  - 351.307385700497
+  - 37.39655686476708
+  - 89.0133344041848
+  - -2.1955311426034103
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: fecf5fac-ea23-4487-8f10-862c87acfac2
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.41766080207607
+  - 9.009707583352498
+  - 246.87687945830876
+  - 32.03969285780895
+  - 88.06367121952556
+  - -3.247747772872389
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: e0a16be8-369c-46aa-8f2c-87f47e25479c
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.41449581094243
+  - 9.009977734421158
+  - 208.57980816272433
+  - 29.947194004831914
+  - 84.8163482701677
+  - 3.211561390305782
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 320fb970-63cc-4576-a181-7ec427678652
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.4146908083799
+  - 9.01010040750222
+  - 249.16091581668923
+  - 34.002097863850246
+  - 85.12508462608201
+  - -1.7305185188381027
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: d94c9ecd-b869-4ea7-a177-381321ebe2bd
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.41513774235486
+  - 9.010774146933459
+  - 290.9058288082236
+  - 20.742038972264076
+  - 91.44937494685807
+  - 1.8003926457919828
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 8061997c-30f4-45db-b61a-1fabcc8164bf
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.41217221613176
+  - 9.009368608260017
+  - 216.73854212622973
+  - 21.246903829038622
+  - 83.09116611097049
+  - -7.069642463592593
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: fc15a30b-0ee6-4c28-99ce-ffd9089fc633
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.41430773064195
+  - 9.012895853853568
+  - 283.50359780678775
+  - 26.714731790166613
+  - 86.53677985224829
+  - 4.555236017642455
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 938b6a94-d20e-47a2-b68d-03f072a8b0f8
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.41111228854567
+  - 9.012489228876241
+  - 240.1472296135284
+  - 27.745901210373795
+  - 88.3179981047552
+  - 7.657811515060439
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 2e002706-ec53-49e7-b5ba-9a77b8c24d01
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.40866649731765
+  - 9.016929048238579
+  - 249.81168771573263
+  - 26.58844437221226
+  - 90.31652128220203
+  - 2.840622858564394
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a19c5817-50c2-4662-84d9-1195356272e6
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.41096755927695
+  - 9.019098222077021
+  - 219.9291608299511
+  - 25.19237749995446
+  - 91.08820932216813
+  - -7.6402433655871285
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: e4f4c0a7-f8e0-4d74-96b7-abc1441af61b
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.40664397461396
+  - 9.019244009256601
+  - 171.14160660614368
+  - 25.98508704837771
+  - 86.13151248684967
+  - -1.6809360072783592
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 64568ed0-ed11-4159-a7db-3acaecf0d66a
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.4076164383939
+  - 9.020443758624284
+  - 195.76811576447636
+  - 28.838916023621312
+  - 88.56699937294235
+  - 6.10413554128513
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: f9e5b515-75ad-4303-8c71-abec5dab9328
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.405562967129
+  - 9.021651350312858
+  - 172.99809536673433
+  - 36.40257517739559
+  - 81.7032093704926
+  - 7.456558927138089
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: ab13c2db-4dc3-444b-ba4c-722746ce16d8
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.4050380088921
+  - 9.025281975349733
+  - 133.75292087345477
+  - 21.12660339692757
+  - 84.13617915650298
+  - 8.116053709301127
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 0d02db6f-4a6a-4c1e-b7c0-5cb9e7f646c7
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.40364245577918
+  - 9.027064321212185
+  - 130.7939664029027
+  - 22.257200171700845
+  - 85.71143973405893
+  - -1.5166299841254771
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d893c222-277b-41a8-ac29-47d731f87fad
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.40434137767822
+  - 9.027471055604318
+  - 157.84982784746998
+  - 25.192987411311055
+  - 84.14910623125822
+  - -8.380732260019098
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 0b4b090b-f1e3-4d43-83c7-294e98ccc62e
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.40373785890745
+  - 9.027818923384457
+  - 138.8163536589885
+  - 33.71791528523783
+  - 87.87300643670396
+  - 3.134821963768473
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 49d862b1-33d8-4ceb-bd2f-134913542d33
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.40383692910297
+  - 9.028533042505627
+  - 136.73312472500118
+  - 28.4765964530877
+  - 87.6055155541314
+  - -5.936204342063199
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 73604d8a-af7f-4d46-ab59-1731036cae43
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.40024163615472
+  - 9.032207550290023
+  - 154.6984774485661
+  - 26.72936780253733
+  - 86.16549776325913
+  - 6.453843398012147
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 69497ffa-3a6f-4dcb-be29-633a50eb953d
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.40043672696329
+  - 9.03236514277029
+  - 144.377025887078
+  - 26.6321229039886
+  - 84.42592603807206
+  - 1.8720779073185778
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 365ab70e-cdfe-4f00-94f3-67b429533f21
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.39932470348315
+  - 9.035208416654582
+  - 88.95720518962227
+  - 39.1454950267509
+  - 87.73409520500606
+  - 3.397629054042442
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e4f9b148-621d-49be-88e3-aa42ccaeb083
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.39934456583698
+  - 9.036369866740369
+  - 90.41933206117638
+  - 27.278923202377648
+  - 84.11251480722174
+  - 0.3682881425819008
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3ccafef3-dc67-4ac1-847d-ad64092b4d3f
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.39862189045932
+  - 9.037815625516222
+  - 82.7452698246186
+  - 28.665139506308414
+  - 86.32035210630757
+  - 3.1330564561841223
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b48e37a1-b155-4377-af9e-7445c8513e5e
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.39814563351688
+  - 9.037892750313114
+  - 83.62641726001961
+  - 33.6230468711117
+  - 84.48023597505544
+  - 4.83071715189539
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 9fa7f147-253a-4433-b898-c8aa9cc5f561
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.39532178149875
+  - 9.042835471551124
+  - 60.11651528346638
+  - 24.181772532466287
+  - 85.98810879609495
+  - -0.044376212479632214
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a9a457c5-bb34-49b0-b8e4-4b7f2b595467
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.3955987871646
+  - 9.043025000850102
+  - 51.24585423336228
+  - 25.695509837679584
+  - 88.05442452985632
+  - -2.2718926140809526
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e43c942d-b784-4fab-93cb-b4ae5b2801cd
+  airport: MPTO
+  runway: 21L
+  pose:
+  - -79.39389217736601
+  - 9.04511098425148
+  - 36.396071478228066
+  - 23.621945470111818
+  - 84.92640218421691
+  - -4.252072947492159
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

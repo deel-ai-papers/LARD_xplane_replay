@@ -1,0 +1,1078 @@
+airports_runways:
+  ZWWW:
+  - '7'
+  - '25'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: e54bc622-bf6a-4a5b-952a-2c7d3afcf6cc
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.56434377861346
+  - 43.92726780922351
+  - 1000.9936591488316
+  - -110.42561083134926
+  - 84.05164265319557
+  - -6.568660574172731
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 1640059d-8845-483a-a08d-a277405f0d5b
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.5631645604424
+  - 43.92761702242178
+  - 1049.8222428575125
+  - -97.79662282342267
+  - 83.57300434580236
+  - 4.246687819568925
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 2db07d24-51f9-42ca-980b-7ff0563dd1aa
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.56169443918193
+  - 43.9250776021108
+  - 920.6139825050384
+  - -105.34958502763561
+  - 85.67002122669452
+  - -2.958138937656221
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f6abbc64-79ca-487d-9560-0d9635a298e6
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.56012676326385
+  - 43.9279412705352
+  - 1001.877455870025
+  - -105.8259760088811
+  - 83.71192143582917
+  - -1.511845110299592
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 0f338b6b-8ad6-4dac-bfe8-57dd32a28c0a
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.55739087403481
+  - 43.924607457984266
+  - 1018.6251563715767
+  - -111.09105369375327
+  - 83.50202676899217
+  - 4.448049340953327
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e8589dc8-8f5e-43d4-960d-48f493b635cb
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.55674963711883
+  - 43.92200380214514
+  - 912.8906626702155
+  - -108.82953618923334
+  - 83.25640304033891
+  - -0.24378735296263504
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 721e533b-3e35-43ac-8af3-804e4e41dc27
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.55041081469795
+  - 43.925110948511794
+  - 951.0572181473622
+  - -104.0641170380924
+  - 87.12673441756402
+  - -2.98614058211761
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 6ebb9770-250c-4dd3-8297-0bf4e3910538
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.54997182625061
+  - 43.92472234026668
+  - 882.4175253728981
+  - -104.85824805579414
+  - 88.19857556460879
+  - 2.4376602813410155
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 1361c02b-ff4f-4d80-92ac-4f49b70faa2a
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.55031334415521
+  - 43.92160512834464
+  - 914.36764204173
+  - -112.10926193473276
+  - 86.58779064991093
+  - -4.450158950306575
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 6826c324-2ea3-4398-8244-54b0bb6f42b4
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.55004195334868
+  - 43.921969076107466
+  - 906.3108149498894
+  - -103.69847114953424
+  - 85.45888172123355
+  - -5.150329272352816
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: bfff1f08-def3-4410-bce0-1423de46af39
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.54866391197515
+  - 43.923324645603174
+  - 880.68880656391
+  - -101.9107857298716
+  - 88.6778292812731
+  - -3.9783281030710125
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 4ac176f7-7bed-4015-b14d-0d0b7948acad
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.54757406357885
+  - 43.92283915152984
+  - 948.4603625201655
+  - -94.11868170614662
+  - 85.96944510351172
+  - -2.060711468112238
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e629cad4-dcb4-43f8-a108-bb1d1be0696c
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.53849753467341
+  - 43.9230889940767
+  - 791.8098361343375
+  - -106.08186107568226
+  - 85.92526445677093
+  - -1.8032798277830846
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: d3e9acf8-0e47-461a-84b9-ea0351814a71
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.53864330721538
+  - 43.92163093392466
+  - 851.1421353056312
+  - -109.10921056673266
+  - 86.81903383840755
+  - 0.9983271937737022
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5dea2326-9f7f-445b-8918-06838fbb867b
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.53668875694936
+  - 43.91955799491776
+  - 826.2690620065302
+  - -115.67991707239575
+  - 89.21058975759986
+  - -3.9483853250124206
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: faf44eae-bfe9-4762-b865-1a3e1aa65e5b
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.5338524971707
+  - 43.92187830650671
+  - 796.884181547359
+  - -106.72286839142477
+  - 86.13175604731882
+  - 6.687253715084803
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 2ca68e9d-6eb3-4497-8d2b-869cd6e8d9ba
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.53347276254091
+  - 43.92024366619513
+  - 785.2415936352076
+  - -106.26961122769967
+  - 81.76817122169531
+  - -2.2814491294529398
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: aa9c497c-2962-4388-bd40-ba2c0713e519
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.52933152255429
+  - 43.91787138207145
+  - 830.6856082883685
+  - -105.2119416630756
+  - 86.90928662124116
+  - -4.771668063151126
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 5056a450-1002-4797-a3d3-a717152d111d
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.52722928946089
+  - 43.917276808813014
+  - 798.334666323204
+  - -107.01420332672012
+  - 86.08881780077442
+  - -3.8562268257661807
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f0791ec3-484a-4f1d-a400-b04b05875cf2
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.52575587570651
+  - 43.91791949322823
+  - 813.4820430619247
+  - -108.25445900004296
+  - 86.51536667200934
+  - -3.1002661316215105
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 01dd75d3-ca06-4a9e-9f50-aa160e9b99ed
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.5226114602156
+  - 43.91830377510294
+  - 765.8073668490847
+  - -109.7217505506532
+  - 83.16147740770201
+  - 6.43104471022201
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: fa82b474-533f-46f2-87a4-d63915ba7b0b
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.5196582699555
+  - 43.91652939226338
+  - 791.921564488028
+  - -106.31530750870348
+  - 88.22605207213294
+  - -4.327379497310425
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6ce1ca7a-d8ef-4403-90f0-fdde7fb26813
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.51941153859711
+  - 43.91554046688135
+  - 787.1723711462782
+  - -108.81273024833776
+  - 87.90198015232627
+  - 1.9928800990071385
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 14ea79de-95ba-4de9-aa3c-83487778192b
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.5173384839971
+  - 43.915941409350296
+  - 741.3620771014369
+  - -103.60445595716989
+  - 89.65641330443496
+  - 13.409700859047275
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 83e75f84-6d32-4f5e-b37d-19ef5e429108
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.51424363120177
+  - 43.91553255117026
+  - 751.3805908798394
+  - -103.33924446800509
+  - 88.11313028244031
+  - 1.1666647320584747
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 58188610-1879-495b-9c59-fd6a91f79562
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.50864895693438
+  - 43.91462924608137
+  - 701.3217448314131
+  - -108.16657457679796
+  - 88.01158179540786
+  - 1.794782489348864
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: dca2133a-acb2-4c49-88b2-9e5bf8b43968
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.5016236649997
+  - 43.91304291631563
+  - 690.5996768362733
+  - -98.67585404389015
+  - 89.56290938741716
+  - 0.583255771071693
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 02a6fd59-5b3c-4133-bb39-b5db2702d5f9
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.50023407616058
+  - 43.91265410843936
+  - 682.6350225538364
+  - -109.5651243779778
+  - 84.79359181462054
+  - -0.494430475533578
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ec73f8bf-c08f-4a00-bbd3-38a2d1299f42
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.49935176901681
+  - 43.91251839044847
+  - 685.8918686921161
+  - -100.38076205599994
+  - 86.23416026608159
+  - 11.844061680452576
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 24f49cb9-ab25-4c87-b876-f2de33929306
+  airport: ZWWW
+  runway: '7'
+  pose:
+  - 87.49935698692758
+  - 43.91245620136592
+  - 679.9898307557431
+  - -108.50678831329036
+  - 85.62576260096333
+  - -8.84903431418838
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 864cab8c-1cf8-43f7-b697-dc66838a99bc
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.38130459286032
+  - 43.89085302121119
+  - 933.299934035276
+  - 66.05480481704193
+  - 85.75192388551788
+  - -6.474271931521215
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 4b9b2075-997c-400d-b9fa-74ec0c963309
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.3854414325839
+  - 43.885557995077654
+  - 924.9472688030651
+  - 77.65761118922478
+  - 87.4273167126903
+  - 0.919469647237577
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e69045cc-0d8e-4f8b-8fe7-6d2f25dec43d
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.38613481456566
+  - 43.88842116947943
+  - 913.0146587086433
+  - 62.31286570940285
+  - 87.13131668828768
+  - 2.0113128834418124
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: e0e5eb2e-afb8-4c3d-b1ff-721ac7e31d0c
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.38811298482375
+  - 43.88789828354935
+  - 945.4700426591037
+  - 69.19529797504866
+  - 84.10397340517903
+  - 7.247121191899707
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b913ead7-d4f5-4227-bdd9-89c493f0ee18
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.39052007938767
+  - 43.89115367504675
+  - 894.4496830645088
+  - 79.14280745049311
+  - 87.2514242591893
+  - -6.003664979490878
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 513c8651-f010-4abd-be53-f485ff36dbbc
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.3947700843407
+  - 43.88864240818679
+  - 883.5002511264258
+  - 75.7130932312271
+  - 83.87367801626007
+  - 1.67070115960566
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 79690240-9568-46d9-af59-d8a683f0ff68
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.39672324693747
+  - 43.89211638310433
+  - 934.202681747418
+  - 83.30114188538441
+  - 84.181510736951
+  - 0.0852273819760399
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: aba33769-26cc-43f2-b260-da4acddb0ee4
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.39834139081212
+  - 43.8905750108422
+  - 918.918483035357
+  - 74.68586617986452
+  - 86.2387645697544
+  - -2.0146076206364225
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 027f0348-ddde-497a-ad80-6ca311ce6e36
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.39867506931274
+  - 43.89101331627692
+  - 860.1151908745129
+  - 70.29924183357203
+  - 84.43135391249496
+  - 4.859645911239931
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c45085bf-64ea-44af-8209-fb05114d2dd2
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.39797221739092
+  - 43.89380014861701
+  - 957.9109972698784
+  - 69.12579780097496
+  - 85.94941764749632
+  - -0.5925217611858602
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 7980d5ec-e847-453f-87f4-834cb79a6aec
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.40110520541285
+  - 43.89096563863147
+  - 844.6081194732212
+  - 79.71470143437303
+  - 82.82805006449733
+  - 6.701723425505136
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 9557085b-b1ae-4a03-9aad-0f98ee84cfbe
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.40294731417482
+  - 43.89164012591496
+  - 860.6961587098496
+  - 72.49335576029301
+  - 85.85130714849193
+  - 1.726101204666179
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6aa44519-8c02-4d9f-9635-c57d11f7d42b
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.40632822884541
+  - 43.893364493674746
+  - 867.6756800050916
+  - 77.85264280550372
+  - 87.31436933379703
+  - 0.41619756820532683
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: d2141421-da6d-4d20-b875-676627208e40
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.40646085420163
+  - 43.894895322885695
+  - 822.9463872667801
+  - 74.23753010247535
+  - 87.22013085376308
+  - -1.7082606996445127
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 3f36d0c7-9efc-4c8b-96c3-543c76431220
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.40955671696359
+  - 43.89402234052103
+  - 896.6001783461292
+  - 71.57267431963558
+  - 86.1677628455171
+  - -4.361716712686611
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 1c1585b1-7739-4cdc-a255-5cb44b77866f
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.41908993648728
+  - 43.894573438275714
+  - 815.9028842256412
+  - 71.07908938894325
+  - 85.6067002215719
+  - 1.8185392846041708
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 9a6af56d-300b-4a4e-9441-fe7e5b9d0d34
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.41986554430078
+  - 43.895263227185325
+  - 838.0866551680671
+  - 71.35518038630475
+  - 87.18862196373267
+  - 0.11871503733500996
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6a503448-a263-4d1b-867e-f9511f1d4a9b
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.42065443131796
+  - 43.89534709794582
+  - 808.568590626661
+  - 74.03605664137707
+  - 87.29035512111692
+  - 5.477166746039698
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 5e6b3eff-6a69-46a6-944b-696122542e54
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.4221157947439
+  - 43.89560113951846
+  - 802.3874159522943
+  - 75.56608065349928
+  - 85.22070803586325
+  - 2.768223812291126
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: c3db95d5-cec6-47c3-9dc6-18eb1ac3165c
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.42228347331343
+  - 43.896766916720956
+  - 806.4877349871049
+  - 75.13688829858349
+  - 87.83915360220406
+  - -1.1161097246507825
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e1e63702-e5ab-4480-851e-b93c57918ced
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.42924690230303
+  - 43.89725303002214
+  - 778.8064318598753
+  - 75.85248990112531
+  - 85.39096760542787
+  - 2.319676426633782
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 57807189-e2fd-4dc1-b8c4-7b1ae154e136
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.43343980295788
+  - 43.897825391519746
+  - 757.150537154714
+  - 88.05263001941604
+  - 84.96974765010386
+  - 0.6578126761235527
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 56c100a0-75ae-409e-bc32-3c4e32dbc90c
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.43616697357858
+  - 43.899234332158024
+  - 711.0286569453003
+  - 65.88133452354693
+  - 84.41863392545557
+  - -0.6110248371503417
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5ab6d2df-ad3a-4abf-b9f6-4ac26213f071
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.43695120660995
+  - 43.89943231063987
+  - 716.6455435788971
+  - 70.5191332389009
+  - 85.6752428794611
+  - 3.2898905934880003
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: af06db8e-800a-4ba0-8705-194ebb5f4d7b
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.43839641236836
+  - 43.89913099268887
+  - 725.6645839222592
+  - 71.97168327051955
+  - 87.30868429466929
+  - 2.134441340074469
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: d2c8fc8b-f5bc-422b-bb66-d28cec3f0433
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.43835702303174
+  - 43.899590057768826
+  - 722.4567076470557
+  - 74.26741851309968
+  - 88.45405504099598
+  - -4.9402221842160055
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a191dea2-dd53-4d56-ac14-9f2c02d80676
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.44166950497235
+  - 43.90020103771452
+  - 715.7953246054682
+  - 64.94082293343605
+  - 81.66167820945921
+  - 8.581100580155175
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 81b6b4fa-ba64-467a-ad69-2d3ca4814785
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.44357047242994
+  - 43.90037028769333
+  - 701.9078520022264
+  - 76.41586589312857
+  - 85.9886269911037
+  - 6.814629972288854
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 935dfdc4-7923-4dcf-9e2f-303c6e0c36ce
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.44423970358955
+  - 43.90070915082972
+  - 697.7979143392547
+  - 71.40198305362969
+  - 87.85288540951046
+  - -0.2352912943622928
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 75477e08-945a-4501-8b89-20f1de994300
+  airport: ZWWW
+  runway: '25'
+  pose:
+  - 87.44924487074894
+  - 43.90174867448107
+  - 670.6894106633449
+  - 65.48826478025501
+  - 86.4902029126725
+  - 5.916721224340982
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

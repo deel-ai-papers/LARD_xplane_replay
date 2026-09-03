@@ -1,0 +1,1078 @@
+airports_runways:
+  VMMC:
+  - '16'
+  - '34'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: ae737e5e-1795-49b2-a8ac-9e3fe6e24c5a
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.61225771886825
+  - 22.088245414120877
+  - 288.64391390941523
+  - -13.442916483003463
+  - 86.0068704638392
+  - 1.9764524524880833
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ea7ec62b-bdcd-4002-b3b5-39bd5c33f28d
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.61355708760989
+  - 22.090468360589863
+  - 243.00377810975942
+  - -20.137184844668365
+  - 88.31035438742876
+  - 5.014648561184499
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b1edb0a3-8094-47c3-8d88-a44abf8ddb43
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.61188545308639
+  - 22.091027255449365
+  - 346.2439142389829
+  - -19.990551071512247
+  - 88.25720021544385
+  - 1.3945816428371631
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 347148eb-ede5-454c-9d65-aa82ec5a502f
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.61035501371614
+  - 22.09080682189256
+  - 256.1291513875858
+  - -19.018705330337017
+  - 88.9032545806818
+  - -2.300619646018961
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: de56d3a8-649f-4123-a54f-9fd92ea6009d
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.61378912711403
+  - 22.093745095655507
+  - 227.00940933538268
+  - -17.69691276407998
+  - 84.14975640243601
+  - -4.072606356639315
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e85e8653-e159-4536-932d-33a293a73912
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.61071352234188
+  - 22.093667676895723
+  - 280.4233083708188
+  - -20.145430912931126
+  - 87.7971553733902
+  - -0.9207464109835316
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 3a5f17bc-347d-4d11-a5d0-62cb1ba5b9cf
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.60950643627692
+  - 22.0944005312422
+  - 268.9459381798404
+  - -11.811444717059267
+  - 83.3820272476872
+  - -2.770752536747338
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 929a465c-5566-4336-a9b8-c03e47256e41
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.61038905579542
+  - 22.096007143667592
+  - 269.63636698179846
+  - -13.805129800002797
+  - 84.16311202265177
+  - -0.3667314959375316
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 6097a59b-3abb-4826-b404-4c5df1d5e001
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.60957641569651
+  - 22.09578898006218
+  - 235.4101409283289
+  - -15.081442747287564
+  - 87.32018380254803
+  - 0.4789985196798208
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 58c83582-a757-48dd-87db-76c0cb8e15a0
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.60930270994866
+  - 22.097418868006795
+  - 241.1664105706121
+  - -20.6975367727942
+  - 86.31907296364551
+  - 1.0681073353671775
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a885f194-62bc-4a43-b1a6-6e49f57616cb
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.60780538314775
+  - 22.099525475775536
+  - 224.5573601111037
+  - -19.417774464852656
+  - 90.46790152029133
+  - -3.2036056203396868
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5ea88157-0818-451f-b0c8-73cb149d5b2b
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.60816416410545
+  - 22.10181615611807
+  - 217.66642762301714
+  - -24.73100150557869
+  - 85.93036484128939
+  - 2.5145053338683168
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: df82b738-19cb-44dc-b1d1-65162f4cd9fc
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.6066654066597
+  - 22.106595567297806
+  - 217.65603178588808
+  - -21.886466490718288
+  - 85.29425126983497
+  - 5.883451393654967
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: bbdd0f5e-8ec7-4736-bd01-6549180a2e3b
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.60568827933865
+  - 22.10794955324523
+  - 235.13014972489563
+  - -16.23578376855098
+  - 85.4857300974452
+  - -4.747905973398015
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: bb81885c-dac4-42f7-935d-cae7f21baca2
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.6061473546094
+  - 22.11260100151578
+  - 175.92346706593304
+  - -21.69134031921597
+  - 84.3939254816643
+  - 1.1078653173955757
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 57a92c24-1c49-4b0c-9f27-41bebc6423cc
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.60405221376726
+  - 22.115480724024795
+  - 162.35656528964032
+  - -19.92188366789908
+  - 86.51462938717486
+  - -3.438008528888092
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b21bf0c1-561a-4e90-a4b0-669f86a6c8a0
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.60338424046942
+  - 22.115746187973276
+  - 158.3675623760888
+  - -15.635441005243738
+  - 86.1973175158636
+  - -1.2557309674717354
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c7c69f80-6cd4-4902-a1f1-b43f03940407
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.6031994342704
+  - 22.116303319637577
+  - 134.72360802963632
+  - -20.687318603836054
+  - 85.89561702235011
+  - -7.443120751531928
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 4c8ec451-6056-460b-8ad1-e0073aa2b0f3
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.6043255742477
+  - 22.116795717395494
+  - 162.26958426777898
+  - -12.084185749660222
+  - 86.36173510025006
+  - 3.673223145130888
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 36641dd5-ab1a-4dd5-b7ff-07de915f38a5
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.60446706793053
+  - 22.116937184124925
+  - 120.58171636006608
+  - -20.66918515865606
+  - 84.00925790975488
+  - 7.411270265406197
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 74e874bd-e84a-4b1f-aa5e-114e48b6a01e
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.60244498565588
+  - 22.119981822266375
+  - 88.66671800189295
+  - -13.12463943556233
+  - 87.11492257437928
+  - -4.018552648100922
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 17d15e00-2fb1-4031-889b-f7ae6c531453
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.600508478455
+  - 22.126856789572344
+  - 81.14033376230843
+  - -13.74037855839568
+  - 85.07546654820413
+  - 2.529651156658664
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: f380bafb-e239-4dd3-baff-c9a1c1a9daad
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.59833302568549
+  - 22.127166743426944
+  - 100.2781208167044
+  - -26.948135036380563
+  - 89.44008586346187
+  - -12.263197770910732
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 0e6c6d3c-0600-4650-a595-aa9cee7e133d
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.59839220659006
+  - 22.128943924743652
+  - 85.73490009432109
+  - -23.331739157602986
+  - 84.32141419592604
+  - 0.2783782898701773
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: afe29ec0-ce7a-418c-adde-83beb19560fa
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.59806861759493
+  - 22.131353680923535
+  - 57.219892421715286
+  - -15.285202334125618
+  - 87.90621939983583
+  - 5.411840185868884
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 616c163b-7403-4caa-acaf-4dc7fc30ebee
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.59726627512636
+  - 22.131956733038855
+  - 59.06374879086064
+  - -19.21873051456182
+  - 85.30794101950885
+  - 1.9712919378820284
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: cb0d9d90-024b-4fac-a8ab-0b57374453a9
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.59770025247259
+  - 22.132764246606154
+  - 63.25335712273712
+  - -17.34662786592277
+  - 84.36279431607056
+  - -1.8253857282732397
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 408d99ee-45f2-4334-b93f-118ab924136f
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.59774879433817
+  - 22.133028604399342
+  - 51.30723711624587
+  - -12.354912321114652
+  - 85.90208352789294
+  - -2.146480796547607
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 330476f4-0184-4eeb-9e57-092562b0a713
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.59748038637619
+  - 22.13312153390163
+  - 55.10618883034141
+  - -15.93558244124345
+  - 85.03852707414065
+  - -2.14666641046749
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ae00a1f9-caf7-442e-aec7-8d6c999f3229
+  airport: VMMC
+  runway: '16'
+  pose:
+  - 113.59706006964728
+  - 22.133719546972344
+  - 41.02324865793429
+  - -17.732853387258046
+  - 87.13078764448831
+  - 3.5588329342597937
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 68c27bcf-aa2e-4e39-8091-0ba9d4825291
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.57017688351152
+  - 22.206982108357245
+  - 311.1883045129685
+  - 159.19667538554017
+  - 87.21026432255124
+  - 2.988952559182931
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 275b77cc-6b11-45cb-8dda-813fad8055fb
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.5674881188807
+  - 22.205626005877793
+  - 303.2234137132453
+  - 163.1019210594579
+  - 88.39271448950882
+  - 1.8195432096369488
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 5e19af21-d7c5-4583-9186-f66c1649ff2b
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.57099788575236
+  - 22.204519206294986
+  - 276.7408336539922
+  - 156.20871980870257
+  - 84.91689359084278
+  - 4.864742295488044
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: dfb67ffd-287a-43ba-8284-1809fbc62ab5
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.57348571095652
+  - 22.204748741610153
+  - 269.4403391230487
+  - 156.34474442244183
+  - 87.15314382950461
+  - -2.2919197173046033
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 16cc073e-98bb-404f-a692-7e08b398df38
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.57296613441369
+  - 22.20223662574217
+  - 298.01875693981054
+  - 165.41992791449974
+  - 87.7589727049774
+  - -8.208979750294656
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: de501cca-c712-42de-9bc8-686e5ee66826
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.57451875700667
+  - 22.20260589983549
+  - 273.4990477912676
+  - 156.349254227074
+  - 85.72312741479193
+  - -2.534906707116558
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 8dd31f89-01a5-4e07-aae5-7e6ac1b4681d
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.57192253369368
+  - 22.1998132337546
+  - 228.12804759455102
+  - 160.60081099158043
+  - 88.32168895806824
+  - -10.661504936439275
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ae350c0e-281f-4381-9145-ee4213367513
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.5746038469102
+  - 22.199638614570908
+  - 235.88651148976402
+  - 155.17162993340312
+  - 86.7343850068757
+  - 4.33809890843817
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 4a5aed0d-bc4d-4db5-9784-707ad1b1182d
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.5733784381093
+  - 22.19923836082625
+  - 221.85866542190976
+  - 159.08598441757402
+  - 82.01399513002168
+  - -6.416745316587889
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 36d59495-83b2-4196-9ba8-d2ba9bfed606
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.57345348598207
+  - 22.19924838844032
+  - 268.020181889651
+  - 158.3311383795946
+  - 85.24101518930019
+  - -3.3814234468255195
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 432ac57b-f689-466f-a8fb-4e9cc5b00619
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.57805094012099
+  - 22.197953430884155
+  - 293.9980077531851
+  - 171.81347440309304
+  - 84.09269294331982
+  - 5.999473708469932
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a417c4f0-8586-41f0-81b7-f87db6955cc6
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.57427488806981
+  - 22.195273354759326
+  - 252.10800756257757
+  - 157.18367417478123
+  - 85.72417157708998
+  - -1.9434974485996266
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6428d954-da68-411b-bf42-c8e75110750f
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.57430613133769
+  - 22.190863475927152
+  - 223.2319982490763
+  - 160.32288805278665
+  - 85.07391120996616
+  - -6.614842355322168
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 911e7a62-3ea7-4933-ba1d-c7120fd9c872
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.57767748222106
+  - 22.1872103959258
+  - 167.47384924687088
+  - 158.64687904954744
+  - 85.05077382521573
+  - 6.665209127777264
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: f43a14f6-fcb8-4368-b67d-44e32ac21fe0
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.57971248161381
+  - 22.18572229871142
+  - 198.94770088976924
+  - 163.94175508334737
+  - 85.26679617442632
+  - -9.953637589303236
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ca71c3e3-8c8a-421b-80b5-a01ed6a2691f
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.5789721482351
+  - 22.185078684599677
+  - 124.7258327390044
+  - 165.5711671790581
+  - 82.78147126152174
+  - 4.754083587017831
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b5f433e2-93d3-4930-bab0-3e329246f851
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.58026607790387
+  - 22.184029054476095
+  - 179.16196588241397
+  - 163.38987917639233
+  - 84.3616130588892
+  - -11.05272445588225
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3b7ee0ff-353d-4cb6-b920-dd2ae3e9106d
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.57961111703821
+  - 22.183833208984648
+  - 147.7815577588891
+  - 162.6883948172701
+  - 81.47610263590693
+  - 3.8627962963290337
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a59bad3f-174a-48e2-8cdd-b5c1d8ac30cb
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.57759848728375
+  - 22.182596076760117
+  - 162.34122014325322
+  - 171.60410037039549
+  - 86.40556425069241
+  - -4.109782233189276
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 50891b3f-7b7c-4987-bdef-c07d3cc34efb
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.57994290840357
+  - 22.182162473921366
+  - 147.6020642034251
+  - 164.794233598618
+  - 87.54900073042126
+  - -3.4060603288036972
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 6a4b28da-678c-4b3d-8623-b79e93cf33ee
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.58143786418273
+  - 22.17721743223604
+  - 114.84227947851275
+  - 157.11975931005205
+  - 89.31582622400572
+  - -4.851651281727715
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7c8e70df-ea0b-4b81-9256-1f2d28d26551
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.58190380723896
+  - 22.175146340054354
+  - 120.47397213614714
+  - 159.71314857402584
+  - 84.51933254108975
+  - 2.0219872334462767
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6ba438bf-8356-4706-8b39-89012b3bf15f
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.5832152724064
+  - 22.172313819338413
+  - 83.38139512473714
+  - 162.52748608418872
+  - 86.2739167287859
+  - -3.5008588281465283
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 7478eb8c-499f-4788-9cf2-31c379919b2a
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.58335039205136
+  - 22.169987000948147
+  - 80.05157508632315
+  - 160.6249498186629
+  - 80.68512062047633
+  - 0.8229197146332596
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 37141b3d-d7ff-447f-85ab-95b9a2a3ba2a
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.58370730253591
+  - 22.169999628444252
+  - 78.75666422790589
+  - 161.1010218415156
+  - 85.85774171595568
+  - 4.989342611223636
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ac0c3f62-4cc4-4f4f-85b0-fe8c5cdf086e
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.58491720969467
+  - 22.167468715834264
+  - 60.373156601126986
+  - 166.05794419623973
+  - 84.42873514444615
+  - -1.9109803027816912
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e48f84da-3f22-4ee1-b9c8-75410dd45705
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.58487543229505
+  - 22.165539040989437
+  - 48.77112215173377
+  - 163.05719006122655
+  - 86.54890065042969
+  - -0.9769820317224995
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 69b53a8c-fbaf-41ec-a1ab-e70f08a3d999
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.585696215007
+  - 22.164902354578036
+  - 48.46597630909648
+  - 159.7472710922177
+  - 88.05246621719246
+  - 8.180867124002463
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 2098b34b-f94d-4434-b9b4-8e0bf7e19546
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.58598629012522
+  - 22.164141068669636
+  - 30.10439260025451
+  - 166.00055746304596
+  - 83.77837072956436
+  - 5.691152372269856
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: d4504682-62e1-4b7b-a802-0c968d11f747
+  airport: VMMC
+  runway: '34'
+  pose:
+  - 113.5863977421684
+  - 22.163130255896643
+  - 27.248263485064854
+  - 172.3158886485784
+  - 88.55870637689249
+  - 2.8084751509552577
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

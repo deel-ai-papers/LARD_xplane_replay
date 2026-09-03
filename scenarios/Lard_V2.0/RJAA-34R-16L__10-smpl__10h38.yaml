@@ -1,0 +1,1078 @@
+airports_runways:
+  RJAA:
+  - 34R
+  - 16L
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 06203df2-2752-4588-89cd-31b3d8e05247
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.34958526196837
+  - 35.85330038069346
+  - 357.26917402940285
+  - 156.22831675246636
+  - 87.0208561293871
+  - -9.833804297051527
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: cf523dc7-8a6c-4c23-87e8-82216760614a
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.34485132481439
+  - 35.8476054951355
+  - 293.03480510950817
+  - 150.94904911533428
+  - 89.65693171555719
+  - 3.98672314575129
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 93b1dd77-8266-4285-b8e0-f50b29bb74c3
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.34593624065604
+  - 35.84701867436865
+  - 372.2362471515939
+  - 152.09422286796064
+  - 85.44781375413262
+  - 4.5976152065222
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 919924bf-b650-4cac-9445-ee2cf5e06613
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.34607263793765
+  - 35.84550752420417
+  - 329.00550706499354
+  - 154.11030310332708
+  - 86.78038330337631
+  - 3.0753589044232403
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 08cbb14c-9dcf-4ebc-b67e-350a97c9de6d
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.34960217361413
+  - 35.8404659266679
+  - 331.3739072622981
+  - 153.69538457650728
+  - 86.55208595258412
+  - 8.88090513063201
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 8f5ca97b-f820-4564-9170-c9d3148b4666
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.3511613253001
+  - 35.84083303904133
+  - 322.9308272732454
+  - 148.63745349547537
+  - 83.15038574798771
+  - 5.720565672176528
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: dcd9d5a3-cd30-4283-a0f5-4739c902eae5
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.35400304516955
+  - 35.841921345545174
+  - 342.9265164502088
+  - 145.55485041856218
+  - 84.76606794207864
+  - 1.638892896987063
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: fd909f10-1998-4144-95bd-102ba559f4a2
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.35215693853274
+  - 35.84015485083189
+  - 240.07212700959835
+  - 154.40718680818392
+  - 87.11880513234463
+  - 4.730991940167249
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ef4a5a38-f1ca-4274-87ae-a1f098f61e00
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.3530541036388
+  - 35.84049346690283
+  - 269.38580990540413
+  - 147.64293439785408
+  - 88.71332386921706
+  - 4.671829117341771
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 44ecc2c2-423e-41a3-9ad7-a13c65d14609
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.35427866506382
+  - 35.84102572314374
+  - 276.0637373867105
+  - 151.86093007830573
+  - 87.63418566722403
+  - 10.579636849351704
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b4f911c8-cd7f-4e93-861d-9eac2ed8e8a4
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.35042488411327
+  - 35.83579502176288
+  - 276.78147293461643
+  - 147.56004221671637
+  - 86.21038600960243
+  - -0.626903249030114
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 9f32414e-843d-4d98-8b5e-ee9f431c9147
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.35669842240313
+  - 35.83827192094256
+  - 264.8814092988568
+  - 150.03441525513597
+  - 89.06709099169547
+  - -3.068172771939415
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f74f3eee-8ff3-4bff-b2fb-488d6a29e521
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.35745079211117
+  - 35.83680930368769
+  - 347.0408962341171
+  - 145.32941448674597
+  - 85.29925914260674
+  - -2.0545807078139036
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 408f8da7-a1e9-463f-9289-36f1432bccb7
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.35735895499994
+  - 35.83218863887913
+  - 252.70517886651893
+  - 151.5648038908578
+  - 84.79751890611269
+  - 3.5612594833664675
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 6ca04a18-d17a-45b8-9faa-b84971f20020
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.3574767652215
+  - 35.83158472000293
+  - 244.90360801975413
+  - 155.23159249230022
+  - 90.27499910589307
+  - -7.153043497155963
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 687026a2-a3c6-49ab-afb5-d10890f3db6e
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.36325063068222
+  - 35.83013388905587
+  - 211.74607108125878
+  - 145.67631234525612
+  - 87.00610265128616
+  - -1.9118480677952145
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a8ad1ea6-1df0-4a7c-bbcb-f4465041f96c
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.35980416972745
+  - 35.827343673315596
+  - 193.08022083035527
+  - 148.5821921786959
+  - 83.8414357410385
+  - 0.36632831191952175
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f169d7b6-2db5-44df-a343-547366ce37ce
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.3631296387799
+  - 35.827233144650236
+  - 214.29836139104313
+  - 143.47579532504227
+  - 86.58143524863992
+  - -0.1259425232876659
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 328caa3b-d585-4d19-acc9-70ff6ffab342
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.36329681287162
+  - 35.82481683677202
+  - 178.11268426362273
+  - 159.06370526989136
+  - 87.32077041185201
+  - 7.6863513288832195
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ff399011-8bca-43f2-85a2-c6ebc7ddd2af
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.36348478758978
+  - 35.82436943870475
+  - 160.80179450179685
+  - 150.36580253994845
+  - 86.42858674652604
+  - 3.1891617927292257
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 8c0f72b6-1f6f-44e2-a4d6-aefe1f560d49
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.36522426560185
+  - 35.82022442168714
+  - 166.996855485043
+  - 146.19112330880532
+  - 85.63810098298683
+  - 3.3126605952480945
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f9d5e451-bf23-4f67-becb-1d1ae8e940a1
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.36725009537622
+  - 35.82123376675938
+  - 170.42544042372828
+  - 151.56326117693908
+  - 83.48738474468429
+  - -0.9152372472574679
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 03a7e795-a4a9-4c8f-ae22-68fbd9a3a87b
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.36753991939915
+  - 35.81879023673124
+  - 133.17045506607437
+  - 145.0357158590043
+  - 86.44919029430449
+  - -4.357653683355828
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 822b01d0-9fe4-4080-bad5-0e9f6169d77e
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.37304918830998
+  - 35.812719211405174
+  - 111.65863998001524
+  - 145.67159720554042
+  - 85.10851202702264
+  - -1.1661007890035928
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 44d1a0ba-5504-47b4-ad9c-98073737526a
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.3738378032983
+  - 35.81176558510057
+  - 97.32374925655097
+  - 145.80035505035244
+  - 86.48679621580614
+  - -2.2630591970277756
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 65e5028f-4b06-4531-8eaa-1f32e7d293f6
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.3751500632379
+  - 35.809361468442276
+  - 77.8302516318446
+  - 147.11633437080403
+  - 85.29523837274613
+  - 4.095671511132414
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 4f91fbe9-014b-47c9-b022-bc5ba58cb782
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.3754558270312
+  - 35.808660916696795
+  - 78.27156704118724
+  - 151.8886288592561
+  - 83.54004038650864
+  - 5.765040121089596
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f48167f9-6a8d-43f3-8a6b-4d958bbc737a
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.37579888479513
+  - 35.80862592193764
+  - 80.81500409381431
+  - 151.62758894713102
+  - 85.59583021469894
+  - -4.127251494756703
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 29b7895c-d468-458d-8947-8015f02302f2
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.37586307044293
+  - 35.80858235227569
+  - 82.95727531311294
+  - 150.19273997602951
+  - 85.96417620277643
+  - -0.914153275742519
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 791b810d-ed17-4a95-bad9-9a0a951df92e
+  airport: RJAA
+  runway: 34R
+  pose:
+  - 140.3765528412647
+  - 35.807474217497656
+  - 76.06371872494861
+  - 147.16586373805973
+  - 85.8481812074956
+  - 0.7677484826254787
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f35e93fc-526c-4837-8ff6-15edd72fc263
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.42801589917903
+  - 35.741508036904214
+  - 355.94645898104216
+  - -23.85063635594068
+  - 85.96358783803582
+  - -0.6040653823836168
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a2b533f7-1377-43a5-be45-b6df256b16be
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.42521145387235
+  - 35.7441901411989
+  - 392.3768234120604
+  - -34.55513862962798
+  - 83.7036070593725
+  - -0.12354606049170387
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: b5d7e085-fa96-4171-8691-6bb8c931020f
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.42011057550056
+  - 35.74239153213842
+  - 384.5802589647978
+  - -32.47582594269356
+  - 84.5069646770835
+  - 0.5579453258449686
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: f3806e1b-a681-4b23-9603-af145b3eda3e
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.42260549322032
+  - 35.74500798454764
+  - 319.86381717050006
+  - -39.77782955234251
+  - 86.61447206287887
+  - 3.1247490602740458
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c4bcae0d-77f3-40ba-a63f-9b7ece9ea0a4
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.4209785732496
+  - 35.74537645231302
+  - 329.6243975206347
+  - -32.193892655200834
+  - 85.6748543853118
+  - 0.6113632415134936
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 79c2b6e7-16d6-4b3f-9cc5-584dea0722a5
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.42214595010637
+  - 35.74694236591311
+  - 264.3506511293722
+  - -34.59116377400076
+  - 86.95812687534085
+  - -4.077642638069136
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 803ba7ff-34d3-4ec7-8342-edf4f1604939
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.41949214919197
+  - 35.7486135405806
+  - 304.40285930266583
+  - -38.8176083823693
+  - 88.30382558171424
+  - -2.2979479620005447
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 069aa87b-5b79-489c-aa8a-219fabcd8908
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.42140474322463
+  - 35.75105950717123
+  - 314.6836816232404
+  - -32.864856734650495
+  - 85.07021107144882
+  - 7.215723575678254
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 9e757f66-fb63-48aa-9efb-a531a4f376c9
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.41884273279535
+  - 35.75011778714613
+  - 272.20447734208926
+  - -30.419569192573935
+  - 85.81919790360683
+  - -8.788933979816294
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b8be5aaa-69c2-432c-ad27-38b5efa2ca5b
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.41455569013854
+  - 35.74939629886962
+  - 284.42526813662187
+  - -28.329918646259326
+  - 86.11388696996458
+  - -4.788001066251296
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: ca4f2339-240a-4ca6-9f9a-148e83066e9a
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.41845473126386
+  - 35.75164705491212
+  - 266.0454819984598
+  - -33.62552049393959
+  - 84.42631334449958
+  - -5.724696996254122
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6b4356bf-915b-45bc-8754-b1c16c72b8da
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.4163747873191
+  - 35.75209771395027
+  - 311.126089031908
+  - -23.476674324063758
+  - 88.27593726563326
+  - -2.000265817252232
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: fb80c777-3cde-4148-9457-ac30160edb30
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.41214704929314
+  - 35.7546360390674
+  - 255.19368041710007
+  - -37.89711465232776
+  - 86.80765195823679
+  - -4.728458678039814
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c20b7887-85ea-43b3-86f6-9daf49be27ef
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.4143368749871
+  - 35.75778412219329
+  - 279.19105515539354
+  - -29.8978795435134
+  - 87.44611778095873
+  - -0.9857581749021088
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: fdc47ad5-2e26-4cf7-b3d4-578f835eb498
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.41117321425207
+  - 35.75953457781694
+  - 237.94057597247175
+  - -27.163579148778947
+  - 86.23256044466771
+  - 3.8997039038044172
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: aa4620f6-c4e3-4bc0-afb7-964e6ee179a8
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.4098174186138
+  - 35.76076471067387
+  - 252.69709797404178
+  - -35.968091447733066
+  - 85.2766222891696
+  - -6.91660905210024
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b573645f-751d-4a11-a741-cc0484ea6079
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.4101398950913
+  - 35.76106885735271
+  - 223.86233854500813
+  - -31.570208263116438
+  - 85.31044487566724
+  - -4.445132060252274
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a8ca3538-8051-4ca1-92b4-4c9eddadc896
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.4100797991488
+  - 35.761168829987746
+  - 245.90868659076298
+  - -26.588649483281664
+  - 83.03643949161703
+  - -3.3304957724333137
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 9d40c15e-78c4-4bc0-bc95-643a728ecfc6
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.4051037127747
+  - 35.761885946964696
+  - 200.7428669587466
+  - -20.65099291784456
+  - 85.03115603267685
+  - 4.098983791873762
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 51c157e0-09a6-4d37-9bef-5ff6f4077f4f
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.4069311730748
+  - 35.76597137204027
+  - 168.83764024755374
+  - -23.583757276937412
+  - 85.34960530568944
+  - 2.475864604811006
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f5d4dbff-1daa-4cce-8cb2-caa1a3fe4d80
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.40507404967036
+  - 35.768151151877746
+  - 153.50824401513222
+  - -35.71854828082071
+  - 84.78448756255558
+  - -3.759906843628238
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ec27f2e6-4507-4ad6-8faf-d0018c467497
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.40328298084043
+  - 35.769981193572775
+  - 158.46293527297618
+  - -37.56058322617911
+  - 86.93784643206195
+  - 1.7007708791794953
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c7e0ece0-c8d8-4414-afd5-0f2fcf52e1f8
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.4024377241353
+  - 35.77181312226754
+  - 142.37564413049256
+  - -32.290823748465264
+  - 85.17909757333003
+  - 4.991136740191414
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: fd1f2a34-0de9-42b9-90ad-978b21b16cb7
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.40140582569012
+  - 35.77222557005999
+  - 147.33099323750739
+  - -34.02876979054474
+  - 85.95707892918416
+  - -5.7539339374450025
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 11a64a57-8b62-482e-8cfb-7824c73cdc43
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.4019622630276
+  - 35.77276489988622
+  - 131.06821320027973
+  - -35.412449810242244
+  - 85.87064009217397
+  - -2.0795986127468407
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: e339dd3b-3e4f-4f07-b1e5-2299552a0b66
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.40073734199242
+  - 35.774355501873906
+  - 137.69503690379065
+  - -38.7518453964159
+  - 83.17369000390713
+  - 4.7267897522076305
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 593029ce-0065-48cd-b82b-2f76ba0a64fc
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.39904655114188
+  - 35.77517886900737
+  - 118.10230703122477
+  - -34.6173219454723
+  - 85.6250157353814
+  - -2.5192301604891743
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b3a1060e-c90e-4f17-ba3d-b76b0f2a6fc6
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.3940375757393
+  - 35.782497364835045
+  - 78.2242270220313
+  - -29.202107423916097
+  - 87.92558764330919
+  - -6.666264075351984
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 9aeb351b-2846-4d41-a16e-c3a794e95b7d
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.39398247940096
+  - 35.78298038959229
+  - 74.73377633103698
+  - -33.985700504477045
+  - 85.30926264470904
+  - 9.931026181117002
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 5c925ddc-cd2d-454f-8843-08406a9c5efd
+  airport: RJAA
+  runway: 16L
+  pose:
+  - 140.3937993012875
+  - 35.783528990173565
+  - 73.25257341099189
+  - -26.33272814847075
+  - 89.75231641454835
+  - 3.7409613814927734
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

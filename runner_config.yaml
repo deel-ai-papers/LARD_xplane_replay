@@ -1,0 +1,34 @@
+# X-Plane network and window settings.
+xplane:
+  ip: "127.0.0.1"
+  port: 49000
+  window_title: "X-System"
+  close_after_generation: false
+
+# Relative paths are resolved from the path of this configuration file
+paths:
+  scenario_directory: "./scenarios/Lard_V2.0"
+  output_directory: "./output"
+  screenshot_directory: "C:\\X-Plane 12\\Output\\screenshots"
+
+# Scenario image values override these defaults when present
+capture:
+  default_width: 1024
+  default_height: 1024
+  default_fov: 40
+  non_proportional_vertical_fov: true
+
+# X-Plane needs time to reload scenery after position changes; 
+# Suggested delay values may be too low or too high depending on your system and network. 
+delays:
+  airport_change_seconds: 45  # >35 seconds recommended
+  runway_change_seconds: 4    # >3 seconds recommended
+  same_runway_seconds: 1
+  screenshot_seconds: 0.2
+
+# Used only when a pose has no corresponding time value.
+default_time:
+  month: 6
+  day: 15
+  hour: 12
+  minute: 30

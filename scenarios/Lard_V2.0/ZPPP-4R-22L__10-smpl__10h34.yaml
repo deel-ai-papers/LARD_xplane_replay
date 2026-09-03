@@ -1,0 +1,1078 @@
+airports_runways:
+  ZPPP:
+  - 4R
+  - 22L
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 3e53c551-922a-4254-945e-3994796cf745
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.99081235771924
+  - 25.159302218697306
+  - 2410.583170542105
+  - -138.18298652473695
+  - 85.47028891836632
+  - 8.909789874104032
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ea4e1627-b10f-4fd8-b1a4-4a174e8b1b2d
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.99301644580389
+  - 25.157279275401176
+  - 2378.4995036802393
+  - -141.39874970395735
+  - 84.80499600928033
+  - 6.981761834721722
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 082150ea-3f2c-40d9-9a38-53cd7cc2622b
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.99240066129857
+  - 25.157278531761005
+  - 2448.760820732049
+  - -140.34106565554825
+  - 87.61889084579757
+  - -0.9621061530448903
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4a8ace86-2123-46bc-a74a-2debf8aefcef
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.9919755391999
+  - 25.156785858147664
+  - 2426.011124524713
+  - -134.65781967559445
+  - 81.85840437335854
+  - -5.838594734823762
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: d7da7b2b-26f4-47d1-8235-ae6612097a1f
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.98915233804323
+  - 25.155206832392736
+  - 2385.218863337441
+  - -137.71734762077904
+  - 83.227233964386
+  - -3.5999555185553906
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a0b6710d-f6a8-4200-9bb2-9925daced394
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.98834601680026
+  - 25.155509253008404
+  - 2324.7172673795485
+  - -139.68708982227452
+  - 87.11151579136708
+  - 4.372306177934776
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: cb4b2db6-8d5a-45aa-92ed-59df59bd713a
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.98654823651296
+  - 25.155427162242752
+  - 2318.8238821345203
+  - -150.3814829879397
+  - 86.68529984035257
+  - 0.5750966295174399
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 4d8db15d-67d9-42e1-babc-d6f9922358f4
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.9842407380139
+  - 25.152709346868626
+  - 2321.684332191553
+  - -136.5417380149213
+  - 87.60860534126665
+  - 7.541653600645057
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6d59d059-adcd-4e1c-b765-32b335d3b3ab
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.9835815529982
+  - 25.152844163924172
+  - 2417.1792401236094
+  - -136.2598544256438
+  - 83.98648779882058
+  - 2.4427916526129225
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 2dae1362-5ea8-4751-9f2a-e5703523f2e8
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.98219562707321
+  - 25.150709241843277
+  - 2339.668260338224
+  - -141.73530001795874
+  - 87.64263512609875
+  - -4.217660963689919
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7b94dc39-67b0-454e-8bc2-13588c347803
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.9803052700153
+  - 25.147264364218955
+  - 2338.1632286068475
+  - -141.7753737357848
+  - 85.13052869892809
+  - -0.377248399234828
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 77c9775e-e0da-4277-ada1-4bcc05cbeb2d
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.9791875447596
+  - 25.146593076452834
+  - 2336.5337178166556
+  - -141.67076378312296
+  - 86.61310961173986
+  - -2.733041956430298
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a2eb88e1-4559-46e5-9ebf-1d42b1d82ac4
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.97955446391313
+  - 25.14489341448222
+  - 2317.287576894604
+  - -145.86865817535224
+  - 84.73122310851947
+  - -13.548971712828271
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: ed4f3dfe-168c-4fca-b89b-696d888d4056
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.97838641160116
+  - 25.144065725073865
+  - 2326.2289593434048
+  - -144.1857003852304
+  - 84.9102842670238
+  - 5.4761342981912255
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 05b97202-7ffb-4efe-a203-ce0f434388a3
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.97800723568834
+  - 25.143600667906732
+  - 2324.60265295815
+  - -141.94748761549965
+  - 87.24381813113109
+  - 3.6977457396904914
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 7b2facdb-3161-426c-aace-ae8b5819c3e2
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.97486758285879
+  - 25.14335496089313
+  - 2286.3991465044073
+  - -148.31251102631145
+  - 83.44968016746984
+  - 5.823497478578929
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: c6ccfcb4-2885-4f7c-9401-fe8f8e6ab3c3
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.97535813559917
+  - 25.141301978103883
+  - 2296.168363446059
+  - -143.2689445689863
+  - 84.36760463855293
+  - -3.477187274930127
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 64116860-420a-4e76-860c-59de8d37acb8
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.9727699006385
+  - 25.138281893719615
+  - 2243.724941997192
+  - -147.06425195525978
+  - 88.73303465432468
+  - -0.7018417481860756
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ac863dbb-27c3-4daa-ad0e-4d5c3beca36b
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.97179684825204
+  - 25.135310891197076
+  - 2223.14094420149
+  - -139.23698609873665
+  - 84.77404897245759
+  - 4.63499150666005
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c2edf591-d8e6-4ce4-838f-e0dbcd2790e3
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.97002889788726
+  - 25.136118619518577
+  - 2245.800488250323
+  - -144.5338624092434
+  - 86.52169995068294
+  - 0.36227326998641607
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 7a0f60e1-c483-4b5e-af59-148a893bf624
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.96965971586482
+  - 25.13582109615736
+  - 2250.8202573517
+  - -135.92674597576345
+  - 86.85420000559299
+  - 5.509744184200361
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6d94c397-5880-42e3-8d68-b3fa382d41ec
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.96776412532199
+  - 25.13320577437028
+  - 2226.904309297787
+  - -145.95066789998438
+  - 85.32849318971995
+  - 6.259385764685734
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: f979d901-a5fa-4cfb-8d6b-a4fda94ac913
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.96658035591139
+  - 25.133543166180413
+  - 2250.301807752685
+  - -148.84887370095282
+  - 81.85243982010448
+  - -4.297801570477058
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 4cc7f4cb-f510-41bb-afdf-3c3f38d07e2d
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.96806957694251
+  - 25.132048431993525
+  - 2235.0182009790055
+  - -142.1612719435263
+  - 86.1439157811424
+  - -0.37199239474101137
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 4d7d262d-c0c4-48a7-84ef-f59cfb8ec81a
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.96328242293691
+  - 25.127450930247488
+  - 2186.417498845845
+  - -148.25493773389258
+  - 86.25958537123822
+  - -2.8517311562976944
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 14185957-4003-44b0-ba23-62d2ed118a15
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.96331376434608
+  - 25.126493672040958
+  - 2177.568383563618
+  - -130.2400636650899
+  - 83.04577026780231
+  - -2.2566544170412492
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c6ace8c4-84f8-4c2d-8b0d-8739f70f0fd6
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.96229032238062
+  - 25.12631891620154
+  - 2175.547725149733
+  - -136.63444609249737
+  - 82.782729946882
+  - 3.3752847186073747
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 66e83665-d751-4314-9093-25d1c2da160d
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.96112149925216
+  - 25.125015193763108
+  - 2168.2544103711166
+  - -141.39279978465387
+  - 85.46436392325388
+  - -0.7821463978332909
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: b2ed69e4-14e1-4b02-87de-55d59afe63e4
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.96162828505554
+  - 25.124423056108938
+  - 2153.0483444481215
+  - -142.71548538928178
+  - 88.37795671843246
+  - 5.038210085950184
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 4d9c3947-b459-4ec9-aeca-ae817b6cbdeb
+  airport: ZPPP
+  runway: 4R
+  pose:
+  - 102.95822683881343
+  - 25.121338417651135
+  - 2149.9690970051556
+  - -142.153014594601
+  - 87.89616746475569
+  - 7.997911204620497
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 147b0c1f-b971-4fc4-9b2e-2a21b26c2258
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.89707211050725
+  - 25.050009852412842
+  - 2354.7411920327763
+  - 46.142625932318055
+  - 83.49837016745549
+  - 0.15493624066586545
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: edb388d7-c70d-4404-9997-a5cc546ce0fb
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.89604016731816
+  - 25.050877593651144
+  - 2469.8027643079936
+  - 36.714757202898475
+  - 86.5111183963806
+  - -5.8295099917769875
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 4110034e-3240-4bcf-9b77-ba6f863608f7
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.89665557007963
+  - 25.052410788382108
+  - 2410.429955831719
+  - 33.406373097081264
+  - 88.04458250348883
+  - -0.21947141597474437
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: b6decb0a-168e-42cf-8992-27914e215953
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.89819414486337
+  - 25.05301207237317
+  - 2365.759781174271
+  - 32.233188120636925
+  - 88.74660882348275
+  - -4.693085193217933
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ecc870ff-30cf-4dbe-9f22-bf0fa2934222
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.90240664439945
+  - 25.053593368313496
+  - 2386.978450195898
+  - 37.38430266453881
+  - 84.80993887437899
+  - 7.539929012164382
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 63826d8c-f7c6-4fc7-b7cd-318f9dde482e
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.90192420245576
+  - 25.05723903152685
+  - 2405.5570384247967
+  - 35.725715317512815
+  - 87.82081273718636
+  - -8.641152783592158
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: d6c7b9bf-801a-4c47-841a-8dec34287f1a
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.90305622990488
+  - 25.05666269309108
+  - 2323.1179858252026
+  - 34.93644585714246
+  - 85.09246656166138
+  - -2.3725037150294046
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: dd461dd8-0280-4be2-adc8-357d263cbb59
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.90378435248293
+  - 25.056228371915147
+  - 2327.055549612706
+  - 30.84070020509344
+  - 84.36859058319762
+  - 1.80428603482118
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9a807885-4542-40d7-9614-b0715ab775ad
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.90237256155135
+  - 25.05745272926011
+  - 2367.512257445643
+  - 40.99065090832754
+  - 87.6945585546179
+  - -3.6305768154972107
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 7a555a74-eacb-4d38-9200-0616bc313405
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.90334762765701
+  - 25.057404979823815
+  - 2335.1799392021035
+  - 37.582094668871456
+  - 88.08455584103812
+  - 1.2513896536151636
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b1f2fe2b-21d4-4400-8cd0-39911cc17060
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.90673794900232
+  - 25.05931968975224
+  - 2297.743556575869
+  - 45.25607549003993
+  - 84.52273250151194
+  - 2.800182595910793
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e44c6bfa-de16-4ba1-b0ac-b919fc86dd93
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.9049056223452
+  - 25.063046859566057
+  - 2331.4726919378704
+  - 30.954713340353717
+  - 89.51561919359825
+  - 2.5224113513187563
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 7af51293-35ff-4389-a101-2db9593e1aeb
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.90768104143844
+  - 25.06175866110216
+  - 2299.555699132479
+  - 41.310745488640805
+  - 84.11932748693651
+  - 2.4594275962533523
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 0f3df50d-45ab-4026-9c17-a726bc5d33b5
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.90904522902906
+  - 25.0634559614402
+  - 2306.3499534523175
+  - 42.82585787723784
+  - 82.51514517086154
+  - -1.7992761127417625
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5f43fa52-151c-4f76-b9c4-b0445bba0d60
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.90745589227947
+  - 25.065306775338726
+  - 2349.768411084614
+  - 42.952275131485855
+  - 87.16823218126044
+  - -9.169665977607982
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 2bb46f5e-161d-4e62-a67c-8467246ec1b9
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.90902446617193
+  - 25.06535178770053
+  - 2281.3307136101266
+  - 38.71979159760915
+  - 83.10544917208892
+  - 12.988500597364165
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 80c14d90-d21c-49da-80ed-e8840e2b70ad
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.91290172760789
+  - 25.063849256781218
+  - 2280.484924136463
+  - 32.412339753111254
+  - 86.76440300432073
+  - 6.4178125400211625
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b543d675-a44b-4bd0-a7d2-52ece7031027
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.91129810883228
+  - 25.067215542384545
+  - 2291.3351298979424
+  - 38.79092127222727
+  - 85.81649972963076
+  - 0.9345510373521838
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a99cf201-3e30-4c16-bd17-f07472f9d31d
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.91367500090115
+  - 25.068338917251147
+  - 2233.643866958239
+  - 37.50411659337699
+  - 84.15016130356915
+  - 8.525919296577268
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: aab89354-e39c-4259-87f2-9e0f3ea3389c
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.9146463410975
+  - 25.071518746472492
+  - 2202.2380158211395
+  - 39.275294067949034
+  - 85.7592184763893
+  - -0.46629177228941354
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 69b9700f-6f61-4503-9600-4521bb75c5aa
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.91970889491886
+  - 25.077009140760826
+  - 2182.300985515876
+  - 30.612517741724815
+  - 86.40494056430161
+  - -0.6884934151845122
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ae045d00-133c-40f0-8087-813db375182a
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.9197892886049
+  - 25.077282863626976
+  - 2199.3310621577234
+  - 40.719395387562415
+  - 83.95486410020095
+  - -0.2316962589049152
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: bbbb06ab-f756-4905-ba3f-d6a677fc5860
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.92271348272705
+  - 25.079782848346618
+  - 2192.906731060841
+  - 33.21873167496871
+  - 80.25826404830241
+  - -0.07352142252719382
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6cafdece-6de9-4f00-950e-6b228bc2b2d1
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.92506435173142
+  - 25.0823848054743
+  - 2167.8972549788823
+  - 34.1202532613433
+  - 88.41125082850509
+  - 0.6658875283109262
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3c563924-aa7e-48ee-81a0-2b4594a3973f
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.92612268599716
+  - 25.083856056177556
+  - 2157.5691441826584
+  - 41.18355801543278
+  - 86.32053940296056
+  - -5.015318668843927
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 2cfbc9b0-c773-4646-8553-ad9b918b367f
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.92603437032388
+  - 25.084358465132624
+  - 2154.042519059226
+  - 38.635599055757375
+  - 85.61961082350683
+  - -0.7446823511043565
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: fe76e0a2-7a04-468f-b0ab-94bd4b16406c
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.92743512658609
+  - 25.085991258310834
+  - 2145.9420116946126
+  - 38.244830718097965
+  - 89.35201025124334
+  - -1.37341747352142
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: d39a2683-f4d3-4531-ad3c-207abadc267f
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.9273026924285
+  - 25.086167038469178
+  - 2137.0942641589595
+  - 37.89322331725333
+  - 85.49848781000793
+  - -2.11985053336668
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 1cbda0f0-90b4-42c2-a302-d14abdacf379
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.92773454730188
+  - 25.08595066277498
+  - 2145.936116688683
+  - 41.984995486037334
+  - 89.2985890796722
+  - 3.965064809169037
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: dde76087-877e-403a-a17f-4e8a8c0c2b7f
+  airport: ZPPP
+  runway: 22L
+  pose:
+  - 102.92889286172087
+  - 25.087750336606142
+  - 2127.14862009514
+  - 38.3446889909877
+  - 86.31998547268367
+  - -6.599330221275336
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

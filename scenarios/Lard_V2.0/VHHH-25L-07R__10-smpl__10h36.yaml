@@ -1,0 +1,1078 @@
+airports_runways:
+  VHHH:
+  - 25L
+  - 07R
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 7b2736ca-367b-493e-bc4f-c87b8e336eb6
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.8464823949302
+  - 22.276941253639578
+  - 402.2918738018072
+  - 62.919352693303736
+  - 85.58865373321363
+  - -2.5945120677000095
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 865cfb7b-5f44-4aea-af53-ce5e29c082a8
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.84682699576835
+  - 22.28278891631861
+  - 369.44850939543466
+  - 64.69197234600792
+  - 83.91383032846994
+  - -2.8310823859655985
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 24a3d844-4665-47d2-84d8-d62f876e30dd
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.84741033299564
+  - 22.283181308717754
+  - 332.22832750684637
+  - 68.22745151333369
+  - 90.44002205664704
+  - -0.4521602951340126
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: c1b05d19-dc00-4edd-9cd4-93a80ee591b9
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.85118509835719
+  - 22.283065682023256
+  - 299.4331985199296
+  - 67.25035005388595
+  - 85.69638559019744
+  - -1.5479768451232845
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a52bd44e-164d-4c9c-b4e8-bd64ea704fd3
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.85331726095532
+  - 22.283560761904813
+  - 301.39433392338117
+  - 70.23862467677208
+  - 86.87775433591092
+  - -3.1998167051537285
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 08a25259-9457-41da-bc1a-9e5350d987c3
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.85403928388259
+  - 22.283053365313606
+  - 303.992435123247
+  - 72.77964757621926
+  - 87.09285091524848
+  - -1.5506469101876699
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a7516d81-2627-45a9-95fc-d04f57496bab
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.85471833008394
+  - 22.282024249490288
+  - 364.8632004389974
+  - 68.94517353919856
+  - 83.18861537205413
+  - 5.612988339558557
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 2f408cbd-a29e-42d5-be51-8845570cf420
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.85664391356707
+  - 22.281534796307717
+  - 207.43090517361085
+  - 60.70852774501605
+  - 82.23252921115403
+  - 1.9457690398279754
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 0053a6f2-a20d-4873-9aeb-5ec7ba4bf276
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.85547753429911
+  - 22.28500121595459
+  - 261.0787750393732
+  - 67.50604636641546
+  - 84.87544979916777
+  - -9.352443440604079
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 1ed592a9-482c-489d-806b-a8fb6145febf
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.85662967978335
+  - 22.283461799684403
+  - 267.7246291784529
+  - 72.89408124708444
+  - 86.22048155238375
+  - -0.20398539529372844
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: d9f32e62-1f07-45c6-9cf7-18b94405f46b
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.86397183376246
+  - 22.28463539497956
+  - 233.30527661760053
+  - 64.57621138952211
+  - 82.88617454157965
+  - -9.578842988632617
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a1278e0d-64ce-4663-8dca-bbf4fb3c17c6
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.86374117612668
+  - 22.286806903604322
+  - 202.62454609237187
+  - 65.1433658396942
+  - 88.08898048981742
+  - -0.9436396520066732
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5c88c35e-7d12-42d1-926e-139b2108870e
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.86662498655697
+  - 22.28346069333662
+  - 235.1631494717328
+  - 82.4238991969608
+  - 83.9098627476535
+  - 8.283797118128987
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c91cbc5c-39a2-4379-9821-0e67dd2926a7
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.86572833457446
+  - 22.28656886865169
+  - 214.1334185279913
+  - 70.04829071687618
+  - 88.28424716436902
+  - 1.3884722598496215
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e4e085db-97a5-40d9-a4d0-e9ab7495fc88
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.86580480913705
+  - 22.28712357656027
+  - 254.05745965930512
+  - 64.36941198546467
+  - 82.07354558401109
+  - -12.335940203154362
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: b74acc88-a77c-4909-9381-1bcf400b69d2
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.86835724459146
+  - 22.28815945268403
+  - 236.59436963222922
+  - 69.90338568869954
+  - 85.34897770438926
+  - 1.7346145524034926
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6455679c-78b9-4b40-8102-1906c51e5c07
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.87166866698142
+  - 22.289248861421022
+  - 201.05020232449883
+  - 69.62115840263591
+  - 86.55716180463288
+  - 6.781881510726758
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b4fa0a94-d857-4bc6-bb98-2fc5e858a0f1
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.8736074524001
+  - 22.2901486253411
+  - 155.89640040659765
+  - 77.02820194973674
+  - 87.08396169282607
+  - -6.719797407215733
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: cb7a95ac-1d44-4df6-bf7c-0cec075a74a7
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.87512448319708
+  - 22.288655758760655
+  - 127.00716823665519
+  - 75.48976053573843
+  - 83.10562226878932
+  - -8.06105613653369
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a070e0a5-e6f0-47d3-8b33-dc68648c3cb0
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.87619948569984
+  - 22.288753155323022
+  - 208.4779246364743
+  - 62.62698979430188
+  - 87.45557527449058
+  - -7.082297356416233
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: f889fea1-52d4-41f0-9e12-e8f9e1414c9b
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.87865347531083
+  - 22.289686450023893
+  - 159.7531205286931
+  - 60.50244290758768
+  - 87.27282076969689
+  - 0.16055021083793136
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 49bfaf52-0a13-4595-a67a-2e03a0bc5ef4
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.88470015144426
+  - 22.291074853638687
+  - 115.0620278721068
+  - 69.42871895599163
+  - 83.32873245177609
+  - -6.195581457553033
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 31af1708-21a6-4503-8d98-7172341b0340
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.88558219865448
+  - 22.292236448427246
+  - 77.32730556970158
+  - 61.25503266929155
+  - 88.73262863996676
+  - -3.477383920651915
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 01af964a-b766-4c6f-b023-043594645d27
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.8868155661898
+  - 22.292122647486305
+  - 104.3419494210395
+  - 77.12950486396547
+  - 89.21592586674817
+  - 7.063642108379624
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6bee783d-d76b-4607-b275-8891a6ae68bf
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.88693628474154
+  - 22.293157705189746
+  - 92.22275888419486
+  - 74.90650054911083
+  - 88.09833123935647
+  - 0.3694179653338754
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 41e29a1a-b5dd-4bff-90a1-e97b1e9784fa
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.88806664044739
+  - 22.292920535924676
+  - 77.88943430875827
+  - 76.35087711689246
+  - 87.0669200925908
+  - -8.884569967517448
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 089b493f-37fa-4e38-acac-1295d4b67c9a
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.88923298186351
+  - 22.292777694823506
+  - 80.79367071290524
+  - 66.86463696506863
+  - 88.49233823348885
+  - 3.6191178913209314
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 35827f78-fb2f-413d-b8ce-ae155a45e93c
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.88942925940353
+  - 22.29319539641549
+  - 79.34680419620315
+  - 69.23154868567435
+  - 81.91370578862708
+  - 3.192332946093612
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: d70c9230-e8d7-4c0c-bf6a-187d763614d0
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.89130648798911
+  - 22.293908339312008
+  - 67.46409566184614
+  - 65.35239192951913
+  - 91.32386905442628
+  - 2.1775477891037136
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c314d8e8-a913-485c-9c09-0966b4f5e6f6
+  airport: VHHH
+  runway: 25L
+  pose:
+  - 113.89453292246698
+  - 22.295197081095374
+  - 48.034313690089725
+  - 74.7333267855518
+  - 86.18853366075457
+  - 4.115956735995131
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 2c7b80dd-cfba-4498-b786-52e35caf39bc
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.98436666938983
+  - 22.32373477869576
+  - 306.1099314891303
+  - -111.5495237033216
+  - 85.66824647517561
+  - 0.04209256881607917
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 238734bb-01e7-4e18-b1c9-10e5e862f2e8
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.98373364297976
+  - 22.32328585189925
+  - 292.98682171059414
+  - -110.5846096677287
+  - 87.15141340025347
+  - -1.7902205673905056
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a5568973-28ce-4198-9485-791f45fdb5eb
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.98122279222072
+  - 22.322441250024053
+  - 240.7235582951678
+  - -116.69800027417588
+  - 84.36249713443502
+  - -0.08460666023037569
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3544accd-76bb-4ee5-b621-21160f0a1e00
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.9803954665358
+  - 22.32242847520031
+  - 255.3823846874775
+  - -111.72548749341519
+  - 86.41511856509997
+  - -2.765996641525714
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 41190c42-7e81-433a-bb88-6b03e7a0eb93
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.97734814628562
+  - 22.323982696054774
+  - 260.19986136052785
+  - -109.44863900690214
+  - 82.58264544532041
+  - -4.648636852721168
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f76017e4-bec1-4388-91ba-fd1a275b1138
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.97649285401404
+  - 22.32114137154901
+  - 246.80431766555887
+  - -100.15752595204205
+  - 87.09588449780408
+  - -9.048955722943996
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 64ab9f71-6dea-4ab5-9651-b1aafb90001e
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.97534442724766
+  - 22.319945604462088
+  - 230.675983194381
+  - -106.1552482971015
+  - 87.05959125210968
+  - -1.6321465121006453
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 38138c2a-6e0a-4fb6-bf0e-28eb8778e381
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.97358903867276
+  - 22.323338095402566
+  - 297.37135799059774
+  - -111.26545001093707
+  - 85.99856433208794
+  - 1.225733121491154
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 58f86eb9-f0f4-4887-b28d-dc784ef7a3ec
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.97491106897442
+  - 22.319860228129322
+  - 307.1231577522123
+  - -99.82287729820783
+  - 85.46184798226132
+  - 1.7202591991920566
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 2d969786-0698-4bf7-93e3-1c29de61b092
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.9748045424281
+  - 22.31892027711306
+  - 209.8942565709156
+  - -110.32375836617317
+  - 88.21880637186585
+  - -4.3883412730983835
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9955ea67-5f97-4555-9fd8-30847bee49e2
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.97313113406878
+  - 22.317999236919228
+  - 213.35515752043486
+  - -104.24426195156792
+  - 83.6400331876618
+  - -5.6237393192663365
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 1afa468d-f1e8-46e7-9deb-950c4889a35d
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.97139747947128
+  - 22.319355852020777
+  - 216.5113721423227
+  - -113.53703265336739
+  - 84.6356494246641
+  - -3.128888360478062
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6f16b563-4b0e-4dc2-9473-c92c730f2057
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.96958653386154
+  - 22.319730807985977
+  - 240.08321193220075
+  - -109.02402919583925
+  - 85.62976890373028
+  - 5.99839876173415
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: cabe3e22-35ec-416c-82d1-e069271ce2dc
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.96828191258156
+  - 22.31691608326633
+  - 257.8474676473296
+  - -121.17359451839047
+  - 88.64110462020349
+  - -4.888979317510396
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 72569bd2-f944-474c-b41e-93ee5c666bfe
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.96536538852664
+  - 22.318980672759782
+  - 202.5942442098249
+  - -109.36732760406977
+  - 86.87437892160358
+  - -0.13195065485971466
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 511a94a8-e36e-4df5-9249-2c0cd9c30ac9
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.96505314650095
+  - 22.317212517529846
+  - 164.3045224272491
+  - -107.33359418266286
+  - 86.62453326586702
+  - -4.006638640659633
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a094efe5-68bb-4ce0-bddc-bf902a6fb925
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.95891456495369
+  - 22.31553630352312
+  - 139.36770229650105
+  - -105.02299093487576
+  - 84.66551136844923
+  - 1.0879663931458408
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 8f05b9b1-c42e-49ae-80e9-26c38b4c120f
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.95890433985483
+  - 22.31505728329506
+  - 184.26624329666964
+  - -110.33743318278692
+  - 87.54663473596707
+  - 4.168057040588593
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: cd224adc-3699-4525-9e22-a4288def094e
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.95780722227242
+  - 22.315512688448052
+  - 126.28828620470154
+  - -110.03899675399173
+  - 85.7052634782181
+  - 2.67442977621485
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 78d242e5-4785-4c33-ab7e-f5eeedfbeb15
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.95718707356953
+  - 22.314292868265916
+  - 183.0349450022053
+  - -106.9018195845368
+  - 87.07877885303647
+  - -4.623733875518284
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: d19c6eb9-bc87-4c00-b305-b4f7f2745783
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.95516853360846
+  - 22.313895497231297
+  - 133.7358337601426
+  - -107.29980709899866
+  - 84.02514416338519
+  - -4.136719324838504
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b86f61de-1e44-4b35-a4a0-4d5ee482ddd9
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.95158105397203
+  - 22.313779065930294
+  - 133.58141269314086
+  - -114.0881654305046
+  - 84.57946073702564
+  - 9.947116707648899
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 86cd0fba-39a2-4214-b9d0-0864c7a2a2bc
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.94821904763772
+  - 22.31200021443114
+  - 75.15944143088687
+  - -111.70658814001195
+  - 83.85799549144942
+  - -3.6396638733737188
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 1c13231e-990f-46d0-bdca-05b0369032b5
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.94560481009988
+  - 22.312431913058962
+  - 86.84789390241501
+  - -104.55116945909775
+  - 85.56291298786532
+  - 0.12279366080494664
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 521d078d-fed9-4404-bcc4-fa34cab3767b
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.94354202652382
+  - 22.310986225997876
+  - 74.5462646479439
+  - -113.24864227745185
+  - 84.89380989902547
+  - 7.984070267185576
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e2115cea-8bbb-4e38-804a-56c683c9df46
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.94319118252122
+  - 22.310089457629037
+  - 80.71729102065598
+  - -105.54711837724498
+  - 86.12182294073692
+  - 1.6173387234625474
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a60f51b3-5ba1-45d4-ab6a-17ad60d8ee7c
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.9396530959976
+  - 22.310101631302704
+  - 62.09314565039454
+  - -111.41699348277646
+  - 84.21278332437822
+  - 0.636360294218669
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 324dbaf0-6161-4d8a-81d1-094a33f26780
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.93829354674592
+  - 22.308970854946303
+  - 54.366704915067416
+  - -109.05132470238878
+  - 84.39458288939642
+  - 1.4699285497500967
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6dcbe3b4-a332-45c4-9973-ebd3e374d526
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.9365314205017
+  - 22.30909268636604
+  - 43.44211506352761
+  - -116.54174916711695
+  - 82.0180089467502
+  - 0.16228992499609338
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 5f0b0523-7b39-44be-bb42-f65641ad3e86
+  airport: VHHH
+  runway: 07R
+  pose:
+  - 113.93552087911644
+  - 22.308188910987997
+  - 33.52808939267737
+  - -106.72660613869465
+  - 86.00624428759792
+  - 5.702874770076917
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

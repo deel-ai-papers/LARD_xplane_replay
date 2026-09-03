@@ -1,0 +1,1078 @@
+airports_runways:
+  RJGG:
+  - '18'
+  - '00'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 4c9af16e-5af2-4be7-abe3-2e443890dbf0
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.81852098808528
+  - 34.79367281498074
+  - 361.98187662717453
+  - -19.041208896919045
+  - 83.24689332822605
+  - -2.008410379217996
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 94edd498-6f42-4613-b4cd-be5722350955
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.82005191135963
+  - 34.79605377419916
+  - 360.0103869301667
+  - -9.060111144108188
+  - 84.97498367038412
+  - 4.401633563288804
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b3a8062b-45c2-4fd7-bc53-027445987570
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.8175949570088
+  - 34.79583459731906
+  - 320.1071476461509
+  - -6.8700089795025985
+  - 87.62487508447863
+  - 2.8971381742763014
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: db529a68-1fcf-4ea4-b940-57d4ad07af71
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.81772165896646
+  - 34.795892161028824
+  - 294.5270366737479
+  - -15.049699869488151
+  - 86.88139030422221
+  - 2.3717003364683893
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c247a77c-78b6-47fe-81ad-52ef6014f397
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.82156259305088
+  - 34.79780918684623
+  - 280.6759645561191
+  - -7.744205375894687
+  - 87.18373748041374
+  - 10.2900885113531
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: eba23066-80ab-4b44-bc40-0ba7c0bbaf8a
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.8195272757782
+  - 34.80029040344757
+  - 173.71439011459478
+  - -14.911177169058938
+  - 87.37250096499221
+  - 0.23482255536594404
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: d9cbc8bc-8592-4b84-aacb-b6c50b1bd6cb
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.81983385434089
+  - 34.80146984509108
+  - 281.0028469840004
+  - -16.985438388279107
+  - 82.07181217934429
+  - -2.1762383130784886
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 75d8a895-356e-424e-a8c4-f06554297025
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.8190430263843
+  - 34.802252970281366
+  - 319.4319787387679
+  - -8.542267670258223
+  - 85.11356431392859
+  - 0.8740781618694109
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3756b494-2001-4c8c-ae73-a835b92d7361
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.81906908763509
+  - 34.80242320263102
+  - 287.41607874990336
+  - -7.028893643411562
+  - 85.1062332671085
+  - -0.5959704211405223
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 0a02bd69-a1cf-4fda-b251-f2a05d07ab0f
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.8198792472849
+  - 34.803347815061
+  - 269.8783802263929
+  - -2.2721796775320424
+  - 88.90888354606635
+  - 5.01110285141058
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: b868f1cd-2137-4be8-ad92-fddf6a8c4820
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.81747358383475
+  - 34.80747471977796
+  - 249.99679711796676
+  - -14.211179441347598
+  - 86.80962343861405
+  - 0.161330671103195
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 75dc9736-6527-4184-bf1b-0d4e6bede84e
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.8168558306154
+  - 34.808897679830814
+  - 244.51528314317883
+  - -13.057789528784165
+  - 83.1554051429327
+  - -3.5001166555926884
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 62446677-60c7-4aec-b41f-6527131392b5
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.81535298071321
+  - 34.809641090238095
+  - 193.5569106341279
+  - -5.986673935437415
+  - 86.38231331683905
+  - 8.38481154165829
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a4617d3b-8136-4ef5-b9ac-d9880f8de55c
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.8156088773742
+  - 34.811118271875024
+  - 223.3172590072414
+  - -13.305771401530718
+  - 88.64549241983572
+  - -1.9194943965241242
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ac128f8e-e3b1-42ae-9651-19e97421340b
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.81631715334052
+  - 34.81394650361013
+  - 198.11801969586622
+  - -9.599372661336798
+  - 86.54235246840916
+  - 1.1551236753472407
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c57e8da2-9fec-4330-a51d-0ac7ee6e9e60
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.81493737869488
+  - 34.81401398940528
+  - 143.71735573008522
+  - -8.000854413983724
+  - 85.53757651962538
+  - -2.035119064175136
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 6d4dfbca-e511-4cf4-a703-5a41c35ca198
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.8160034099679
+  - 34.81558515076675
+  - 187.4699563553798
+  - -16.39230316325857
+  - 87.49963327505506
+  - -0.8386157535945409
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: dc987896-3ce1-4a4c-8a88-bc82f5494fe3
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.81576264913733
+  - 34.81712856941428
+  - 150.66874748431337
+  - -4.832718291385188
+  - 89.9397734625432
+  - -0.24744639736304913
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 30cd30de-426e-47ae-a72d-1a9fa4202576
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.81429053511874
+  - 34.81840337734486
+  - 156.22149704201897
+  - -14.169379426492203
+  - 84.65144438684881
+  - 10.854440632116578
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b45aa763-63d9-4d26-bad7-e6ca04bc2e17
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.8156476760431
+  - 34.820121448527914
+  - 136.78600924477047
+  - -10.601968909879421
+  - 83.9172907330557
+  - -2.992194924360318
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 46ad8d1d-2d3a-4546-bdb2-af6386eb6119
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.8132399880771
+  - 34.82217245933723
+  - 124.88659486326819
+  - -19.155769575232476
+  - 84.77087512756697
+  - -1.3958516523735414
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 458ce90d-8eb2-4454-865e-83bc5a6eacf4
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.8131308087503
+  - 34.82412131234915
+  - 119.50589627411827
+  - -16.180674144840566
+  - 89.68567871388345
+  - 7.756331213457793
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: bd64c278-c574-40d0-bd1e-5664a14aa448
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.8118408452037
+  - 34.825011236620114
+  - 136.24147293245736
+  - -8.948964834170368
+  - 89.09789862187249
+  - -1.4875608153327056
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 8a598673-3afb-4292-acc3-6edd109e2e11
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.81262029791026
+  - 34.831291133894375
+  - 70.57616233615144
+  - -13.820916719656916
+  - 85.39267348906122
+  - 3.160977553111337
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 0bda75c9-64cb-4bb3-8dba-0aaf93f8c449
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.8118551784628
+  - 34.83345530761412
+  - 75.46684133299624
+  - -14.108172113653138
+  - 85.97864590077359
+  - 3.100662723602616
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a30de78a-4e9a-46b3-a937-71c3bf3bab20
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.81099587366532
+  - 34.836318669149186
+  - 59.99963274310737
+  - -10.901747534099371
+  - 88.62172128515084
+  - -2.741997941491689
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: b9175c3f-193c-4c9e-8e69-cb0423dff3d1
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.80986712733164
+  - 34.83939063770325
+  - 39.404451998529325
+  - -15.26810612269461
+  - 87.82139405680275
+  - 4.574218827776356
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 72bdf63e-263e-4f47-95ba-62a1a08a750d
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.8101349008138
+  - 34.83948512386339
+  - 37.72841844480732
+  - -10.971769890619539
+  - 89.41964125607518
+  - -0.4409314735196693
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4a9c5bc2-5abc-4002-8022-85aaf46c50a0
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.8097400703202
+  - 34.84003078869411
+  - 31.260068718841183
+  - -11.62760112301927
+  - 86.51882757265754
+  - 1.116835055948032
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 0bc38974-7ab0-4b4d-9d0b-eac5cf989d0b
+  airport: RJGG
+  runway: '18'
+  pose:
+  - 136.8095097826022
+  - 34.84025211871986
+  - 34.693513751315024
+  - -9.777722078599435
+  - 88.12317632072315
+  - -1.1536767519160709
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: aafb9097-e8cd-46da-adca-4be13ab96d85
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79078259154844
+  - 34.92458276580612
+  - 298.9076063810048
+  - 166.0240224478665
+  - 85.24681593787102
+  - 2.598527156057509
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 1d9aeb75-0686-43e5-8415-3e2237bceb30
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79209403902814
+  - 34.921456833393464
+  - 291.4513910108425
+  - 177.52544366288498
+  - 87.3057513989173
+  - -10.67447220213229
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 901fffcd-76e9-4b85-b057-95be8834091d
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79226260546358
+  - 34.92146659707118
+  - 319.9886527417049
+  - 155.2753068737219
+  - 83.85023578705054
+  - -11.004509347441815
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d6942168-81d9-47f8-9f2a-332decdaf5ac
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.78971999545857
+  - 34.91610205222305
+  - 284.45761487723075
+  - 168.52986778985317
+  - 86.69769872525444
+  - 7.016725316516936
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 204acacf-2037-47fd-8d52-282922a3f162
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79153106265466
+  - 34.91514659043512
+  - 309.5335104296057
+  - 171.26877240672778
+  - 84.62735367095237
+  - -6.296553180141036
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 19599672-a2cc-4a24-88a5-4854b69eea69
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79376769052482
+  - 34.91517010692776
+  - 213.35437957850067
+  - 166.47650903669503
+  - 89.69729839513062
+  - -5.69821147145026
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7bdb9019-5720-43d0-a4d2-eded7db31ef6
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.7939886279101
+  - 34.914784927357125
+  - 236.47503665461366
+  - 164.76431037375826
+  - 88.61302903735621
+  - 1.3997378395298423
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 0db8bf17-7340-4206-88d7-d73dc39720ac
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79200020533685
+  - 34.91428482603852
+  - 293.47026951771977
+  - 171.58556620127874
+  - 89.14165032569034
+  - 0.8624495630363056
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: afaa44f7-d6d0-4b6e-9848-55e59e5f0858
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.7937163845215
+  - 34.91431034308046
+  - 275.48029455081013
+  - 166.93447203613928
+  - 82.57434986701301
+  - 0.09386943531607822
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 97154f3a-5a83-4420-b8e2-c1cf21e144b8
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79458442058305
+  - 34.91410654730254
+  - 258.3797506190734
+  - 166.92136239762615
+  - 89.60866451842473
+  - -3.234533126568093
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 0d8c7f68-ff62-4cac-b0e4-2ebc4f0c4e81
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.7924997645799
+  - 34.908932518306266
+  - 252.78985075321006
+  - 168.65709443546686
+  - 83.85124013928967
+  - -0.45992289382958074
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 31602770-8dde-4bde-a2a6-595d339d97b1
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79745007432052
+  - 34.908835956512064
+  - 200.19391547457394
+  - 160.68042224188304
+  - 89.19407093821198
+  - 1.4220200965201797
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 129695ca-3dac-4c9f-a234-9da9cfa74b40
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.7951645075882
+  - 34.90760507909982
+  - 207.65776231270522
+  - 171.5532530441077
+  - 82.4348716196128
+  - -2.1184182763085113
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ee31e3f7-b798-4a6d-909f-d360c0d3d4d1
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79578394014584
+  - 34.9043721699436
+  - 188.01452049044144
+  - 168.43027958607837
+  - 85.01650149706848
+  - 4.8660361439782704
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 03865985-038e-4029-b1b5-a5af81672230
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79604761135323
+  - 34.90417580257069
+  - 220.8087450296299
+  - 166.31807675626044
+  - 85.52606518320883
+  - 1.8579743851903787
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: ae0ee23e-991a-43ff-9659-4e5fdb019b4b
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79629014460818
+  - 34.90180093966975
+  - 198.2449514308101
+  - 166.17081101187816
+  - 85.87079149157864
+  - -7.7879045934911675
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 4cabd105-9d4a-4eac-9dc6-e7e20d43d573
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79564044853882
+  - 34.898671897475744
+  - 142.39014397212816
+  - 167.67069250038506
+  - 84.38907944278164
+  - -3.7695828445555772
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 95fdaa4c-daad-48cc-8fbd-61f82cf295c0
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79695128250657
+  - 34.897083712041756
+  - 110.88608780718712
+  - 169.36430423315375
+  - 83.55934330991528
+  - 3.4742353433720012
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 0d16f370-8a9f-4be7-afec-be776112f834
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.795669998673
+  - 34.89679744003126
+  - 146.72792770561625
+  - 167.00497506397676
+  - 88.40761023854247
+  - -2.206584951285038
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 9415e8b6-80fb-452f-9694-24d88302768a
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79735554746324
+  - 34.89672358339344
+  - 142.20723798155691
+  - 178.0534499980862
+  - 85.29755138186405
+  - 1.69795006103446
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 1baf97d5-651f-4448-9004-44f284be5e04
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79754010758322
+  - 34.894672552880174
+  - 128.40091553219276
+  - 168.11739764725533
+  - 85.93362159205148
+  - 2.63742085596831
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 626afd77-be61-4c82-ac28-652f3d870d90
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79731481644706
+  - 34.8923363156124
+  - 128.09350904128604
+  - 173.06584189858117
+  - 84.02332658844415
+  - -4.774252127479995
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 589cf4a5-a6cf-4028-81b2-3d6fb9015847
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79632893851104
+  - 34.89163815042606
+  - 122.48649853440908
+  - 169.4588080674817
+  - 84.9167952382032
+  - 0.6863651685657303
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a6a35808-d683-4e37-8d06-f1e12d15b2e6
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79741641633095
+  - 34.88965239238337
+  - 83.70977073894534
+  - 169.0481300968368
+  - 84.98675224644302
+  - -4.893329587370392
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2ab5090e-a0b6-4019-8ee8-98e272a7e2be
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79902186958594
+  - 34.884757297779274
+  - 73.75140338849481
+  - 163.35533573707033
+  - 84.2995153490169
+  - -4.064970712778455
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 1673e7c1-d7a1-4b1c-a1bb-610772a7aa89
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79910550171422
+  - 34.884525631827
+  - 70.28548343325426
+  - 161.35002405043167
+  - 83.63501461997365
+  - 1.3762916533304856
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 58734d18-4abb-4503-a7b2-aa3a923faaec
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.79903810591338
+  - 34.883904682644356
+  - 60.998483465503824
+  - 166.73934272063482
+  - 90.98001308358594
+  - -0.29219126762244635
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e590fb8d-3539-4c23-bb53-6a6a4d73a37c
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.80026817580324
+  - 34.88030334552452
+  - 51.77637656452145
+  - 169.60333599589546
+  - 87.07443848196175
+  - -7.422192598209122
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: c3154d35-b9b5-4a33-ac21-4a8ad214df08
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.80062319283093
+  - 34.87871432123341
+  - 46.492102257282134
+  - 170.00013557269418
+  - 85.96945252093789
+  - -1.234290229193871
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: bf6155c5-f341-4d73-8543-2a2a476f61a4
+  airport: RJGG
+  runway: '00'
+  pose:
+  - 136.80102062210955
+  - 34.87640169575417
+  - 29.522739506245557
+  - 172.16907732397686
+  - 82.87556328496224
+  - -9.427711596603174
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

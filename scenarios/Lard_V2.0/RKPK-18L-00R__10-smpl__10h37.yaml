@@ -1,0 +1,1078 @@
+airports_runways:
+  RKPK:
+  - 18L
+  - 00R
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: fbcb8289-3202-4a90-bc0e-7705085277d5
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94725173941566
+  - 35.11820933401232
+  - 411.4218920873107
+  - -7.371645581371773
+  - 86.61351050058934
+  - 9.3750409762251
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 2e952133-42fa-4a10-81f8-4d54f320d073
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.9479957431747
+  - 35.11908557821597
+  - 293.2014816916591
+  - -5.47500108232616
+  - 86.23874671422904
+  - 0.021122266308749617
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: db630b58-9897-4581-b0eb-b9877ea338f5
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94885378088048
+  - 35.12039967230726
+  - 360.4931302975031
+  - -5.398699348966204
+  - 86.19699531604184
+  - 0.6497241402762775
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 263ab6a9-94e7-4309-a026-c428b075e52a
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94727492003545
+  - 35.12250195546282
+  - 304.8478424864713
+  - -17.41796957557998
+  - 89.78797832828008
+  - -2.6923198411042355
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 901cd08d-5024-4371-98e8-bc522abda4dc
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94373108877423
+  - 35.123206388847464
+  - 238.56233864195718
+  - -9.400875845257065
+  - 84.32100780473353
+  - 5.099633706160914
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: d13c416d-c0e9-4f17-a76b-47bca26af728
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94462480906054
+  - 35.12348786955338
+  - 288.57059446920675
+  - -4.7935238787747325
+  - 84.74461196986985
+  - 1.3040394295676223
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a6b904bc-cf85-4b4f-8383-4aeb7b63064d
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94728519299417
+  - 35.12509772609335
+  - 290.26076674397666
+  - -12.410509354077035
+  - 85.75936083073161
+  - 3.7508400383107414
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 7b3249d9-25e0-48a8-89ec-fec0f16c90c6
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94475488857302
+  - 35.126732755332206
+  - 226.73576808448493
+  - -1.3539107699631758
+  - 86.34754000429889
+  - 4.321880099836876
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a6ccc235-3e9c-46de-8914-abc028ac9777
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94400032488568
+  - 35.12862591948687
+  - 235.75802441847392
+  - -1.8883153837678845
+  - 86.08329618523717
+  - 6.22668773137368
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6c767df5-94da-4f38-ba1c-689a79d7dc46
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94745599305185
+  - 35.129057732776104
+  - 293.43581876967596
+  - -8.867485039609608
+  - 85.89549168667337
+  - -10.401437546472563
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: bfd4ee7b-baef-4c8b-8a1f-bf4aa5a98ba6
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94405919937768
+  - 35.1296228520186
+  - 222.42511208669413
+  - -0.4891520917254901
+  - 83.09484265416297
+  - 2.752398020693402
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7cc939ea-652d-4bb6-a4ef-a06b4cd6bafe
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.9456125397843
+  - 35.13027336736121
+  - 225.03653979394826
+  - -2.50545534188384
+  - 85.24952197454779
+  - 5.1340160959824646
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: dd730934-2827-4319-a920-74b73f17dab1
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94384013136315
+  - 35.13160626676513
+  - 219.11537067939798
+  - -19.374239171700623
+  - 90.0609003329802
+  - -2.2572608392036577
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 9cd65214-276a-4eee-92b5-df21504aaab8
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94520842262622
+  - 35.136225448008354
+  - 181.19540745777098
+  - -2.110016230952229
+  - 86.00799907552143
+  - 7.2992467027362204
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c1971366-c6b4-4e7a-9846-27b348672557
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94599463313668
+  - 35.139684519689915
+  - 179.5198837249855
+  - -6.998060368063509
+  - 85.93436998633302
+  - -0.151799826009863
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 03e35eab-c135-4fe2-9b5f-8dcb789a9f72
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.9453320964492
+  - 35.14195811228256
+  - 160.15703847029584
+  - -8.734437798003484
+  - 89.29723162039895
+  - -0.9347420055413967
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3af85525-633a-414c-b1e7-a4d8ec057a09
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.9429077025116
+  - 35.146466980218
+  - 178.067842658423
+  - -8.030961690606524
+  - 85.03669106699533
+  - -4.576020128356319
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a1f5fa5c-0871-4c5d-9d63-398a10f57697
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.942577191047
+  - 35.146479062788245
+  - 154.17145814616322
+  - -3.23657894774769
+  - 92.06432556561614
+  - 3.9267963985740453
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9a5014fb-e293-47dc-9574-a5dd07c47944
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94464599826063
+  - 35.1470673112078
+  - 161.9351846961382
+  - -8.69700159877165
+  - 86.09316404163103
+  - 3.011542589648754
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c2142e72-e04a-470b-9ed8-e468febda836
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94272059742613
+  - 35.14701955373977
+  - 131.71860998941162
+  - 0.7932167667352719
+  - 86.85751083261184
+  - 6.557169924526073
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: e49bd10c-96b2-4d83-b6b0-9e38f32f562a
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94360677613386
+  - 35.15086397132516
+  - 96.63731045352628
+  - -5.406209640236133
+  - 88.20294229675608
+  - 1.880497536057766
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 1fd9fe3e-c01c-476f-911e-ce17c8d6c96e
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.9412788459227
+  - 35.15382947553728
+  - 97.28270600032727
+  - -17.235197683594382
+  - 83.57017049115605
+  - -5.590332329108538
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: afd2b2cb-48c5-4974-aa7a-149e4285ebf2
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94235412107938
+  - 35.15477756860535
+  - 114.75670661052887
+  - -10.091058431892218
+  - 82.89632855535268
+  - -3.678645375401745
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a916058f-c014-4be4-b71f-3b04b25d4506
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.9409952390095
+  - 35.164474266621895
+  - 43.63674214782894
+  - 1.2477811063962516
+  - 83.90250615100017
+  - -0.4818178928612083
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: cd408707-1136-4ad8-baba-01cefe522cbd
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.9411498497743
+  - 35.16506270913011
+  - 40.29369950743687
+  - -3.230616226127247
+  - 83.2751523685853
+  - 1.5960396593838144
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 17b2ac88-6060-4d5b-90e7-3397c83ecbd8
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94147893203692
+  - 35.165167318164855
+  - 34.399747927981146
+  - -5.500920805039613
+  - 88.53380395677046
+  - -9.908737008299322
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 897ea4b7-baeb-4653-a1a8-f50b7b526ba4
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94121614177394
+  - 35.16584043451959
+  - 40.21365866185865
+  - -6.337393778623811
+  - 81.2112365707527
+  - -8.415152192202836
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 571284a7-72ca-4a61-8290-efe27b6262a5
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.9410116639557
+  - 35.1662480938179
+  - 34.518116395300076
+  - -5.161167015942674
+  - 83.7586033086267
+  - -2.4558787381868643
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 47ef3d26-88cb-4978-a33d-3279d5f96d43
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94108895750733
+  - 35.16629345270744
+  - 37.02620877442426
+  - -9.564259967668677
+  - 82.57694079860593
+  - -4.140792886778488
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 85f24cb7-c6e9-48e5-9b2b-965b90fb8f1d
+  airport: RKPK
+  runway: 18L
+  pose:
+  - 128.94094842767134
+  - 35.16681892505237
+  - 31.087343827358435
+  - -13.155043100715746
+  - 86.1171590112971
+  - 2.8781216816218813
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c6e1d901-9c09-4662-aef1-4563790e57c4
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93061385919623
+  - 35.24537203946271
+  - 291.38074170070325
+  - 174.14962064207228
+  - 86.2196680622903
+  - -1.106381200037462
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6fc1a675-4000-47fb-ad0d-d1fe47a79b87
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93073145097387
+  - 35.24171513558552
+  - 272.7694849544807
+  - 173.61060558065762
+  - 86.22075692392666
+  - 7.7236251244633936
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 650582c6-3289-4c36-a4ee-63538d7c93d8
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.92966498784062
+  - 35.24008087872794
+  - 290.7370615260697
+  - 173.09884092237786
+  - 83.50914343977497
+  - 0.4848287421265698
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 2c1665c0-0c0a-4365-8ef2-f9510d12be2f
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.92960575359126
+  - 35.238739401302645
+  - 253.39106274068982
+  - 172.77804811247952
+  - 86.4141005054655
+  - -2.112043502853858
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 17091bb8-7c7b-4fe8-8cd0-2654a3452bf5
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93152498044023
+  - 35.23878249867755
+  - 245.3148851204467
+  - 174.95080457925593
+  - 85.24944900503877
+  - 7.558110936563608
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 8419273b-0baa-4627-b86d-11de49432c1c
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93136899224473
+  - 35.238688494388974
+  - 232.0592522436157
+  - 182.7609436125481
+  - 85.94859540339715
+  - -4.8295327824022865
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 304f8f2a-130c-45d6-8b94-60e083e28879
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93271237482585
+  - 35.23775217573699
+  - 213.55052732073227
+  - 172.90197629297242
+  - 84.35684320877277
+  - -1.4044794702217944
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 1ffcb8ab-62b5-49e4-ac31-5428d12f395c
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93334931340746
+  - 35.236290798227664
+  - 252.97605649345184
+  - 177.75580314452657
+  - 85.71456315060166
+  - 5.267838187604351
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: cade5f19-7088-4141-90cf-9594ee0dadbb
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93184215704767
+  - 35.23608792573119
+  - 285.5605345313968
+  - 180.96878658734332
+  - 84.9204877682515
+  - 3.2896469862865176
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: f53f787e-f405-418b-b9f6-6051136957fd
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.9316589705481
+  - 35.23441620460149
+  - 222.9684163010623
+  - 168.9115686263339
+  - 84.3631734620381
+  - 3.1091150416534923
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5b990abb-cbcb-4025-91c3-aeb1e911b85d
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.9313356147816
+  - 35.23157162874391
+  - 245.6313250561954
+  - 170.98678708869375
+  - 84.63429855679293
+  - 6.422548903505198
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a591eebf-8a54-4a6f-b06a-d12bdc5f14dd
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93145135082668
+  - 35.22984617722105
+  - 292.2342480923675
+  - 171.8463875873925
+  - 87.33863483840571
+  - -4.985021282740314
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 097c5e35-67b7-4262-9efc-a9df5756b737
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.9331577775729
+  - 35.227679091094195
+  - 198.9077033879011
+  - 173.42382322419095
+  - 85.8363008732235
+  - 5.729746404254648
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 8bb6922f-6dfb-4e97-90a3-234073811393
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93477582052182
+  - 35.22640942575791
+  - 174.12302344148603
+  - 169.49740381971944
+  - 86.61480263026625
+  - -5.357051085866545
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 42ec0555-194e-49f3-8d90-ae075525d95d
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93448211259732
+  - 35.22181800419308
+  - 178.55349782829785
+  - 173.55781373512093
+  - 85.91708653758653
+  - -5.189793153467105
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 8400ab56-4dda-4b64-9e12-ae8e6f312ad2
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93454322986952
+  - 35.22059178792817
+  - 180.16405114190758
+  - 171.9034769587404
+  - 84.30729078384906
+  - -6.1733469611545555
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a12cbc0b-f617-414e-b343-713fcd28df2b
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93509504195484
+  - 35.220288487128094
+  - 147.81644062312978
+  - 187.19762680350527
+  - 86.27848519136379
+  - -7.091950302746079
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: aa1c0cf0-4623-4742-b62f-bd248b91fd67
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93388496496618
+  - 35.21741790967954
+  - 137.42833849874395
+  - 168.19050475107534
+  - 86.67748218873662
+  - -1.176994654051902
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 975a9cab-f6a8-4a1f-8985-b2e504183d92
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93426146890235
+  - 35.21740927068703
+  - 127.78970196387907
+  - 168.99830338558533
+  - 86.9533635079757
+  - 10.308522729159726
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ebe2d94d-8d38-41b0-849c-8141d35e557b
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93612233303105
+  - 35.216656315146565
+  - 162.25691617689296
+  - 179.7455177346196
+  - 89.97691236852839
+  - -3.378633099559643
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 5fe76c3e-526f-4167-b8d3-c91a1c8bfe75
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93563087311836
+  - 35.21389235932936
+  - 118.65403748570124
+  - 170.33160026789292
+  - 87.27839659302975
+  - -11.785321744119578
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 1b8b5309-97e5-4daf-859d-1211cdecc30c
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93553840966905
+  - 35.21126928054007
+  - 124.9861137755264
+  - 181.28873785900004
+  - 85.44688821301955
+  - -4.4471392953573154
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 072c5723-8781-4f31-9cae-b6f6926f36be
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93546163760087
+  - 35.20858330876726
+  - 104.12875993106996
+  - 175.35724234772988
+  - 90.60067389558313
+  - 7.242136000843616
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ec71d177-3d27-4d89-9f70-fd5ae21adffd
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.9360077400687
+  - 35.20758431465899
+  - 101.52163551722089
+  - 173.5134933564931
+  - 83.38699370524661
+  - 5.031834578516908
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ea9f419e-6f9e-4352-8b7b-3d8db58d37a1
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.9366591734787
+  - 35.20435951976149
+  - 87.35909328619472
+  - 178.28540066071128
+  - 85.83411555856496
+  - 4.1566188540261475
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: db7da3dc-4f6d-43d1-95cd-74fb91efadc0
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93563231114766
+  - 35.20419221878629
+  - 91.32359284447935
+  - 169.5224454452516
+  - 87.8192935840119
+  - 2.0100899584820713
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: d2d610dd-5333-4817-9904-489bc3a45e1e
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93653792574034
+  - 35.20191093075965
+  - 57.96812556369124
+  - 173.53317114649934
+  - 87.0794522591181
+  - 9.612635164319519
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 5ae1516f-b984-4166-b421-71011facb39b
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.93615795358446
+  - 35.20067459129377
+  - 58.598493579956866
+  - 175.20844781522982
+  - 84.70275897113382
+  - 5.56129423143938
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: fcc92f5f-9b15-4d78-b115-ff47a6243dea
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.9367220896539
+  - 35.1981192260839
+  - 30.383477910445677
+  - 175.4108463015874
+  - 84.8637081260804
+  - 0.6846634152575957
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 9088a666-0785-437b-9b70-e8788f7a64cf
+  airport: RKPK
+  runway: 00R
+  pose:
+  - 128.9371559644883
+  - 35.19750451833598
+  - 44.00379219057094
+  - 174.46878943070726
+  - 88.45544377871616
+  - -1.4283413925533992
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

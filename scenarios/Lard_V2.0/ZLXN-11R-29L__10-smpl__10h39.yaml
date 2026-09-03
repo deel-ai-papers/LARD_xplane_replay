@@ -1,0 +1,1078 @@
+airports_runways:
+  ZLXN:
+  - 11R
+  - 29L
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 16c706ae-5c32-4732-b1d6-49e0a5d6d411
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.12298750952813
+  - 36.507482750581964
+  - 2403.423464813507
+  - -68.95607239414186
+  - 88.72980573099797
+  - 5.784105255762122
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 93f1a1b1-0f54-4161-a369-bb3dc0313b81
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.11949813986791
+  - 36.50946969346311
+  - 2404.5129235229924
+  - -75.60273801054213
+  - 83.80130808296062
+  - 0.11477482070070905
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d6295307-11be-485d-9d1e-86c142ada4a2
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.11731747188115
+  - 36.50899590510099
+  - 2480.0900837839863
+  - -67.8826633115774
+  - 86.97441951738102
+  - 4.1561319646301715
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 56343d08-0f9e-4547-94d1-14604cb58a66
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.11434969319279
+  - 36.50596645928155
+  - 2407.3062085425704
+  - -80.39825729308436
+  - 86.20696006799325
+  - 0.5296897605056489
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5e0f4c5f-3d99-4df4-a8db-03ab58690687
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.11314796115322
+  - 36.51012832633887
+  - 2456.903392306131
+  - -71.0988476408821
+  - 83.93988194333484
+  - 4.1864794845957105
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 80afe17b-3bdb-4763-95a6-7501385da14d
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.11024627484142
+  - 36.506963610987604
+  - 2434.7027832002395
+  - -72.84974990135737
+  - 81.37330176400376
+  - -5.711523951358442
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c6e2bc23-73b6-40e6-b6d2-903215cc14b0
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.11109247826168
+  - 36.50930697046151
+  - 2387.3902435209843
+  - -64.89016371609254
+  - 86.59004033950974
+  - -0.9714506410123637
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: fa320623-22b5-411f-b769-5708c35746eb
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.11042816769756
+  - 36.51160863187963
+  - 2511.2233620282072
+  - -61.71277012237883
+  - 83.53520450900152
+  - -3.2728517081821904
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 0e0a2310-67ea-44cd-9027-9cc648474075
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.10682863097168
+  - 36.51022630202194
+  - 2391.2800139339447
+  - -67.64542106046987
+  - 84.94065585123406
+  - -1.7849413739306113
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 0e598de1-5eed-4477-b1d6-1f8004045769
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.10654715467312
+  - 36.5101874225799
+  - 2387.0882379376285
+  - -67.51663885489036
+  - 87.61123748504954
+  - 1.870163928934685
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e6c7fd3f-beff-47f2-bdd4-d7e8088d986a
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.10438759652024
+  - 36.512075164546296
+  - 2403.139003214985
+  - -79.78854275852036
+  - 85.02788220893096
+  - -2.38105747209977
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e7962905-1012-4a12-8605-6b192e6f4c04
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.10009834695656
+  - 36.51272267621291
+  - 2349.5277455493833
+  - -71.51873782920293
+  - 88.56035206582636
+  - 7.2849425989828145
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a1026bc6-558e-47a6-b402-5a7d1770d9bd
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.09767072064248
+  - 36.51546124401764
+  - 2370.9050498577917
+  - -68.3789628939573
+  - 86.10012873316754
+  - -5.040758075815369
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 79936bbe-26b9-4c15-9f86-28b756b6817c
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.09302100051222
+  - 36.51586896804619
+  - 2323.943648672849
+  - -79.70121833629862
+  - 81.8648433271217
+  - -6.320975859721103
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 576b6e1b-4b5b-49d6-a736-0ac2532415af
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.0914284873138
+  - 36.516201012214395
+  - 2301.3220395712765
+  - -75.15791136662259
+  - 83.36287454303262
+  - 7.65640958838378
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 78590b48-5fe9-451e-a6e2-c80519a1e038
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.09066137350118
+  - 36.516594772936585
+  - 2339.35554428598
+  - -67.80995107118892
+  - 87.05855949807169
+  - 2.594986933973648
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c3cc2816-829e-471d-9bc3-17b35ec34d6b
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.0897581442653
+  - 36.51667710245278
+  - 2277.9057174260975
+  - -77.69137585537669
+  - 87.4024427519458
+  - -1.25685389124099
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c8155f87-1a07-4475-903d-ad33360bf4b8
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.0864605961131
+  - 36.517639172188325
+  - 2303.8845446624
+  - -69.50419319819797
+  - 85.95723338747561
+  - -5.167007475353738
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 121e0cc8-dbd6-4198-b6c3-a9307beb5b7b
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.08596688229566
+  - 36.51710870748052
+  - 2286.8102241572465
+  - -70.8137993515684
+  - 84.51715896024487
+  - -0.5521493918569499
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9ccd7a68-bdc5-4623-899e-95be2828c297
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.08625379177067
+  - 36.51779994742778
+  - 2309.8765237488774
+  - -74.20448657248633
+  - 84.38284407061421
+  - 4.063485389649635
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: b683a62a-1e06-461c-b07b-3f4460fbb003
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.08567245664229
+  - 36.51766044346745
+  - 2300.7592361694287
+  - -70.65450110444783
+  - 89.04145691747857
+  - -1.2273505027088785
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 3f019fce-56ea-4aff-91e7-0a10dcf3d4c7
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.08462615331287
+  - 36.51837289916298
+  - 2297.298782875974
+  - -78.72115768861623
+  - 85.62339689727412
+  - 5.887299796459045
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a084394c-9b26-4cd0-aa94-75c358e522fa
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.07956338704328
+  - 36.51884998079375
+  - 2270.940934410123
+  - -61.767215871165554
+  - 89.2694227583236
+  - 2.684042073578454
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: bc45f50e-e6e0-415b-8314-ada227d51551
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.07691577571481
+  - 36.52050990956751
+  - 2264.187499414418
+  - -68.89363621872478
+  - 88.4517067812316
+  - -5.872926733967484
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 604ffd48-47c1-42c3-853a-11c5169714d1
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.07329399076609
+  - 36.52102694270382
+  - 2221.515105808448
+  - -79.22685301512963
+  - 86.48691588989169
+  - -5.371116217192188
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: d99e553b-da9e-484f-ae9c-4aaf2c236dcb
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.0708132823518
+  - 36.52165129410909
+  - 2230.9352834773726
+  - -76.52111087340343
+  - 85.12563132683515
+  - -8.962410438076107
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 2bf7e281-b898-46b8-87b6-be24ecb4d38c
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.06596529590036
+  - 36.52304771057184
+  - 2202.031090912872
+  - -75.53601932349949
+  - 85.04489007897213
+  - -0.5451491621665843
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: f496b0de-3c77-453b-8482-efb161067d97
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.06560829828686
+  - 36.52288352100257
+  - 2184.7680086644477
+  - -70.37126055410053
+  - 86.67034834954856
+  - 1.936190996941949
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 58505a4a-ed6e-46c4-9ef7-e8e38900c26f
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.06372746549926
+  - 36.52369375932309
+  - 2183.0094101772147
+  - -77.57755386827144
+  - 84.22900871650589
+  - 1.008935208778162
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: dad0a5b3-91e5-40f2-81d7-dbdd738de0f5
+  airport: ZLXN
+  runway: 11R
+  pose:
+  - 102.06324574732525
+  - 36.523750382258385
+  - 2189.5181289359616
+  - -67.79132811945806
+  - 92.2160625171479
+  - 3.7496941041366942
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 12619223-7e95-4f9e-9613-aea7330ec45e
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.96199637018182
+  - 36.54922677319519
+  - 2523.06232033824
+  - 103.14997463878014
+  - 88.41075756932014
+  - -3.615195176580333
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e12425d6-fc5b-425d-ae40-415ee9e11849
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.9631482525643
+  - 36.54914143752846
+  - 2500.1910543567374
+  - 107.92249419977658
+  - 85.70437950551269
+  - -5.057610002448406
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 81144e73-aab1-4ea2-9aea-42f9aef0b9aa
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.96461883072286
+  - 36.551550637575005
+  - 2421.9011397129266
+  - 103.65328255061206
+  - 86.03111733860275
+  - 0.607756665142088
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 00bab73d-cf70-4807-8f0f-07a869112ee9
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.9647042378469
+  - 36.55106315954725
+  - 2541.920449087159
+  - 107.7655524269012
+  - 86.65119778560802
+  - -4.800138671190163
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: db6ecbd6-ba18-4f8e-b5af-85aca19b803e
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.96943696303988
+  - 36.55079267962921
+  - 2451.221594420881
+  - 105.38149753765228
+  - 88.14753505569341
+  - -2.675568258350319
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 935c786f-0e78-4d68-8e63-755108b29f5f
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.9689855224045
+  - 36.54971088270234
+  - 2466.890668704759
+  - 109.32381654874354
+  - 84.66102090029493
+  - 1.7663383578114902
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: f1ab9925-85ef-4053-ab42-b5d9da4ddb22
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.97089229295047
+  - 36.55048204133899
+  - 2456.160073356444
+  - 109.36720981501018
+  - 89.20937638653207
+  - -4.334476188003055
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4d787d3d-ea7e-4201-8132-9ce37e107014
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.9718465452152
+  - 36.54994904977296
+  - 2460.9926610756593
+  - 105.7753608419729
+  - 90.45950073855974
+  - 10.202264889325923
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 1ababedc-5f32-4ce7-b1bb-3bb417a85e85
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.97144053616503
+  - 36.548029326019595
+  - 2439.9184322279466
+  - 105.34500001548965
+  - 87.96546508945225
+  - 4.479417841160551
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 333e3d6f-c247-4c30-b18b-b6773015cc5f
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.97280466869555
+  - 36.55101168696147
+  - 2450.171746143834
+  - 111.84977629006333
+  - 85.49582729472674
+  - 1.9925325472553577
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 44f6bb56-0ad2-41fe-9aae-43c34d0154a5
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.97221159403193
+  - 36.54920821470588
+  - 2469.8452661995725
+  - 110.37914559184632
+  - 87.50755313526636
+  - 0.7203591383178364
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 72d8c8be-bcd8-4a11-b5f5-a196026c5f3f
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.97852716675925
+  - 36.54588550638299
+  - 2423.388571752028
+  - 100.82855769448771
+  - 84.55016349515262
+  - -4.11762524173167
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ecb9bd27-04af-48f4-b6fb-74e8ce48a08c
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.97963715244136
+  - 36.546917512519656
+  - 2359.231526671111
+  - 100.32868045508464
+  - 88.4325977161408
+  - -8.352808996357181
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 71cefea7-9939-4aa0-be7f-1b0efadd9142
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.97959705873242
+  - 36.54536374866198
+  - 2395.928868679255
+  - 102.95888164783008
+  - 88.8056815676581
+  - 1.3414964989551172
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: dd17fec4-7d96-4585-b153-a5b3dd70f044
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.98087703411653
+  - 36.54663475035744
+  - 2373.9999436425946
+  - 99.71739315474065
+  - 88.81063166887493
+  - -0.8499753298911982
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: d05b67b2-8731-45fa-bc95-8ca0b0e5159d
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.98382437072821
+  - 36.544842415908796
+  - 2388.726538543467
+  - 116.288464537972
+  - 86.49736626810719
+  - -4.006762731140068
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b002a284-ea4e-49db-a215-a780107a2229
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.98458656985918
+  - 36.54592664349958
+  - 2390.2925396994688
+  - 111.09601749556973
+  - 88.17499912469522
+  - 5.620457823808143
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 95720938-1321-4fe7-8f4e-e75d4071ce79
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.98694776397777
+  - 36.54600472448062
+  - 2404.4524972815066
+  - 102.38620034484505
+  - 83.69587780676547
+  - 0.6615757561052451
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 396dcfac-2225-4660-9de9-1e1c736908c5
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.98976596820685
+  - 36.54396119952955
+  - 2320.3748609091176
+  - 110.43264079736399
+  - 86.02269799673869
+  - -9.70567330817017
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 61a3614a-2b6b-4a7e-9620-4de72848cd88
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.99029750883925
+  - 36.543733150447444
+  - 2374.8477798219915
+  - 105.21541849223581
+  - 88.81479005377346
+  - -0.815659806592718
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 2db6448b-d754-4f34-85db-a6ac223fb184
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.99686507826594
+  - 36.54333109546233
+  - 2334.580825505797
+  - 100.73736085242336
+  - 87.58496511886341
+  - -0.6855387230882886
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 1edfdae8-abd2-40ea-a861-03007829c052
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 101.99876090864161
+  - 36.541818823232155
+  - 2314.565045138362
+  - 112.29718905727934
+  - 83.02591005554328
+  - 3.5586425787785636
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: be5e42f5-e72e-411d-a678-3735f69728e0
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 102.00124298982202
+  - 36.54087657692183
+  - 2325.6176676751425
+  - 104.62648565492634
+  - 87.09627090700897
+  - -1.4925117562836498
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 1f3bbd75-1a0c-43e4-bd56-4e69baf6bf3d
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 102.0025669596296
+  - 36.54061200600478
+  - 2300.296313400386
+  - 106.92661264059382
+  - 80.51437130682278
+  - -7.220245170564819
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: bf7f4996-b77f-43cd-b711-23b8b512f95f
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 102.00565543007876
+  - 36.53920748477392
+  - 2283.9469558285564
+  - 112.34714330021912
+  - 84.82116907866018
+  - 0.7343493729692724
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: b21d0350-9c27-4c0d-976d-7e3036924e44
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 102.00854378922577
+  - 36.53897756298236
+  - 2271.6018217120477
+  - 104.88216424929672
+  - 85.49619000428393
+  - 7.282748458244768
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: bee45358-ab09-49c4-95d7-73b7262c2cba
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 102.00879673809392
+  - 36.53885332248735
+  - 2274.9901403257963
+  - 108.85232391768045
+  - 87.58709578884692
+  - 1.568312193328858
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: f4ceb519-5704-4f5c-b33f-b9a2bc61d4b3
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 102.01184699512245
+  - 36.53788664096961
+  - 2247.024456190001
+  - 99.62230099239264
+  - 90.36960353409425
+  - -7.866011263376639
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b4035f64-678b-42e9-9d62-c323e361eb30
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 102.01251769726373
+  - 36.53777631734069
+  - 2241.181259490875
+  - 108.58902412101547
+  - 82.10112165401361
+  - 2.421330059665418
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: deee348c-1d1b-4ae0-92bf-5af3b0067200
+  airport: ZLXN
+  runway: 29L
+  pose:
+  - 102.01614860215624
+  - 36.53671029699607
+  - 2239.638076296756
+  - 103.14977115845085
+  - 84.4168786390513
+  - 7.92988839232544
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

@@ -1,0 +1,1078 @@
+airports_runways:
+  LGIR:
+  - '9'
+  - '27'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 09c2d9a3-68b1-41af-901f-f54ab2f4420e
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.255281922304672
+  - 35.33374552060863
+  - 345.89815501231976
+  - -81.42767757620173
+  - 85.20177009186703
+  - 11.604907400883377
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 0a82a0cb-65a4-42be-8f46-e810dd4c5dd9
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.25508382341632
+  - 35.335689607244916
+  - 318.4182989746846
+  - -96.71111288054263
+  - 87.25621059124427
+  - -7.157054868521099
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c988f2ed-843a-4b1c-acfe-d13caf24988d
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.251619368745487
+  - 35.335742518140854
+  - 293.817197890703
+  - -76.42602754791866
+  - 86.61584407944206
+  - 4.746727574090413
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: f59d716c-5d15-408d-921a-eb7d7d898574
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.249649641889963
+  - 35.33368455954766
+  - 331.1425277415722
+  - -91.54329567941666
+  - 84.88232585923784
+  - -6.007047497526139
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 080d0508-8cfe-47ef-8a67-53da23d9329a
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.248972906237636
+  - 35.331964427826705
+  - 236.36959920659552
+  - -86.811009001904
+  - 85.62502952375907
+  - 3.706360561983162
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 3ceb6ece-d199-4bea-a708-78fd45fdd754
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.246707325669476
+  - 35.33437329777916
+  - 319.14298057166934
+  - -90.00601940568755
+  - 86.95373336429628
+  - 1.8990610016678362
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e042d93c-f8c4-4a42-91e8-6174c25244aa
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.245180557021822
+  - 35.33601292182902
+  - 310.31192016210986
+  - -78.3789619205386
+  - 84.19244320631793
+  - -0.9601562333101521
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ed10fd1b-abe3-4060-b1df-ef9653d75bf8
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.24504793225429
+  - 35.335872788404316
+  - 306.26134648525897
+  - -87.4932756641538
+  - 85.41891682554618
+  - 5.383214410721391
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: e26b61d8-a1a1-4ba5-8cee-e08a3751733c
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.244451318805456
+  - 35.33664666360821
+  - 298.64432409656763
+  - -72.89215370505838
+  - 84.71076989234945
+  - 4.456244975571658
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 3b3eaed2-d8cc-425d-a526-03bbb4605206
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.24339668418704
+  - 35.336665457994236
+  - 222.49821340028785
+  - -82.29085739414707
+  - 88.64617059832905
+  - -3.531301460329143
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9bccfacd-ff95-4b20-b800-c58a1469893a
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.235812894375748
+  - 35.33646452408
+  - 266.12736368490124
+  - -83.60952142783151
+  - 87.42736702689736
+  - 0.381869650965603
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: dd0d71d7-936d-4139-b5ce-bd1d4bd36504
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.233115582323972
+  - 35.33551728139506
+  - 227.45438239817125
+  - -83.52380097008806
+  - 84.37231827391801
+  - 0.9280623101817448
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 7109dbe1-a0d8-4a47-83f2-c524ad4e7cb9
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.23247353997185
+  - 35.336629571328196
+  - 241.32240505307527
+  - -75.82130787402048
+  - 91.1799672941853
+  - 4.99251132236962
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 59d7868b-2cf1-4957-a0f3-f3152035c175
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.226148351927307
+  - 35.33604719640209
+  - 219.58540903640412
+  - -85.16056659951442
+  - 84.80151276954317
+  - 2.2458970905245224
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 6c79ac0f-67cf-49d8-943e-c5ea48ccdf8e
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.224298389474455
+  - 35.337628532387846
+  - 192.18784727590906
+  - -94.45786375294067
+  - 84.51766084577389
+  - -1.0094800368516967
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 2a7ae8f5-624e-48c8-950e-08d3beadb62d
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.22208018730753
+  - 35.338072350057175
+  - 192.0641221544234
+  - -84.17353713313304
+  - 90.94187746992894
+  - 6.510222137190137
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 338ae0ce-ecb4-42be-9da3-1f741c1a0613
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.22166208277518
+  - 35.33705949537284
+  - 189.4645725853362
+  - -84.96133744243788
+  - 86.44681550907652
+  - 0.09872137690636634
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 8b6e7fc5-f207-4b03-8d74-8961d566b499
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.221117620010443
+  - 35.3374224904825
+  - 190.8096425681214
+  - -82.79098025224094
+  - 84.0351299086092
+  - 13.413915479003567
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 51569861-ebb0-45c6-b7c1-54b4efb8035e
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.220274838085118
+  - 35.33555969829169
+  - 186.20683821844327
+  - -80.39236514560017
+  - 85.4078072943109
+  - 0.35626561073761154
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 9678ae36-3369-44be-8377-6df56d9f0838
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.219173030188667
+  - 35.33662096982509
+  - 206.38471909011076
+  - -80.33059354964743
+  - 88.61155407216548
+  - -3.893856728384012
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 38d23fd8-4baf-4c41-ae59-721cf4a230da
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.214704555393432
+  - 35.33722006523769
+  - 162.57707731979326
+  - -78.84539186530739
+  - 86.85758924820288
+  - 3.527743037277013
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: d7f71f1a-3e53-4369-b129-3d5fa35be4f8
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.209511566653067
+  - 35.33737899765699
+  - 122.61493030546572
+  - -86.70951428363514
+  - 87.01048617568766
+  - -0.9951531402089213
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 3bf5937a-1afe-4308-b8af-3873f8a717ae
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.2082948989557
+  - 35.3368917209129
+  - 121.1263348626332
+  - -76.6759609918127
+  - 85.8792990456209
+  - 2.1633051720262166
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 9a9ba190-3f03-458f-8422-12afe81b8f87
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.204130485137465
+  - 35.33847710992425
+  - 98.80161710835027
+  - -83.52307626985909
+  - 85.89827384115833
+  - 6.951304719023974
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ea61ee17-4b43-4676-a97c-d1e9fe926fd9
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.203471584217937
+  - 35.338232620036
+  - 101.91463361366488
+  - -85.00727389124489
+  - 85.38945598189832
+  - 0.6723605825682838
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 0cfab2af-7604-4366-a76d-99e26a769add
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.200975173906293
+  - 35.338248333336594
+  - 79.48017334044243
+  - -78.8287545256092
+  - 87.54866919331101
+  - 7.479032218212604
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 4cbc4735-1eef-4d88-9728-fa24bba99286
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.20062088714414
+  - 35.338323826201986
+  - 72.87797546053635
+  - -85.93398388335147
+  - 88.3072805611518
+  - 0.2614411712902258
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ae7c24c1-55d3-4a19-8f85-d2add0811684
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.19752825146553
+  - 35.33822890040718
+  - 60.66906051317195
+  - -80.51355501934042
+  - 86.08084045028687
+  - 3.5860765155788155
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 236ec66c-35a0-4ecb-8c12-962bac7ababc
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.19509860739199
+  - 35.338631081854125
+  - 59.96232767226513
+  - -88.59020473683853
+  - 87.24641736913252
+  - -5.915155268135712
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 951ccaa7-ed0b-4572-a3c1-e03e0435dc50
+  airport: LGIR
+  runway: '9'
+  pose:
+  - 25.194551127465314
+  - 35.338789882479254
+  - 51.95052041509867
+  - -85.05714924180435
+  - 87.00940986925163
+  - -1.7994538751809732
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 207af26a-16d0-4a6a-864b-6289a335e935
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.104397791343064
+  - 35.34418528929402
+  - 258.250410181411
+  - 89.38274848750912
+  - 87.74366913136525
+  - -3.5793526189603346
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 8d873d65-c285-4bbd-87dc-d408d4f1756d
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.10913969379863
+  - 35.34477411150496
+  - 302.5274640724986
+  - 95.48943759364266
+  - 88.57724909053347
+  - -3.305316149201341
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 5e951f5b-637a-489a-962d-d02a777b03e4
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.110750189209448
+  - 35.344176260514196
+  - 281.8574191155183
+  - 87.10163813116151
+  - 84.93094504972464
+  - 1.59177443400444
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a37d89ba-c3bc-4b25-9556-f73e63c3d89d
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.111188095383984
+  - 35.343224750333604
+  - 294.5637716121006
+  - 89.58981796561599
+  - 87.75273736155897
+  - 2.9672361726456953
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ca888a4c-48d2-4ce0-9b2e-f0aea1c9ed53
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.112063544029972
+  - 35.34468141292344
+  - 284.03465211543903
+  - 89.0630190829199
+  - 87.64067260553729
+  - -0.32054578078180485
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 9d78e377-688b-4e95-86bd-e0e1e9332f8a
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.11446999624948
+  - 35.34324419603188
+  - 249.90038614913158
+  - 88.98947096763476
+  - 85.02837749146958
+  - 2.780918415546055
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: cfbae9d1-5f77-4fb5-8f06-4acc5b634b30
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.11487855707573
+  - 35.34554061907512
+  - 260.5284933030538
+  - 91.20531335386015
+  - 89.85724903459545
+  - 7.435454336208188
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a7bc43a5-bde9-4380-821e-b883f39e92df
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.115255924041975
+  - 35.34357202604675
+  - 320.3763571780641
+  - 98.1851601635059
+  - 86.901596879325
+  - 5.175675188745505
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d08a3d6d-0a85-440a-bbc9-bfe955728488
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.116394172134537
+  - 35.34338484882325
+  - 267.44601592773154
+  - 94.93993162919081
+  - 86.3097434771451
+  - -4.9131467503598865
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 87950675-a67a-4aa9-a4be-1b5823af09fd
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.116483057289773
+  - 35.34390066460036
+  - 284.4792055152808
+  - 86.48027945476284
+  - 85.47375944364663
+  - -5.50097681464859
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d8a07005-32dc-41d0-bced-148ff69aea6e
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.117969325892126
+  - 35.34366884304017
+  - 235.89113176203637
+  - 94.36546626705984
+  - 87.3918648372609
+  - 3.640062196382444
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f7361f06-7e24-4866-a6e7-d92bdbe85c90
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.129189810311985
+  - 35.342179036353095
+  - 255.78499130666302
+  - 95.73551895883742
+  - 88.00107790661727
+  - -2.9879453990436406
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 2b169f34-3106-43ac-a548-c6362266a17c
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.13096181343584
+  - 35.343791529831925
+  - 209.6607765639653
+  - 83.08272411670151
+  - 87.30188893481848
+  - -1.9844050600188423
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 8f3cc4e5-8ea2-4ebf-866e-43a620a5262d
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.131653268069957
+  - 35.34341149699494
+  - 168.5008607362001
+  - 106.81743576971496
+  - 84.08857156067812
+  - -9.338762674984672
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 980d0d49-54aa-492f-93bb-69607d56b97c
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.133758513387136
+  - 35.3432241776357
+  - 202.8730077671578
+  - 91.96409082015795
+  - 85.030294270986
+  - 5.25460866689765
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c097d87a-1b3f-4ae9-95e2-c7fcdc405d40
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.135117460032596
+  - 35.34292159369741
+  - 169.80612833400752
+  - 101.83614669964668
+  - 89.70958770549686
+  - -1.817047676572726
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 0a6e2c04-927c-4fa4-8686-4ee46550f069
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.135211998285683
+  - 35.34313224517833
+  - 163.14534261349397
+  - 108.38932570187623
+  - 85.3783229089372
+  - 2.207542581397944
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ba8e9dce-2e85-41a2-a102-1bc103471197
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.137851747143195
+  - 35.342841566212705
+  - 211.87055262941647
+  - 90.34634949721568
+  - 81.55473844343823
+  - 0.025622760781367077
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ce6e389c-d2e3-445b-be27-5cf281edb948
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.138040352760047
+  - 35.34189630267512
+  - 172.44891322102
+  - 97.3038412213719
+  - 86.26969865394491
+  - 1.4754191815100668
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 2e0b7a41-f9c2-4cdf-8ea0-393f4021f074
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.138827537156352
+  - 35.342412769829906
+  - 191.1533614983092
+  - 90.83543171783596
+  - 86.86686906337229
+  - -2.282424514241407
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 15bb2f43-94bb-48b0-8d77-369c2612bd27
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.1461993470908
+  - 35.342560069884506
+  - 128.97962724892366
+  - 93.15840385113378
+  - 84.55559443165835
+  - -2.54427647660018
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 0cd6ff3a-2c99-4f28-8490-94f932c49989
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.146815649281198
+  - 35.34182682018657
+  - 141.6637690715499
+  - 96.01646015911605
+  - 88.70996554459269
+  - 5.340229423007289
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: b8df038e-1ddc-4f3f-a97b-c87452145109
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.147963378800682
+  - 35.34150347162957
+  - 117.15299609126141
+  - 103.48773317672301
+  - 85.115820650103
+  - 3.4492872050906827
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: eed0ec95-3f1e-4d10-a388-9d8850e22cab
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.15700460545365
+  - 35.341356201776975
+  - 83.24131737451086
+  - 93.86433458578013
+  - 83.86982017280421
+  - 1.973692955114059
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 425c9c89-2d5f-4425-8534-abbe08034591
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.157827108585078
+  - 35.34136098970234
+  - 74.88773054437401
+  - 101.17721989190949
+  - 85.18606323795991
+  - 3.8166666252862407
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c52ab35e-22e2-4ea0-81c3-d62009e4754f
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.162510132296102
+  - 35.34113769426977
+  - 59.39607806453095
+  - 100.84368895046717
+  - 85.57918941989551
+  - -7.347296538068404
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: bebfdd13-2a43-400d-bb26-8fa7099a1860
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.1628895884249
+  - 35.34105941066814
+  - 54.77187542546818
+  - 95.75948982270023
+  - 90.85183705216551
+  - -1.1636157440884793
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 96e820d6-1dc8-4c02-857b-eedb3704da13
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.16300133330879
+  - 35.341028303093864
+  - 56.009982873359235
+  - 99.49284854270843
+  - 86.24489994867022
+  - 13.803949627149713
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 7c9be9c1-c9bb-4b0a-b019-03fb4cbc8d71
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.163205954976483
+  - 35.341035325143494
+  - 58.60009571089123
+  - 87.14324091929882
+  - 83.67670293542551
+  - -2.0787508129404375
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 70650a3f-0894-46a9-a8f6-d9e14dfc394f
+  airport: LGIR
+  runway: '27'
+  pose:
+  - 25.163221429840902
+  - 35.3410065598235
+  - 55.24071822048921
+  - 92.27024731100217
+  - 86.1844671878186
+  - -1.3455073166833595
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

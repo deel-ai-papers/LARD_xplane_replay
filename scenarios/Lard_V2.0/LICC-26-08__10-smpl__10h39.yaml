@@ -1,0 +1,1078 @@
+airports_runways:
+  LICC:
+  - '26'
+  - 08
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 3aea0a4f-c97a-4e3f-9fd4-cc539a8c1f90
+  airport: LICC
+  runway: '26'
+  pose:
+  - 14.987781556668788
+  - 37.461423331150066
+  - 380.0460544867093
+  - 81.32027173198516
+  - 84.95167491461491
+  - -6.264586708285105
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 2f7d7219-fc77-444a-a3b8-7021777b36e0
+  airport: LICC
+  runway: '26'
+  pose:
+  - 14.989070276973615
+  - 37.458632920336065
+  - 326.4656227342953
+  - 78.74541353603956
+  - 87.70549401202248
+  - -5.120769029385743
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: af0e441c-eddb-4d2c-bf1e-95c588a1a510
+  airport: LICC
+  runway: '26'
+  pose:
+  - 14.992251211574834
+  - 37.46052199086465
+  - 310.02202847393414
+  - 79.08120175044938
+  - 86.79883808226741
+  - 6.58387551315911
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 11c8cebd-27b7-4d2f-b826-92a70cb05d31
+  airport: LICC
+  runway: '26'
+  pose:
+  - 14.994716793994174
+  - 37.4624778833434
+  - 283.25374116203625
+  - 79.1336123118007
+  - 82.38288736635552
+  - 7.130224612936282
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: edca6e7a-6f4f-4bdd-83ea-32d848a77a4c
+  airport: LICC
+  runway: '26'
+  pose:
+  - 14.998631289772405
+  - 37.459689389108384
+  - 313.1528849141541
+  - 74.02007425641348
+  - 85.6165145633923
+  - 4.727322741221264
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 23c0287e-6b6c-4c1b-aa55-f89c34c25c8a
+  airport: LICC
+  runway: '26'
+  pose:
+  - 14.998349200456463
+  - 37.46166944942036
+  - 283.70204652056873
+  - 78.30545105296903
+  - 88.94952871478952
+  - 2.884903784375769
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a2fd9831-0dc3-46ec-904d-3a9ad7b2e1f0
+  airport: LICC
+  runway: '26'
+  pose:
+  - 14.998593849616412
+  - 37.46094696987742
+  - 256.9259067291774
+  - 85.43024969322748
+  - 86.03291790569921
+  - 0.23374250355255424
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 48807a15-fa6a-4461-849e-b1476969951a
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.001751704119046
+  - 37.46025678049254
+  - 203.2778329990888
+  - 82.59373226007337
+  - 83.92973428597132
+  - -5.868047771781589
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 234556f4-63d9-47c5-9bf8-b22794db0ab3
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.002707861686396
+  - 37.459777785922505
+  - 264.6970236807173
+  - 80.83835930930275
+  - 90.00259852760487
+  - 8.85685195274419
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 329becae-ede9-436d-bf07-1e5382559b29
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.0030973447176
+  - 37.462193430539074
+  - 239.40951405062185
+  - 92.22884019336962
+  - 85.22991520795323
+  - 3.05889237241489
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: dca09a03-df29-4f44-a749-fa2ab9ab43bd
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.005386603030987
+  - 37.46102183490376
+  - 270.76189872222494
+  - 74.76629547234973
+  - 87.71588404607104
+  - -4.557060791834037
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 1c22ae4a-7af9-49fb-8926-da0731c28f2a
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.007789685830165
+  - 37.46262711737773
+  - 266.90105263079
+  - 84.74413220154258
+  - 82.8986136250244
+  - -0.12103344941935248
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 08935a8f-2b73-4a00-bf10-ae5ed3593fc7
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.01225213830568
+  - 37.46129630325836
+  - 234.20566566740032
+  - 86.30418437950742
+  - 86.703912647377
+  - 3.934520103982498
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 0bc594f6-83c0-49ea-88e1-4028e92ef882
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.015379597949938
+  - 37.46293094671846
+  - 212.80597816525028
+  - 84.40924585372547
+  - 88.57853173331321
+  - -6.595827313622094
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 52991e81-fc44-4e08-b628-4394238d1a58
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.01735660468988
+  - 37.461568014991514
+  - 179.24081169832266
+  - 78.84488039585973
+  - 84.74056555940022
+  - 3.329669308076382
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 1c14fdb3-2ff9-4268-a467-be366fa0201e
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.019810099785673
+  - 37.46303125247386
+  - 191.44381278229602
+  - 89.1962584325724
+  - 86.6305662851947
+  - 3.4456890471690063
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 4bda3d58-523b-4dba-8fca-5402f0e18488
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.020297221451735
+  - 37.46390609607547
+  - 146.11973735289112
+  - 87.33128765989157
+  - 86.00590066721067
+  - -2.084313763791285
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 2f27edea-007d-4dbb-8a20-43173bbc579e
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.022135186098545
+  - 37.46277768483242
+  - 170.7164878849306
+  - 87.5014710874506
+  - 88.4407008418411
+  - 0.97266358739645
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b6c1e9e6-5dd4-4780-aede-04973d07748a
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.022810996799622
+  - 37.46463530253243
+  - 224.25264028903825
+  - 85.33871759235203
+  - 88.22083384443056
+  - -0.6314631183169067
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: a0e919f8-5fee-4af4-887d-407a886b368c
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.024879410032245
+  - 37.463734974692144
+  - 146.13640170894797
+  - 82.74018291346351
+  - 83.29804846794185
+  - -7.04168881366696
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 51f3ab92-bcd2-4250-9b24-8b44695038b6
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.026704184278824
+  - 37.46534739462492
+  - 179.57854925058777
+  - 89.10915624794043
+  - 85.56598116643353
+  - 3.5230100695572526
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: e06daf00-a9be-41c7-acef-df81ee766e86
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.027393619972509
+  - 37.46385090440595
+  - 133.95513036409085
+  - 84.17629437997648
+  - 83.45376872119613
+  - 6.2006520977973265
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 81191b61-19a5-43ef-9034-c7064abe55f0
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.028479553480077
+  - 37.46399950230542
+  - 147.2538814299475
+  - 82.22198110164085
+  - 87.02093459581427
+  - 1.3549170801324104
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 48dfc02c-fdfc-443c-ba0e-2097bb46ee6c
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.032034003241622
+  - 37.463821806435604
+  - 148.33106776030527
+  - 78.20751295616007
+  - 85.82463673364674
+  - -4.607575048452705
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c83d7510-df46-46f9-b63a-e2f7c46d1117
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.033507302053732
+  - 37.4632493795351
+  - 128.63385010631097
+  - 83.57617143736712
+  - 83.16281594246801
+  - 5.0838262941153936
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a19fcde7-ca7b-46df-8427-a4aee1ebfee6
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.035740614672417
+  - 37.465352928797756
+  - 97.78392764955643
+  - 77.7996532265558
+  - 83.5662944005028
+  - 1.5921478306328039
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 0a42f61d-13d6-454a-ac73-627f0e8a2397
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.0399578355939
+  - 37.464441191216785
+  - 88.3315188495561
+  - 84.99294971024872
+  - 82.47723457603885
+  - -5.550222182388888
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 14a4cba6-0784-4a6d-9e55-570538b92034
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.042998817573132
+  - 37.46438505359844
+  - 81.1035599120097
+  - 90.44885436225566
+  - 84.68520241839214
+  - -3.8331189270574075
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 395088be-c261-43fd-b3f6-7c0497cd5778
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.047017696158363
+  - 37.46502223517563
+  - 60.18389755197096
+  - 78.60178864069204
+  - 83.47572006566598
+  - -0.7830375460516037
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 0ddd5798-6f82-4e39-a5be-48d5f0c0e86d
+  airport: LICC
+  runway: '26'
+  pose:
+  - 15.049636793189288
+  - 37.465503093502335
+  - 52.92370313567561
+  - 86.3154080978459
+  - 86.07124928411294
+  - 0.7449660096105495
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 2890c703-4b1c-497d-88fe-7a4d1080a07b
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.146435361040018
+  - 37.47143809046506
+  - 370.57252326951664
+  - -92.43393038574273
+  - 87.90496762401605
+  - 4.154485703297513
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 11d1ef37-6855-4711-b33a-695503cfe7b3
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.142822710901095
+  - 37.47128422461229
+  - 361.2885147633852
+  - -91.95592660381747
+  - 86.21867087801992
+  - -3.0473386026562794
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: cb023a82-ea5d-40c0-8efe-64159c1c656b
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.140634316343434
+  - 37.47497588925401
+  - 249.65746738433467
+  - -84.87630183661875
+  - 88.40598653804832
+  - -0.2331375072479966
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: d60e4453-6977-4e87-ac93-e98031674677
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.138330944722897
+  - 37.472368673875735
+  - 321.62114137171466
+  - -101.43542819015698
+  - 83.68117125040085
+  - -1.866732931720399
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: d1ea7460-c569-469b-8544-59f652e64ee6
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.134731689057222
+  - 37.47384013249496
+  - 311.5615032103391
+  - -102.60711508494734
+  - 86.4031571948035
+  - -1.7490044958554616
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 839bf007-77bc-4af9-98b8-bbde6d04e095
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.134877748370878
+  - 37.470243358832896
+  - 247.9966422840566
+  - -108.25670860045454
+  - 86.4759972275651
+  - -4.360622652206193
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 5445ca08-20f4-4bf8-b980-5dac54ec95c5
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.132812215267547
+  - 37.47375172079835
+  - 195.3568795104477
+  - -94.41826849869732
+  - 87.6413309854007
+  - 3.6930750193742767
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 4d692d0d-3734-46f6-ba0f-db71f4bd6667
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.130747586661718
+  - 37.47400180767978
+  - 231.93178757613265
+  - -97.62003228565939
+  - 86.47713758971311
+  - 4.064473158051446
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: f8ee8c72-b9a7-4f14-baec-cc4b6d71a349
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.130732362215475
+  - 37.47192841757581
+  - 199.5968461734392
+  - -94.94085604899061
+  - 82.63424687210646
+  - -1.324727340257067
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 5765ea2e-e97e-49dd-8a0c-dcd0b69a35ab
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.129880690084583
+  - 37.47156299916746
+  - 302.1026234926053
+  - -106.9962939613403
+  - 87.09522253915678
+  - 8.775535972736394
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 891f26a8-8fa5-450a-a02c-8e49830a34bb
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.128095106617009
+  - 37.4715918283464
+  - 267.8719853729749
+  - -94.7232697790555
+  - 87.43582351823625
+  - -0.022176943010987042
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 469fa948-fd09-486f-b543-0c8300b8dc2d
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.127002820369361
+  - 37.47079031620262
+  - 203.0383617217388
+  - -100.0797076872362
+  - 86.79614145088598
+  - 5.7762922597696695
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 34fde881-9a91-4edc-9008-d6505481bc23
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.122038978268685
+  - 37.47087354814399
+  - 196.87276269209525
+  - -94.01723030403765
+  - 82.02636335956117
+  - 8.209526480416882
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 93c4881d-4c4d-49c5-93a5-7f94f3e07d59
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.116509692564168
+  - 37.47159542944298
+  - 176.71645441185544
+  - -92.95288696713175
+  - 87.82736176743016
+  - -5.492957600329973
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5f845136-2ca3-40f9-91ed-5e6685a4a9d5
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.112954482627897
+  - 37.47107290265426
+  - 166.6992886060326
+  - -97.3321370694947
+  - 84.48976598012105
+  - -7.747661880309533
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ba2fc42d-c458-47f9-a1dc-b125ab62ad8f
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.112478661172577
+  - 37.472249820459325
+  - 207.16424140242896
+  - -97.43398344518296
+  - 87.96478319262809
+  - 8.457890351142268
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 25543e05-72a1-4d8e-886e-b6b82180bea4
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.111301974405865
+  - 37.470926903471685
+  - 214.17610355026878
+  - -96.2751441345421
+  - 87.18307216044334
+  - -0.4743004486632419
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 2f80b5f4-58c7-409d-8d42-c12ba82aa3c0
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.109962925625041
+  - 37.47160345620477
+  - 180.00266944760165
+  - -98.01647945155317
+  - 84.75819769707915
+  - 2.807244973035928
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 451968ec-49bc-4a24-a1a4-645a35e95a03
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.10851032895707
+  - 37.4697973147882
+  - 166.77218221164742
+  - -89.89087377729909
+  - 88.94847646391874
+  - 4.772966698535883
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 081b9f0c-5aba-40d9-a4b9-6e38160dc84c
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.107750035988033
+  - 37.47024457965241
+  - 130.97860236284146
+  - -104.76310830639892
+  - 84.32430878488609
+  - 1.9193784828828142
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9b0277e4-ef0c-4eaf-8143-7e05e051a196
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.106029948863258
+  - 37.46951246671331
+  - 163.84373773922627
+  - -98.42139726869729
+  - 85.64859589035098
+  - -0.27516412891067676
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ee152aa8-d988-4342-9c9f-9079ad9339d8
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.10404191730826
+  - 37.47007277666158
+  - 137.68151125185003
+  - -99.32375603898652
+  - 89.21132133951825
+  - 3.4563997428133324
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: eb4dccae-16b2-427a-9808-3310959abbb4
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.098739657728512
+  - 37.47115274253982
+  - 120.27782499082845
+  - -105.32423385962622
+  - 84.0568983804598
+  - -0.2432062010534801
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 59b13722-b085-4234-860f-044312fdeb60
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.098529734582035
+  - 37.46960351146171
+  - 96.08519998319012
+  - -99.64459741563363
+  - 85.35289476455662
+  - 3.5963919179464767
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a3e790dd-fe79-406a-bb12-6040962fe6dd
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.09767384131654
+  - 37.46931351663945
+  - 119.49997614759715
+  - -98.57151646934072
+  - 87.25618474275556
+  - 10.31755191946113
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 0d402a7d-e40b-45bd-8dc5-8c47aac89b10
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.097457933286131
+  - 37.469617846121544
+  - 101.82934921236276
+  - -96.55184242966651
+  - 88.96705216925136
+  - -6.973013465019756
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ec2bd4a4-2edc-4e89-86b2-8c316cca2cd5
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.093540911240895
+  - 37.46882143283067
+  - 94.72686077800833
+  - -88.75748842273086
+  - 86.51095162263061
+  - -1.8778764414341627
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 08f04169-c9ee-4d33-857d-b1c638c703ff
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.09286324918073
+  - 37.46852636019137
+  - 96.63605599614749
+  - -102.4781804765987
+  - 84.50220006401644
+  - -4.3992060515781635
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: e12527c8-5cc6-459f-aa98-fa170c353851
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.08315642049268
+  - 37.468274856145015
+  - 33.50965154629283
+  - -93.71473259424154
+  - 81.76258097121665
+  - -9.385661343446017
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 827d2d59-3499-42a7-870b-84636547d3d0
+  airport: LICC
+  runway: 08
+  pose:
+  - 15.08260140025454
+  - 37.46810908701048
+  - 43.78495160913994
+  - -89.70057772544301
+  - 90.83239384887712
+  - -2.301853089113238
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

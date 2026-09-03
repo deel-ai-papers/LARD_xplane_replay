@@ -1,0 +1,1078 @@
+airports_runways:
+  MMTJ:
+  - '27'
+  - 09
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 0c1d601a-e570-4020-94ed-df44ec9c3332
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.04803018387454
+  - 32.55219741525137
+  - 499.0481231726657
+  - 100.68810118433547
+  - 84.50840840086425
+  - 5.023668907177825
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 95befb6b-e064-4bb3-a1ae-0bdc53dcee66
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.04566178983426
+  - 32.55028711561536
+  - 481.3792451183791
+  - 102.25011472195217
+  - 86.07276790943116
+  - 3.30621117286247
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 6acb1be5-2ed4-4dae-92a8-45c659c67bb9
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.04512162497726
+  - 32.55283009526269
+  - 438.7751452148757
+  - 94.74915354328365
+  - 89.24825076394553
+  - -3.3100624633680917
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7ffd6ecb-7180-4d89-b586-53f224851845
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.04471363898105
+  - 32.551130766166715
+  - 514.6342181911016
+  - 103.73116167719648
+  - 84.12025126030254
+  - -2.3560417406140868
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 4abdd9b9-4d22-448c-b41a-c2f168fefb3d
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.04324325489456
+  - 32.55283596356393
+  - 514.3734136559035
+  - 101.86762862157869
+  - 83.15206651335625
+  - -4.27839001343404
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4edb4c95-0207-41e5-911f-27226759ea8e
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.03997676129119
+  - 32.55144298895314
+  - 439.82097683407335
+  - 95.15373063999394
+  - 86.15513596316548
+  - 0.71747723888488
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: ec63e1b4-2b33-40e7-aa5e-9306d61d066b
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.03887015810436
+  - 32.550637692870964
+  - 431.1788402893549
+  - 104.05287705866046
+  - 88.0883004879529
+  - -0.21670511770143797
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 8908d8c2-a584-409d-a4c0-a40b347eab1f
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.03828569385183
+  - 32.54885144521039
+  - 409.0757850003239
+  - 99.29571540261318
+  - 83.29216557795581
+  - 2.8943766784254126
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 2f2e7392-dff2-40f4-91a9-8261724610dd
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.03329068156653
+  - 32.55193646035003
+  - 401.75284278971543
+  - 93.46225329520603
+  - 86.56169873869584
+  - 1.014462323100088
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 25cedd61-1559-4569-8fbd-e4df35c6ed98
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.03310466416991
+  - 32.55035668335259
+  - 402.9964802689356
+  - 102.68318047093454
+  - 84.43891051430218
+  - 8.703727001339573
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7affe35d-d4fc-4711-8de6-edf19483724e
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.03279023039163
+  - 32.548905465656496
+  - 395.6192094887449
+  - 97.88293282374349
+  - 86.47226584042112
+  - -12.174091395270034
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 06559f8f-c464-4a02-ae05-89d8529748e5
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.02625851383011
+  - 32.551805116352746
+  - 344.70704732324646
+  - 104.73873864474959
+  - 86.77620291189936
+  - 3.259943980416237
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 198b8f1b-3a02-4c24-a048-7a195911c9cf
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.02434202031472
+  - 32.54997702750442
+  - 336.17747958276027
+  - 100.00920748807786
+  - 89.49172265809862
+  - 4.880375912191147
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 8fee1c54-e466-4202-83ef-30b0ae2287f4
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.0223092912737
+  - 32.54825724870562
+  - 317.3513666564297
+  - 100.4147522758229
+  - 85.22136395850785
+  - -4.755414712078127
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 98d52500-1250-464a-bc15-bc06cce4b03b
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.0195747997885
+  - 32.54637709887608
+  - 343.26135027349846
+  - 99.9924483795357
+  - 86.53600680145354
+  - -0.004918177955136544
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 5a96532c-9a0a-40b5-89f7-7c51ab173bc5
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.01902649956902
+  - 32.54852050517049
+  - 293.741534247774
+  - 99.48851125234619
+  - 80.95990242844918
+  - 4.967395881085054
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 92c2fb4c-acf9-4a42-9833-98b3bb034131
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.01875514139512
+  - 32.548299686168
+  - 327.9180606073437
+  - 98.33887210820558
+  - 86.8205536349227
+  - 3.706132661250871
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 85464579-6075-4b35-a317-39e204ecd4ac
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.01740569849184
+  - 32.546029446671554
+  - 320.00440681068534
+  - 98.16708034858216
+  - 84.68556447453562
+  - 1.1184915052431432
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 1fe3c00f-699d-4c3e-9738-d483a9c1bcd8
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.01651296520821
+  - 32.546237200712596
+  - 295.0896900920694
+  - 95.52582793213703
+  - 85.33578596102554
+  - -5.543936220740519
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 5e6d4415-39f7-4cf2-8cdd-a10461065285
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.01540930301093
+  - 32.548250451630686
+  - 277.2865440872073
+  - 99.5721176560806
+  - 87.97215256391908
+  - 1.5100939763317742
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 5d9d2276-89c8-4e84-9446-f7b479d4619e
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.00618217301617
+  - 32.544685833393686
+  - 262.6310249293635
+  - 100.01246504374113
+  - 86.96349149294846
+  - -2.6979914168709502
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: bc3971c6-b39f-43c6-85a2-23905971528c
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.00560323119608
+  - 32.54489742752118
+  - 286.6098648583035
+  - 103.46330182887637
+  - 86.98494639160376
+  - 3.3586740235891615
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 36b2a6b6-9519-4993-a05d-3117651aa527
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.00253822837004
+  - 32.54580004532992
+  - 254.10907985181788
+  - 89.74349066681877
+  - 82.54981316640877
+  - 8.817145357308412
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 4c371ccb-1329-4f03-bb05-11e0d8719a93
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -117.00176472725096
+  - 32.54468098269292
+  - 237.2388087300183
+  - 98.31410641546242
+  - 85.34660636029732
+  - -3.9597502711108508
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 537d6f8e-714c-4d10-91e9-1f1ed635556b
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -116.99788384910259
+  - 32.54444899495712
+  - 222.8045272083021
+  - 108.54351255390654
+  - 86.50537881662666
+  - 4.719600979146752
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f1ddd5fb-d0a0-476e-927c-d1d19e8a16cb
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -116.99423758924166
+  - 32.54458213514279
+  - 209.3244921343789
+  - 89.8902680093073
+  - 87.2570084351212
+  - 2.5935735136464984
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 86885413-e4aa-4d32-b6c6-f5ced8cfec56
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -116.98933640358347
+  - 32.543613952077386
+  - 191.03237009585106
+  - 92.1008879959415
+  - 90.38121157090725
+  - 5.309208450941194
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: fdc3b6e4-7f4e-4ed2-b2c0-4a7001616e8e
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -116.98899276446592
+  - 32.54361202955526
+  - 179.82123478543738
+  - 109.7640893106153
+  - 88.09014001908136
+  - -5.668024025620005
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 5a4ee777-3efd-4405-80d3-71964c871542
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -116.98885875451084
+  - 32.543526728827025
+  - 179.14790553007006
+  - 100.28101213038693
+  - 86.56490224862735
+  - -1.7783589904316577
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 55a7f892-7e2c-4446-a32b-676e012b57ec
+  airport: MMTJ
+  runway: '27'
+  pose:
+  - -116.98861318808538
+  - 32.5435959215172
+  - 180.6967546515835
+  - 97.46903146999432
+  - 87.8996556198433
+  - -1.9534661896533838
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: c3f3dfe1-fa3c-424b-8041-b1e7140ef3b9
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.90136397279991
+  - 32.5301067159747
+  - 453.18945976144346
+  - -88.80635781148284
+  - 86.35591728707847
+  - -9.125556824361926
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 2ef1e0fa-98f6-4931-b08c-2bdaf617abc1
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.9011556664659
+  - 32.5328261752006
+  - 411.74901502424416
+  - -74.80852988686061
+  - 93.07844511799192
+  - -1.9084017327525697
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 12c3206d-29e6-4404-a528-9fd2168d2dd4
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.90216471112929
+  - 32.530649039217245
+  - 421.97910497709313
+  - -87.75848700041534
+  - 83.74776836449496
+  - -4.8117708629687
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: f0c0c1ea-6935-47de-b2af-e46698b65bb9
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.90241859883372
+  - 32.533043390623305
+  - 441.1794537271294
+  - -89.57640866059788
+  - 83.43110310877981
+  - -9.262555976721641
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: eddae229-ed4a-4466-a980-5ada0448da4a
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.90320578889562
+  - 32.53219759648169
+  - 355.6393925500601
+  - -86.9110006421937
+  - 86.63408526576941
+  - -2.2428419035283436
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 33338ceb-e3c6-4dc2-a798-c31bc7ae2e3c
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.90430287589075
+  - 32.53221296068113
+  - 381.1028401954449
+  - -84.84418348066984
+  - 87.19202706867624
+  - 0.004286141971582949
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: dfe6c4f9-d755-4c58-961d-2ad25e5d6373
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.906209216934
+  - 32.530888865365824
+  - 438.57964285480097
+  - -77.0449297896069
+  - 87.38076446288945
+  - -4.822588460768427
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 70ac9078-bdba-4202-8099-ddaaf5bf3429
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.90682203895875
+  - 32.53258887809781
+  - 420.7090563919731
+  - -81.37874456932222
+  - 83.49734656327698
+  - 5.85434368885367
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 33ecc649-2fd4-4285-ad4b-5d991967cc7a
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.90675498478227
+  - 32.533268211174224
+  - 383.0272509514408
+  - -79.6840347626339
+  - 85.06177222079154
+  - 8.016511114042888
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: bde77332-5b3f-48ca-8175-fc878c96b6e2
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.9065371595456
+  - 32.53550419202864
+  - 379.1346150366355
+  - -86.2767452436902
+  - 87.79642722366536
+  - 0.49500726676853113
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 56b55683-a98f-4899-8ece-6ca53d7eb6c8
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.90794955156709
+  - 32.53372463446789
+  - 457.3743201801806
+  - -83.55876047209465
+  - 86.26454587627661
+  - -8.516937052762328
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3e3d8179-80f4-4212-ac15-7dd1176507b1
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.90966466854032
+  - 32.535933616002374
+  - 365.5324728971949
+  - -79.23489520610325
+  - 84.45470534865579
+  - -6.952885695378784
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 425d1d1f-c3b2-4c3f-83d0-d5c1ec4cebcc
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.9118951566423
+  - 32.53092009442521
+  - 428.34029367468287
+  - -77.41919409876455
+  - 87.51320758469134
+  - -6.465607133988303
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 94b4e641-fafc-484c-b2c4-1212ddcdd35e
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.91191671223478
+  - 32.53396197532555
+  - 360.49529285897813
+  - -82.4852185027048
+  - 81.98134856430472
+  - -1.8257814903918967
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ac0fb173-c778-45f9-a0b1-28f55d602d48
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.91915426344298
+  - 32.534705010213806
+  - 369.17574085056384
+  - -67.59758561116395
+  - 86.64948970431571
+  - 6.05571121210441
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 85344dbd-bbc5-446a-8c00-b51442f220f4
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.9201474622394
+  - 32.534583507444495
+  - 259.2756362795837
+  - -92.25092773730758
+  - 87.58132253612555
+  - -1.511266273900118
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: c465e308-bb93-418d-8f74-3c604547a986
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.92431020694018
+  - 32.534811721451064
+  - 319.67751209398216
+  - -83.83401913709596
+  - 83.0660231328428
+  - 1.2497244144019493
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: e2d4a75c-0715-49ce-ba0f-03aa72d3699e
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.9252199604303
+  - 32.53505127580121
+  - 274.32924464762664
+  - -84.36123826187098
+  - 80.98143403279339
+  - 1.9871324186851358
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 016df44f-f852-4b8b-94f8-408cca022ce4
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.9269055191294
+  - 32.536285337938025
+  - 310.34411036504207
+  - -86.01760160528121
+  - 87.37439694843715
+  - 5.496658908220588
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 361a0f51-9ade-474b-81d6-7ac7c73d9723
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.92800509259159
+  - 32.53441372678152
+  - 259.591106667225
+  - -77.6084439000795
+  - 86.75045586106359
+  - -4.872832071891732
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 74e78da2-7262-44f5-b047-0cdcbbabf171
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.92857008695945
+  - 32.53561937438787
+  - 275.23376712030677
+  - -81.57189841001907
+  - 87.7621278136712
+  - 5.132539639034689
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 411276e7-bfa7-45af-ac91-682725b3adac
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.9353251341613
+  - 32.53681085837345
+  - 256.095426276562
+  - -82.3204405764427
+  - 82.95253791226058
+  - 4.502515821639515
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 3408a20d-be44-443e-95d2-176faca0fe49
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.93686646726002
+  - 32.53653856211006
+  - 217.74407377690108
+  - -76.36115513761209
+  - 87.62801970231695
+  - 0.3305595090729407
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 51c621e2-7ed3-439b-9b66-2408b72b48b8
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.939035656021
+  - 32.536162992520914
+  - 259.6850867872133
+  - -75.47158683044427
+  - 84.39482976400562
+  - 18.917429155018436
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: f031eabb-f8bf-409e-ab97-5f0a364699f6
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.94042335341919
+  - 32.537468708703486
+  - 200.069090809027
+  - -80.00725122009561
+  - 82.96300561464778
+  - 2.788580290424413
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 830fb30e-4d14-4f76-915d-6e40044bd6a5
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.94135193482751
+  - 32.53722055868419
+  - 214.03315975176844
+  - -81.40859258501483
+  - 88.22344778564073
+  - 3.1310876695949426
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 4ad61ebc-d07d-410b-9ebd-21dc1c001a06
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.94200769887641
+  - 32.53767056484752
+  - 223.12598650307905
+  - -84.0419373389578
+  - 86.50895415188725
+  - -0.9381916128425531
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: ee22f81d-5962-4530-b236-ab5f7c37bb98
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.9424311100468
+  - 32.53765934935909
+  - 205.3857365763951
+  - -85.26253293108671
+  - 85.57894783984537
+  - 2.85656041850259
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2eacf50b-c07b-47ee-9caf-374a943a59b2
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.94418172551887
+  - 32.5371048168959
+  - 218.5701825922533
+  - -91.05963030085252
+  - 84.02350368369997
+  - -5.811678693604857
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: ee5f0890-9cd5-484f-a635-edb9b61fe1bd
+  airport: MMTJ
+  runway: 09
+  pose:
+  - -116.9499627895842
+  - 32.53829576133266
+  - 183.3068556774897
+  - -85.54571336041016
+  - 86.41800793764551
+  - 6.312659121602526
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

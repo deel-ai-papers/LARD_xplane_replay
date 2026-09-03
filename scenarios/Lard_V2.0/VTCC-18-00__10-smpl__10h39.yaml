@@ -1,0 +1,1078 @@
+airports_runways:
+  VTCC:
+  - '18'
+  - '00'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: dffa22c4-082c-4622-864b-4892c4f0f8e9
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96367238706296
+  - 18.699361184949723
+  - 661.0123485134603
+  - 3.4363757597316957
+  - 85.39658832068812
+  - 7.766439827445714
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c72fbeba-65a4-4b44-bd62-ce2d9fa1fd2f
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96238666176887
+  - 18.70115786757707
+  - 631.151578217341
+  - -1.8840187082084803
+  - 81.34754036713042
+  - 2.0154464972687607
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 47937984-4708-435d-a792-27f2fd86b3bf
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96343911752997
+  - 18.704388714296506
+  - 602.0791718648898
+  - -3.3973354998650334
+  - 85.37889316981796
+  - 0.4372311213365065
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 1dec5e0e-d610-45b7-8fc8-ff631ee56192
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96126134614121
+  - 18.705917718411303
+  - 638.7315141835365
+  - 1.5071535676378591
+  - 83.90235394600609
+  - 7.136011759355322
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 0eea5f9a-4cfd-4d3a-a377-1ac7d6ef608c
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96514642211687
+  - 18.70823380194672
+  - 600.4097083645129
+  - 10.206250214586273
+  - 85.17449979132118
+  - -4.11577200706326
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: f0cb87c2-d445-42a7-89e3-f77c3bdfc6e6
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96659475660528
+  - 18.708376927230596
+  - 553.6006807547839
+  - 1.5904105783076445
+  - 83.97035135408169
+  - -1.2552946623451136
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 302e135a-1608-4bb8-b812-55405fef7423
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.9631413580922
+  - 18.708563090014056
+  - 572.8010470928348
+  - -1.3402281026904093
+  - 85.34496855479003
+  - -3.817658746206325
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 5c1f9de3-d934-4ad2-a82b-99049871b168
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.9668188596618
+  - 18.70918830087575
+  - 544.3829816293285
+  - -2.385186961227171
+  - 87.13996273479708
+  - 4.105278661894391
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 3bf943ff-1d76-4077-9b3a-318c0787f26d
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96403223801774
+  - 18.710878196366128
+  - 561.4972567630092
+  - -4.588408941052899
+  - 82.37728305256422
+  - -3.28585270930263
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 9f4e10fd-0922-45aa-ba68-178cbb15b73b
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96391785824241
+  - 18.712102704532537
+  - 620.5380426276477
+  - 7.020276304336027
+  - 85.70583620765527
+  - 3.6338960834287475
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: b135e01f-4e0d-4f27-91c0-42659c623148
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96434970989138
+  - 18.713529370187448
+  - 535.2724628119154
+  - -6.257070333625226
+  - 85.03697382285348
+  - 7.117640030858761
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: a8aab3d3-9ae1-4958-8335-f8d8b8a1e5b1
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96344440932074
+  - 18.71631706100259
+  - 587.3411542326903
+  - -2.8484740531627613
+  - 86.92661568652247
+  - -0.05015237282477852
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 03210636-12e3-4adc-b4e4-c7184996b969
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96275111490048
+  - 18.723858172383817
+  - 478.98654988889734
+  - -2.8752554719386163
+  - 90.35428826543941
+  - -6.166258050609107
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 7d97a718-b168-4b5a-b6b6-a2d714d6b097
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96377427526612
+  - 18.72395683281007
+  - 540.588911732639
+  - -0.29569572493482377
+  - 89.00233726101176
+  - 3.1770188603486242
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 59c51a66-542e-435e-a59d-596aa67d4db4
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96170220675931
+  - 18.725419318136066
+  - 456.14785163380725
+  - 1.7550001652647327
+  - 86.02790655052173
+  - 4.133961372289252
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: f7055d8c-92ae-4430-b904-1da65b15ac6c
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96165017918433
+  - 18.726711133122492
+  - 418.3846177783294
+  - 2.122142342316418
+  - 87.88727506090702
+  - 6.040951765924588
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 41a0e7ae-4c23-4d1e-a94a-fead4df446bc
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96396551384792
+  - 18.726855478272224
+  - 476.0179425994197
+  - 0.38233174126533476
+  - 86.20588688245623
+  - 0.6798371581826697
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: fd191a2f-0eaa-4f47-97e7-61455c45bec9
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96339191595735
+  - 18.727056171715677
+  - 486.47003953443215
+  - 1.2455719605508422
+  - 84.59165170029681
+  - -0.8706296948462635
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 59d2843c-8420-4ddc-912c-9b45df1f16d2
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96362655415935
+  - 18.728248288562458
+  - 497.28299034641816
+  - -4.467477699055231
+  - 89.12403324796908
+  - -5.299074374229711
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 9dca1c3e-3670-4aad-ac3c-45566f52d2a4
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96150470965671
+  - 18.729409218898056
+  - 450.5158461079027
+  - 6.302441814677157
+  - 84.11270878731986
+  - 0.1241417237718341
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 224472fe-b647-46fe-a9b0-dc5c88685ee8
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96361517574022
+  - 18.732601492026397
+  - 427.84349235834327
+  - 2.5508719386522634
+  - 90.15673652313407
+  - -0.5747934245150691
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: d943319f-b86b-4b66-ac79-a5b1d60d82e5
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.9626413041454
+  - 18.733047133497294
+  - 459.6436038258317
+  - -6.510979732462059
+  - 85.12970776527634
+  - -1.302419589151701
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 0369572f-1679-4d34-9a04-ff316dcadda5
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.9625789520465
+  - 18.734441593678937
+  - 394.4538893424209
+  - 6.391392481636717
+  - 83.97343144414195
+  - 5.233596386943321
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 433c4f53-8430-460d-bf3c-18cee2154da4
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96217863076282
+  - 18.737801110068617
+  - 388.93140704980794
+  - -0.012975213853200121
+  - 87.79409909149742
+  - 1.2119148856311692
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 08cbbf59-c6f3-484c-b098-93cb6705d10f
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96286432120773
+  - 18.73824141538195
+  - 418.3657650557067
+  - -4.834719514253911
+  - 80.1985444499094
+  - -6.210544479477665
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: d57515ae-00b5-498b-9ef4-990c68654b8f
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96275034080368
+  - 18.743142259105152
+  - 390.8921281166421
+  - -4.7545281581458765
+  - 85.7397284269346
+  - 2.5272106989134793
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: e57eb58c-b845-46b1-8a67-4622e44c7014
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96254703075141
+  - 18.743260968064313
+  - 384.62895405314003
+  - 1.9539521175057017
+  - 87.62482218254361
+  - -5.704517575827537
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 82fe7adc-bed0-47ff-9da0-d93fdbada3fc
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96298668135037
+  - 18.747368997115156
+  - 354.66043643260514
+  - 5.860926031862361
+  - 80.38677640313949
+  - -5.38597909007374
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 85b3dcb1-8b26-48ee-b0c6-ad4639f6ca68
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96278088245373
+  - 18.748433476001328
+  - 344.30012722360163
+  - 4.548215375467396
+  - 87.52551706143298
+  - 4.694378946643371
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 01b91da8-ab67-43ca-b299-ded26134e709
+  airport: VTCC
+  runway: '18'
+  pose:
+  - 98.96266938058633
+  - 18.748919702766145
+  - 357.6498899610404
+  - -1.3842755899625152
+  - 84.32218150053059
+  - -0.6955711653617546
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: c5067362-dd8f-47af-8815-3d3a4c1379a7
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96574031089987
+  - 18.834971188142003
+  - 593.9882855476217
+  - -177.5012412853301
+  - 85.08735194054562
+  - 3.7998727655454436
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 216f6ade-6f9d-4790-bfa6-51ab3b359712
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96243578826697
+  - 18.83303880843214
+  - 617.308607119419
+  - -175.9388895876014
+  - 86.4693392052396
+  - -0.3105666956253225
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: d4b4c2cb-001f-417b-9166-605787e10286
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96314691728007
+  - 18.828313578712304
+  - 626.9514481332019
+  - -176.21331835159063
+  - 84.44502660689425
+  - 5.299017120046372
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 3459c7b5-56a6-4a31-9894-9dc860cceb40
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96314994120542
+  - 18.827222640041853
+  - 595.3447035998884
+  - -174.492656357211
+  - 83.51176259570056
+  - -7.176468059214736
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a92913ed-3a09-4eba-bac0-88c12aaa907b
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96192529056144
+  - 18.82646186270034
+  - 612.5408984553035
+  - -169.79376034889572
+  - 84.82215874065737
+  - -3.0163295455018053
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: d312df78-dafd-4fde-a304-eedcda161eb7
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96382951595005
+  - 18.82575525316956
+  - 555.4829596183063
+  - -176.93986652461342
+  - 82.55463840947232
+  - 6.041645445219446
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 4b26525e-57d4-439e-8202-f44efa77745d
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96395497492482
+  - 18.82529291183783
+  - 610.1553909855782
+  - -186.85174742997566
+  - 85.3089701787929
+  - 4.8147628028826155
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 23df2f39-affe-4f55-bad2-233062442c6a
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.9642484119517
+  - 18.825022069968288
+  - 613.0231554491902
+  - -173.7573283132214
+  - 87.65050634029647
+  - -2.488590716644049
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 142bf0d5-8a8b-4519-981b-2b6aa8e50f46
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96438062876034
+  - 18.82440069889004
+  - 626.5625394133851
+  - -169.65239211316674
+  - 86.67395296666672
+  - -0.852266852762643
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: b422280e-b10f-44b9-b74b-756f1152eb7e
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96422737313986
+  - 18.821784593636345
+  - 590.0106936000722
+  - -181.97305347542397
+  - 87.50417785482486
+  - -1.2103991687994788
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 7968c6d4-7161-41e2-9caa-6221af85862a
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96465849122461
+  - 18.82114287153158
+  - 525.8957212452557
+  - -173.25215838697147
+  - 87.9913778241269
+  - -4.507516809311117
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 72a4e054-f2d8-42cc-ba5e-ed8f8aed60b6
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96216836660659
+  - 18.81957337690681
+  - 570.7012335197255
+  - -185.38691735114514
+  - 87.68972044426187
+  - -2.210970831934601
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 93796e8e-7ae9-40c0-81e9-6911540d73db
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96479902725028
+  - 18.818819361776544
+  - 535.3218466712402
+  - -169.23590398928894
+  - 86.312437492088
+  - -10.563804290394662
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 5c32d981-574d-44d8-aeb4-ce82c918e6a4
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96105886218969
+  - 18.81773225003131
+  - 594.5628286787071
+  - -188.91887228161582
+  - 83.81064552896265
+  - 3.207866419307925
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 677abaeb-ad30-4571-b284-eaa92a07ba23
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96205196709096
+  - 18.813915929991946
+  - 523.978932803823
+  - -184.35138957877783
+  - 87.33280088833179
+  - -0.6900006043835049
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: aa7bc25e-4aa2-449b-bf26-2d5b3f138ec9
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96411668763518
+  - 18.810999237993634
+  - 493.64570395834164
+  - -180.85866999063236
+  - 84.81064864439541
+  - 13.75794239703657
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 5abfea91-2701-43df-a37f-c34522ec462e
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96440655983331
+  - 18.810813951258996
+  - 529.433965655728
+  - -176.48493277119258
+  - 87.72502843443831
+  - 1.7879906924987374
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: d56b3a9f-f509-433a-9624-0d2a23591877
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96230645670397
+  - 18.80501430485911
+  - 462.97625916897255
+  - -182.0074607786635
+  - 85.14807690843388
+  - 5.190965954420869
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 9e2cd15a-78dc-4ed4-bffc-85213ff03eb4
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96347530610754
+  - 18.804507782668264
+  - 457.4283854241082
+  - -180.19666828583345
+  - 84.80183576452093
+  - -0.3187932878476634
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2667ad93-7b36-4d99-b32b-c422e5ffb6db
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96278875985213
+  - 18.803746803780314
+  - 461.17551066448027
+  - -179.7514540560252
+  - 87.04252933415462
+  - 2.1226417312258636
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 17acf0c2-6af7-4866-b019-9c7ee885d4fe
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96269940036775
+  - 18.800474456261657
+  - 448.3169166214953
+  - -180.7319262829257
+  - 87.1846255141474
+  - -1.0151636869874323
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: cce08c08-dc59-40a1-9ed6-ba52608dd36a
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96199175170678
+  - 18.798172132303325
+  - 454.5640000124331
+  - -181.42968735890844
+  - 87.78916479658457
+  - 1.4458154641841026
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 4
+    year: 2020
+- uuid: e41e2aa1-93ca-47db-bea6-cf5e13869983
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96313116698786
+  - 18.795129848751927
+  - 414.6653180614432
+  - -189.78551051951956
+  - 83.71356863023371
+  - -4.490011745963264
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 3e4d9044-a8b8-4ca0-a268-2037dfce217e
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96327743884393
+  - 18.795006826321245
+  - 398.8528522619822
+  - -179.6455639617599
+  - 90.98381838071576
+  - 10.104808087027275
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c67060cc-d27e-4d3d-a94f-c65a331db912
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96305512504277
+  - 18.794360281591157
+  - 414.68222383230983
+  - -185.02065837855454
+  - 86.33275593238477
+  - -0.4549766340387621
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 19fb5a52-22eb-41b6-935a-a3a40674245f
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96374393828431
+  - 18.79300298775108
+  - 403.4675534483007
+  - -173.8051607951473
+  - 84.7009453262127
+  - -6.974234895879712
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 6d0ac65f-7557-463f-b169-2bdc04bfed01
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96316422748579
+  - 18.792212945674677
+  - 396.3864227046712
+  - -179.0745092336516
+  - 85.38183034204877
+  - -3.639726801253233
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: cacbb851-11e2-4c83-aaa8-cf68cc7c44c3
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96279472301444
+  - 18.79063063109915
+  - 389.2532564916198
+  - -183.54928786580896
+  - 87.88206555919527
+  - 4.900470630103526
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: c22a9e60-8f29-458f-a12f-1cb7dc9a517b
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.9628126772943
+  - 18.78915126071305
+  - 379.41487748024315
+  - -180.79453635013147
+  - 88.2103253119781
+  - -3.008583723313913
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 91a1b095-43e1-4a4c-b4af-2b5e9bf51c13
+  airport: VTCC
+  runway: '00'
+  pose:
+  - 98.96280939371694
+  - 18.78478652627088
+  - 347.88833807858356
+  - -181.50084131720115
+  - 86.6153933017315
+  - -0.47590959794828475
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020

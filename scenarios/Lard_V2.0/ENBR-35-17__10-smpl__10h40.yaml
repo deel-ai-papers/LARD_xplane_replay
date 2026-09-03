@@ -1,0 +1,1078 @@
+airports_runways:
+  ENBR:
+  - '35'
+  - '17'
+image:
+  height: 1024
+  width: 1024
+  fov_x: 60.0
+  fov_y: 60.0
+  watermark_height: 0
+poses:
+- uuid: 9c361db8-8c5c-4e08-8267-db4717ea379f
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.200762461775218
+  - 60.35419079279937
+  - 323.2472070293702
+  - 171.49080726287855
+  - 87.13509186178035
+  - -1.211500243289227
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 33dd27a8-cfcc-423b-adf9-be63ded4d210
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.196052861942212
+  - 60.35044559791879
+  - 327.528919641041
+  - 163.07743578710983
+  - 87.24154824704542
+  - 2.979029443157187
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 685f0089-8cbc-4dfe-82c7-42aedb19b820
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.20003486695427
+  - 60.349850688908326
+  - 290.38925352201545
+  - 170.12730898031404
+  - 87.25319187892782
+  - 1.6194693717389166
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 655a6677-a53a-453c-a5ed-d22657c41984
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.196219542587102
+  - 60.349287946723976
+  - 299.3692557406609
+  - 164.2049531624732
+  - 83.94458485408703
+  - -0.1049332556906595
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 39be40d2-4106-44f1-84f8-19633afd6750
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.20596572651457
+  - 60.34973077424691
+  - 349.8176590425473
+  - 167.1051372603034
+  - 87.17994129101318
+  - 1.333604723499589
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: ef424158-b6b8-4022-8636-9f77baed404e
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.200824327461483
+  - 60.34880009759232
+  - 388.61463133234713
+  - 169.93547758038738
+  - 83.30467481860569
+  - -4.120421270411645
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 18f153c5-44aa-40a0-8c17-31ba6775e63e
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.199408014818594
+  - 60.34709288011699
+  - 300.52746264923576
+  - 173.07818234952137
+  - 86.17025228561285
+  - -3.159025734365735
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 9d142add-e416-46a7-9444-1845250acf8e
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.197886626641858
+  - 60.34592210457151
+  - 283.8486417376489
+  - 164.0152477742069
+  - 84.75602670932238
+  - -11.737415606871672
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c58049fe-313b-4ef8-bb96-7de2b07827a0
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.200491427249577
+  - 60.34554356193122
+  - 250.82929605647297
+  - 177.60453248669256
+  - 84.94934707085942
+  - 6.850906975537734
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 5658e262-afc4-47ca-9ff8-83755dab2fc7
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.2023953902404285
+  - 60.34438731028597
+  - 326.2749613688488
+  - 170.88791805101351
+  - 87.57388317119612
+  - 12.601060297482721
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 8975d245-317f-41ab-834c-b2ccef4c7284
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.201265944173672
+  - 60.34105247006376
+  - 302.1502170066018
+  - 160.73570527363862
+  - 85.60963078595005
+  - -3.635464232695713
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: a8afe48f-2972-4809-9c98-81117c47248a
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.200617012293832
+  - 60.33438712438218
+  - 261.4049748693134
+  - 168.70433001123283
+  - 88.23403661085301
+  - 1.653982512787755
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: ef76f1ba-f8f9-4c55-b5d4-a1f87d6adeca
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.20345446983894
+  - 60.333112571152405
+  - 192.673126522183
+  - 164.76512965584234
+  - 84.7998574966044
+  - -0.7500165757849933
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c4d23461-38a7-4fc7-9c12-3de8bb6fc631
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.205784451716072
+  - 60.331440463733756
+  - 232.08168567076038
+  - 166.684868918697
+  - 91.27172488867511
+  - 12.099136424501998
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 8f21b2da-6140-4c65-911b-f8f41e354f1e
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.207033482326644
+  - 60.331231169559274
+  - 229.88020214103662
+  - 164.9538054830233
+  - 87.4653569284625
+  - 10.258078959662535
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: c2b040d5-2e61-4242-ac96-4ee584ab4efd
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.205398430872287
+  - 60.33034093649694
+  - 222.78434179181548
+  - 169.69365018885313
+  - 85.76183968950811
+  - -3.1881734520801537
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 7
+    year: 2020
+- uuid: db33d8ed-fde8-44c3-8d87-77ccccca0e67
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.207458326220281
+  - 60.32935237497412
+  - 199.72280354489342
+  - 172.51511998986248
+  - 85.48710523407081
+  - 5.771632347801063
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 60ff7869-908d-4d5a-bf25-8363c9f8370d
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.206371522100538
+  - 60.327868874296996
+  - 171.78968880412793
+  - 161.9465595244765
+  - 85.47126446845115
+  - -8.898019873254306
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 8241a38a-d5d0-4c03-b29c-4c0cb372b1b8
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.207885229129898
+  - 60.32768133684773
+  - 193.02695563924215
+  - 172.39580596231045
+  - 86.52440741763404
+  - -0.39242412773269364
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: fd199b36-c0cf-41e2-a173-ea615fcda77f
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.204127396018113
+  - 60.32618456774399
+  - 141.96447603472805
+  - 176.68903197652344
+  - 86.15914028172506
+  - -3.508123181448197
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 8f59f0be-be12-4582-a8e2-a97df07532ab
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.211860100661996
+  - 60.317748764742156
+  - 148.0050679645857
+  - 174.70876436354905
+  - 85.59008939224583
+  - 3.2046329367178714
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 83b61ed2-8dce-4a3c-b007-ba857da8aeca
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.2112211048081996
+  - 60.3168916747769
+  - 142.1154174602704
+  - 163.62966984865028
+  - 84.47531644257126
+  - 3.8453829572380065
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 4
+    year: 2020
+- uuid: b34222d4-4857-451d-acbf-4b1dae72a4cf
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.210972632940237
+  - 60.316672899307214
+  - 155.6311458766719
+  - 163.60939587233557
+  - 85.33088716598448
+  - 0.6541094462769949
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 8
+    year: 2020
+- uuid: aa9eef0c-666a-4ae3-9657-7ba8ac9cb91b
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.211622300137373
+  - 60.311951497586584
+  - 119.45194131238932
+  - 174.10626985511456
+  - 88.14212847791018
+  - 5.440383675765065
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: aebbdb20-1ca7-4b02-aa1d-bcab7531858a
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.213334668542369
+  - 60.309911939536725
+  - 98.62358728844038
+  - 172.62454854748472
+  - 90.55517409682656
+  - -5.672781099729186
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 28c281eb-6ee7-4808-81fe-7ceaeacc1006
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.2124959542881095
+  - 60.309100745333
+  - 97.8520642429989
+  - 169.2463010204064
+  - 85.67814833991432
+  - -0.04114661336411263
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: a096b5ac-941e-4695-ac0e-c19d976e96c5
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.213266273552583
+  - 60.30860719802342
+  - 104.40927597722285
+  - 167.3558535021623
+  - 84.63586282292793
+  - 5.440572338783317
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 0f58d4b3-0324-4de6-bbc7-568acb407a72
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.212957680197348
+  - 60.30773390138661
+  - 88.68744700070428
+  - 167.42637812704203
+  - 84.09888922908084
+  - -0.18022127500245377
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 4ec54daf-fd90-4d7a-9967-f6cc539fe03a
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.213267368118816
+  - 60.30774968577469
+  - 79.58437991031003
+  - 175.71753621821875
+  - 87.53645784650044
+  - 1.0767346178387769
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 96a1243c-0bdd-497e-b0fd-56393a450f54
+  airport: ENBR
+  runway: '35'
+  pose:
+  - 5.213301232593487
+  - 60.3074930159797
+  - 86.59862573863788
+  - 166.3913225313639
+  - 86.3092560754933
+  - -1.8682309980982357
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 339ca3c4-bd0c-400a-82e2-2a53ceea1103
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.238408390183822
+  - 60.22959328070877
+  - 400.94434142970954
+  - -15.288805370948465
+  - 84.76037939877195
+  - 3.7461881744271337
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 18d59b6e-f199-424f-8e7d-75f4bf1bfe7c
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.2302459689127225
+  - 60.2299779445448
+  - 327.16500830236345
+  - -8.971150036393002
+  - 87.63672959325326
+  - 5.115867490376033
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: bb5b1321-cc8a-4969-a6db-fd1d31654be4
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.229802425011257
+  - 60.23113492443789
+  - 371.0626949400873
+  - -11.285567251530583
+  - 84.95526066236638
+  - 3.849788220958689
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 7a56f122-538d-4167-86dc-58339c15d1b2
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.235505516866993
+  - 60.23326972696198
+  - 441.51157510818683
+  - -10.8205751962835
+  - 89.22480916658304
+  - 4.449347793915724
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 320fb54a-3dea-4838-8e0c-1d177f9097af
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.24277700932639
+  - 60.2358280632794
+  - 317.45112549797176
+  - -11.930113730422006
+  - 84.62606156846661
+  - -4.057335843729622
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 5cecc11e-4fdb-4d07-8885-fabfaaf39a16
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.233977922256473
+  - 60.235650225007646
+  - 389.3649366651961
+  - -14.378832316651524
+  - 87.02395385815998
+  - 0.3503605001905967
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 81e87335-b608-4edf-a6d5-d783a7858e10
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.238562878762211
+  - 60.23770939546927
+  - 298.5580668431417
+  - -12.01592588875296
+  - 84.08486941990107
+  - 6.732646908789795
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 22c21d18-f906-41a1-9fc5-2af3d57a7456
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.2350922390967725
+  - 60.23847807167009
+  - 331.53942397829127
+  - -3.424447008652849
+  - 86.80824516783554
+  - 2.868768963049945
+  time:
+    second: 1
+    minute: 0
+    hour: 14
+    day: 1
+    month: 4
+    year: 2020
+- uuid: cccadc06-df96-4a93-b067-e3f333685b70
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.235545153488009
+  - 60.24083918644823
+  - 323.35196090884864
+  - -11.2540317070355
+  - 83.58635848749199
+  - 2.4845893921096476
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 28cfc6a2-aaa2-4f36-8687-08e54e7558c9
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.238092415567735
+  - 60.24172476254991
+  - 335.4879008701493
+  - -9.907494800364155
+  - 85.08868778144702
+  - -3.927385034516818
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 2e7c475e-f364-4990-a95e-8a9f0b3e3f21
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.23097221893197
+  - 60.24252028116469
+  - 284.1011087005512
+  - -7.0147491550869265
+  - 84.59463506391542
+  - -5.945965770804699
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 20045951-837e-4145-a8b3-b427e7b6a354
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.228081086365217
+  - 60.24525056092389
+  - 285.62161544593647
+  - -8.349130881334673
+  - 88.25452677006746
+  - -2.073871922057034
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 702e1f27-5a3d-4bc4-a8ff-35bdfaecb778
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.234778313909751
+  - 60.24623352124722
+  - 259.60551153798144
+  - -19.64003837395775
+  - 85.44063536096638
+  - -2.5399414053719944
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 6d9084e5-4e3b-4632-a389-4d3d2ced0e6f
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.234291644357877
+  - 60.246650048875715
+  - 286.4914539771993
+  - -0.27198588381951616
+  - 83.8421420192571
+  - -7.269176552298944
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 627a9b65-afa6-4013-9ba7-bafb1c8be24f
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.234099490070132
+  - 60.246933383649335
+  - 258.01410929220276
+  - -7.794781076907961
+  - 86.0998789562757
+  - -1.106523406207596
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 4db8b49a-65ef-429e-a698-b579d4b55b76
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.2304145856627375
+  - 60.25029790486131
+  - 234.2305070384508
+  - -12.097586959073332
+  - 87.23198285454112
+  - -0.820539874154107
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 9cf0b1aa-2634-49b3-af5a-3c1d20aa3818
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.231155657079603
+  - 60.2518833829115
+  - 264.88362686036226
+  - -15.393612750523488
+  - 86.0283469619612
+  - 4.362286051829194
+  time:
+    second: 1
+    minute: 0
+    hour: 15
+    day: 1
+    month: 8
+    year: 2020
+- uuid: 389bde90-8d56-4a1d-8e7c-276e62c08410
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.231697099751027
+  - 60.25468417291384
+  - 249.10824012969175
+  - -10.832749693785384
+  - 86.75107840855003
+  - -2.6734235543928992
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 31583760-2023-464d-b0fa-fa0425ae2d16
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.224177528304812
+  - 60.25661939017051
+  - 204.50388681925895
+  - -5.119785163207615
+  - 86.51563565174972
+  - -2.4840131013808424
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 51af3d0b-6148-4075-a9e2-9c016d1a5dfb
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.23300150608787
+  - 60.257352035444214
+  - 185.89696104232294
+  - -3.9558465384170116
+  - 86.36707110577099
+  - 7.09193322421008
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: 66838517-704e-4d10-8918-8ef726001c46
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.225630437327665
+  - 60.270889627564245
+  - 144.40484970367203
+  - -9.949734312298089
+  - 87.1548584688581
+  - -0.840334872070621
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 7
+    year: 2020
+- uuid: a9219a2e-625d-4aa5-a7d6-0cc3acc5f356
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.22550099421632
+  - 60.27209176062003
+  - 116.51185454512496
+  - -6.5460478446487365
+  - 88.21711457420008
+  - -0.28193307647982224
+  time:
+    second: 1
+    minute: 0
+    hour: 11
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 76691d01-47e4-42eb-90f0-c2a330fac0e4
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.225313394209156
+  - 60.27216752860147
+  - 140.09180043367843
+  - -3.653543911799737
+  - 87.53114114181513
+  - 3.7679224810945073
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 96272cf9-c477-4e9d-b469-0620b15b06ae
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.224512408007259
+  - 60.27609719480263
+  - 90.30239241097044
+  - -13.151562244280164
+  - 89.47410658641095
+  - 0.14736468657838706
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 7
+    year: 2020
+- uuid: fc7cc442-a391-4fc0-9aeb-ff5f5b5bdb80
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.223330036989561
+  - 60.27730464161052
+  - 90.70136860261023
+  - -9.104576095856148
+  - 85.08569948706766
+  - -6.108397195163678
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 1cd6b92d-2da6-4ba9-87e0-3643a864a80c
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.2235618003570305
+  - 60.27751841622933
+  - 97.70895564536255
+  - -1.4300069875898327
+  - 82.74638948560772
+  - -7.099753656353178
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 4
+    year: 2020
+- uuid: 37b338d1-592f-4d29-833f-015fa000292d
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.223376538168238
+  - 60.27830387934461
+  - 81.7690767415571
+  - -12.601252617749847
+  - 84.5082493136124
+  - -0.7892776410385506
+  time:
+    second: 1
+    minute: 0
+    hour: 10
+    day: 1
+    month: 6
+    year: 2020
+- uuid: 99ca4c1d-1c2e-4461-8fa6-aee256ad9193
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.222627082742359
+  - 60.27969576807761
+  - 77.9667011545123
+  - -9.789415471508537
+  - 82.47697295036264
+  - 5.273782149468046
+  time:
+    second: 1
+    minute: 0
+    hour: 13
+    day: 1
+    month: 5
+    year: 2020
+- uuid: 7b92b071-92db-4772-b124-a3f19c4f196e
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.222746126769307
+  - 60.279858942632266
+  - 75.76690762361817
+  - -10.561255921438677
+  - 90.87454560346833
+  - 1.3095571034550533
+  time:
+    second: 1
+    minute: 0
+    hour: 16
+    day: 1
+    month: 5
+    year: 2020
+- uuid: c6de5069-6167-459a-8d7f-ce8c0587858c
+  airport: ENBR
+  runway: '17'
+  pose:
+  - 5.222799744339429
+  - 60.27995059276277
+  - 74.82236191921787
+  - -11.055338644220837
+  - 84.87274275319423
+  - 6.514752758035259
+  time:
+    second: 1
+    minute: 0
+    hour: 12
+    day: 1
+    month: 8
+    year: 2020
+runways_database: ./data/filtered_runways_database_Final_reduced_300.json
+trajectory:
+  sample_number: 10
+  dist_ap_m: 300.0
+  max_distance_m: 6000
+  min_distance_m: 4500
+  distribution: uniform
+  distrib_param: 1.41
+  alpha_h_distrib: uniform
+  alpha_h_min: -3
+  alpha_h_max: 3
+  alpha_h_deg: 0
+  std_alpha_h_deg: 2
+  alpha_v_distrib: uniform
+  alpha_v_min: -5.2
+  alpha_v_max: -1.8
+  alpha_v_deg: -3
+  std_alpha_v_deg: 0.4
+  yaw_distrib: uniform
+  yaw_min: -24
+  yaw_max: 24
+  yaw_deg: 0
+  std_yaw_deg: 5.0
+  pitch_distrib: uniform
+  pitch_min: -15
+  pitch_max: 5
+  pitch_deg: -4
+  std_pitch_deg: 2
+  roll_distrib: uniform
+  roll_min: -30
+  roll_max: 30
+  roll_deg: 0
+  std_roll_deg: 5
+  use_ODD: true
+time:
+  second_max: 1
+  second_min: 1
+  minute_max: 0
+  minute_min: 0
+  hour_max: 16
+  hour_min: 10
+  day_max: 1
+  day_min: 1
+  month_max: 8
+  month_min: 4
+  year_max: 2020
+  year_min: 2020
